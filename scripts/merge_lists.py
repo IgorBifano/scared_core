@@ -27,6 +27,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--check-streams", action="store_true", help="Check stream connectivity before writing output.")
     parser.add_argument("--timeout", type=float, default=3.0, help="Timeout for remote fetch and availability checks.")
     parser.add_argument("--limit", type=int, default=None, help="Limit the number of entries checked for availability.")
+    parser.add_argument(
+        "--base-url",
+        default="https://igorbifano.github.io/scared_core/output",
+        help="Public base URL used to build index.m3u for GitHub Pages.",
+    )
     parser.add_argument("--verbose", action="store_true", help="Enable debug logging.")
     return parser.parse_args()
 
@@ -81,7 +86,7 @@ def main() -> int:
     else:
         cleanup_stats["offline_removed"] = 0
 
-    write_outputs(project_root, deduped_entries, cleanup_stats, source_counts)
+    write_outputs(project_root, deduped_entries, cleanup_stats, source_counts, base_url=args.base_url)
     LOGGER.info("Output written to %s", project_root / "output")
     return 0
 

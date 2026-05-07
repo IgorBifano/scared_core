@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="INDEX" tvg-id="" tvg-logo="",ALL CHANNELS
+https://igorbifano.github.io/scared_core/output/all_channels.m3u
+#EXTINF:-1 group-title="CATEGORIES" tvg-id="" tvg-logo="",CATEGORIES SPORTS
+https://igorbifano.github.io/scared_core/output/categories/sports.m3u
+#EXTINF:-1 group-title="CATEGORIES" tvg-id="" tvg-logo="",CATEGORIES MOVIES
+https://igorbifano.github.io/scared_core/output/categories/movies.m3u
+#EXTINF:-1 group-title="CATEGORIES" tvg-id="" tvg-logo="",CATEGORIES SERIES
+https://igorbifano.github.io/scared_core/output/categories/series.m3u
+#EXTINF:-1 group-title="CATEGORIES" tvg-id="" tvg-logo="",CATEGORIES KIDS
+https://igorbifano.github.io/scared_core/output/categories/kids.m3u
+#EXTINF:-1 group-title="CATEGORIES" tvg-id="" tvg-logo="",CATEGORIES NEWS
+https://igorbifano.github.io/scared_core/output/categories/news.m3u
+#EXTINF:-1 group-title="COUNTRIES" tvg-id="" tvg-logo="",COUNTRY BR
+https://igorbifano.github.io/scared_core/output/countries/br.m3u
+#EXTINF:-1 group-title="COUNTRIES" tvg-id="" tvg-logo="",COUNTRY US
+https://igorbifano.github.io/scared_core/output/countries/us.m3u
+#EXTINF:-1 group-title="COUNTRIES" tvg-id="" tvg-logo="",COUNTRY UK
+https://igorbifano.github.io/scared_core/output/countries/uk.m3u
+#EXTINF:-1 group-title="CHANNELS" tvg-id="" tvg-logo="",CHANNEL ESPN
+https://igorbifano.github.io/scared_core/output/channels/espn.m3u
+#EXTINF:-1 group-title="CHANNELS" tvg-id="" tvg-logo="",CHANNEL SPORTV
+https://igorbifano.github.io/scared_core/output/channels/sportv.m3u
+#EXTINF:-1 group-title="CHANNELS" tvg-id="" tvg-logo="",CHANNEL DISNEY
+https://igorbifano.github.io/scared_core/output/channels/disney_channel.m3u
+#EXTINF:-1 group-title="CHANNELS" tvg-id="" tvg-logo="",CHANNEL HBO
+https://igorbifano.github.io/scared_core/output/channels/hbo.m3u
+#EXTINF:-1 group-title="CHANNELS" tvg-id="" tvg-logo="",CHANNEL PREMIERE
+https://igorbifano.github.io/scared_core/output/channels/premiere.m3u

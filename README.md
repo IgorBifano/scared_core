@@ -2,6 +2,35 @@
 
 Projeto pessoal para consolidar playlists IPTV locais, integrar `plus.m3u`, remover entradas inválidas e gerar saídas organizadas por país, categoria e canal.
 
+## Arquitetura Atual
+
+Antes da refatoração, o projeto usava uma stack TypeScript herdada do `iptv-org`: parser em `scripts/core/playlistParser.ts`, merge e geração em `scripts/commands/playlist/generate.ts` e fontes em `streams/*.m3u`. As saídas eram publicadas em uma estrutura `.gh-pages/`, com forte acoplamento a workflows, testes e metadados do projeto upstream.
+
+Agora o fluxo foi simplificado para um pipeline Python:
+
+- `scripts/merge_lists.py`: orquestra leitura, merge, deduplicação e geração
+- `scripts/iptv_core.py`: parser M3U, heurísticas de país/categoria/canal, normalização e serialização
+- `playlists/`: fontes locais
+- `output/`: artefatos finais para consumo direto
+
+## Fluxo De Geração
+
+1. O script lê `playlists/**/*.m3u`
+2. Detecta `plus.m3u` automaticamente
+3. Lê URLs opcionais de `config/sources.txt`
+4. Faz parsing de `#EXTINF` + URL
+5. Normaliza `tvg-id`, `tvg-name`, `tvg-logo` e `group-title`
+6. Remove entradas vazias, inválidas e duplicadas
+7. Classifica por país, categoria e canal/rede
+8. Gera `output/all_channels.m3u`, `output/index.m3u` e os recortes derivados
+
+## Pontos Críticos E Gargalos
+
+- `plus.m3u` é a maior fonte e domina o volume total
+- checagem online de streams é cara e por isso ficou opcional
+- classificação por país em listas VOD é naturalmente menos precisa
+- listas de filmes/séries exigem heurísticas diferentes de canais lineares
+
 ## Estrutura
 
 ```text
@@ -59,13 +88,31 @@ python scripts/merge_lists.py --help
 ## Saídas geradas
 
 - `output/all_channels.m3u`
+- `output/index.m3u`
 - `output/countries/*.m3u`
 - `output/categories/*.m3u`
 - `output/channels/*.m3u`
+- `output/channels/disney_channel.m3u`
 - `countries/<pais>/playlist.m3u`
 - `channels/<canal>/playlist.m3u`
 - `sports/playlist.m3u`, `movies/playlist.m3u`, `series/playlist.m3u`, `kids/playlist.m3u`, `news/playlist.m3u`, `live/playlist.m3u`, `vod/playlist.m3u`
 - `output/report.json`
+
+## GitHub Pages
+
+O `index.m3u` principal é gerado com base pública padrão:
+
+```text
+https://igorbifano.github.io/scared_core/output
+```
+
+Se a URL pública mudar:
+
+```bash
+python scripts/merge_lists.py --base-url https://seu-dominio/output
+```
+
+O workflow automático está em `.github/workflows/generate-playlists.yml`.
 
 ## Como adicionar novas listas
 

@@ -24346,9 +24346,6 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="XPTV2.es@SD" tvg-logo="" tvg-name="XPTV2 (720p)",XPTV2 (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="XTOTV.bo@SD" tvg-logo="" tvg-name="XTOTV (1280p) [Not 24/7]",XTOTV (1280p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
-http://190.104.15.135/0.ts
 #EXTINF:-1 group-title="Live" tvg-id="XtraTv.do@HD" tvg-logo="" tvg-name="Xtra Tv (720p) [Not 24/7]",Xtra Tv (720p) [Not 24/7]
 https://edge.essastream.com/xtratv/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="XtremaAccion.ar@SD" tvg-logo="" tvg-name="Xtrema Accion",Xtrema Accion

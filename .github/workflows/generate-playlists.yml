@@ -1,0 +1,48 @@
+name: Generate Playlists
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - "scripts/**"
+      - "playlists/**"
+      - "config/**"
+      - "README.md"
+      - ".github/workflows/generate-playlists.yml"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Generate playlists
+        run: python scripts/merge_lists.py --base-url https://igorbifano.github.io/scared_core/output
+
+      - name: Upload generated playlists artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-playlists
+          path: |
+            output/
+            categories/
+            channels/
+            countries/
+            sports/
+            movies/
+            series/
+            kids/
+            news/
+            live/
+            vod/
+            index.m3u

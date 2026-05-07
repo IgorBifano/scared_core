@@ -87,6 +87,26 @@ CHANNEL_KEYWORDS = {
     "warner": ["warner", "warner channel", "space", "tnt"],
 }
 
+CHANNEL_OUTPUT_NAMES = {
+    "espn": ["espn"],
+    "sportv": ["sportv"],
+    "disney": ["disney", "disney_channel"],
+    "telecine": ["telecine"],
+    "hbo": ["hbo"],
+    "premiere": ["premiere"],
+    "discovery": ["discovery"],
+    "cartoon": ["cartoon"],
+    "fox": ["fox"],
+    "cnn": ["cnn"],
+    "globo": ["globo"],
+    "nick": ["nick"],
+    "warner": ["warner"],
+}
+
+MEDIA_FILE_EXTENSIONS = (".mp4", ".mkv", ".avi", ".mov", ".m4v", ".ts", ".m2ts", ".wmv")
+SERIES_EPISODE_RE = re.compile(r"\bs\d{1,2}\s*e\d{1,3}\b", re.IGNORECASE)
+PUBLIC_BASE_URL = "https://igorbifano.github.io/scared_core/output"
+
 QUALITY_TOKENS = [
     "fhd",
     "uhd",
@@ -364,6 +384,13 @@ def detect_country(entry: PlaylistEntry) -> str:
 
 
 def detect_category(entry: PlaylistEntry) -> str:
+    if is_probable_vod(entry):
+        if is_probable_series(entry):
+            return "series"
+        if is_probable_movie(entry):
+            return "movies"
+        return "vod"
+
     haystack = normalized_text(" ".join([entry.name, entry.group_title]))
     for category, keywords in CATEGORY_KEYWORDS.items():
         if any(keyword in haystack for keyword in keywords):
@@ -374,6 +401,9 @@ def detect_category(entry: PlaylistEntry) -> str:
 
 
 def detect_channel_group(entry: PlaylistEntry) -> str | None:
+    if is_probable_vod(entry):
+        return None
+
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.tvg_id]))
     for channel_group, keywords in CHANNEL_KEYWORDS.items():
         if any(keyword in haystack for keyword in keywords):
@@ -397,6 +427,24 @@ def standardize_entry(entry: PlaylistEntry) -> None:
 
 def squeeze_spaces(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
+
+
+def is_probable_vod(entry: PlaylistEntry) -> bool:
+    haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
+    if any(token in haystack for token in ["globoplay", "telecine zone", "series •", "filmes •", "movie club", "on demand", "/series/", "/movie/", "/vod/"]):
+        return True
+    parsed_path = urlparse(entry.url).path.lower()
+    return parsed_path.endswith(MEDIA_FILE_EXTENSIONS)
+
+
+def is_probable_series(entry: PlaylistEntry) -> bool:
+    haystack = " ".join([entry.name, entry.group_title, entry.url])
+    return bool(SERIES_EPISODE_RE.search(haystack)) or "temporada" in normalized_text(haystack)
+
+
+def is_probable_movie(entry: PlaylistEntry) -> bool:
+    haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
+    return any(token in haystack for token in ["filme", "movie", "cinema", "/movie/"])
 
 
 def check_stream_availability(entries: list[PlaylistEntry], timeout: float, limit: int | None = None) -> tuple[list[PlaylistEntry], int]:
@@ -509,7 +557,13 @@ def ensure_directories(project_root: Path) -> None:
         path.mkdir(parents=True, exist_ok=True)
 
 
-def write_outputs(project_root: Path, entries: list[PlaylistEntry], stats: dict[str, int], sources: dict[str, int]) -> None:
+def write_outputs(
+    project_root: Path,
+    entries: list[PlaylistEntry],
+    stats: dict[str, int],
+    sources: dict[str, int],
+    base_url: str = PUBLIC_BASE_URL,
+) -> None:
     ensure_directories(project_root)
 
     (project_root / "output" / "all_channels.m3u").write_text(
@@ -543,6 +597,12 @@ def write_outputs(project_root: Path, entries: list[PlaylistEntry], stats: dict[
         channel_entries = channels.get(slug, [])
         save_playlist(project_root / "channels" / slug / "playlist.m3u", channel_entries)
         save_playlist(project_root / "output" / "channels" / f"{slug}.m3u", channel_entries)
+        for alias in CHANNEL_OUTPUT_NAMES.get(slug, []):
+            save_playlist(project_root / "output" / "channels" / f"{alias}.m3u", channel_entries)
+
+    index_playlist = build_index_playlist(base_url)
+    (project_root / "index.m3u").write_text(index_playlist, encoding="utf-8")
+    (project_root / "output" / "index.m3u").write_text(index_playlist, encoding="utf-8")
 
     report = {
         "total_entries": len(entries),
@@ -551,6 +611,7 @@ def write_outputs(project_root: Path, entries: list[PlaylistEntry], stats: dict[
         "channels": {key: len(value) for key, value in channels.items()},
         "sources": sources,
         "cleanup": stats,
+        "base_url": base_url,
     }
     (project_root / "output" / "report.json").write_text(
         json.dumps(report, indent=2, ensure_ascii=False),
@@ -561,3 +622,28 @@ def write_outputs(project_root: Path, entries: list[PlaylistEntry], stats: dict[
 def save_playlist(path: Path, entries: list[PlaylistEntry]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(serialize_playlist(entries), encoding="utf-8")
+
+
+def build_index_playlist(base_url: str) -> str:
+    base_url = base_url.rstrip("/")
+    items = [
+        ("ALL CHANNELS", f"{base_url}/all_channels.m3u", "INDEX"),
+        ("CATEGORIES SPORTS", f"{base_url}/categories/sports.m3u", "CATEGORIES"),
+        ("CATEGORIES MOVIES", f"{base_url}/categories/movies.m3u", "CATEGORIES"),
+        ("CATEGORIES SERIES", f"{base_url}/categories/series.m3u", "CATEGORIES"),
+        ("CATEGORIES KIDS", f"{base_url}/categories/kids.m3u", "CATEGORIES"),
+        ("CATEGORIES NEWS", f"{base_url}/categories/news.m3u", "CATEGORIES"),
+        ("COUNTRY BR", f"{base_url}/countries/br.m3u", "COUNTRIES"),
+        ("COUNTRY US", f"{base_url}/countries/us.m3u", "COUNTRIES"),
+        ("COUNTRY UK", f"{base_url}/countries/uk.m3u", "COUNTRIES"),
+        ("CHANNEL ESPN", f"{base_url}/channels/espn.m3u", "CHANNELS"),
+        ("CHANNEL SPORTV", f"{base_url}/channels/sportv.m3u", "CHANNELS"),
+        ("CHANNEL DISNEY", f"{base_url}/channels/disney_channel.m3u", "CHANNELS"),
+        ("CHANNEL HBO", f"{base_url}/channels/hbo.m3u", "CHANNELS"),
+        ("CHANNEL PREMIERE", f"{base_url}/channels/premiere.m3u", "CHANNELS"),
+    ]
+    lines = ["#EXTM3U"]
+    for title, url, group in items:
+        lines.append(f'#EXTINF:-1 group-title="{group}" tvg-id="" tvg-logo="",{title}')
+        lines.append(url)
+    return "\n".join(lines) + "\n"

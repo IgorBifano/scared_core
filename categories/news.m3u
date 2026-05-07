@@ -808,8 +808,6 @@ https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m
 https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="TelenewsTV.do@SD" tvg-logo="" tvg-name="Telenews TV",Telenews TV
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
-#EXTINF:-1 group-title="News" tvg-id="TheNewsForum.ca@HD" tvg-logo="" tvg-name="The News Forum (1080p)",The News Forum (1080p)
-http://name-port.to/live/Gregory123/Gregory321/2420047.ts
 #EXTINF:-1 group-title="News" tvg-id="TimeVisionNews.in@SD" tvg-logo="" tvg-name="Time Vision News (720p)",Time Vision News (720p)
 http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="TNPNews.in@SD" tvg-logo="" tvg-name="TNP News (1080p)",TNP News (1080p)
