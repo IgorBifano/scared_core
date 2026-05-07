@@ -318,7 +318,7 @@ http://tyzic.xyz:80/series/IgorBifano/bng6vizn/826415.mp4
 http://tyzic.xyz:80/series/IgorBifano/bng6vizn/826416.mp4
 #EXTINF:-1 group-title="SERIES • STAR + PREMIUM" tvg-id="dopesick.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/gl5LteQDwv4kT2aGO2kmIQDVf8H.jpg" tvg-name="Dopesick S01 E08",Dopesick S01 E08
 http://tyzic.xyz:80/series/IgorBifano/bng6vizn/826417.mp4
-#EXTINF:-1 group-title="Live" tvg-id="DragonTVInternational.cn@SD" tvg-logo="" tvg-name="Dragon TV International (480p) [Geo-blocked]",Dragon TV International (480p) [Geo-blocked]
+#EXTINF:-1 group-title="Series" tvg-id="DragonTVInternational.cn@SD" tvg-logo="" tvg-name="Dragon TV International (480p) [Geo-blocked]",Dragon TV International (480p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8
@@ -941,7 +941,7 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972978.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/779664.mp4
 #EXTINF:-1 group-title="FILMES • MUSICAL" tvg-id="natal.com.os.escolhidos.noite.santa.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//gW5KgkZZYpiBWrEFT7Zin7hjgWu.jpg" tvg-name="Natal com Os Escolhidos: Noite Santa (2023)",Natal com Os Escolhidos: Noite Santa (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972060.mp4
-#EXTINF:-1 group-title="Live" tvg-id="NDTVIndia.in@SD" tvg-logo="" tvg-name="NDTV India (720p)",NDTV India (720p)
+#EXTINF:-1 group-title="Movies" tvg-id="NDTVIndia.in@SD" tvg-logo="" tvg-name="NDTV India (720p)",NDTV India (720p)
 http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
 #EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="nick.norah.uma.noite.de.amor.e.musica.2008" tvg-logo="https://image.tmdb.org/t/p/w780/tlZ7ctwrn2wtLcFR5jwagilZstT.jpg" tvg-name="Nick & Norah: Uma Noite de Amor e Música (2008)",Nick & Norah: Uma Noite de Amor e Música (2008)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/780671.mp4

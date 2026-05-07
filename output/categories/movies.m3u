@@ -266,16 +266,6 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/965818.mp4
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 #EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.eu.sou.o.maximo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • EU SOU O MAXIMO",24H • EU SOU O MAXIMO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978115
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.hot.wheels.velocidade.maxima.s01" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HOT WHEELS VELOCIDADE MAXIMA S01",24H • HOT WHEELS VELOCIDADE MAXIMA S01
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978379
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.hot.wheels.velocidade.maxima.s03" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HOT WHEELS VELOCIDADE MAXIMA S03",24H • HOT WHEELS VELOCIDADE MAXIMA S03
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978380
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.max.steel.s01" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MAX STEEL S01",24H • MAX STEEL S01
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978406
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.max.steel.s02" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MAX STEEL S02",24H • MAX STEEL S02
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978407
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.max.steel.s03" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MAX STEEL S03",24H • MAX STEEL S03
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978408
 #EXTINF:-1 group-title="FILMES • 2025" tvg-id="27.noites.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//fo2MUxHn8sTaNYldpBCd5Q4Nu1y.jpg" tvg-name="27 Noites (2025)",27 Noites (2025)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/964434.mp4
 #EXTINF:-1 group-title="FILMES • AÇÃO" tvg-id="3.dias.para.matar.2014" tvg-logo="https://image.tmdb.org/t/p/w780/kW6zkRGYiwHViMRUy0wJkbXIFBv.jpg" tvg-name="3 Dias para Matar (2014)",3 Dias para Matar (2014)
@@ -3950,8 +3940,6 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/848656.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/841557.mp4
 #EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="andar.montar.rodeio.a.virada.de.amberley.2019" tvg-logo="https://image.tmdb.org/t/p/w780/caFcZO2wSlBBLSWGMTL9Mfh5NzZ.jpg" tvg-name="Andar Montar Rodeio: A Virada de Amberley (2019)",Andar Montar Rodeio: A Virada de Amberley (2019)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/735140.mp4
-#EXTINF:-1 group-title="FILMES • DOCUMENTÁRIOS FILMES" tvg-id="andre.matos.maestro.do.rock.episodio.ii.2023" tvg-logo="https://image.tmdb.org/t/p/w780/jtZqtGJMqcoSjLOkzCviIRNM9Lf.jpg" tvg-name="Andre Matos - Maestro do Rock - Episódio II (2023)",Andre Matos - Maestro do Rock - Episódio II (2023)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/845640.mp4
 #EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="anelka.o.incompreendido.2020" tvg-logo="https://image.tmdb.org/t/p/w780/q6mk7JtdWu2cUZV7vk6VN7cJNen.jpg" tvg-name="Anelka - O incompreendido (2020)",Anelka - O incompreendido (2020)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/735153.mp4
 #EXTINF:-1 group-title="FILMES • 2025" tvg-id="anemona.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//tJAwQPxiu1CSIKxAsCCWvlOS8Zt.jpg" tvg-name="Anêmona (2025)",Anêmona (2025)
@@ -5784,6 +5772,8 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/977495.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/742359.mp4
 #EXTINF:-1 group-title="FILMES • 2024" tvg-id="boliche.do.terror.2024" tvg-logo="https://image.tmdb.org/t/p/w780/nxU3XKWPHzry9GKECqJQWbL6EeF.jpg" tvg-name="Boliche do Terror (2024)",Boliche do Terror (2024)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/842494.mp4
+#EXTINF:-1 group-title="Movies" tvg-id="BollywoodHD.ro@Russia" tvg-logo="" tvg-name="Bollywood HD Russia (576p)",Bollywood HD Russia (576p)
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="bolos.e.amizades.2023.tvg.logo.https.image.tmdb.org.t.p.w780.98trdkdox997kof4i3xjl6vuxkl.jpg.group.title.filmes.2023.bares.bolos.e.amizades.2023" tvg-logo="" tvg-name="Bolos e Amizades (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/98trDKdoX997KOF4i3xJL6vuXKl.jpg" group-title="FILMES • 2023",Bares, Bolos e Amizades (2023)",Bolos e Amizades (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/98trDKdoX997KOF4i3xJL6vuXKl.jpg" group-title="FILMES • 2023",Bares, Bolos e Amizades (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/740089.mp4
 #EXTINF:-1 group-title="FILMES • ANIMAÇÃO" tvg-id="bolt.supercao.2008" tvg-logo="https://image.tmdb.org/t/p/w780/puAIiFICbqLehrE8X884ZbNxI8N.jpg" tvg-name="Bolt: Supercão (2008)",Bolt: Supercão (2008)
@@ -8001,6 +7991,8 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/749797.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/749798.mp4
 #EXTINF:-1 group-title="FILMES • ANIMAÇÃO" tvg-id="dc.super.hero.girls.lendas.de.atlantida.2018" tvg-logo="https://image.tmdb.org/t/p/w780/q5OiQziD9gBag6xazrnm4Ogcj8C.jpg" tvg-name="DC Super Hero Girls: Lendas de Atlântida (2018)",DC Super Hero Girls: Lendas de Atlântida (2018)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/749810.mp4
+#EXTINF:-1 group-title="Movies" tvg-id="DDSports.in@SD" tvg-logo="" tvg-name="DD Sports SD (720p)",DD Sports SD (720p)
+http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
 #EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="de.agora.em.diante.2021" tvg-logo="https://image.tmdb.org/t/p/w780/sl7uXQhX8IM5rdiHbRWHdv4pKKB.jpg" tvg-name="De Agora Em Diante (2021)",De Agora Em Diante (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/749823.mp4
 #EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="de.agora.em.diante.leg.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sl7uXQhX8IM5rdiHbRWHdv4pKKB.jpg" tvg-name="De Agora Em Diante LEG (2021)",De Agora Em Diante LEG (2021)
@@ -10629,8 +10621,6 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/899436
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899437
 #EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="film.art.sd2" tvg-logo="https://assistatv.me/images/76def8007d88f02910542c8d1d2c7091.png" tvg-name="FILM & ART SD²",FILM & ART SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899438
-#EXTINF:-1 group-title="Movies" tvg-id="Filmax.pk@SD" tvg-logo="" tvg-name="Filmax (576p)",Filmax (576p)
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="filme.b.a.bonequinha.da.mamae.2017" tvg-logo="https://image.tmdb.org/t/p/w780/wbEbgvh7YxvcOuETcbjgiZUAKIT.jpg" tvg-name="Filme B - A Bonequinha da Mamãe (2017)",Filme B - A Bonequinha da Mamãe (2017)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/758916.mp4
 #EXTINF:-1 group-title="Movies" tvg-id="filmelier.tv" tvg-logo="" tvg-name="Filmelier TV",Filmelier TV
@@ -11323,6 +11313,8 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/761619.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/761632.mp4
 #EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="gol.o.sonho.impossivel.2005" tvg-logo="https://image.tmdb.org/t/p/w780/j2whO2w2pwTwxaO1NOojfGERSAb.jpg" tvg-name="Gol!: O Sonho Impossível (2005)",Gol!: O Sonho Impossível (2005)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/761645.mp4
+#EXTINF:-1 group-title="Movies" tvg-id="GoldStar.ir@SD" tvg-logo="" tvg-name="Gold Star",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="FILMES • 2023" tvg-id="golda.a.mulher.de.uma.nacao.2023" tvg-logo="https://image.tmdb.org/t/p/w780/sDVD8YkzeRUfvslY7jMwodjDdnD.jpg" tvg-name="Golda - A Mulher de uma Nação (2023)",Golda - A Mulher de uma Nação (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/824429.mp4
 #EXTINF:-1 group-title="FILMES • 2024" tvg-id="golden.kamuy.2024" tvg-logo="https://image.tmdb.org/t/p/w780/kbW1DV9gPNeXvhwqvJtcRVSPk5C.jpg" tvg-name="Golden Kamuy (2024)",Golden Kamuy (2024)
@@ -12236,6 +12228,8 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/765294.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966429.mp4
 #EXTINF:-1 group-title="FILMES • AVENTURA" tvg-id="idiocracia.2006" tvg-logo="https://image.tmdb.org/t/p/w780/cirl5ksNn90QaC1O8YRcgJFraUd.jpg" tvg-name="Idiocracia (2006)",Idiocracia (2006)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/765319.mp4
+#EXTINF:-1 group-title="Movies" tvg-id="iFilmEnglish.ir@SD" tvg-logo="" tvg-name="iFilm English",iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 group-title="FILMES • 2025" tvg-id="ihostage.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//h87bgIhs4keL005Ch5aeKhnaAIL.jpg" tvg-name="iHostage (2025)",iHostage (2025)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/844527.mp4
 #EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="il.buco.leg.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m64CWU1Hji19Kr4b4uLJZBrTQDi.jpg" tvg-name="Il buco LEG (2021)",Il buco LEG (2021)
@@ -16407,6 +16401,8 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/825489.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/837846.mp4
 #EXTINF:-1 group-title="FILMES • TERROR" tvg-id="navio.fantasma.2002" tvg-logo="https://image.tmdb.org/t/p/w780/urUo9sIRlFk8WfGkREZs9AEq3C3.jpg" tvg-name="Navio Fantasma (2002)",Navio Fantasma (2002)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/780375.mp4
+#EXTINF:-1 group-title="Movies" tvg-id="NDTVIndia.in@SD" tvg-logo="" tvg-name="NDTV India (720p)",NDTV India (720p)
+http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
 #EXTINF:-1 group-title="FILMES • 2025" tvg-id="ne.zha.2.o.renascer.da.alma.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//wJnb4ikygiVuYLuvj4b4Jpvudn1.jpg" tvg-name="Ne Zha 2: O Renascer da Alma (2025)",Ne Zha 2: O Renascer da Alma (2025)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972074.mp4
 #EXTINF:-1 group-title="FILMES • INFANTIL" tvg-id="ne.zha.2019" tvg-logo="https://image.tmdb.org/t/p/w780/ztWc4QvzEatqhGnQT98FsICc8rD.jpg" tvg-name="Ne Zha (2019)",Ne Zha (2019)
@@ -25170,16 +25166,6 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/809536.mp4
 http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka
 #EXTINF:-1 group-title="FILMES • COLETÂNEA - STAR WARS" tvg-id="star.wars.biomas.2021" tvg-logo="https://image.tmdb.org/t/p/w780/eEKTtCpNgiQrxjW51JWcqSyhnUn.jpg" tvg-name="Star Wars Biomas (2021)",Star Wars Biomas (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/809549.mp4
-#EXTINF:-1 group-title="FILMES • COLETÂNEA - STAR WARS" tvg-id="star.wars.episodio.i.a.ameaca.fantasma.1999" tvg-logo="https://image.tmdb.org/t/p/w780/pfC6UU9Dik01e80aUPCHI9idDZ.jpg" tvg-name="Star Wars: Episódio I - A Ameaça Fantasma (1999)",Star Wars: Episódio I - A Ameaça Fantasma (1999)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/809562.mp4
-#EXTINF:-1 group-title="FILMES • COLETÂNEA - STAR WARS" tvg-id="star.wars.episodio.ii.ataque.dos.clones.2002" tvg-logo="https://image.tmdb.org/t/p/w780/ri3Gu1dYMxDcT0t4sUi0Aqf7MRS.jpg" tvg-name="Star Wars: Episódio II - Ataque dos Clones (2002)",Star Wars: Episódio II - Ataque dos Clones (2002)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/809574.mp4
-#EXTINF:-1 group-title="FILMES • COLETÂNEA - STAR WARS" tvg-id="star.wars.episodio.iii.a.vinganca.dos.sith.2005" tvg-logo="https://image.tmdb.org/t/p/w780/m8PpvsZqTb2RYYnPIF7DZii1DuA.jpg" tvg-name="Star Wars: Episódio III - A Vingança dos Sith (2005)",Star Wars: Episódio III - A Vingança dos Sith (2005)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/809580.mp4
-#EXTINF:-1 group-title="FILMES • COLETÂNEA - STAR WARS" tvg-id="star.wars.episodio.ix.a.ascensao.skywalker.2019" tvg-logo="https://image.tmdb.org/t/p/w780/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg" tvg-name="Star Wars: Episódio IX - A Ascensão Skywalker (2019)",Star Wars: Episódio IX - A Ascensão Skywalker (2019)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/809585.mp4
-#EXTINF:-1 group-title="FILMES • COLETÂNEA - STAR WARS" tvg-id="star.wars.episodio.viii.os.ultimos.jedi.2017" tvg-logo="https://image.tmdb.org/t/p/w780/5dGufuaIG5vNcxPm8QPij5MSPeQ.jpg" tvg-name="Star Wars: Episódio VIII - Os Últimos Jedi (2017)",Star Wars: Episódio VIII - Os Últimos Jedi (2017)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/809598.mp4
 #EXTINF:-1 group-title="FILMES • COLETÂNEA - STAR WARS" tvg-id="star.wars.iv.uma.nova.esperanca.1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg" tvg-name="Star Wars IV - Uma Nova Esperança (1977)",Star Wars IV - Uma Nova Esperança (1977)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/967533.mp4
 #EXTINF:-1 group-title="FILMES • COLETÂNEA - STAR WARS" tvg-id="star.wars.o.despertar.da.forca.2015" tvg-logo="https://image.tmdb.org/t/p/w780/lqMDbo4rXnakFgc4C6LzPv6pG7F.jpg" tvg-name="Star Wars: O Despertar da Força (2015)",Star Wars: O Despertar da Força (2015)
@@ -25666,8 +25652,6 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/717555
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Telemax.do@SD" tvg-logo="" tvg-name="Telemax (1080p) [Not 24/7]",Telemax (1080p) [Not 24/7]
 https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="XEWHTDT.mx@SD" tvg-logo="" tvg-name="Telemax (XEWH-TDT) (1080p)",Telemax (XEWH-TDT) (1080p)
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="FILMES • SUSPENSE" tvg-id="tem.alguem.na.sua.casa.2021" tvg-logo="https://image.tmdb.org/t/p/w780/dC6VpFRn4WUbQ0Jqm8tbZWn2jwM.jpg" tvg-name="Tem Alguém na Sua Casa (2021)",Tem Alguém na Sua Casa (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/811029.mp4
 #EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="tem.alguem.na.sua.casa.leg.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC6VpFRn4WUbQ0Jqm8tbZWn2jwM.jpg" tvg-name="Tem Alguém na Sua Casa LEG (2021)",Tem Alguém na Sua Casa LEG (2021)
@@ -26076,6 +26060,8 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1 group-title="FILMES • 2026" tvg-id="the.muppet.show.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ox9U8j29MFOtGjjEwsPlN7tvyv1.jpg" tvg-name="The Muppet Show (2026)",The Muppet Show (2026)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/973800.mp4
+#EXTINF:-1 group-title="Movies" tvg-id="TheNewsForum.ca@HD" tvg-logo="" tvg-name="The News Forum (1080p)",The News Forum (1080p)
+http://name-port.to/live/Gregory123/Gregory321/2420047.ts
 #EXTINF:-1 group-title="FILMES • TERROR" tvg-id="the.night.2021" tvg-logo="https://image.tmdb.org/t/p/w780/vHoeIopknC6fCUTJfagDGwr6qmf.jpg" tvg-name="The Night (2021)",The Night (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/812676.mp4
 #EXTINF:-1 group-title="FILMES • TERROR" tvg-id="the.night.they.knocked.2020" tvg-logo="https://image.tmdb.org/t/p/w780/AjlVJ8y62Sx34eXsugV4htv8wpQ.jpg" tvg-name="The Night They Knocked (2020)",The Night They Knocked (2020)
@@ -26582,6 +26568,8 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/965966.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/814290.mp4
 #EXTINF:-1 group-title="FILMES • TERROR" tvg-id="traumas.aterrorizantes.2022" tvg-logo="https://image.tmdb.org/t/p/w780/7NzSzMImrbE5WGmTp2bikpgHHdP.jpg" tvg-name="Traumas Aterrorizantes (2022)",Traumas Aterrorizantes (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/961974.mp4
+#EXTINF:-1 group-title="Movies" tvg-id="travel.food.tv.720p" tvg-logo="" tvg-name="Travel & Food TV (720p)",Travel & Food TV (720p)
+https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
 #EXTINF:-1 group-title="FILMES • 2024" tvg-id="travesqueen.a.cultura.de.ballroom.no.vale.do.paraiba.2024" tvg-logo="https://image.tmdb.org/t/p/w780/oEe7QrrA3kzLpPKN0RonVfVxNpG.jpg" tvg-name="Travesqueen - A Cultura de Ballroom no Vale do Paraíba (2024)",Travesqueen - A Cultura de Ballroom no Vale do Paraíba (2024)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/953819.mp4
 #EXTINF:-1 group-title="FILMES • ESPECIAL DE NATAL" tvg-id="travessuras.de.natal.2023" tvg-logo="https://image.tmdb.org/t/p/w780/l3qGXGEE6GgcLBdlsmhR2NuZZIy.jpg" tvg-name="Travessuras de Natal (2023)",Travessuras de Natal (2023)
@@ -28096,6 +28084,18 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/825114.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/819256.mp4
 #EXTINF:-1 group-title="Movies" tvg-id="UniversalCinema.us@SD" tvg-logo="" tvg-name="Universal Cinema (480p)",Universal Cinema (480p)
 http://190.2.212.209:8050/play/a0q3
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.fhd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE FHD¹",UNIVERSAL PREMIERE FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977438
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.fhd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE FHD²",UNIVERSAL PREMIERE FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899537
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.hd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE HD¹",UNIVERSAL PREMIERE HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977439
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.hd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE HD²",UNIVERSAL PREMIERE HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899535
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.sd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE SD¹",UNIVERSAL PREMIERE SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977440
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.sd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE SD²",UNIVERSAL PREMIERE SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899536
 #EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.reality.fhd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-reality.png" tvg-name="UNIVERSAL REALITY FHD¹",UNIVERSAL REALITY FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977435
 #EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.reality.fhd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-reality.png" tvg-name="UNIVERSAL REALITY FHD²",UNIVERSAL REALITY FHD²
@@ -29028,6 +29028,9 @@ http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/828667.mp4
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/822305.mp4
 #EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="xoxo.a.vida.e.uma.festa.2016" tvg-logo="https://image.tmdb.org/t/p/w780/lSWO4dZTqOEGSHffJl4GH3G8Fvp.jpg" tvg-name="XOXO: A Vida é Uma Festa (2016)",XOXO: A Vida é Uma Festa (2016)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/822315.mp4
+#EXTINF:-1 group-title="Movies" tvg-id="XTOTV.bo@SD" tvg-logo="" tvg-name="XTOTV (1280p) [Not 24/7]",XTOTV (1280p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
+http://190.104.15.135/0.ts
 #EXTINF:-1 group-title="Movies" tvg-id="XtremaCineClasico.ar@SD" tvg-logo="" tvg-name="Xtrema Cine Clasico",Xtrema Cine Clasico
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8

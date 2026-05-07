@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",ALL
+https://igorbifano.github.io/scared_core/output/series/all.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",ACTION
+https://igorbifano.github.io/scared_core/output/series/action.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",ANIMATION
+https://igorbifano.github.io/scared_core/output/series/animation.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",COMEDY
+https://igorbifano.github.io/scared_core/output/series/comedy.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",CRIME
+https://igorbifano.github.io/scared_core/output/series/crime.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",DOCUMENTARY
+https://igorbifano.github.io/scared_core/output/series/documentary.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",DRAMA
+https://igorbifano.github.io/scared_core/output/series/drama.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",GENERAL
+https://igorbifano.github.io/scared_core/output/series/general.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",ROMANCE
+https://igorbifano.github.io/scared_core/output/series/romance.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",SCIFI
+https://igorbifano.github.io/scared_core/output/series/scifi.m3u
+#EXTINF:-1 group-title="SERIES" tvg-id="" tvg-logo="",TURKISH
+https://igorbifano.github.io/scared_core/output/series/turkish.m3u

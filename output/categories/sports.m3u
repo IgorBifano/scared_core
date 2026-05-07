@@ -68,8 +68,6 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/464651
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464652
 #EXTINF:-1 group-title="Sports" tvg-id="CTSport.cz@SD" tvg-logo="" tvg-name="ČT Sport (720p)",ČT Sport (720p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="DDSports.in@SD" tvg-logo="" tvg-name="DD Sports SD (720p)",DD Sports SD (720p)
-http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="DirecTVSports.us@Panregional" tvg-logo="" tvg-name="DirecTV Sports (1080p)",DirecTV Sports (1080p)
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="DSportsUruguay.uy@SD" tvg-logo="" tvg-name="DSports Uruguay",DSports Uruguay
@@ -580,18 +578,6 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/464653
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971993
 #EXTINF:-1 group-title="Sports" tvg-id="Unbeaten.us@SD" tvg-logo="" tvg-name="Unbeaten Sports Channel (1080p)",Unbeaten Sports Channel (1080p)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.fhd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE FHD¹",UNIVERSAL PREMIERE FHD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/977438
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.fhd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE FHD²",UNIVERSAL PREMIERE FHD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899537
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.hd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE HD¹",UNIVERSAL PREMIERE HD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/977439
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.hd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE HD²",UNIVERSAL PREMIERE HD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899535
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.sd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE SD¹",UNIVERSAL PREMIERE SD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/977440
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.sd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE SD²",UNIVERSAL PREMIERE SD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899536
 #EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.101" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 10¹",USA: NBA LEAGUE PASS 10¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/465090
 #EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.11" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 1¹",USA: NBA LEAGUE PASS 1¹

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",ALL
+https://igorbifano.github.io/scared_core/output/movies/all.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",ACTION
+https://igorbifano.github.io/scared_core/output/movies/action.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",ANIMATION
+https://igorbifano.github.io/scared_core/output/movies/animation.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",COMEDY
+https://igorbifano.github.io/scared_core/output/movies/comedy.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",CRIME
+https://igorbifano.github.io/scared_core/output/movies/crime.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",DOCUMENTARY
+https://igorbifano.github.io/scared_core/output/movies/documentary.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",DRAMA
+https://igorbifano.github.io/scared_core/output/movies/drama.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",FAMILY
+https://igorbifano.github.io/scared_core/output/movies/family.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",GENERAL
+https://igorbifano.github.io/scared_core/output/movies/general.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",HORROR
+https://igorbifano.github.io/scared_core/output/movies/horror.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",ROMANCE
+https://igorbifano.github.io/scared_core/output/movies/romance.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",SCIFI
+https://igorbifano.github.io/scared_core/output/movies/scifi.m3u
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="",THRILLER
+https://igorbifano.github.io/scared_core/output/movies/thriller.m3u

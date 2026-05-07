@@ -1,44 +1,61 @@
-Analise completamente a estrutura deste projeto IPTV.
+A estrutura atual ainda trata tudo como playlist simples.
 
-Objetivos:
-- entender como as playlists .m3u estão sendo processadas
-- identificar onde os arquivos finais são gerados
-- localizar scripts de merge, parser e geração de playlists
-- identificar como categorias estão sendo criadas
+Precisamos transformar o sistema em uma estrutura IPTV/VOD real compatível com apps IPTV modernos.
 
-Depois disso:
+Objetivo:
 
-1. Refatore o sistema para:
-   - gerar playlists separadas por categoria
-   - gerar playlists separadas por canal/rede
-   - remover duplicatas
-   - normalizar nomes de canais
-   - criar um index.m3u principal
+Separar completamente:
+- TV ao vivo
+- Filmes (VOD)
+- Séries
 
-2. A nova estrutura deve gerar:
-   /categories/
-   /channels/
-   /countries/
-   /output/
+Criar a seguinte arquitetura:
 
-3. Criar playlists individuais automaticamente como:
-   - espn.m3u
-   - sportv.m3u
-   - disney_channel.m3u
-   - hbo.m3u
-   - premiere.m3u
+/output/live/
+/output/movies/
+/output/series/
 
-4. A playlist principal index.m3u deve incluir os grupos organizados.
+Regras:
 
-5. Integrar também a playlist personalizada colocada na raiz do projeto.
+1. TV ao vivo:
+- apenas canais lineares
+- categorias:
+  sports
+  news
+  kids
+  entertainment
+  documentaries
+  regional
 
-6. Garantir compatibilidade com GitHub Pages para acesso direto via:
-https://igorbifano.github.io/scared_core/
+2. Movies:
+- detectar automaticamente conteúdos VOD
+- separar por gênero
+- remover canais live
 
-7. Criar pipeline automatizado para regenerar playlists.
+3. Series:
+- detectar automaticamente episódios
+- identificar padrões:
+  S01E01
+  season
+  episode
+  temporada
+- separar séries corretamente
 
-Antes de alterar qualquer coisa:
-- faça uma análise completa do projeto
-- explique a arquitetura atual
-- explique o fluxo de geração das playlists
-- mostre os pontos críticos e gargalos
+4. Corrigir a classificação atual:
+- filmes não podem aparecer em Live TV
+- séries não podem aparecer em canais
+- canais lineares não podem aparecer em movies
+
+5. Gerar playlists independentes:
+- /output/live/index.m3u
+- /output/movies/index.m3u
+- /output/series/index.m3u
+
+6. Criar categorias compatíveis com apps IPTV:
+- TiviMate
+- IPTV Smarters
+- OTT Navigator
+
+7. Melhorar heurísticas de parsing e classificação.
+
+8. Explicar como o parser atual classifica conteúdo e por que está misturando tipos.

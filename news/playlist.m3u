@@ -589,8 +589,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/
 https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="News18UttarPradeshUttarakhand.in@SD" tvg-logo="" tvg-name="News18 Uttar Pradesh Uttarakhand (1080p)",News18 Uttar Pradesh Uttarakhand (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="News9Live.in@SD" tvg-logo="" tvg-name="News9Live (1080p)",News9Live (1080p)
-https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="NewsNet.us@SD" tvg-logo="" tvg-name="NewsNet (720p) [Not 24/7]",NewsNet (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="NewsTimeBangla.in@SD" tvg-logo="" tvg-name="NewsTime Bangla (576p)",NewsTime Bangla (576p)

@@ -50,8 +50,6 @@ https://saran-live.ercdn.net/fx/index.m3u8
 https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 group-title="Live" tvg-id="FXLatinAmerica.us@South" tvg-logo="" tvg-name="FX Latin America South (720p)",FX Latin America South (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-78_720.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="FXMovieChannel.us@SD" tvg-logo="" tvg-name="FX Movie Channel (720p) [Not 24/7]",FX Movie Channel (720p) [Not 24/7]
-https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 group-title="Live" tvg-id="FX1.ir@SD" tvg-logo="" tvg-name="FX TV 1",FX TV 1
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="FX2.ir@SD" tvg-logo="" tvg-name="FX TV 2",FX TV 2

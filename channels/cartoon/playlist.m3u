@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.looney.tunes.cartoons.s01" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LOONEY TUNES CARTOONS S01",24H • LOONEY TUNES CARTOONS S01
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978397
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.looney.tunes.cartoons.s02" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LOONEY TUNES CARTOONS S02",24H • LOONEY TUNES CARTOONS S02
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978398
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.looney.tunes.cartoons.s05" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LOONEY TUNES CARTOONS S05",24H • LOONEY TUNES CARTOONS S05
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978399
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.looney.tunes.cartoons.s06" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LOONEY TUNES CARTOONS S06",24H • LOONEY TUNES CARTOONS S06
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978400
 #EXTINF:-1 group-title="Live" tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="CartoonClassics.pl@FAST" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)

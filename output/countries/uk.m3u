@@ -562,7 +562,7 @@ https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 https://x.canlitvapp.com/u-channel-5/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="Channel5.uk@HD" tvg-logo="" tvg-name="Channel 5 HD (1080p) [Geo-Blocked]",Channel 5 HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="Channel7Ukraine.ua@SD" tvg-logo="" tvg-name="Channel 7 Ukraine (720p)",Channel 7 Ukraine (720p)
+#EXTINF:-1 group-title="Live" tvg-id="Channel7Ukraine.ua@SD" tvg-logo="" tvg-name="Channel 7 Ukraine (720p)",Channel 7 Ukraine (720p)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="ChannelS.uk@SD" tvg-logo="" tvg-name="Channel S (576p)",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
@@ -644,7 +644,7 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="DeenTV.uk@SD" tvg-logo="" tvg-name="Deen TV (576p) [Not 24/7]",Deen TV (576p) [Not 24/7]
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="DelfiTV.lt@SD" tvg-logo="" tvg-name="Delfi TV",Delfi TV
+#EXTINF:-1 group-title="Series" tvg-id="DelfiTV.lt@SD" tvg-logo="" tvg-name="Delfi TV",Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="DenizPostasiTV.tr@SD" tvg-logo="" tvg-name="Deniz Postası TV (720p) [Not 24/7]",Deniz Postası TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
@@ -1046,7 +1046,7 @@ http://80.194.62.172:50002/stream/channelid/1764271106
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="WLUKTV141.us@HD" tvg-logo="" tvg-name="FOX 11 Green Bay WI (WLUK) (1080p)",FOX 11 Green Bay WI (WLUK) (1080p)
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="FMTV.uk@SD" tvg-logo="" tvg-name="Frecuencia Musical TV [Not 24/7]",Frecuencia Musical TV [Not 24/7]
+#EXTINF:-1 group-title="Series" tvg-id="FMTV.uk@SD" tvg-logo="" tvg-name="Frecuencia Musical TV [Not 24/7]",Frecuencia Musical TV [Not 24/7]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="fruitvale.station.a.ultima.parada.2013" tvg-logo="https://image.tmdb.org/t/p/w780/dS2xpQU9ibOnscpwhDAJRgccOD2.jpg" tvg-name="Fruitvale Station: A Última Parada (2013)",Fruitvale Station: A Última Parada (2013)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/759854.mp4
@@ -2534,7 +2534,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="SoReal.us@UK" tvg-logo="" tvg-name="So… Real (720p)",So… Real (720p)
 https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="SonyBBCEarth.in@HD" tvg-logo="" tvg-name="Sony BBC Earth HD English (1080p) [Geo-blocked]",Sony BBC Earth HD English (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Live" tvg-id="SonyBBCEarth.in@HD" tvg-logo="" tvg-name="Sony BBC Earth HD English (1080p) [Geo-blocked]",Sony BBC Earth HD English (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20BBC%20EARTH%20HD.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="SonyMax.uk@SD" tvg-logo="" tvg-name="Sony Max (576p)",Sony Max (576p)
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8

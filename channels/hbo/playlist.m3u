@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.matchbox.adventures.s01" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MATCHBOX ADVENTURES S01",24H • MATCHBOX ADVENTURES S01
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978404
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.matchbox.adventures.s02" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MATCHBOX ADVENTURES S02",24H • MATCHBOX ADVENTURES S02
-http://tyzic.xyz:80/IgorBifano/bng6vizn/978405
 #EXTINF:-1 group-title="Live" tvg-id="MatchBoets.ru@SD" tvg-logo="" tvg-name="МАТЧ! Боец (576p)",МАТЧ! Боец (576p)
 http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 group-title="CANAIS • HBO" tvg-id="hbo.2.fhd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 FHD¹",HBO 2 FHD¹

@@ -221,15 +221,15 @@ https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="AccessHumboldt.us@SD" tvg-logo="" tvg-name="Access Humboldt (1080p)",Access Humboldt (1080p)
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="AMP1.us@SD" tvg-logo="" tvg-name="Access Media Productions Channel (720p)",Access Media Productions Channel (720p)
+#EXTINF:-1 group-title="Live" tvg-id="AMP1.us@SD" tvg-logo="" tvg-name="Access Media Productions Channel (720p)",Access Media Productions Channel (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="AMP2.us@SD" tvg-logo="" tvg-name="Access Media Productions Community Channel (720p)",Access Media Productions Community Channel (720p)
+#EXTINF:-1 group-title="Live" tvg-id="AMP2.us@SD" tvg-logo="" tvg-name="Access Media Productions Community Channel (720p)",Access Media Productions Community Channel (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="TheCityofMarina.us@SD" tvg-logo="" tvg-name="Access Media Productions Marina TV (720p)",Access Media Productions Marina TV (720p)
+#EXTINF:-1 group-title="Live" tvg-id="TheCityofMarina.us@SD" tvg-logo="" tvg-name="Access Media Productions Marina TV (720p)",Access Media Productions Marina TV (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="TheMontereyChannel.us@SD" tvg-logo="" tvg-name="Access Media Productions Monterey Channel (720p)",Access Media Productions Monterey Channel (720p)
+#EXTINF:-1 group-title="Live" tvg-id="TheMontereyChannel.us@SD" tvg-logo="" tvg-name="Access Media Productions Monterey Channel (720p)",Access Media Productions Monterey Channel (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="ThePeninsulaChannel.us@SD" tvg-logo="" tvg-name="Access Media Productions Peninsula Channel (720p)",Access Media Productions Peninsula Channel (720p)
+#EXTINF:-1 group-title="Live" tvg-id="ThePeninsulaChannel.us@SD" tvg-logo="" tvg-name="Access Media Productions Peninsula Channel (720p)",Access Media Productions Peninsula Channel (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="AccessNashua.us@SD" tvg-logo="" tvg-name="Access Nashua (720p)",Access Nashua (720p)
 https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -246,7 +246,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 #EXTINF:-1 group-title="Live" tvg-id="ACLCornholeTV.us@SD" tvg-logo="" tvg-name="ACL Cornhole TV (1080p)",ACL Cornhole TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=Sl3XhzpgcOy
-#EXTINF:-1 group-title="Vod" tvg-id="ACTV.us@SD" tvg-logo="" tvg-name="ACTV",ACTV
+#EXTINF:-1 group-title="Series" tvg-id="ACTV.us@SD" tvg-logo="" tvg-name="ACTV",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 #EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="acusada.2018" tvg-logo="https://image.tmdb.org/t/p/w780/qXknhDC48eVkn5dtJYtCxT6CBJo.jpg" tvg-name="Acusada (2018)",Acusada (2018)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/732008.mp4
@@ -308,11 +308,11 @@ https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AghapyKids.us@SD" tvg-logo="" tvg-name="Aghapy Kids (1080p)",Aghapy Kids (1080p)
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="Akaku53.us@SD" tvg-logo="" tvg-name="Akaku 53 (Hawaii) (1080p)",Akaku 53 (Hawaii) (1080p)
+#EXTINF:-1 group-title="Series" tvg-id="Akaku53.us@SD" tvg-logo="" tvg-name="Akaku 53 (Hawaii) (1080p)",Akaku 53 (Hawaii) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="Akaku54.us@SD" tvg-logo="" tvg-name="Akaku 54 (Hawaii) (1080p)",Akaku 54 (Hawaii) (1080p)
+#EXTINF:-1 group-title="Series" tvg-id="Akaku54.us@SD" tvg-logo="" tvg-name="Akaku 54 (Hawaii) (1080p)",Akaku 54 (Hawaii) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="Akaku55.us@SD" tvg-logo="" tvg-name="Akaku 55 (Hawaii) (1080p)",Akaku 55 (Hawaii) (1080p)
+#EXTINF:-1 group-title="Series" tvg-id="Akaku55.us@SD" tvg-logo="" tvg-name="Akaku 55 (Hawaii) (1080p)",Akaku 55 (Hawaii) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="AKCTV.us@SD" tvg-logo="" tvg-name="AKC TV (1080p)",AKC TV (1080p)
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
@@ -945,11 +945,11 @@ https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="BNNBloomberg.ca@SD" tvg-logo="" tvg-name="BNN Bloomberg",BNN Bloomberg
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
-#EXTINF:-1 group-title="Vod" tvg-id="CVCEducation.us@SD" tvg-logo="" tvg-name="Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
+#EXTINF:-1 group-title="Live" tvg-id="CVCEducation.us@SD" tvg-logo="" tvg-name="Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="CVCGovernment.us@SD" tvg-logo="" tvg-name="Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)",Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)
+#EXTINF:-1 group-title="Live" tvg-id="CVCGovernment.us@SD" tvg-logo="" tvg-name="Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)",Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="CVCPublic.us@SD" tvg-logo="" tvg-name="Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)",Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)
+#EXTINF:-1 group-title="Live" tvg-id="CVCPublic.us@SD" tvg-logo="" tvg-name="Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)",Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="bonappetit.us@SD" tvg-logo="" tvg-name="bon appétit (1080p)",bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
@@ -1510,14 +1510,14 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="FNX.us@SD" tvg-logo="" tvg-name="FNX (1080p)",FNX (1080p)
 https://fnx.lls.pbs.org/index.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="KVCRDT242.us@SD" tvg-logo="" tvg-name="FNX [Geo-blocked]",FNX [Geo-blocked]
+#EXTINF:-1 group-title="Series" tvg-id="KVCRDT242.us@SD" tvg-logo="" tvg-name="FNX [Geo-blocked]",FNX [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://fnx.org/
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="KFONTV.us@SD" tvg-logo="" tvg-name="Fontana Community Television (720p) [Geo-blocked]",Fontana Community Television (720p) [Geo-blocked]
 https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="ForeverKids.us@SD" tvg-logo="" tvg-name="Forever Kids",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="FCTV.us@SD" tvg-logo="" tvg-name="Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)",Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)
+#EXTINF:-1 group-title="Live" tvg-id="FCTV.us@SD" tvg-logo="" tvg-name="Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)",Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)
 https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="KCPQ131.us@HD" tvg-logo="" tvg-name="FOX 13 Seattle WA (KCPQ) (720p)",FOX 13 Seattle WA (KCPQ) (720p)
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
@@ -1553,11 +1553,11 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="Freeform.us@East" tvg-logo="" tvg-name="Freeform (720p) [Geo-blocked]",Freeform (720p) [Geo-blocked]
 https://tvpass.org/live/FreeformEast/hd
-#EXTINF:-1 group-title="Vod" tvg-id="CMAC1.us@SD" tvg-logo="" tvg-name="Fresno CMAC 1 Public Channel (720p)",Fresno CMAC 1 Public Channel (720p)
+#EXTINF:-1 group-title="Live" tvg-id="CMAC1.us@SD" tvg-logo="" tvg-name="Fresno CMAC 1 Public Channel (720p)",Fresno CMAC 1 Public Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="CMAC2.us@SD" tvg-logo="" tvg-name="Fresno CMAC 2 Education Channel (720p)",Fresno CMAC 2 Education Channel (720p)
+#EXTINF:-1 group-title="Live" tvg-id="CMAC2.us@SD" tvg-logo="" tvg-name="Fresno CMAC 2 Education Channel (720p)",Fresno CMAC 2 Education Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="CMAC3.us@SD" tvg-logo="" tvg-name="Fresno CMAC 3 Government Channel (720p)",Fresno CMAC 3 Government Channel (720p)
+#EXTINF:-1 group-title="Live" tvg-id="CMAC3.us@SD" tvg-logo="" tvg-name="Fresno CMAC 3 Government Channel (720p)",Fresno CMAC 3 Government Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="FTFSports.us@SD" tvg-logo="" tvg-name="FTF Sports (720p)",FTF Sports (720p)
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
@@ -1898,7 +1898,7 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
 #EXTINF:-1 group-title="Live" tvg-id="KartoonChannel.us@SD" tvg-logo="" tvg-name="Kartoon Channel (1080p)",Kartoon Channel (1080p)
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="KBEV.us@SD" tvg-logo="" tvg-name="KBEV Spectrum Channel 6 [Beverly Hills] (1080p)",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
+#EXTINF:-1 group-title="Series" tvg-id="KBEV.us@SD" tvg-logo="" tvg-name="KBEV Spectrum Channel 6 [Beverly Hills] (1080p)",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
 https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="KBRI8.us@SD" tvg-logo="" tvg-name="KBRI Brighton Channel 8 (Brighton CO) (720p)",KBRI Brighton Channel 8 (Brighton CO) (720p)
 https://brightonco.cablecast.tv/live-4/live/live.m3u8
@@ -1918,7 +1918,7 @@ https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="KernCountyTV.us@SD" tvg-logo="" tvg-name="Kern County Television",Kern County Television
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="KetchupTV.us@SD" tvg-logo="" tvg-name="Ketchup TV (720p)",Ketchup TV (720p)
+#EXTINF:-1 group-title="Live" tvg-id="KetchupTV.us@SD" tvg-logo="" tvg-name="Ketchup TV (720p)",Ketchup TV (720p)
 https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="KFTRDT461.us@HD" tvg-logo="" tvg-name="KFTR-DT1 [Geo-blocked]",KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
@@ -2070,7 +2070,7 @@ https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="LakewoodChannel8.us@SD" tvg-logo="" tvg-name="Lakewood Channel 8 (Lakewood CO) (720p)",Lakewood Channel 8 (Lakewood CO) (720p)
 https://live8fd.lakewood.org/live-2/live/live.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="CityTVLakewood.us@SD" tvg-logo="" tvg-name="Lakewood CityTV (720p)",Lakewood CityTV (720p)
+#EXTINF:-1 group-title="Live" tvg-id="CityTVLakewood.us@SD" tvg-logo="" tvg-name="Lakewood CityTV (720p)",Lakewood CityTV (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="LATV.us@SD" tvg-logo="" tvg-name="LATV (1080p) [Geo-blocked]",LATV (1080p) [Geo-blocked]
 https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
@@ -2181,7 +2181,7 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MajestadTV.us@SD" tvg-logo="" tvg-name="Majestad Televisión (480p) [Not 24/7]",Majestad Televisión (480p) [Not 24/7]
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="MSTV.us@SD" tvg-logo="" tvg-name="Manatee Schools Television MSTV (Manatee County FL) (1080p)",Manatee Schools Television MSTV (Manatee County FL) (1080p)
+#EXTINF:-1 group-title="Live" tvg-id="MSTV.us@SD" tvg-logo="" tvg-name="Manatee Schools Television MSTV (Manatee County FL) (1080p)",Manatee Schools Television MSTV (Manatee County FL) (1080p)
 https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MartinCountyTV.us@SD" tvg-logo="" tvg-name="Martin County MCTV (Martin County FL) (720p)",Martin County MCTV (Martin County FL) (720p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
@@ -2297,7 +2297,7 @@ https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 https://mohabathls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MohabatTV.us@SD" tvg-logo="" tvg-name="Mohabat TV (540p)",Mohabat TV (540p)
 http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="MonroeCountyTV.us@SD" tvg-logo="" tvg-name="Monroe County Television MCTV (Monroe County FL) (1080p)",Monroe County Television MCTV (Monroe County FL) (1080p)
+#EXTINF:-1 group-title="Series" tvg-id="MonroeCountyTV.us@SD" tvg-logo="" tvg-name="Monroe County Television MCTV (Monroe County FL) (1080p)",Monroe County Television MCTV (Monroe County FL) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MPTV.us@SD" tvg-logo="" tvg-name="Moorpark Government Channel (360p)",Moorpark Government Channel (360p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8
@@ -3092,7 +3092,7 @@ https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="RakutenViki.us@US" tvg-logo="" tvg-name="Rakuten Viki (1080p)",Rakuten Viki (1080p)
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Vod" tvg-id="RCTV3.us@SD" tvg-logo="" tvg-name="Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
+#EXTINF:-1 group-title="Live" tvg-id="RCTV3.us@SD" tvg-logo="" tvg-name="Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="RealAmericasVoice.us@SD" tvg-logo="" tvg-name="Real America's Voice (1080p)",Real America's Voice (1080p)
 https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
@@ -3982,7 +3982,7 @@ https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
 #EXTINF:-1 group-title="Live" tvg-id="WCBSTV21.us@HD" tvg-logo="" tvg-name="WCBS-DT1 (720p) [Geo-blocked]",WCBS-DT1 (720p) [Geo-blocked]
 https://tvpass.org/live/WCBSDT1/hd
-#EXTINF:-1 group-title="Vod" tvg-id="WCCADT1.us@SD" tvg-logo="" tvg-name="WCCA 194 Worcester MA (WCCA-TV) (480p)",WCCA 194 Worcester MA (WCCA-TV) (480p)
+#EXTINF:-1 group-title="Live" tvg-id="WCCADT1.us@SD" tvg-logo="" tvg-name="WCCA 194 Worcester MA (WCCA-TV) (480p)",WCCA 194 Worcester MA (WCCA-TV) (480p)
 https://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="WCOT.us@SD" tvg-logo="" tvg-name="WCOT 13 (Tallahassee FL) (720p)",WCOT 13 (Tallahassee FL) (720p)
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8

@@ -30,6 +30,43 @@ CATEGORY_KEYWORDS = {
     "live": ["ao vivo", "live", "eventos", "event"]
 }
 
+LIVE_CATEGORY_KEYWORDS = {
+    "sports": ["sport", "sports", "premiere", "espn", "fox sports", "sportv", "combate", "ufc", "nba", "nfl"],
+    "news": ["news", "noticias", "notícias", "jornal", "cnn", "bbc news", "record news", "globonews", "band news"],
+    "kids": ["kids", "children", "infantil", "cartoon", "disney channel", "disney junior", "nick", "nick jr", "boomerang", "gloob"],
+    "documentaries": ["documentario", "documentários", "documentaries", "discovery", "animal planet", "history", "nat geo", "investigation", "tlc"],
+    "regional": ["regional", "regionais", "globo regionais", "tv local", "rede amazonica", "capital", "interior"],
+    "entertainment": ["entertainment", "entretenimento", "variedades", "show", "canais", "globo", "sbt", "record", "band", "warner", "sony", "universal"],
+}
+
+MOVIE_GENRE_KEYWORDS = {
+    "action": ["acao", "ação", "action", "aventura", "adventure", "super-heroi", "super hero"],
+    "comedy": ["comedia", "comédia", "comedy", "humor", "sitcom"],
+    "drama": ["drama"],
+    "horror": ["terror", "horror", "slasher", "sobrenatural"],
+    "thriller": ["thriller", "suspense", "misterio", "mistério"],
+    "romance": ["romance", "romantica", "romântica"],
+    "documentary": ["documentario", "documentário", "documentary", "doc"],
+    "animation": ["animacao", "animação", "animation", "anime", "desenho"],
+    "family": ["family", "familia", "família", "infantil", "kids"],
+    "crime": ["crime", "policial", "investigacao", "investigação"],
+    "scifi": ["ficcao", "ficção", "scifi", "sci-fi", "fantasia", "fantasy"],
+    "general": [],
+}
+
+SERIES_GENRE_KEYWORDS = {
+    "drama": ["drama", "novela", "seriado"],
+    "comedy": ["comedia", "comédia", "comedy", "sitcom"],
+    "action": ["acao", "ação", "action", "aventura", "adventure"],
+    "crime": ["crime", "policial", "investigacao", "investigação"],
+    "documentary": ["documentario", "documentário", "docuseries", "documentary"],
+    "animation": ["animacao", "animação", "anime", "desenho", "infantil"],
+    "romance": ["romance", "romantica", "romântica"],
+    "scifi": ["ficcao", "ficção", "scifi", "sci-fi", "fantasia", "fantasy"],
+    "turkish": ["turcas", "turkish"],
+    "general": [],
+}
+
 COUNTRY_KEYWORDS = {
     "br": [
         "brasil",
@@ -104,7 +141,7 @@ CHANNEL_OUTPUT_NAMES = {
 }
 
 MEDIA_FILE_EXTENSIONS = (".mp4", ".mkv", ".avi", ".mov", ".m4v", ".ts", ".m2ts", ".wmv")
-SERIES_EPISODE_RE = re.compile(r"\bs\d{1,2}\s*e\d{1,3}\b", re.IGNORECASE)
+SERIES_EPISODE_RE = re.compile(r"\bs\d{1,2}(?:\s*e\d{1,3})?\b", re.IGNORECASE)
 PUBLIC_BASE_URL = "https://igorbifano.github.io/scared_core/output"
 
 QUALITY_TOKENS = [
@@ -131,6 +168,10 @@ class PlaylistEntry:
     source_priority: int = 0
     country: str = "others"
     category: str = "general"
+    content_type: str = "live"
+    live_category: str = "entertainment"
+    vod_genre: str = "general"
+    series_genre: str = "general"
     channel_group: str | None = None
 
     @property
@@ -358,12 +399,29 @@ def build_semantic_key(entry: PlaylistEntry) -> str:
 def enrich_entries(entries: Iterable[PlaylistEntry]) -> list[PlaylistEntry]:
     enriched: list[PlaylistEntry] = []
     for entry in entries:
+        entry.content_type = detect_content_type(entry)
         entry.country = detect_country(entry)
         entry.category = detect_category(entry)
+        entry.live_category = detect_live_category(entry) if entry.content_type == "live" else ""
+        entry.vod_genre = detect_movie_genre(entry) if entry.content_type == "movies" else ""
+        entry.series_genre = detect_series_genre(entry) if entry.content_type == "series" else ""
         entry.channel_group = detect_channel_group(entry)
         standardize_entry(entry)
         enriched.append(entry)
     return enriched
+
+
+def detect_content_type(entry: PlaylistEntry) -> str:
+    if is_probable_series(entry):
+        return "series"
+    if is_probable_movie(entry):
+        return "movies"
+    if is_probable_vod(entry):
+        group_haystack = normalized_text(entry.group_title)
+        if "series" in group_haystack or "temporada" in normalized_text(entry.name):
+            return "series"
+        return "movies"
+    return "live"
 
 
 def detect_country(entry: PlaylistEntry) -> str:
@@ -384,24 +442,20 @@ def detect_country(entry: PlaylistEntry) -> str:
 
 
 def detect_category(entry: PlaylistEntry) -> str:
-    if is_probable_vod(entry):
-        if is_probable_series(entry):
-            return "series"
-        if is_probable_movie(entry):
-            return "movies"
-        return "vod"
+    if entry.content_type == "series":
+        return "series"
+    if entry.content_type == "movies":
+        return "movies"
 
     haystack = normalized_text(" ".join([entry.name, entry.group_title]))
     for category, keywords in CATEGORY_KEYWORDS.items():
         if any(keyword in haystack for keyword in keywords):
             return category
-    if "vod" in normalized_text(entry.url):
-        return "vod"
     return "live"
 
 
 def detect_channel_group(entry: PlaylistEntry) -> str | None:
-    if is_probable_vod(entry):
+    if entry.content_type != "live":
         return None
 
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.tvg_id]))
@@ -431,7 +485,7 @@ def squeeze_spaces(value: str) -> str:
 
 def is_probable_vod(entry: PlaylistEntry) -> bool:
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
-    if any(token in haystack for token in ["globoplay", "telecine zone", "series •", "filmes •", "movie club", "on demand", "/series/", "/movie/", "/vod/"]):
+    if any(token in haystack for token in ["globoplay", "telecine zone", "series •", "filmes •", "movie club", "on demand", "/series/", "/movie/", "/vod/", "/filmes/"]):
         return True
     parsed_path = urlparse(entry.url).path.lower()
     return parsed_path.endswith(MEDIA_FILE_EXTENSIONS)
@@ -439,12 +493,39 @@ def is_probable_vod(entry: PlaylistEntry) -> bool:
 
 def is_probable_series(entry: PlaylistEntry) -> bool:
     haystack = " ".join([entry.name, entry.group_title, entry.url])
-    return bool(SERIES_EPISODE_RE.search(haystack)) or "temporada" in normalized_text(haystack)
+    normalized = normalized_text(haystack)
+    return bool(SERIES_EPISODE_RE.search(haystack)) or any(
+        token in normalized for token in [" season ", " episode ", " episodio ", " episódio ", "temporada", "series •", "series |", "/series/"]
+    )
 
 
 def is_probable_movie(entry: PlaylistEntry) -> bool:
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
-    return any(token in haystack for token in ["filme", "movie", "cinema", "/movie/"])
+    return any(token in haystack for token in ["filme", "filmes", "movie", "movies", "cinema", "/movie/", "/filmes/"])
+
+
+def detect_live_category(entry: PlaylistEntry) -> str:
+    haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.tvg_id]))
+    for category, keywords in LIVE_CATEGORY_KEYWORDS.items():
+        if any(keyword in haystack for keyword in keywords):
+            return category
+    return "entertainment"
+
+
+def detect_movie_genre(entry: PlaylistEntry) -> str:
+    haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
+    for genre, keywords in MOVIE_GENRE_KEYWORDS.items():
+        if keywords and any(keyword in haystack for keyword in keywords):
+            return genre
+    return "general"
+
+
+def detect_series_genre(entry: PlaylistEntry) -> str:
+    haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
+    for genre, keywords in SERIES_GENRE_KEYWORDS.items():
+        if keywords and any(keyword in haystack for keyword in keywords):
+            return genre
+    return "general"
 
 
 def check_stream_availability(entries: list[PlaylistEntry], timeout: float, limit: int | None = None) -> tuple[list[PlaylistEntry], int]:
@@ -551,6 +632,9 @@ def ensure_directories(project_root: Path) -> None:
         project_root / "output" / "countries",
         project_root / "output" / "categories",
         project_root / "output" / "channels",
+        project_root / "output" / "live",
+        project_root / "output" / "movies",
+        project_root / "output" / "series",
         project_root / "backup",
     ]
     for path in paths:
@@ -570,6 +654,10 @@ def write_outputs(
         serialize_playlist(entries),
         encoding="utf-8",
     )
+
+    live_entries = [entry for entry in entries if entry.content_type == "live"]
+    movie_entries = [entry for entry in entries if entry.content_type == "movies"]
+    series_entries = [entry for entry in entries if entry.content_type == "series"]
 
     countries = group_entries(entries, "country")
     for code in ["br", "us", "uk", "es", "pt", "jp", "kr", "fr", "de", "latam", "others"]:
@@ -600,18 +688,72 @@ def write_outputs(
         for alias in CHANNEL_OUTPUT_NAMES.get(slug, []):
             save_playlist(project_root / "output" / "channels" / f"{alias}.m3u", channel_entries)
 
+    live_groups = group_entries_by_attr(live_entries, "live_category")
+    for slug in ["sports", "news", "kids", "entertainment", "documentaries", "regional"]:
+        save_playlist(project_root / "output" / "live" / f"{slug}.m3u", live_groups.get(slug, []))
+    save_playlist(project_root / "output" / "live" / "all.m3u", live_entries)
+
+    movie_groups = group_entries_by_attr(movie_entries, "vod_genre")
+    for slug in sorted(MOVIE_GENRE_KEYWORDS):
+        save_playlist(project_root / "output" / "movies" / f"{slug}.m3u", movie_groups.get(slug, []))
+    save_playlist(project_root / "output" / "movies" / "all.m3u", movie_entries)
+
+    series_groups = group_entries_by_attr(series_entries, "series_genre")
+    for slug in sorted(SERIES_GENRE_KEYWORDS):
+        save_playlist(project_root / "output" / "series" / f"{slug}.m3u", series_groups.get(slug, []))
+    save_playlist(project_root / "output" / "series" / "all.m3u", series_entries)
+
+    live_index_playlist = build_section_index_playlist(
+        base_url,
+        "live",
+        [
+            ("ALL LIVE TV", "all.m3u", "LIVE"),
+            ("SPORTS", "sports.m3u", "LIVE"),
+            ("NEWS", "news.m3u", "LIVE"),
+            ("KIDS", "kids.m3u", "LIVE"),
+            ("ENTERTAINMENT", "entertainment.m3u", "LIVE"),
+            ("DOCUMENTARIES", "documentaries.m3u", "LIVE"),
+            ("REGIONAL", "regional.m3u", "LIVE"),
+        ],
+    )
+    movie_index_playlist = build_section_index_playlist(
+        base_url,
+        "movies",
+        [(slug.upper(), f"{slug}.m3u", "MOVIES") for slug in ["all"] + sorted(MOVIE_GENRE_KEYWORDS)],
+    )
+    series_index_playlist = build_section_index_playlist(
+        base_url,
+        "series",
+        [(slug.upper(), f"{slug}.m3u", "SERIES") for slug in ["all"] + sorted(SERIES_GENRE_KEYWORDS)],
+    )
+    (project_root / "output" / "live" / "index.m3u").write_text(live_index_playlist, encoding="utf-8")
+    (project_root / "output" / "movies" / "index.m3u").write_text(movie_index_playlist, encoding="utf-8")
+    (project_root / "output" / "series" / "index.m3u").write_text(series_index_playlist, encoding="utf-8")
+
     index_playlist = build_index_playlist(base_url)
     (project_root / "index.m3u").write_text(index_playlist, encoding="utf-8")
     (project_root / "output" / "index.m3u").write_text(index_playlist, encoding="utf-8")
 
     report = {
         "total_entries": len(entries),
+        "content_types": {
+            "live": len(live_entries),
+            "movies": len(movie_entries),
+            "series": len(series_entries),
+        },
         "countries": {key: len(value) for key, value in countries.items()},
         "categories": {key: len(value) for key, value in categories.items()},
         "channels": {key: len(value) for key, value in channels.items()},
+        "live_categories": {key: len(value) for key, value in live_groups.items()},
+        "movie_genres": {key: len(value) for key, value in movie_groups.items()},
+        "series_genres": {key: len(value) for key, value in series_groups.items()},
         "sources": sources,
         "cleanup": stats,
         "base_url": base_url,
+        "parser_notes": {
+            "old_mixing_reason": "The previous parser classified category before determining content type and also grouped channels by brand-like names, which allowed VOD and episodic content to leak into live/channel playlists.",
+            "current_strategy": "The current parser resolves content_type first (live, movies, series), then applies live category, movie genre, series genre and channel grouping only for live TV.",
+        },
     }
     (project_root / "output" / "report.json").write_text(
         json.dumps(report, indent=2, ensure_ascii=False),
@@ -628,11 +770,9 @@ def build_index_playlist(base_url: str) -> str:
     base_url = base_url.rstrip("/")
     items = [
         ("ALL CHANNELS", f"{base_url}/all_channels.m3u", "INDEX"),
-        ("CATEGORIES SPORTS", f"{base_url}/categories/sports.m3u", "CATEGORIES"),
-        ("CATEGORIES MOVIES", f"{base_url}/categories/movies.m3u", "CATEGORIES"),
-        ("CATEGORIES SERIES", f"{base_url}/categories/series.m3u", "CATEGORIES"),
-        ("CATEGORIES KIDS", f"{base_url}/categories/kids.m3u", "CATEGORIES"),
-        ("CATEGORIES NEWS", f"{base_url}/categories/news.m3u", "CATEGORIES"),
+        ("LIVE INDEX", f"{base_url}/live/index.m3u", "INDEX"),
+        ("MOVIES INDEX", f"{base_url}/movies/index.m3u", "INDEX"),
+        ("SERIES INDEX", f"{base_url}/series/index.m3u", "INDEX"),
         ("COUNTRY BR", f"{base_url}/countries/br.m3u", "COUNTRIES"),
         ("COUNTRY US", f"{base_url}/countries/us.m3u", "COUNTRIES"),
         ("COUNTRY UK", f"{base_url}/countries/uk.m3u", "COUNTRIES"),
@@ -647,3 +787,22 @@ def build_index_playlist(base_url: str) -> str:
         lines.append(f'#EXTINF:-1 group-title="{group}" tvg-id="" tvg-logo="",{title}')
         lines.append(url)
     return "\n".join(lines) + "\n"
+
+
+def build_section_index_playlist(base_url: str, section: str, items: list[tuple[str, str, str]]) -> str:
+    base_url = base_url.rstrip("/")
+    lines = ["#EXTM3U"]
+    for title, relative_path, group in items:
+        lines.append(f'#EXTINF:-1 group-title="{group}" tvg-id="" tvg-logo="",{title}')
+        lines.append(f"{base_url}/{section}/{relative_path}")
+    return "\n".join(lines) + "\n"
+
+
+def group_entries_by_attr(entries: Iterable[PlaylistEntry], attr_name: str) -> dict[str, list[PlaylistEntry]]:
+    grouped: dict[str, list[PlaylistEntry]] = {}
+    for entry in entries:
+        key = getattr(entry, attr_name, "") or "general"
+        grouped.setdefault(key, []).append(entry)
+    for values in grouped.values():
+        values.sort(key=lambda item: (item.canonical_name(), item.name, item.url))
+    return grouped

@@ -9,9 +9,23 @@ Antes da refatoração, o projeto usava uma stack TypeScript herdada do `iptv-or
 Agora o fluxo foi simplificado para um pipeline Python:
 
 - `scripts/merge_lists.py`: orquestra leitura, merge, deduplicação e geração
-- `scripts/iptv_core.py`: parser M3U, heurísticas de país/categoria/canal, normalização e serialização
+- `scripts/iptv_core.py`: parser M3U, heurísticas de tipo de conteúdo, país, categoria/canal, normalização e serialização
 - `playlists/`: fontes locais
 - `output/`: artefatos finais para consumo direto
+
+## Separação De Conteúdo
+
+O parser agora separa explicitamente:
+
+- `live`: canais lineares
+- `movies`: VOD de filmes
+- `series`: episódios e catálogos seriados
+
+Saídas principais:
+
+- `output/live/index.m3u`
+- `output/movies/index.m3u`
+- `output/series/index.m3u`
 
 ## Fluxo De Geração
 
@@ -19,10 +33,30 @@ Agora o fluxo foi simplificado para um pipeline Python:
 2. Detecta `plus.m3u` automaticamente
 3. Lê URLs opcionais de `config/sources.txt`
 4. Faz parsing de `#EXTINF` + URL
-5. Normaliza `tvg-id`, `tvg-name`, `tvg-logo` e `group-title`
-6. Remove entradas vazias, inválidas e duplicadas
-7. Classifica por país, categoria e canal/rede
-8. Gera `output/all_channels.m3u`, `output/index.m3u` e os recortes derivados
+5. Resolve primeiro o `content_type` (`live`, `movies`, `series`)
+6. Normaliza `tvg-id`, `tvg-name`, `tvg-logo` e `group-title`
+7. Remove entradas vazias, inválidas e duplicadas
+8. Classifica live por categoria, movies por gênero e series por gênero
+9. Classifica por país e canal/rede apenas quando fizer sentido
+10. Gera `output/all_channels.m3u`, `output/index.m3u` e os recortes derivados
+
+## Por Que O Parser Antigo Misturava Tipos
+
+O problema principal era a ordem das decisões:
+
+- antes ele tentava inferir `category` diretamente
+- depois agrupava por nome de marca como `globo`, `disney`, `hbo`
+- isso deixava VOD e episódios escaparem para playlists de canais lineares
+
+Exemplo real:
+
+- uma série com nome de rede ou uma novela 24h podia cair em `live` ou `channels`
+- um filme com metadado fraco podia cair em `live` só porque não batia nas heurísticas de VOD
+
+Agora a regra é:
+
+1. decidir se a entrada é `live`, `movie` ou `series`
+2. só então aplicar os agrupamentos específicos desse tipo
 
 ## Pontos Críticos E Gargalos
 
@@ -89,6 +123,9 @@ python scripts/merge_lists.py --help
 
 - `output/all_channels.m3u`
 - `output/index.m3u`
+- `output/live/*.m3u`
+- `output/movies/*.m3u`
+- `output/series/*.m3u`
 - `output/countries/*.m3u`
 - `output/categories/*.m3u`
 - `output/channels/*.m3u`
@@ -129,6 +166,7 @@ O workflow automático está em `.github/workflows/generate-playlists.yml`.
 
 ## Observações
 
-- A detecção de país e categoria é heurística, baseada em `name`, `group-title` e `tvg-id`
+- A detecção de tipo, país e categoria é heurística, baseada em `name`, `group-title`, `tvg-id` e URL
 - O script prioriza entradas da `plus.m3u` em conflitos de duplicidade
 - A checagem de links offline é opcional porque pode ser lenta e depende de acesso de rede
+- Apps como TiviMate, IPTV Smarters e OTT Navigator consomem melhor os índices `output/live/index.m3u`, `output/movies/index.m3u` e `output/series/index.m3u`

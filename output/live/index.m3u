@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="",ALL LIVE TV
+https://igorbifano.github.io/scared_core/output/live/all.m3u
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="",SPORTS
+https://igorbifano.github.io/scared_core/output/live/sports.m3u
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="",NEWS
+https://igorbifano.github.io/scared_core/output/live/news.m3u
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="",KIDS
+https://igorbifano.github.io/scared_core/output/live/kids.m3u
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="",ENTERTAINMENT
+https://igorbifano.github.io/scared_core/output/live/entertainment.m3u
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="",DOCUMENTARIES
+https://igorbifano.github.io/scared_core/output/live/documentaries.m3u
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="",REGIONAL
+https://igorbifano.github.io/scared_core/output/live/regional.m3u

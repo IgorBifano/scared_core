@@ -33,20 +33,8 @@ https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="pluto.tv.space" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="space.fhd1" tvg-logo="https://assistatv.me/images/60ea32121721b082ec3454c9fe854dce.png" tvg-name="SPACE FHD¹",SPACE FHD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899469
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="space.fhd2" tvg-logo="https://assistatv.me/images/60ea32121721b082ec3454c9fe854dce.png" tvg-name="SPACE FHD²",SPACE FHD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899470
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="space.hd1" tvg-logo="https://assistatv.me/images/60ea32121721b082ec3454c9fe854dce.png" tvg-name="SPACE HD¹",SPACE HD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899471
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="space.hd2" tvg-logo="https://assistatv.me/images/60ea32121721b082ec3454c9fe854dce.png" tvg-name="SPACE HD²",SPACE HD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899472
 #EXTINF:-1 group-title="Live" tvg-id="SpaceLivepoweredbysen.uk@SD" tvg-logo="" tvg-name="Space Live powered by sen (1080p)",Space Live powered by sen (1080p)
 https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="space.sd1" tvg-logo="https://assistatv.me/images/60ea32121721b082ec3454c9fe854dce.png" tvg-name="SPACE SD¹",SPACE SD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899473
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="space.sd2" tvg-logo="https://assistatv.me/images/60ea32121721b082ec3454c9fe854dce.png" tvg-name="SPACE SD²",SPACE SD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899474
 #EXTINF:-1 group-title="Series" tvg-id="space.series.1080p" tvg-logo="" tvg-name="Space Series (1080p)",Space Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="SpaceShowerTV.jp@SD" tvg-logo="" tvg-name="Space Shower TV (544p)",Space Shower TV (544p)
@@ -101,15 +89,3 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="warner.bros.tv.sweet.escapes" tvg-logo="" tvg-name="Warner Bros. TV Sweet Escapes",Warner Bros. TV Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="warner.channel.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL FHD¹",WARNER CHANNEL FHD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899523
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="warner.channel.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL FHD²",WARNER CHANNEL FHD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899524
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="warner.channel.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL HD¹",WARNER CHANNEL HD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899525
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="warner.channel.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL HD²",WARNER CHANNEL HD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899526
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="warner.channel.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL SD¹",WARNER CHANNEL SD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899527
-#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="warner.channel.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL SD²",WARNER CHANNEL SD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/899528
