@@ -1,50 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Movies" tvg-id="1985.leg.2022.tvg.logo.https.image.tmdb.org.t.p.w600.and.h900.bestv2.islwtcb9tk3wlltzeny2dph6beh.jpg.group.title.filmes.legendados.argentina.1985.leg.2022" tvg-logo="" tvg-name="1985 LEG (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="FILMES • LEGENDADOS",Argentina, 1985 LEG (2022)",1985 LEG (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="FILMES • LEGENDADOS",Argentina, 1985 LEG (2022)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966163.mp4
 #EXTINF:-1 group-title="Live" tvg-id="3ABNLatino.us@SD" tvg-logo="" tvg-name="3ABN Latino",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="a.copa.do.peru.2019" tvg-logo="https://image.tmdb.org/t/p/w780/7M2pAXfFeCiC30fWZefER28ppXe.jpg" tvg-name="A Copa do Peru (2019)",A Copa do Peru (2019)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/724843.mp4
 #EXTINF:-1 group-title="Live" tvg-id="AELatinAmerica.us@South" tvg-logo="" tvg-name="A&E Latin America South (480p)",A&E Latin America South (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
-#EXTINF:-1 group-title="SERIES • MINI-SÉRIES" tvg-id="a.queda.argentina.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" tvg-name="A Queda Argentina S01 E01",A Queda Argentina S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/724526.mp4
-#EXTINF:-1 group-title="SERIES • MINI-SÉRIES" tvg-id="a.queda.argentina.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/zEdleDpuabrhoeMsRZfVyXQWL1Z.jpg" tvg-name="A Queda Argentina S01 E02",A Queda Argentina S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/724527.mp4
-#EXTINF:-1 group-title="SERIES • MINI-SÉRIES" tvg-id="a.queda.argentina.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/snGue0mGq9WoLYni6UXwXuNegPh.jpg" tvg-name="A Queda Argentina S01 E03",A Queda Argentina S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/724528.mp4
 #EXTINF:-1 group-title="Live" tvg-id="AMCLatinAmerica.us@SD" tvg-logo="" tvg-name="AMC Latin America (1280p)",AMC Latin America (1280p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
-#EXTINF:-1 group-title="FILMES • GUERRA" tvg-id="atras.das.linhas.inimigas.3.operacao.colombia.2009" tvg-logo="https://image.tmdb.org/t/p/w780/2CeKbO3M9EtE5ZbbO9AdXrXSREB.jpg" tvg-name="Atrás das Linhas Inimigas 3: Operação Colômbia (2009)",Atrás das Linhas Inimigas 3: Operação Colômbia (2009)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/739000.mp4
 #EXTINF:-1 group-title="Live" tvg-id="ATVArgentina.ar@SD" tvg-logo="" tvg-name="ATV Argentina",ATV Argentina
 https://tv.streaming.com.bo/atvargentina/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="AXNLatinAmerica.us@South" tvg-logo="" tvg-name="AXN Latin America South (2160p)",AXN Latin America South (2160p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="BonchesLatinosTV.do@SD" tvg-logo="" tvg-name="Bonches Latinos TV (720p)",Bonches Latinos TV (720p)
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/xKwYHtxQJLIoxG1gXqQxT8zrzJP.jpg" tvg-name="Casamento às Cegas: México S01 E01",Casamento às Cegas: México S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887123.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/slOiQmKOrrdrT3x33BpFsrWV88n.jpg" tvg-name="Casamento às Cegas: México S01 E02",Casamento às Cegas: México S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887124.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/cXCZsyejVoufYSlU7IzSlWHY2Sp.jpg" tvg-name="Casamento às Cegas: México S01 E03",Casamento às Cegas: México S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887125.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/5g9bg1diPtBGhAOcdt8cAkoDMrF.jpg" tvg-name="Casamento às Cegas: México S01 E04",Casamento às Cegas: México S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887126.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/1oFBAekxQ8oJRG9Ihlu8h4loqpd.jpg" tvg-name="Casamento às Cegas: México S01 E05",Casamento às Cegas: México S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887127.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/rHDERL6TTrj0vd5XL0eV4WaE8aC.jpg" tvg-name="Casamento às Cegas: México S01 E06",Casamento às Cegas: México S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887128.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/a4laZFyQ0FXUeNkatfO3QPCfJnj.jpg" tvg-name="Casamento às Cegas: México S01 E07",Casamento às Cegas: México S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887129.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/3YM4ViCA0ouKLesPca5H39yqc2f.jpg" tvg-name="Casamento às Cegas: México S01 E08",Casamento às Cegas: México S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887130.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/34dh1QVIoU35Q0B8r2lgMO9qOye.jpg" tvg-name="Casamento às Cegas: México S01 E09",Casamento às Cegas: México S01 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887131.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/olHkYqXJrBnkLPLoazpKq9spBPR.jpg" tvg-name="Casamento às Cegas: México S01 E10",Casamento às Cegas: México S01 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887132.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="casamento.as.cegas.mexico.s01.e11" tvg-logo="https://image.tmdb.org/t/p/w300/5RA0VYqzyhSI1JDd0mQAxDCFQ5b.jpg" tvg-name="Casamento às Cegas: México S01 E11",Casamento às Cegas: México S01 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887133.mp4
 #EXTINF:-1 group-title="Live" tvg-id="ChileChannel.cl@SD" tvg-logo="" tvg-name="Chile Channel (720p)",Chile Channel (720p)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="ChilecitoTV.ar@SD" tvg-logo="" tvg-name="Chilecito TV (480p)",Chilecito TV (480p)
@@ -57,206 +23,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="ClickTVChile.cl@SD" tvg-logo="" tvg-name="Click TV (Coronel) (720p)",Click TV (Coronel) (720p)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1 group-title="FILMES • AÇÃO" tvg-id="colombiana.em.busca.de.vinganca.2011" tvg-logo="https://image.tmdb.org/t/p/w780/yfocdCwsdaJQNOpXacHet1S3QEN.jpg" tvg-name="Colombiana: Em Busca de Vingança (2011)",Colombiana: Em Busca de Vingança (2011)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/746334.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="colonia.dignidade.uma.seita.nazista.no.chile.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/oUlkYqUeizYpDegi63lfEWAVSKc.jpg" tvg-name="Colônia Dignidade: Uma Seita Nazista no Chile S01 E01",Colônia Dignidade: Uma Seita Nazista no Chile S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/829089.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="colonia.dignidade.uma.seita.nazista.no.chile.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/1i3eKVHXjZ0UsN8AwABoLvCP7tL.jpg" tvg-name="Colônia Dignidade: Uma Seita Nazista no Chile S01 E02",Colônia Dignidade: Uma Seita Nazista no Chile S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/829090.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="colonia.dignidade.uma.seita.nazista.no.chile.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/hRnJ2vYoHz4RyQx9pzi1FlBUj5K.jpg" tvg-name="Colônia Dignidade: Uma Seita Nazista no Chile S01 E03",Colônia Dignidade: Uma Seita Nazista no Chile S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/829091.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="colonia.dignidade.uma.seita.nazista.no.chile.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/AroPl33bKVSQSI9FN9o4tJKQY4E.jpg" tvg-name="Colônia Dignidade: Uma Seita Nazista no Chile S01 E04",Colônia Dignidade: Uma Seita Nazista no Chile S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/829093.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="colonia.dignidade.uma.seita.nazista.no.chile.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/h6hFzpxCkEqX6wAa8VRYGOnZZyd.jpg" tvg-name="Colônia Dignidade: Uma Seita Nazista no Chile S01 E05",Colônia Dignidade: Uma Seita Nazista no Chile S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/829094.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="colonia.dignidade.uma.seita.nazista.no.chile.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/ercG0E8oSGrcYeXsZDN1Y3fCg6H.jpg" tvg-name="Colônia Dignidade: Uma Seita Nazista no Chile S01 E06",Colônia Dignidade: Uma Seita Nazista no Chile S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/829095.mp4
 #EXTINF:-1 group-title="Live" tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="" tvg-name="Comedy Central Latin America (1080p)",Comedy Central Latin America (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/6sGXisgm3rp408yz2NOdNpoQxVC.jpg" tvg-name="De Férias com o Ex: América Latina S01 E01",De Férias com o Ex: América Latina S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848027.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/kgHEj8sZpFfUTBlJQyuHnyWvL96.jpg" tvg-name="De Férias com o Ex: América Latina S01 E02",De Férias com o Ex: América Latina S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848028.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/s0971p5oRLzFpjhMj3c0EcMJUc.jpg" tvg-name="De Férias com o Ex: América Latina S01 E03",De Férias com o Ex: América Latina S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848029.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/6XuzOKmv7VHwOmcLXMAozueZvae.jpg" tvg-name="De Férias com o Ex: América Latina S01 E04",De Férias com o Ex: América Latina S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848030.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/6tsdQXVrMW1nnsD4WG1SADNouBw.jpg" tvg-name="De Férias com o Ex: América Latina S01 E05",De Férias com o Ex: América Latina S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848031.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/2FViPsOStVgn05Thor7bmP0KR2M.jpg" tvg-name="De Férias com o Ex: América Latina S01 E06",De Férias com o Ex: América Latina S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848032.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/9ICMwhmLzod7nb5ruBqt8g0Pcuv.jpg" tvg-name="De Férias com o Ex: América Latina S01 E07",De Férias com o Ex: América Latina S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848033.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/zyIDHNybdj2XTrcHBEOlY71jrRx.jpg" tvg-name="De Férias com o Ex: América Latina S01 E08",De Férias com o Ex: América Latina S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848034.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/ddnGrgyU22w0AbHkFYSTVO2WTsQ.jpg" tvg-name="De Férias com o Ex: América Latina S01 E09",De Férias com o Ex: América Latina S01 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848036.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/fG1sDUfDGaJBCjIU1TVzeBaEBly.jpg" tvg-name="De Férias com o Ex: América Latina S01 E10",De Férias com o Ex: América Latina S01 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848037.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e11" tvg-logo="https://image.tmdb.org/t/p/w300/4AgB2jcdZI6jxe4BYjq2LLwZQOd.jpg" tvg-name="De Férias com o Ex: América Latina S01 E11",De Férias com o Ex: América Latina S01 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848038.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s01.e12" tvg-logo="https://image.tmdb.org/t/p/w300/r5uxv8utLw8HJzRpVQjDiCWHru5.jpg" tvg-name="De Férias com o Ex: América Latina S01 E12",De Férias com o Ex: América Latina S01 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/848039.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e01" tvg-logo="https://image.tmdb.org/t/p/w300/w3hlbFcGXmPxZ0Og1XbmlWupKmr.jpg" tvg-name="De Férias com o Ex: América Latina S02 E01",De Férias com o Ex: América Latina S02 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976011.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e02" tvg-logo="https://image.tmdb.org/t/p/w300/82CuoVT18TVwbwvbHLMehJObfwX.jpg" tvg-name="De Férias com o Ex: América Latina S02 E02",De Férias com o Ex: América Latina S02 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976012.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e03" tvg-logo="https://image.tmdb.org/t/p/w300/hyx41nlPhqgnbyeAY5mVjAMtBkJ.jpg" tvg-name="De Férias com o Ex: América Latina S02 E03",De Férias com o Ex: América Latina S02 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976013.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e04" tvg-logo="https://image.tmdb.org/t/p/w300/elOUVqfbticgjYJ2VCQfCTvnUz9.jpg" tvg-name="De Férias com o Ex: América Latina S02 E04",De Férias com o Ex: América Latina S02 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976014.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e05" tvg-logo="https://image.tmdb.org/t/p/w300/6p8bvkEJUQzCuFxYJuoW7k2mJrK.jpg" tvg-name="De Férias com o Ex: América Latina S02 E05",De Férias com o Ex: América Latina S02 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976015.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e06" tvg-logo="https://image.tmdb.org/t/p/w300/px3Xsdyzv0NWnwvCLYpnNziYbRv.jpg" tvg-name="De Férias com o Ex: América Latina S02 E06",De Férias com o Ex: América Latina S02 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976016.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e07" tvg-logo="https://image.tmdb.org/t/p/w300/bcH7kYUcpdsfC1zIbFhb8B3u1Er.jpg" tvg-name="De Férias com o Ex: América Latina S02 E07",De Férias com o Ex: América Latina S02 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976017.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e08" tvg-logo="https://image.tmdb.org/t/p/w300/908bAZ0q2qQn19fHk7fppjPqzyz.jpg" tvg-name="De Férias com o Ex: América Latina S02 E08",De Férias com o Ex: América Latina S02 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976018.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e09" tvg-logo="https://image.tmdb.org/t/p/w300/aam2hLDjSerDF4l2uEgTLoQGy2j.jpg" tvg-name="De Férias com o Ex: América Latina S02 E09",De Férias com o Ex: América Latina S02 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976019.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e10" tvg-logo="https://image.tmdb.org/t/p/w300/vounLuU8ouZAEQo1Fh0E3xs71vy.jpg" tvg-name="De Férias com o Ex: América Latina S02 E10",De Férias com o Ex: América Latina S02 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976020.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e11" tvg-logo="https://image.tmdb.org/t/p/w300/qItpJNVdbKbthGGpjsEp8l0jqXe.jpg" tvg-name="De Férias com o Ex: América Latina S02 E11",De Férias com o Ex: América Latina S02 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976022.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s02.e12" tvg-logo="https://image.tmdb.org/t/p/w300/1n4CW6wO9RXdP8qBZZo7ty7rJgH.jpg" tvg-name="De Férias com o Ex: América Latina S02 E12",De Férias com o Ex: América Latina S02 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976023.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e01" tvg-logo="https://image.tmdb.org/t/p/w300/dmr6eiMUl0RlGN7TBL01z6oZyEt.jpg" tvg-name="De Férias com o Ex: América Latina S03 E01",De Férias com o Ex: América Latina S03 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976024.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e02" tvg-logo="https://image.tmdb.org/t/p/w300/csMJI0SXVkdZjByTTArv79UpfoK.jpg" tvg-name="De Férias com o Ex: América Latina S03 E02",De Férias com o Ex: América Latina S03 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976025.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e03" tvg-logo="https://image.tmdb.org/t/p/w300/jvfo1RDoXrbafL2HuKjrZeRfYLE.jpg" tvg-name="De Férias com o Ex: América Latina S03 E03",De Férias com o Ex: América Latina S03 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976026.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e04" tvg-logo="https://image.tmdb.org/t/p/w300/vQ3hwYT0qX6CUhVMkE7APVgq3NX.jpg" tvg-name="De Férias com o Ex: América Latina S03 E04",De Férias com o Ex: América Latina S03 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976027.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e05" tvg-logo="https://image.tmdb.org/t/p/w300/sk2e7ptuiqFdq6o2E87ZHHpIYOt.jpg" tvg-name="De Férias com o Ex: América Latina S03 E05",De Férias com o Ex: América Latina S03 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976028.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e06" tvg-logo="https://image.tmdb.org/t/p/w300/eZyMBoYxiKtPF9AXxLF1RvDsf5C.jpg" tvg-name="De Férias com o Ex: América Latina S03 E06",De Férias com o Ex: América Latina S03 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976029.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e07" tvg-logo="https://image.tmdb.org/t/p/w300/fB5HDawmQigewKhNYKj9L1XJFv3.jpg" tvg-name="De Férias com o Ex: América Latina S03 E07",De Férias com o Ex: América Latina S03 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976030.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e08" tvg-logo="https://image.tmdb.org/t/p/w300/yaFresTnaj5E4kDwTbWEis2d2Ij.jpg" tvg-name="De Férias com o Ex: América Latina S03 E08",De Férias com o Ex: América Latina S03 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976031.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e09" tvg-logo="https://image.tmdb.org/t/p/w300/rxYFm4V9An7QgYZZcBYFJ7YeSrD.jpg" tvg-name="De Férias com o Ex: América Latina S03 E09",De Férias com o Ex: América Latina S03 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976032.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e10" tvg-logo="https://image.tmdb.org/t/p/w300/d6DIPrjriuRWGSTYfDBviQr17TB.jpg" tvg-name="De Férias com o Ex: América Latina S03 E10",De Férias com o Ex: América Latina S03 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976033.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e11" tvg-logo="https://image.tmdb.org/t/p/w300/nWztCqQ58JFtXDs50SORy7jWF4R.jpg" tvg-name="De Férias com o Ex: América Latina S03 E11",De Férias com o Ex: América Latina S03 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976034.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s03.e12" tvg-logo="https://image.tmdb.org/t/p/w300/oTg8q8GjzuV01Y6dFCiYelun3l1.jpg" tvg-name="De Férias com o Ex: América Latina S03 E12",De Férias com o Ex: América Latina S03 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976035.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e01" tvg-logo="https://image.tmdb.org/t/p/w300/BtV58Q6VtnJYWwM8sltfDrcCxB.jpg" tvg-name="De Férias com o Ex: América Latina S04 E01",De Férias com o Ex: América Latina S04 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976036.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e02" tvg-logo="https://image.tmdb.org/t/p/w300/qKrj8FTmSBEI9P03CuvfUpkC1JH.jpg" tvg-name="De Férias com o Ex: América Latina S04 E02",De Férias com o Ex: América Latina S04 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976037.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e03" tvg-logo="https://image.tmdb.org/t/p/w300/3WQBlhc7bzCeR3KHeAtGehwan4G.jpg" tvg-name="De Férias com o Ex: América Latina S04 E03",De Férias com o Ex: América Latina S04 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976038.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e04" tvg-logo="https://image.tmdb.org/t/p/w300/nWndHJMgFbPdwz6fseRikh1etfZ.jpg" tvg-name="De Férias com o Ex: América Latina S04 E04",De Férias com o Ex: América Latina S04 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976039.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r6bqa3Lscwvk0QExjukffo2nIU.jpg" tvg-name="De Férias com o Ex: América Latina S04 E05",De Férias com o Ex: América Latina S04 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976040.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e06" tvg-logo="https://image.tmdb.org/t/p/w300/9KoL2DEIRiLux6xy6vRagNDjOIW.jpg" tvg-name="De Férias com o Ex: América Latina S04 E06",De Férias com o Ex: América Latina S04 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976041.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e07" tvg-logo="https://image.tmdb.org/t/p/w300/uuspOuzGLHlJueJAAYS6hq0D86.jpg" tvg-name="De Férias com o Ex: América Latina S04 E07",De Férias com o Ex: América Latina S04 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976042.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e08" tvg-logo="https://image.tmdb.org/t/p/w300/yhB0dtDxL6xPo1xwXO63mZ5ADoG.jpg" tvg-name="De Férias com o Ex: América Latina S04 E08",De Férias com o Ex: América Latina S04 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976043.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e09" tvg-logo="https://image.tmdb.org/t/p/w300/7VtrOdzcnerDS3qEEQE6OpEW85P.jpg" tvg-name="De Férias com o Ex: América Latina S04 E09",De Férias com o Ex: América Latina S04 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976044.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e10" tvg-logo="https://image.tmdb.org/t/p/w300/phYYxLDMWTsd4XuDV3oaA0EGpdv.jpg" tvg-name="De Férias com o Ex: América Latina S04 E10",De Férias com o Ex: América Latina S04 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976045.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e11" tvg-logo="https://image.tmdb.org/t/p/w300/pFYJC73EPiPUWFghk5IENgp5dWv.jpg" tvg-name="De Férias com o Ex: América Latina S04 E11",De Férias com o Ex: América Latina S04 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976046.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e12" tvg-logo="https://image.tmdb.org/t/p/w300/zzz3B8WrRc8KDwxHlxfYyXbRhPs.jpg" tvg-name="De Férias com o Ex: América Latina S04 E12",De Férias com o Ex: América Latina S04 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976047.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s04.e13" tvg-logo="https://image.tmdb.org/t/p/w300/4ZGYeA6PXdzo6nicrsvmftQxz43.jpg" tvg-name="De Férias com o Ex: América Latina S04 E13",De Férias com o Ex: América Latina S04 E13
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976048.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e01" tvg-logo="https://image.tmdb.org/t/p/w300/hFeh8PHhCH54w3EYOTrvBIM4zWM.jpg" tvg-name="De Férias com o Ex: América Latina S05 E01",De Férias com o Ex: América Latina S05 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976049.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e02" tvg-logo="https://image.tmdb.org/t/p/w300/gfoxo4FsPm6qGhvflMwbAwprGbu.jpg" tvg-name="De Férias com o Ex: América Latina S05 E02",De Férias com o Ex: América Latina S05 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976050.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e03" tvg-logo="https://image.tmdb.org/t/p/w300/lZS3Bqf6OPJoiNlQl0bo9JWslRM.jpg" tvg-name="De Férias com o Ex: América Latina S05 E03",De Férias com o Ex: América Latina S05 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976051.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e04" tvg-logo="https://image.tmdb.org/t/p/w300/ylwSlj5329Stdz3gyrQq5ggcvkL.jpg" tvg-name="De Férias com o Ex: América Latina S05 E04",De Férias com o Ex: América Latina S05 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976052.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e05" tvg-logo="https://image.tmdb.org/t/p/w300/z4k6EfzeC3lir66FOR75jY0jFys.jpg" tvg-name="De Férias com o Ex: América Latina S05 E05",De Férias com o Ex: América Latina S05 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976053.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e06" tvg-logo="https://image.tmdb.org/t/p/w300/iguXBgNLdRD3YQVawV6LPPgtOlL.jpg" tvg-name="De Férias com o Ex: América Latina S05 E06",De Férias com o Ex: América Latina S05 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976054.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e07" tvg-logo="https://image.tmdb.org/t/p/w300/iguXBgNLdRD3YQVawV6LPPgtOlL.jpg" tvg-name="De Férias com o Ex: América Latina S05 E07",De Férias com o Ex: América Latina S05 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/976220.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e08" tvg-logo="https://image.tmdb.org/t/p/w300/3AG2ccWuNLLpjzwdfO9yRKzUI1k.jpg" tvg-name="De Férias com o Ex: América Latina S05 E08",De Férias com o Ex: América Latina S05 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/977007.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r6bqa3Lscwvk0QExjukffo2nIU.jpg" tvg-name="De Férias com o Ex: América Latina S05 E09",De Férias com o Ex: América Latina S05 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/977008.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r6bqa3Lscwvk0QExjukffo2nIU.jpg" tvg-name="De Férias com o Ex: América Latina S05 E10",De Férias com o Ex: América Latina S05 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/977461.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="de.ferias.com.o.ex.america.latina.s05.e11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r6bqa3Lscwvk0QExjukffo2nIU.jpg" tvg-name="De Férias com o Ex: América Latina S05 E11",De Férias com o Ex: América Latina S05 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/977462.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="desafio.em.dose.dupla.mexico.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg" tvg-name="Desafio em Dose Dupla: México S01 E01",Desafio em Dose Dupla: México S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887266.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="desafio.em.dose.dupla.mexico.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg" tvg-name="Desafio em Dose Dupla: México S01 E02",Desafio em Dose Dupla: México S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887267.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="desafio.em.dose.dupla.mexico.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg" tvg-name="Desafio em Dose Dupla: México S01 E03",Desafio em Dose Dupla: México S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887268.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="desafio.em.dose.dupla.mexico.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg" tvg-name="Desafio em Dose Dupla: México S01 E04",Desafio em Dose Dupla: México S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887269.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="desafio.em.dose.dupla.mexico.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg" tvg-name="Desafio em Dose Dupla: México S01 E05",Desafio em Dose Dupla: México S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887270.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="desafio.em.dose.dupla.mexico.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg" tvg-name="Desafio em Dose Dupla: México S01 E06",Desafio em Dose Dupla: México S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/887271.mp4
 #EXTINF:-1 group-title="Kids" tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="" tvg-name="Disney Channel Latin America (1080p)",Disney Channel Latin America (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="" tvg-name="Disney Jr. Latin America South",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E01",Divina Comida México S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861742.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E02",Divina Comida México S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861743.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E03",Divina Comida México S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861744.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E04",Divina Comida México S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861745.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E05",Divina Comida México S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861746.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E06",Divina Comida México S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861747.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E07",Divina Comida México S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861748.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E08",Divina Comida México S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861749.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E09",Divina Comida México S01 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861750.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E10",Divina Comida México S01 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861751.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E11",Divina Comida México S01 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861752.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E12",Divina Comida México S01 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861753.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E13",Divina Comida México S01 E13
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861754.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E14",Divina Comida México S01 E14
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861755.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E15",Divina Comida México S01 E15
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861756.mp4
-#EXTINF:-1 group-title="SERIES • APPLE TV" tvg-id="divina.comida.mexico.s01.e16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8nIlfhQLgHKPPJeK3zFH01Tsee.jpg" tvg-name="Divina Comida México S01 E16",Divina Comida México S01 E16
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/861757.mp4
 #EXTINF:-1 group-title="Sports" tvg-id="DSportsUruguay.uy@SD" tvg-logo="" tvg-name="DSports Uruguay",DSports Uruguay
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="ELatinAmerica.us@South" tvg-logo="" tvg-name="E! Latin America (720p)",E! Latin America (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
-#EXTINF:-1 group-title="FILMES • AÇÃO" tvg-id="era.uma.vez.no.mexico.2003" tvg-logo="https://image.tmdb.org/t/p/w780/cdSWDmDD7VVuBKlEar7H8abN1Ox.jpg" tvg-name="Era Uma vez no México (2003)",Era Uma vez no México (2003)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/756241.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="eu.vi.america.latina.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/9LIEjfQey3t3U6vYvD9n5hLkTKU.jpg" tvg-name="Eu Vi: América Latina S01 E01",Eu Vi: América Latina S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/796223.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="eu.vi.america.latina.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/kqIGF3WSgP9oqlFi6hasVLPFB7s.jpg" tvg-name="Eu Vi: América Latina S01 E02",Eu Vi: América Latina S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/796224.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="eu.vi.america.latina.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/zGCDoLLbrzbNlnoheu9E6SSozgQ.jpg" tvg-name="Eu Vi: América Latina S01 E03",Eu Vi: América Latina S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/796225.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="eu.vi.america.latina.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/9cY2pCirrygtGetzG1UBNs6HfTb.jpg" tvg-name="Eu Vi: América Latina S01 E04",Eu Vi: América Latina S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/796226.mp4
-#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="eu.vi.america.latina.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/ijVmkA005sg8TijdNcxrDw1KPPx.jpg" tvg-name="Eu Vi: América Latina S01 E05",Eu Vi: América Latina S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/796227.mp4
 #EXTINF:-1 group-title="Sports" tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="" tvg-name="Fox Sports 3 Latin America (1080p)",Fox Sports 3 Latin America (1080p)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="FXLatinAmerica.us@South" tvg-logo="" tvg-name="FX Latin America South (720p)",FX Latin America South (720p)
@@ -269,94 +45,6 @@ http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="HistoryLatinAmerica.us@South" tvg-logo="" tvg-name="History Latin America South (480p)",History Latin America South (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="inexplicavel.america.latina.com.john.leguizamo.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/gZ5sn0ac3TWiCoOgOyUQNGwQtDe.jpg" tvg-name="IneXplicável América Latina com John Leguizamo S01 E01",IneXplicável América Latina com John Leguizamo S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/833287.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="inexplicavel.america.latina.com.john.leguizamo.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/gZ5sn0ac3TWiCoOgOyUQNGwQtDe.jpg" tvg-name="IneXplicável América Latina com John Leguizamo S01 E02",IneXplicável América Latina com John Leguizamo S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/833288.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="inexplicavel.america.latina.com.john.leguizamo.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/gZ5sn0ac3TWiCoOgOyUQNGwQtDe.jpg" tvg-name="IneXplicável América Latina com John Leguizamo S01 E03",IneXplicável América Latina com John Leguizamo S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/833289.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="inexplicavel.america.latina.com.john.leguizamo.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/gZ5sn0ac3TWiCoOgOyUQNGwQtDe.jpg" tvg-name="IneXplicável América Latina com John Leguizamo S01 E04",IneXplicável América Latina com John Leguizamo S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/833290.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="inexplicavel.america.latina.com.john.leguizamo.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/gZ5sn0ac3TWiCoOgOyUQNGwQtDe.jpg" tvg-name="IneXplicável América Latina com John Leguizamo S01 E05",IneXplicável América Latina com John Leguizamo S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/833291.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="inexplicavel.america.latina.com.john.leguizamo.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/gZ5sn0ac3TWiCoOgOyUQNGwQtDe.jpg" tvg-name="IneXplicável América Latina com John Leguizamo S01 E06",IneXplicável América Latina com John Leguizamo S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/833292.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="inexplicavel.america.latina.com.john.leguizamo.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/gZ5sn0ac3TWiCoOgOyUQNGwQtDe.jpg" tvg-name="IneXplicável América Latina com John Leguizamo S01 E07",IneXplicável América Latina com John Leguizamo S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/833293.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="inexplicavel.america.latina.com.john.leguizamo.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/gZ5sn0ac3TWiCoOgOyUQNGwQtDe.jpg" tvg-name="IneXplicável América Latina com John Leguizamo S01 E08",IneXplicável América Latina com John Leguizamo S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/833294.mp4
-#EXTINF:-1 group-title="FILMES • 2024" tvg-id="invasao.a.venezuela.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//lD1vYyKuO1omlQXtwrGVdz8yfnt.jpg" tvg-name="Invasão à Venezuela (2024)",Invasão à Venezuela (2024)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/977102.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="iron.chef.mexico.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypjZXTThTQ9L0CYaw2n4GaqWx56.jpg" tvg-name="Iron Chef: México S01 E01",Iron Chef: México S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/853940.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="iron.chef.mexico.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypjZXTThTQ9L0CYaw2n4GaqWx56.jpg" tvg-name="Iron Chef: México S01 E02",Iron Chef: México S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/853941.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="iron.chef.mexico.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypjZXTThTQ9L0CYaw2n4GaqWx56.jpg" tvg-name="Iron Chef: México S01 E03",Iron Chef: México S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/853942.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="iron.chef.mexico.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypjZXTThTQ9L0CYaw2n4GaqWx56.jpg" tvg-name="Iron Chef: México S01 E04",Iron Chef: México S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/853943.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="iron.chef.mexico.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypjZXTThTQ9L0CYaw2n4GaqWx56.jpg" tvg-name="Iron Chef: México S01 E05",Iron Chef: México S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/853944.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="iron.chef.mexico.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypjZXTThTQ9L0CYaw2n4GaqWx56.jpg" tvg-name="Iron Chef: México S01 E06",Iron Chef: México S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/853945.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="iron.chef.mexico.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypjZXTThTQ9L0CYaw2n4GaqWx56.jpg" tvg-name="Iron Chef: México S01 E07",Iron Chef: México S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/853946.mp4
-#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="iron.chef.mexico.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypjZXTThTQ9L0CYaw2n4GaqWx56.jpg" tvg-name="Iron Chef: México S01 E08",Iron Chef: México S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/853947.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/yzHyxjjLDOSLqsrPOkMWYRNTbDM.jpg" tvg-name="Largados e Pelados: Latinos S01 E01",Largados e Pelados: Latinos S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890084.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/zoSnEupIj4B4p7qPfmKA1uZeymS.jpg" tvg-name="Largados e Pelados: Latinos S01 E02",Largados e Pelados: Latinos S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890085.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/21wnoJ4E1bLoK0OLx1RoFtVjXz6.jpg" tvg-name="Largados e Pelados: Latinos S01 E03",Largados e Pelados: Latinos S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890086.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/6sgLWFaBYrB4j3V4Vn0gDTYXvUr.jpg" tvg-name="Largados e Pelados: Latinos S01 E04",Largados e Pelados: Latinos S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890087.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/aN4I6Nn03u2Wt9k2w0dVvXdkWL7.jpg" tvg-name="Largados e Pelados: Latinos S01 E05",Largados e Pelados: Latinos S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890088.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/5McjgEPhCvnFvmsaEyO0uKW6JGl.jpg" tvg-name="Largados e Pelados: Latinos S01 E06",Largados e Pelados: Latinos S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890089.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/p2k3FTO0QGHNLvXYSaOveRqMWQC.jpg" tvg-name="Largados e Pelados: Latinos S01 E07",Largados e Pelados: Latinos S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890090.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s02.e01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" tvg-name="Largados e Pelados: Latinos S02 E01",Largados e Pelados: Latinos S02 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890091.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s02.e02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" tvg-name="Largados e Pelados: Latinos S02 E02",Largados e Pelados: Latinos S02 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890092.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s02.e03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" tvg-name="Largados e Pelados: Latinos S02 E03",Largados e Pelados: Latinos S02 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890093.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s02.e04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" tvg-name="Largados e Pelados: Latinos S02 E04",Largados e Pelados: Latinos S02 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890094.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s02.e05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" tvg-name="Largados e Pelados: Latinos S02 E05",Largados e Pelados: Latinos S02 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890095.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s02.e06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" tvg-name="Largados e Pelados: Latinos S02 E06",Largados e Pelados: Latinos S02 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890096.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="largados.e.pelados.latinos.s02.e07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" tvg-name="Largados e Pelados: Latinos S02 E07",Largados e Pelados: Latinos S02 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/890097.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/nQYaFW7kTOCaFcXvEAgzftWHo9A.jpg" tvg-name="Latin Flow S01 E01",Latin Flow S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839767.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/hhRNLS12Ps2juasQF2o7Ya24BQV.jpg" tvg-name="Latin Flow S01 E02",Latin Flow S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839769.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/hLhNGhM1bpPbRJ3YfhpwMPrnIyd.jpg" tvg-name="Latin Flow S01 E03",Latin Flow S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839770.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/hfmpGifTH1x1XlvK6ucUMHqFJfy.jpg" tvg-name="Latin Flow S01 E04",Latin Flow S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839771.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/8PDX7sFDE9y9Y9BTUs0JkBG9EzO.jpg" tvg-name="Latin Flow S01 E05",Latin Flow S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839772.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/uZfUL0s2KvtpPu3AmA1WV4lgF5R.jpg" tvg-name="Latin Flow S01 E06",Latin Flow S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839773.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/qJx5XRxeZzzhILo2I0uHatTPeLd.jpg" tvg-name="Latin Flow S01 E07",Latin Flow S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839774.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/lwVlDS2nZkJc5DUAQ3o1P5vuxMs.jpg" tvg-name="Latin Flow S01 E08",Latin Flow S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839775.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/lJ4Ky5cJTeqRditmGWbpjQuFeHe.jpg" tvg-name="Latin Flow S01 E09",Latin Flow S01 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839776.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/6bXBxjA3GcfbIRGtp0CafnDTdXo.jpg" tvg-name="Latin Flow S01 E10",Latin Flow S01 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839777.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e11" tvg-logo="https://image.tmdb.org/t/p/w300/s2Q4M0SDDSCvZxk6LzibnDwrs4N.jpg" tvg-name="Latin Flow S01 E11",Latin Flow S01 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839778.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e12" tvg-logo="https://image.tmdb.org/t/p/w300/srVWMNKiAPuTZnK9nKxPf7b5BhB.jpg" tvg-name="Latin Flow S01 E12",Latin Flow S01 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839779.mp4
-#EXTINF:-1 group-title="SERIES • HBOMAX" tvg-id="latin.flow.s01.e13" tvg-logo="https://image.tmdb.org/t/p/w300/wMhvJuICRlYquSIzy4ZXr1LNbHj.jpg" tvg-name="Latin Flow S01 E13",Latin Flow S01 E13
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/839780.mp4
 #EXTINF:-1 group-title="Live" tvg-id="LatinZone.us@SD" tvg-logo="" tvg-name="Latin Zone TV (720p)",Latin Zone TV (720p)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="Latina.pe@SD" tvg-logo="" tvg-name="Latina (720p)",Latina (720p)
@@ -381,174 +69,12 @@ https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="" tvg-name="MTV Latin America",MTV Latin America
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="" tvg-name="MyTime Movie Network Mexico (720p)",MyTime Movie Network Mexico (720p)
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/fBodZTlh8d3SfJtHzGtKQjfApdX.jpg" tvg-name="Narcos: México S01 E01",Narcos: México S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744658.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/yWnWvwkm7f0r1wdJyYyNKDWEceb.jpg" tvg-name="Narcos: México S01 E02",Narcos: México S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744659.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/c10AS7JKyfpAKj8hdI9Pnzg4489.jpg" tvg-name="Narcos: México S01 E03",Narcos: México S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744660.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/mm8TPBlZmJCcaspfczCfg1YmoIn.jpg" tvg-name="Narcos: México S01 E04",Narcos: México S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744661.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/j4NGfKmQnOnNGivGW4SbZbFSPKu.jpg" tvg-name="Narcos: México S01 E05",Narcos: México S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744662.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/toIZBpXPbwOfAVxYVvddrbW4YcY.jpg" tvg-name="Narcos: México S01 E06",Narcos: México S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744663.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/xAxcVG7vVGQwkSvdDf8Kl6pzzoY.jpg" tvg-name="Narcos: México S01 E07",Narcos: México S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744664.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/4e1UqodJUur4a00XEmPPJYvFikj.jpg" tvg-name="Narcos: México S01 E08",Narcos: México S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744665.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/vVFfSzZxX4OlKejFsOhfqQjjLNY.jpg" tvg-name="Narcos: México S01 E09",Narcos: México S01 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744666.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/wrnhRG4ZzBmShHN7JAUPJMgCQBF.jpg" tvg-name="Narcos: México S01 E10",Narcos: México S01 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744667.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e01" tvg-logo="https://image.tmdb.org/t/p/w300/fMt4FtYPqiSQOSU3GyRWyZDvSgk.jpg" tvg-name="Narcos: México S02 E01",Narcos: México S02 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744668.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e02" tvg-logo="https://image.tmdb.org/t/p/w300/gYb1ZQqAfRZj5kGX7HBEaZ0dBCH.jpg" tvg-name="Narcos: México S02 E02",Narcos: México S02 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744670.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e03" tvg-logo="https://image.tmdb.org/t/p/w300/ro8w38gTxCbdoUbTMsD8hz7kKUU.jpg" tvg-name="Narcos: México S02 E03",Narcos: México S02 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744671.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e04" tvg-logo="https://image.tmdb.org/t/p/w300/51qcgm2huk0TiDYs3RXjLT6S0dq.jpg" tvg-name="Narcos: México S02 E04",Narcos: México S02 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744672.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e05" tvg-logo="https://image.tmdb.org/t/p/w300/8xhluuHTcndM1ckPzcyV2JkuVeZ.jpg" tvg-name="Narcos: México S02 E05",Narcos: México S02 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744673.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e06" tvg-logo="https://image.tmdb.org/t/p/w300/8rTB4IP9xt6PPuP9nMEgfIsXOHe.jpg" tvg-name="Narcos: México S02 E06",Narcos: México S02 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744674.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e07" tvg-logo="https://image.tmdb.org/t/p/w300/rWQYdTWiWGqJp4bgisw22Bds1e7.jpg" tvg-name="Narcos: México S02 E07",Narcos: México S02 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744675.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e08" tvg-logo="https://image.tmdb.org/t/p/w300/4wlEQ5zKc16qi5gM5q4ObgJpeY7.jpg" tvg-name="Narcos: México S02 E08",Narcos: México S02 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744676.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e09" tvg-logo="https://image.tmdb.org/t/p/w300/2NCPSRdnOkpAqWyaReRgAxRCbSt.jpg" tvg-name="Narcos: México S02 E09",Narcos: México S02 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744677.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s02.e10" tvg-logo="https://image.tmdb.org/t/p/w300/dGOmOq4Cf4VknLZvrNfYJm81M0J.jpg" tvg-name="Narcos: México S02 E10",Narcos: México S02 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744678.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e01" tvg-logo="https://image.tmdb.org/t/p/w300/iE5j1JJjsODVIYVJSGTBTiWx9Lb.jpg" tvg-name="Narcos: México S03 E01",Narcos: México S03 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744679.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e02" tvg-logo="https://image.tmdb.org/t/p/w300/sfanw2gjl28emHpLoENtB3aijpI.jpg" tvg-name="Narcos: México S03 E02",Narcos: México S03 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744680.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e03" tvg-logo="https://image.tmdb.org/t/p/w300/oFRvjuw8czlNig1uWF6C9VK2Sqs.jpg" tvg-name="Narcos: México S03 E03",Narcos: México S03 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744681.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e04" tvg-logo="https://image.tmdb.org/t/p/w300/1JolsZuttdhj6H8jgGifRRaMy9U.jpg" tvg-name="Narcos: México S03 E04",Narcos: México S03 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744683.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e05" tvg-logo="https://image.tmdb.org/t/p/w300/n66X7uiXe0wAX8dMScntSKLMiTZ.jpg" tvg-name="Narcos: México S03 E05",Narcos: México S03 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744684.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e06" tvg-logo="https://image.tmdb.org/t/p/w300/zzywwV0O0tuByu0ybhw5SEaVas9.jpg" tvg-name="Narcos: México S03 E06",Narcos: México S03 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744685.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e07" tvg-logo="https://image.tmdb.org/t/p/w300/4wPg8iOMHmqh4nv8CAOOBqq3o0i.jpg" tvg-name="Narcos: México S03 E07",Narcos: México S03 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744686.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e08" tvg-logo="https://image.tmdb.org/t/p/w300/h0ej0ZLl38TorcCgbkxkO4JqQ15.jpg" tvg-name="Narcos: México S03 E08",Narcos: México S03 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744687.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e09" tvg-logo="https://image.tmdb.org/t/p/w300/vXVDohEE1P6Y0XafWJ3RD9LkbyK.jpg" tvg-name="Narcos: México S03 E09",Narcos: México S03 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744688.mp4
-#EXTINF:-1 group-title="SERIES • CRIME" tvg-id="narcos.mexico.s03.e10" tvg-logo="https://image.tmdb.org/t/p/w300/bEBOSpPYrZoI91zmgzqgtQnVNZF.jpg" tvg-name="Narcos: México S03 E10",Narcos: México S03 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/744689.mp4
 #EXTINF:-1 group-title="Live" tvg-id="NarutoShippuden.us@LatAm" tvg-logo="" tvg-name="Naruto Shippuden",Naruto Shippuden
 https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="" tvg-name="National Geographic Latin America South (720p)",National Geographic Latin America South (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-46_720.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="NatureTime.ca@LATAM" tvg-logo="" tvg-name="NatureTime",NatureTime
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e01.tvg.logo.https.image.tmdb.org.t.p.w300.invhv1nsdpyadjdkbvfq37tyqvg.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e01" tvg-logo="" tvg-name="New Mexico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iNVHv1NSdpYadJdkbVfq37tyQVG.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E01",New Mexico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iNVHv1NSdpYadJdkbVfq37tyQVG.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845561.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e02.tvg.logo.https.image.tmdb.org.t.p.w300.4oe2chniag5usol8bvu7oazibkr.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e02" tvg-logo="" tvg-name="New Mexico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4oe2CHnIAg5uSol8bVU7oazIbkr.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E02",New Mexico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4oe2CHnIAg5uSol8bVU7oazIbkr.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845562.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e03.tvg.logo.https.image.tmdb.org.t.p.w300.5c3ujwjaw5swrd3hd9ptrlr7rh6.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e03" tvg-logo="" tvg-name="New Mexico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5c3uJWjaw5sWrD3HD9PtRLR7rh6.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E03",New Mexico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5c3uJWjaw5sWrD3HD9PtRLR7rh6.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845563.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e04.tvg.logo.https.image.tmdb.org.t.p.w300.cfa4hwxsfditylskcoulzc1bpvw.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e04" tvg-logo="" tvg-name="New Mexico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cfA4hwXSFdItYlSkCoulZc1bpvw.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E04",New Mexico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cfA4hwXSFdItYlSkCoulZc1bpvw.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845564.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e05.tvg.logo.https.image.tmdb.org.t.p.w300.5fisyqhakczuuj4ydpyzpsesuue.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e05" tvg-logo="" tvg-name="New Mexico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5fIsyQHakCZUuJ4yDpYzpSESUuE.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E05",New Mexico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5fIsyQHakCZUuJ4yDpYzpSESUuE.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845565.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e06.tvg.logo.https.image.tmdb.org.t.p.w300.rwn36ynpysq5lrpcf5xv2yo880y.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e06" tvg-logo="" tvg-name="New Mexico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rwn36ynPySQ5LRPcF5Xv2YO880Y.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E06",New Mexico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rwn36ynPySQ5LRPcF5Xv2YO880Y.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845566.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e07.tvg.logo.https.image.tmdb.org.t.p.w300.g4qitzwnoiqc6b44flr1mzv9n4q.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e07" tvg-logo="" tvg-name="New Mexico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/g4QitZWNoIqC6b44flR1mZV9n4q.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E07",New Mexico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/g4QitZWNoIqC6b44flR1mZV9n4q.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845567.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e08.tvg.logo.https.image.tmdb.org.t.p.w300.2jvctjkazecxwplo3r3w48phxsj.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e08" tvg-logo="" tvg-name="New Mexico S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2JvCTJkAzEcxwPlO3r3w48PHXSJ.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E08",New Mexico S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2JvCTJkAzEcxwPlO3r3w48PHXSJ.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845568.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e09.tvg.logo.https.image.tmdb.org.t.p.w300.gwjf8xgtj8wqilnifgzgo7bfpvr.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e09" tvg-logo="" tvg-name="New Mexico S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gWjF8XGTj8wQILnIfGZGo7bFpVr.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E09",New Mexico S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gWjF8XGTj8wQILnIfGZGo7bFpVr.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845569.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e10.tvg.logo.https.image.tmdb.org.t.p.w300.pdq5duenipmzp4lwoomdvobx7fc.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e10" tvg-logo="" tvg-name="New Mexico S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/pDq5dUeNIpmzP4LWoOMDVobX7Fc.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E10",New Mexico S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/pDq5dUeNIpmzP4LWoOMDVobX7Fc.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845570.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e11.tvg.logo.https.image.tmdb.org.t.p.w300.7bxynnpvypqo87avnrojpk9fz3d.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e11" tvg-logo="" tvg-name="New Mexico S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/7BXyNNpVYpqO87AVnRojPk9FZ3d.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E11",New Mexico S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/7BXyNNpVYpqO87AVnRojPk9FZ3d.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845571.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e12.tvg.logo.https.image.tmdb.org.t.p.w300.wbwkvl0mteuaihpckzt8qsxjmqd.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e12" tvg-logo="" tvg-name="New Mexico S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/wbwkVl0MteuAIHPckzT8qsxjmQd.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E12",New Mexico S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/wbwkVl0MteuAIHPckzT8qsxjmQd.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845573.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s01.e13.tvg.logo.https.image.tmdb.org.t.p.w300.sdoxvvlpptdgp7hau2x1dvp5enm.jpg.group.title.series.hbomax.roswell.new.mexico.s01.e13" tvg-logo="" tvg-name="New Mexico S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/sdoxVvLpptdgp7HAu2X1dvp5EnM.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E13",New Mexico S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/sdoxVvLpptdgp7HAu2X1dvp5EnM.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S01 E13
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845574.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e01.tvg.logo.https.image.tmdb.org.t.p.w300.rq14ef7hxzdrdy4gnsr7yadiz9.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e01" tvg-logo="" tvg-name="New Mexico S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rq14EF7HxzDRdy4gnsr7yAdIZ9.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E01",New Mexico S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rq14EF7HxzDRdy4gnsr7yAdIZ9.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845575.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e02.tvg.logo.https.image.tmdb.org.t.p.w300.mkvhlhpw0zs9xgoavsqyh2pvrjn.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e02" tvg-logo="" tvg-name="New Mexico S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mkvhLhpw0Zs9xgOaVSqyh2pvRJN.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E02",New Mexico S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mkvhLhpw0Zs9xgOaVSqyh2pvRJN.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845576.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e03.tvg.logo.https.image.tmdb.org.t.p.w300.z2gjcpi6gnalogqeo1g06kyerux.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e03" tvg-logo="" tvg-name="New Mexico S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/z2gJcpi6gNalogqeO1G06KYeRUX.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E03",New Mexico S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/z2gJcpi6gNalogqeO1G06KYeRUX.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845577.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e04.tvg.logo.https.image.tmdb.org.t.p.w300.qj9i7wluqw1rvi8r8alauehloif.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e04" tvg-logo="" tvg-name="New Mexico S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qJ9i7WLuqw1rVI8R8alAuEhLOiF.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E04",New Mexico S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qJ9i7WLuqw1rVI8R8alAuEhLOiF.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845578.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e05.tvg.logo.https.image.tmdb.org.t.p.w300.5sxps4atxumaqvd7daosc2zdcky.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e05" tvg-logo="" tvg-name="New Mexico S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5sXpS4AtXuMaQVd7DaosC2zDCKY.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E05",New Mexico S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5sXpS4AtXuMaQVd7DaosC2zDCKY.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845579.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e06.tvg.logo.https.image.tmdb.org.t.p.w300.soj0j2kdt591jehjdqds4cksuyv.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e06" tvg-logo="" tvg-name="New Mexico S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/soj0J2KdT591jEHJDqdS4cKSUYV.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E06",New Mexico S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/soj0J2KdT591jEHJDqdS4cKSUYV.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845580.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e07.tvg.logo.https.image.tmdb.org.t.p.w300.i1ghrgstfynpyewy7c70kwg40gm.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e07" tvg-logo="" tvg-name="New Mexico S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/i1gHrGStFYnPYEwY7c70kwG40gM.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E07",New Mexico S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/i1gHrGStFYnPYEwY7c70kwG40gM.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845581.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e08.tvg.logo.https.image.tmdb.org.t.p.w300.riqp061o6drgobwtpnu5uglbgt1.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e08" tvg-logo="" tvg-name="New Mexico S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/rIQp061O6drgObwtPNU5uGlbgt1.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E08",New Mexico S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/rIQp061O6drgObwtPNU5uGlbgt1.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845582.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e09.tvg.logo.https.image.tmdb.org.t.p.w300.eihlfglqlua0ww5hofep0tyisyj.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e09" tvg-logo="" tvg-name="New Mexico S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/eIhLfgLQlUa0ww5hoFEP0TyIsYj.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E09",New Mexico S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/eIhLfgLQlUa0ww5hoFEP0TyIsYj.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845583.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e10.tvg.logo.https.image.tmdb.org.t.p.w300.qslhysxgrwqabmsgzqwkesz8hka.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e10" tvg-logo="" tvg-name="New Mexico S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/qsLhysxgrwQaBMsGZQWKEsz8hKa.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E10",New Mexico S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/qsLhysxgrwQaBMsGZQWKEsz8hKa.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845584.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e11.tvg.logo.https.image.tmdb.org.t.p.w300.lbjaajkuv7jqejrlvbwermnemtb.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e11" tvg-logo="" tvg-name="New Mexico S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/lBJAaJKuv7JQejRlvbWermnEmTB.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E11",New Mexico S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/lBJAaJKuv7JQejRlvbWermnEmTB.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845586.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e12.tvg.logo.https.image.tmdb.org.t.p.w300.vxkxx3g0hpgy6r5wjriu7wedtqf.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e12" tvg-logo="" tvg-name="New Mexico S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/vXkxx3G0HpGY6R5wjriu7wEDtQF.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E12",New Mexico S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/vXkxx3G0HpGY6R5wjriu7wEDtQF.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845587.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s02.e13.tvg.logo.https.image.tmdb.org.t.p.w300.jp6eirlsart7dp4ajxr4iijoz3i.jpg.group.title.series.hbomax.roswell.new.mexico.s02.e13" tvg-logo="" tvg-name="New Mexico S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/jP6eIRlsaRT7dP4aJxr4iiJOZ3I.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E13",New Mexico S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/jP6eIRlsaRT7dP4aJxr4iiJOZ3I.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S02 E13
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845588.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e01.tvg.logo.https.image.tmdb.org.t.p.w300.shq2tpvjgsfhhy0x7qkza9x4muy.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e01" tvg-logo="" tvg-name="New Mexico S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/shq2tPVjGSFhHy0X7qKza9X4MUY.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E01",New Mexico S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/shq2tPVjGSFhHy0X7qKza9X4MUY.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845589.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e02.tvg.logo.https.image.tmdb.org.t.p.w300.3kap8i8xditca7ipo58fi2e3yld.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e02" tvg-logo="" tvg-name="New Mexico S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3Kap8i8XDitCa7iPo58fi2e3YlD.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E02",New Mexico S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3Kap8i8XDitCa7iPo58fi2e3YlD.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845590.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e03.tvg.logo.https.image.tmdb.org.t.p.w300.7fwdomkeuzklfdtvgcmtdbfgfwj.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e03" tvg-logo="" tvg-name="New Mexico S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7FwDOMKEUzkLfDTvgCmTDbFGFWj.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E03",New Mexico S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7FwDOMKEUzkLfDTvgCmTDbFGFWj.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845591.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e04.tvg.logo.https.image.tmdb.org.t.p.w300.8bv6gl9fomugjijq7ozfjaxjdn.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e04" tvg-logo="" tvg-name="New Mexico S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8BV6GL9foMUGjIjq7ozFjAxJdN.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E04",New Mexico S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8BV6GL9foMUGjIjq7ozFjAxJdN.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845592.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e05.tvg.logo.https.image.tmdb.org.t.p.w300.laxb3ol5dspcgevsdk5xbjkixb.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e05" tvg-logo="" tvg-name="New Mexico S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/LAXB3oL5DSpCgevsDK5XbJKiXB.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E05",New Mexico S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/LAXB3oL5DSpCgevsDK5XbJKiXB.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845593.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e06.tvg.logo.https.image.tmdb.org.t.p.w300.y5qcsxyrw4car47bkrymhhvprnb.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e06" tvg-logo="" tvg-name="New Mexico S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/y5qCSXYRW4caR47bkrymhhVPrnb.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E06",New Mexico S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/y5qCSXYRW4caR47bkrymhhVPrnb.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845594.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e07.tvg.logo.https.image.tmdb.org.t.p.w300.t93o5aibx47lyu1otfu0mz7ilfi.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e07" tvg-logo="" tvg-name="New Mexico S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/t93O5AIBX47lyU1otfu0mZ7iLfi.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E07",New Mexico S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/t93O5AIBX47lyU1otfu0mZ7iLfi.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845595.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e09.tvg.logo.https.image.tmdb.org.t.p.w300.bvm6anwnbjjnbsajuyfrejahs2.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e09" tvg-logo="" tvg-name="New Mexico S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/bvM6ANWnBjjnBsAjuyfRejAHS2.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E09",New Mexico S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/bvM6ANWnBjjnBsAjuyfRejAHS2.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845597.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e10.tvg.logo.https.image.tmdb.org.t.p.w300.4tfam7tjlm3ezty6owaeqixtzuj.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e10" tvg-logo="" tvg-name="New Mexico S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/4tFAM7Tjlm3eztY6OWAeQiXtzUj.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E10",New Mexico S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/4tFAM7Tjlm3eztY6OWAeQiXtzUj.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845598.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e11.tvg.logo.https.image.tmdb.org.t.p.w300.m28oi3nfdryngc3lxilourfgiyc.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e11" tvg-logo="" tvg-name="New Mexico S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300/m28OI3nfdrYNGc3lxiLouRFgIyc.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E11",New Mexico S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300/m28OI3nfdrYNGc3lxiLouRFgIyc.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845600.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e12.tvg.logo.https.image.tmdb.org.t.p.w300.mgvh6p1eza6xd7ayds67njjbac0.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e12" tvg-logo="" tvg-name="New Mexico S03 E12" tvg-logo="https://image.tmdb.org/t/p/w300/mgvh6P1EZa6xd7AyDs67njJbAC0.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E12",New Mexico S03 E12" tvg-logo="https://image.tmdb.org/t/p/w300/mgvh6P1EZa6xd7AyDs67njJbAC0.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845601.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s03.e13.tvg.logo.https.image.tmdb.org.t.p.w300.ugr4xtsuqxjzlo42sabwyjzi2vu.jpg.group.title.series.hbomax.roswell.new.mexico.s03.e13" tvg-logo="" tvg-name="New Mexico S03 E13" tvg-logo="https://image.tmdb.org/t/p/w300/uGR4XtSuqxJzLo42SabwyJZI2Vu.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E13",New Mexico S03 E13" tvg-logo="https://image.tmdb.org/t/p/w300/uGR4XtSuqxJzLo42SabwyJZI2Vu.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S03 E13
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845602.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e02.tvg.logo.https.image.tmdb.org.t.p.w300.a4oauuzfqurvb22omseag30nlt.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e02" tvg-logo="" tvg-name="New Mexico S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/a4OaUuzfQuRvB22OMSEaG30Nlt.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E02",New Mexico S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/a4OaUuzfQuRvB22OMSEaG30Nlt.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845604.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e03.tvg.logo.https.image.tmdb.org.t.p.w300.2rg8lbzmrs86byulgvpplhhwtao.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e03" tvg-logo="" tvg-name="New Mexico S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/2Rg8LbZmRS86bYulgVpPLhHwtao.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E03",New Mexico S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/2Rg8LbZmRS86bYulgVpPLhHwtao.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845605.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e04.tvg.logo.https.image.tmdb.org.t.p.w300.90zh7yqfq08daqmobiiovgn6qxv.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e04" tvg-logo="" tvg-name="New Mexico S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/90ZH7YqFq08daQmOBiioVGN6qxv.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E04",New Mexico S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/90ZH7YqFq08daQmOBiioVGN6qxv.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845606.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e05.tvg.logo.https.image.tmdb.org.t.p.w300.pk7pvtfsbbtdtrnqar3jdnixngk.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e05" tvg-logo="" tvg-name="New Mexico S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pk7pVTFsbbtDTRNQAr3JdniXNGK.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E05",New Mexico S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pk7pVTFsbbtDTRNQAr3JdniXNGK.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845607.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e06.tvg.logo.https.image.tmdb.org.t.p.w300.pdh9zszadlwrog47cdh0vvh00sa.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e06" tvg-logo="" tvg-name="New Mexico S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pdH9zsZaDLwrOg47cDh0VVH00sa.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E06",New Mexico S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pdH9zsZaDLwrOg47cDh0VVH00sa.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845608.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e07.tvg.logo.https.image.tmdb.org.t.p.w300.ikazrslklh5kd3wqnyvu4ecers.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e07" tvg-logo="" tvg-name="New Mexico S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/IkAZRsLklH5kd3WQNyvU4eCeRs.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E07",New Mexico S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/IkAZRsLklH5kd3WQNyvU4eCeRs.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845609.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e09.tvg.logo.https.image.tmdb.org.t.p.w300.bon3cbyrcae4lren5s2x2ahsago.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e09" tvg-logo="" tvg-name="New Mexico S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/bOn3CbYrCAe4lReN5s2x2aHsago.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E09",New Mexico S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/bOn3CbYrCAe4lReN5s2x2aHsago.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845611.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e10.tvg.logo.https.image.tmdb.org.t.p.w300.pumdnii373xfnxjs5efbn0w9yxd.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e10" tvg-logo="" tvg-name="New Mexico S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/pUMDNii373XfNxJS5EfbN0W9Yxd.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E10",New Mexico S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/pUMDNii373XfNxJS5EfbN0W9Yxd.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845613.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e11.tvg.logo.https.image.tmdb.org.t.p.w300.551s0pwj9khbxcyhixpv0dpwvz0.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e11" tvg-logo="" tvg-name="New Mexico S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/551S0PWj9KHbXCyhIXPV0dPwVz0.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E11",New Mexico S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/551S0PWj9KHbXCyhIXPV0dPwVz0.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845614.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e12.tvg.logo.https.image.tmdb.org.t.p.w300.4cs4r6ndb333lao2s34szoz4yxm.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e12" tvg-logo="" tvg-name="New Mexico S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/4CS4r6nDb333LAo2s34SZOz4YXm.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E12",New Mexico S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/4CS4r6nDb333LAo2s34SZOz4YXm.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845615.mp4
-#EXTINF:-1 group-title="Series" tvg-id="new.mexico.s04.e13.tvg.logo.https.image.tmdb.org.t.p.w300.wg4qec6t6f17okjphcpawmfn1nf.jpg.group.title.series.hbomax.roswell.new.mexico.s04.e13" tvg-logo="" tvg-name="New Mexico S04 E13" tvg-logo="https://image.tmdb.org/t/p/w300/wG4QEc6T6f17OkjpHcPAWmfN1NF.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E13",New Mexico S04 E13" tvg-logo="https://image.tmdb.org/t/p/w300/wG4QEc6T6f17OkjpHcPAWmfN1NF.jpg" group-title="SERIES • HBOMAX",Roswell, New Mexico S04 E13
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845616.mp4
-#EXTINF:-1 group-title="FILMES • AVENTURA" tvg-id="o.guia.do.mochileiro.das.galaxias.2005" tvg-logo="https://image.tmdb.org/t/p/w780/vOnXZOjipDTelrK9Wteo2kzrOsz.jpg" tvg-name="O Guia do Mochileiro das Galáxias (2005)",O Guia do Mochileiro das Galáxias (2005)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/787067.mp4
 #EXTINF:-1 group-title="Live" tvg-id="XEIPNTDT.mx@SD" tvg-logo="" tvg-name="Once México (1080p)",Once México (1080p)
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="OnePiece.us@LatAm" tvg-logo="" tvg-name="One Piece",One Piece
@@ -561,54 +87,6 @@ https://panel.host-live.com:19360/20000/20000.m3u8
 https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="PichilemuTV.cl@SD" tvg-logo="" tvg-name="Pichilemu TV (1080p)",Pichilemu TV (1080p)
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/84rk6ZUXiQgozG5hSazNrr1eKap.jpg" tvg-name="Platinum End S01 E01",Platinum End S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808612.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/dNc0ywS0oPNOzMcgSaTjyBLQkMe.jpg" tvg-name="Platinum End S01 E02",Platinum End S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808613.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/euSmNCElVqwejRVZv0XGJqSVyMv.jpg" tvg-name="Platinum End S01 E03",Platinum End S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808614.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/kRD0F2y1opQUdukzLnI3bIgnNtO.jpg" tvg-name="Platinum End S01 E04",Platinum End S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808615.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/k1DvCCWkntuvImI4UQmVUK7V6Og.jpg" tvg-name="Platinum End S01 E05",Platinum End S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808616.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/iXh27pZNEaGm85nxNerArFCCO2U.jpg" tvg-name="Platinum End S01 E06",Platinum End S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808617.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/4rudkOn9woApCcXVUgmdfh7YE7Z.jpg" tvg-name="Platinum End S01 E07",Platinum End S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808618.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2BG4cPMkgAI6maPutpZfQcl3X7.jpg" tvg-name="Platinum End S01 E08",Platinum End S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808619.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/mckGkktyuc1FFO13vZ0BFA3a0sz.jpg" tvg-name="Platinum End S01 E09",Platinum End S01 E09
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808620.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/meXDbu30sJFnNd8CFIhw7flTiMI.jpg" tvg-name="Platinum End S01 E10",Platinum End S01 E10
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808622.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e11" tvg-logo="https://image.tmdb.org/t/p/w300/hNHA5bSHsdBfujidUc19jitGXIF.jpg" tvg-name="Platinum End S01 E11",Platinum End S01 E11
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808623.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e12" tvg-logo="https://image.tmdb.org/t/p/w300/yasw5c7QkdeM7TCpGRgqv4vWoii.jpg" tvg-name="Platinum End S01 E12",Platinum End S01 E12
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808624.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e13" tvg-logo="https://image.tmdb.org/t/p/w300/eSV3n7CZk6DJH6Q36stkB5bjcu9.jpg" tvg-name="Platinum End S01 E13",Platinum End S01 E13
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808625.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e14" tvg-logo="https://image.tmdb.org/t/p/w300/qtvX5bb31PXJNvIxQrRWeFsVcTz.jpg" tvg-name="Platinum End S01 E14",Platinum End S01 E14
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808626.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e15" tvg-logo="https://image.tmdb.org/t/p/w300/rEU8FHP9FjHazGR5PgyMkth1TEH.jpg" tvg-name="Platinum End S01 E15",Platinum End S01 E15
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808627.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e16" tvg-logo="https://image.tmdb.org/t/p/w300/gI1pjwOxDeWyGBY6gnCbCNiDXZc.jpg" tvg-name="Platinum End S01 E16",Platinum End S01 E16
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808628.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e17" tvg-logo="https://image.tmdb.org/t/p/w300/zFMXvlwiFsW8hCzaRtJljO1SHv2.jpg" tvg-name="Platinum End S01 E17",Platinum End S01 E17
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808629.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e18" tvg-logo="https://image.tmdb.org/t/p/w300/wWrsUo6Uqee5w04D8xKwFngghbi.jpg" tvg-name="Platinum End S01 E18",Platinum End S01 E18
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808630.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e19" tvg-logo="https://image.tmdb.org/t/p/w300/5ZLAuEyvydz499MZQlgbZO30x7W.jpg" tvg-name="Platinum End S01 E19",Platinum End S01 E19
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808631.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e20" tvg-logo="https://image.tmdb.org/t/p/w300/1394LmR6eQkgLOVGmIaYFeI3Geu.jpg" tvg-name="Platinum End S01 E20",Platinum End S01 E20
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808632.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e21" tvg-logo="https://image.tmdb.org/t/p/w300/dIhe0wvwMCxmwbL4H8rOaNT5d63.jpg" tvg-name="Platinum End S01 E21",Platinum End S01 E21
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808633.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2BG4cPMkgAI6maPutpZfQcl3X7.jpg" tvg-name="Platinum End S01 E22",Platinum End S01 E22
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808634.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e23" tvg-logo="https://image.tmdb.org/t/p/w300/9xwt1niOFiuXYv0L2JyBGMlDcg2.jpg" tvg-name="Platinum End S01 E23",Platinum End S01 E23
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808635.mp4
-#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="platinum.end.s01.e24" tvg-logo="https://image.tmdb.org/t/p/w300/qtuEnXUe1jZ7QVxNA5rcAGQVCVw.jpg" tvg-name="Platinum End S01 E24",Platinum End S01 E24
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/808636.mp4
 #EXTINF:-1 group-title="Series" tvg-id="pluto.tv.novelas.de.mexico" tvg-logo="" tvg-name="Pluto TV Novelas de México",Pluto TV Novelas de México
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 #EXTINF:-1 group-title="Series" tvg-id="pluto.tv.novelas.de.venezuela" tvg-logo="" tvg-name="Pluto TV Novelas de Venezuela",Pluto TV Novelas de Venezuela
@@ -621,52 +99,12 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="PRIDEtvLATAM.cl@HD" tvg-logo="" tvg-name="PRIDEtv LATAM (1080p)",PRIDEtv LATAM (1080p)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="quilos.mortais.mexico.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/cQ3XOZc8bdLDoKHcUNup7qKJZNd.jpg" tvg-name="Quilos Mortais México S01 E01",Quilos Mortais México S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/884538.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="quilos.mortais.mexico.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/x2X6BniJxP4nREHwh5iT5bcVF0Z.jpg" tvg-name="Quilos Mortais México S01 E02",Quilos Mortais México S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/884539.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="quilos.mortais.mexico.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/32NIhjkDZ4i187s3MglV77ZGUcF.jpg" tvg-name="Quilos Mortais México S01 E03",Quilos Mortais México S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/884540.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="quilos.mortais.mexico.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/32NIhjkDZ4i187s3MglV77ZGUcF.jpg" tvg-name="Quilos Mortais México S01 E04",Quilos Mortais México S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/884541.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="quilos.mortais.mexico.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/lv0tLrK46aucOklnsoh3zzQEcsd.jpg" tvg-name="Quilos Mortais México S01 E05",Quilos Mortais México S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/884542.mp4
-#EXTINF:-1 group-title="SERIES • DISCOVERY +" tvg-id="quilos.mortais.mexico.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/dEtIUwuxNAKBvSKZR1Yc9g8D6PD.jpg" tvg-name="Quilos Mortais México S01 E06",Quilos Mortais México S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/884543.mp4
 #EXTINF:-1 group-title="Live" tvg-id="RevryLatinX.us@SD" tvg-logo="" tvg-name="Revry LatinX",Revry LatinX
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="SERIES • PRIME AMAZON VIDEO" tvg-id="selecao.argentina.a.serie.rumo.a.catar.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w1280/yrvtoeWRpXFk9fIoeA9DhorSlqj.jpg" tvg-name="Seleção Argentina: A Série - Rumo a Catar S01 E01",Seleção Argentina: A Série - Rumo a Catar S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/864954.mp4
-#EXTINF:-1 group-title="SERIES • PRIME AMAZON VIDEO" tvg-id="selecao.argentina.a.serie.rumo.a.catar.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w1280/gWqVRf3sEgJ6PCDYhqduulVxxKE.jpg" tvg-name="Seleção Argentina: A Série - Rumo a Catar S01 E02",Seleção Argentina: A Série - Rumo a Catar S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/864955.mp4
-#EXTINF:-1 group-title="SERIES • PRIME AMAZON VIDEO" tvg-id="selecao.argentina.a.serie.rumo.a.catar.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w1280/nyQbnoUHpbvYXVOEIBSya0x0AdS.jpg" tvg-name="Seleção Argentina: A Série - Rumo a Catar S01 E03",Seleção Argentina: A Série - Rumo a Catar S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/864956.mp4
-#EXTINF:-1 group-title="SERIES • PRIME AMAZON VIDEO" tvg-id="selecao.argentina.a.serie.rumo.a.catar.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w1280/hENgo7Bs0SAUmvK8kJEVxno8T7A.jpg" tvg-name="Seleção Argentina: A Série - Rumo a Catar S01 E04",Seleção Argentina: A Série - Rumo a Catar S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/864957.mp4
-#EXTINF:-1 group-title="SERIES • PRIME AMAZON VIDEO" tvg-id="selecao.argentina.a.serie.rumo.a.catar.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w1280/sWmR5vAaU5eCLUbQ8hcIL3msUu9.jpg" tvg-name="Seleção Argentina: A Série - Rumo a Catar S01 E05",Seleção Argentina: A Série - Rumo a Catar S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/864958.mp4
-#EXTINF:-1 group-title="SERIES • PRIME AMAZON VIDEO" tvg-id="selecao.argentina.a.serie.rumo.a.catar.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w1280/vdnXaTrSdBoFToAnXNBpLlT759V.jpg" tvg-name="Seleção Argentina: A Série - Rumo a Catar S01 E06",Seleção Argentina: A Série - Rumo a Catar S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/864959.mp4
 #EXTINF:-1 group-title="Live" tvg-id="SenalColombia.co@SD" tvg-logo="" tvg-name="Senal Colombia (720p)",Senal Colombia (720p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="SenalPeruTV.pe@SD" tvg-logo="" tvg-name="Señal Perú TV (404p) [Not 24/7]",Señal Perú TV (404p) [Not 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 group-title="SERIES • AÇÃO" tvg-id="sitiados.mexico.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/1fP0k6smnOW8Rb6Lat1s3l8k0NE.jpg" tvg-name="Sitiados: México S01 E01",Sitiados: México S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/753169.mp4
-#EXTINF:-1 group-title="SERIES • AÇÃO" tvg-id="sitiados.mexico.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/utLezogdDmM12AboZJ0qx0snAA0.jpg" tvg-name="Sitiados: México S01 E02",Sitiados: México S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/753170.mp4
-#EXTINF:-1 group-title="SERIES • AÇÃO" tvg-id="sitiados.mexico.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/9517Ax702LELnIvvefJEyBBXAd9.jpg" tvg-name="Sitiados: México S01 E03",Sitiados: México S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/753171.mp4
-#EXTINF:-1 group-title="SERIES • AÇÃO" tvg-id="sitiados.mexico.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/oVM7IwXO0QZSP14huUdspuESTua.jpg" tvg-name="Sitiados: México S01 E04",Sitiados: México S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/753172.mp4
-#EXTINF:-1 group-title="SERIES • AÇÃO" tvg-id="sitiados.mexico.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/26ApHrySPnibzMcjufAMVmMdJE9.jpg" tvg-name="Sitiados: México S01 E05",Sitiados: México S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/753173.mp4
-#EXTINF:-1 group-title="SERIES • AÇÃO" tvg-id="sitiados.mexico.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/p2zfaFwggBrXl59Ta5PqmSmDWUE.jpg" tvg-name="Sitiados: México S01 E06",Sitiados: México S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/753174.mp4
-#EXTINF:-1 group-title="SERIES • AÇÃO" tvg-id="sitiados.mexico.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/u1Oz7W3kVI2hSC2rTrvxSkLDFkr.jpg" tvg-name="Sitiados: México S01 E07",Sitiados: México S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/753175.mp4
-#EXTINF:-1 group-title="SERIES • AÇÃO" tvg-id="sitiados.mexico.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/at7u7x3EhM41xCQDgM7zXSNlbA8.jpg" tvg-name="Sitiados: México S01 E08",Sitiados: México S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/753176.mp4
 #EXTINF:-1 group-title="Live" tvg-id="soap.latino.720p" tvg-logo="" tvg-name="Soap Latino (720p)",Soap Latino (720p)
 https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="sony.one.shark.tank.mexico.720p" tvg-logo="" tvg-name="Sony One Shark Tank México (720p)",Sony One Shark Tank México (720p)
@@ -677,18 +115,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playl
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-logo="" tvg-name="Stingray Today's Latin Pop (1080p)",Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="street.food.america.latina.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/rs1xOTM9PAAOvUtATAZzetBmpLx.jpg" tvg-name="Street Food: América Latina S01 E01",Street Food: América Latina S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/784669.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="street.food.america.latina.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/9CEB5UEAnEDFxmI0vmVnMOaWP8h.jpg" tvg-name="Street Food: América Latina S01 E02",Street Food: América Latina S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/784670.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="street.food.america.latina.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/vAm1bcTX0Vfpgc372HNN290Q26p.jpg" tvg-name="Street Food: América Latina S01 E03",Street Food: América Latina S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/784671.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="street.food.america.latina.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/g6O6z7cyf6DuNPq7V2dGqRKLEd4.jpg" tvg-name="Street Food: América Latina S01 E04",Street Food: América Latina S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/784672.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="street.food.america.latina.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/9abg1StRGghOHT2s9lB5stwbUsy.jpg" tvg-name="Street Food: América Latina S01 E05",Street Food: América Latina S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/784674.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="street.food.america.latina.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/vJUSU2FBvcnYwQlNiVEWxKrPwt3.jpg" tvg-name="Street Food: América Latina S01 E06",Street Food: América Latina S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/784675.mp4
 #EXTINF:-1 group-title="Live" tvg-id="StudioUniversalLatinAmerica.us@South" tvg-logo="" tvg-name="Studio Universal Latin America South (720p)",Studio Universal Latin America South (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-67_720.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="SUMtvLatino.us@SD" tvg-logo="" tvg-name="SUMtv Latino (1080p)",SUMtv Latino (1080p)
@@ -724,8 +150,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-75_480.m
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="VevoLatino.us@SD" tvg-logo="" tvg-name="Vevo Latino (1080p)",Vevo Latino (1080p)
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="viva.o.mexico.2023" tvg-logo="https://image.tmdb.org/t/p/w780/mZWLkJQeVy990LMFGlFJphOaioh.jpg" tvg-name="Viva o México! (2023)",Viva o México! (2023)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/821077.mp4
 #EXTINF:-1 group-title="Live" tvg-id="ViveTV.co@SD" tvg-logo="" tvg-name="Vive TV Colombia (1080p)",Vive TV Colombia (1080p)
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="VMLatino.cr@SD" tvg-logo="" tvg-name="VM Latino (720p) [Not 24/7]",VM Latino (720p) [Not 24/7]

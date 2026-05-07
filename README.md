@@ -121,14 +121,14 @@ python scripts/merge_lists.py --help
 
 ## Saídas geradas
 
-- `output/all_channels.m3u`
+- `output/all_channels.m3u` (somente TV ao vivo)
 - `output/index.m3u`
 - `output/live/*.m3u`
 - `output/movies/*.m3u`
 - `output/series/*.m3u`
-- `output/countries/*.m3u`
+- `output/countries/*.m3u` (somente TV ao vivo)
 - `output/categories/*.m3u`
-- `output/channels/*.m3u`
+- `output/channels/*.m3u` (somente TV ao vivo)
 - `output/channels/disney_channel.m3u`
 - `countries/<pais>/playlist.m3u`
 - `channels/<canal>/playlist.m3u`
@@ -170,3 +170,4 @@ O workflow automático está em `.github/workflows/generate-playlists.yml`.
 - O script prioriza entradas da `plus.m3u` em conflitos de duplicidade
 - A checagem de links offline é opcional porque pode ser lenta e depende de acesso de rede
 - Apps como TiviMate, IPTV Smarters e OTT Navigator consomem melhor os índices `output/live/index.m3u`, `output/movies/index.m3u` e `output/series/index.m3u`
+- Para manter os arquivos publicados menores, os recortes `all_channels`, `countries` e `channels` agora publicam apenas conteúdo linear live

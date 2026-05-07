@@ -650,16 +650,16 @@ def write_outputs(
 ) -> None:
     ensure_directories(project_root)
 
-    (project_root / "output" / "all_channels.m3u").write_text(
-        serialize_playlist(entries),
-        encoding="utf-8",
-    )
-
     live_entries = [entry for entry in entries if entry.content_type == "live"]
     movie_entries = [entry for entry in entries if entry.content_type == "movies"]
     series_entries = [entry for entry in entries if entry.content_type == "series"]
 
-    countries = group_entries(entries, "country")
+    (project_root / "output" / "all_channels.m3u").write_text(
+        serialize_playlist(live_entries),
+        encoding="utf-8",
+    )
+
+    countries = group_entries(live_entries, "country")
     for code in ["br", "us", "uk", "es", "pt", "jp", "kr", "fr", "de", "latam", "others"]:
         country_entries = countries.get(code, [])
         save_playlist(project_root / "countries" / code / "playlist.m3u", country_entries)
@@ -680,7 +680,7 @@ def write_outputs(
         save_playlist(project_root / "output" / "categories" / f"{slug}.m3u", category_entries)
         save_playlist(project_root / "categories" / f"{slug}.m3u", category_entries)
 
-    channels = group_entries([entry for entry in entries if entry.channel_group], "channel")
+    channels = group_entries([entry for entry in live_entries if entry.channel_group], "channel")
     for slug in sorted(CHANNEL_KEYWORDS):
         channel_entries = channels.get(slug, [])
         save_playlist(project_root / "channels" / slug / "playlist.m3u", channel_entries)
@@ -740,6 +740,11 @@ def write_outputs(
             "live": len(live_entries),
             "movies": len(movie_entries),
             "series": len(series_entries),
+        },
+        "published_outputs": {
+            "all_channels_entries": len(live_entries),
+            "countries_entries": sum(len(value) for value in countries.values()),
+            "channels_entries": sum(len(value) for value in channels.values()),
         },
         "countries": {key: len(value) for key, value in countries.items()},
         "categories": {key: len(value) for key, value in categories.items()},

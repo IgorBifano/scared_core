@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Series" tvg-id="a.feia.a.historia.continua.s01.e03.tvg.logo.https.image.tmdb.org.t.p.w300.b8tzscsbsq9lxdzkbz8iqvgmsfi.jpg.group.title.series.prime.amazon.video.betty.a.feia.a.historia.continua.s01.e03" tvg-logo="" tvg-name="A Feia - A História Continua S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/b8TZsCSBSq9lXdZkBz8iQvGMsFI.jpg" group-title="SERIES • PRIME AMAZON VIDEO",Betty, A Feia - A História Continua S01 E03",A Feia - A História Continua S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/b8TZsCSBSq9lXdZkBz8iQvGMsFI.jpg" group-title="SERIES • PRIME AMAZON VIDEO",Betty, A Feia - A História Continua S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/885515.mp4
 #EXTINF:-1 group-title="Live" tvg-id="ABN.kr@SD" tvg-logo="" tvg-name="ABN TV (720p)",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="ArirangRadio.kr@SD" tvg-logo="" tvg-name="Arirang Radio (720p)",Arirang Radio (720p)
@@ -15,8 +13,6 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="BBSTV.kr@SD" tvg-logo="" tvg-name="BBS Buddhist Broadcasting (1080p)",BBS Buddhist Broadcasting (1080p)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="bitch.s01.e02.tvg.logo.https.image.tmdb.org.t.p.w300.bb8jmbcmrbgyw402u0kudp1f8jf.jpg.group.title.series.netflix.boo.bitch.s01.e02" tvg-logo="" tvg-name="Bitch S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bB8JmBCMrBgYW402u0kUDP1f8JF.jpg" group-title="SERIES • NETFLIX",Boo, Bitch S01 E02",Bitch S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bB8JmBCMrBgYW402u0kUDP1f8JF.jpg" group-title="SERIES • NETFLIX",Boo, Bitch S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/846315.mp4
 #EXTINF:-1 group-title="Live" tvg-id="BTNTV.kr@SD" tvg-logo="" tvg-name="BTN TV (1080p)",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="ChannelA.kr@SD" tvg-logo="" tvg-name="Channel A [Geo-blocked]",Channel A [Geo-blocked]
@@ -55,8 +51,6 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="GugbangTV.kr@SD" tvg-logo="" tvg-name="Gugbang TV (1080p) [Not 24/7]",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="HomeShopping.kr@SD" tvg-logo="" tvg-name="Home & Shopping (720p)",Home & Shopping (720p)
-https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="HyundaiHomeShopping.kr@SD" tvg-logo="" tvg-name="Hyundai Home Shopping (720p)",Hyundai Home Shopping (720p)
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="HyundaiHomeShoppingPlusShop.kr@SD" tvg-logo="" tvg-name="Hyundai Home Shopping Plus (720p)",Hyundai Home Shopping Plus (720p)
@@ -87,8 +81,6 @@ https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="LotteOneTV.kr@SD" tvg-logo="" tvg-name="Lotte OneTV (720p)",Lotte OneTV (720p)
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-#EXTINF:-1 group-title="FILMES • 2026" tvg-id="made.in.korea.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//foEObhyAMM3dxYeBEr242EdQDB7.jpg" tvg-name="Made in Korea (2026)",Made in Korea (2026)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/975475.mp4
 #EXTINF:-1 group-title="Live" tvg-id="MBC1.ae@SD" tvg-logo="" tvg-name="MBC 1 (1080p)",MBC 1 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MBC1Egypt.eg@HD" tvg-logo="" tvg-name="MBC 1 Egypt (1080p)",MBC 1 Egypt (1080p)

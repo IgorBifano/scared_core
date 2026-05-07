@@ -7,10 +7,6 @@ https://4afghls.persiana.live/hls/stream.m3u8
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="6ter.fr@SD" tvg-logo="" tvg-name="6ter (1080p) [Geo-blocked] [Geo-Blocked]",6ter (1080p) [Geo-blocked] [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-#EXTINF:-1 group-title="FILMES • 2024" tvg-id="a.garota.francesa.2024" tvg-logo="https://image.tmdb.org/t/p/w780/9DUeMtypGaIO9T3sxGePSFrOLbl.jpg" tvg-name="A Garota Francesa (2024)",A Garota Francesa (2024)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/835587.mp4
-#EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="a.pequena.frances.2020" tvg-logo="https://image.tmdb.org/t/p/w780/wcuJNKllpXBSY5bBwdLPQhlYahu.jpg" tvg-name="A Pequena Frances (2020)",A Pequena Frances (2020)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/729405.mp4
 #EXTINF:-1 group-title="Live" tvg-id="AB1.fr@SD" tvg-logo="" tvg-name="AB1 (720p) [Geo-Blocked]",AB1 (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 #EXTINF:-1 group-title="Live" tvg-id="ADNTVPlus.fr@SD" tvg-logo="" tvg-name="ADN TV+ (720p)",ADN TV+ (720p)
@@ -172,8 +168,6 @@ http://69.64.57.208/france5/mono.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 group-title="Live" tvg-id="FranceInter.fr@SD" tvg-logo="" tvg-name="France Inter (288p)",France Inter (288p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
-#EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="france.sob.os.holofotes.2021" tvg-logo="https://image.tmdb.org/t/p/w780/wpFJGrThPtTjFLyEc3r9MdQH7xr.jpg" tvg-name="France: Sob Os Holofotes (2021)",France: Sob Os Holofotes (2021)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/759566.mp4
 #EXTINF:-1 group-title="Live" tvg-id="Franceinfo.fr@SD" tvg-logo="" tvg-name="Franceinfo (720p) [Geo-Blocked]",Franceinfo (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="Francophonie24.fr@SD" tvg-logo="" tvg-name="Francophonie24 (1080p)",Francophonie24 (1080p)
@@ -219,16 +213,12 @@ https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MDL.fr@SD" tvg-logo="" tvg-name="MDL (720p)",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="meghan.s01.e07.tvg.logo.https.image.tmdb.org.t.p.w300.fygrlleiiccxx6qfwgfws4jtf1f.jpg.group.title.series.netflix.com.amor.meghan.s01.e07" tvg-logo="" tvg-name="Meghan S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/fYGRLLEiiccxX6qfWgFWs4JTF1f.jpg" group-title="SERIES • NETFLIX",Com Amor, Meghan S01 E07",Meghan S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/fYGRLLEiiccxX6qfWgFWs4JTF1f.jpg" group-title="SERIES • NETFLIX",Com Amor, Meghan S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/893761.mp4
 #EXTINF:-1 group-title="Live" tvg-id="Melody.fr@SD" tvg-logo="" tvg-name="Melody (288p)",Melody (288p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MensUPTV.fr@SD" tvg-logo="" tvg-name="Men's UP TV (288p)",Men's UP TV (288p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="Mezzo.fr@SD" tvg-logo="" tvg-name="Mezzo (1080p) [Geo-Blocked]",Mezzo (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
-#EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="minha.professora.de.frances.1983" tvg-logo="https://image.tmdb.org/t/p/w780/tUgRBW8oCGYgQce58MROci7mSIl.jpg" tvg-name="Minha Professora de Francês (1983)",Minha Professora de Francês (1983)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/776651.mp4
 #EXTINF:-1 group-title="Live" tvg-id="MonteCarloDigitalTelevision.fr@HD" tvg-logo="" tvg-name="Monte Carlo Digital Television (1080p)",Monte Carlo Digital Television (1080p)
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="motorracing.france" tvg-logo="" tvg-name="Motorracing France",Motorracing France
@@ -241,8 +231,6 @@ https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MyGospelTV.fr@SD" tvg-logo="" tvg-name="My Gospel TV",My Gospel TV
 https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="mytime.movie.network.france.1080p" tvg-logo="" tvg-name="MyTime Movie Network France (1080p)",MyTime Movie Network France (1080p)
-https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="MyZenTV.fr@SD" tvg-logo="" tvg-name="MyZen TV (1080p)",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="NatureTime.ca@France" tvg-logo="" tvg-name="Nature Time France (1080p)",Nature Time France (1080p)
@@ -258,24 +246,8 @@ https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe
 #EXTINF:-1 group-title="Live" tvg-id="NOVO19.fr@HD" tvg-logo="" tvg-name="NOVO19 (720p) [Geo-Blocked]",NOVO19 (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="o.assassino.do.zodiaco.s01.e01.tvg.logo.https.image.tmdb.org.t.p.w300.ubfm0zjwazblwiaeszajx34zakg.jpg.group.title.series.apple.tv.meu.pai.o.assassino.do.zodiaco.s01.e01" tvg-logo="" tvg-name="o Assassino do Zodíaco S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/uBfm0zJWAZBLWiAesZaJX34ZAkg.jpg" group-title="SERIES • APPLE TV",Meu pai, o Assassino do Zodíaco S01 E01",o Assassino do Zodíaco S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/uBfm0zJWAZBLWiAesZaJX34ZAkg.jpg" group-title="SERIES • APPLE TV",Meu pai, o Assassino do Zodíaco S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/840423.mp4
-#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="os.franceses.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/vdPiKircW6Mny2n1wCtoMdGXmAi.jpg" tvg-name="Os Franceses S01 E01",Os Franceses S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/856021.mp4
-#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="os.franceses.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/79iNhmXHcFfYtH7QGSQY2DgpMHg.jpg" tvg-name="Os Franceses S01 E02",Os Franceses S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/856022.mp4
-#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="os.franceses.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/wF0VB5kQaPGKD72E6fg3FdTLBrb.jpg" tvg-name="Os Franceses S01 E03",Os Franceses S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/856023.mp4
-#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="os.franceses.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/oroJFGgLeYOV2nqDycrNvkmQvb.jpg" tvg-name="Os Franceses S01 E04",Os Franceses S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/856024.mp4
-#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="os.franceses.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/jjDq8KtL0ftJ0cGLdhqb1oOFjb0.jpg" tvg-name="Os Franceses S01 E05",Os Franceses S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/856025.mp4
-#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="os.franceses.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/zeyDLFh4LHFTqJm357B0EyhC45C.jpg" tvg-name="Os Franceses S01 E06",Os Franceses S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/856026.mp4
 #EXTINF:-1 group-title="Live" tvg-id="P2MTV.fr@SD" tvg-logo="" tvg-name="P2M TV (720p)",P2M TV (720p)
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="PersianaCinema.fr@SD" tvg-logo="" tvg-name="Persiana Cinema",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="PersianaComedy.fr@SD" tvg-logo="" tvg-name="Persiana Comedy",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="PersianaDocs.fr@HD" tvg-logo="" tvg-name="Persiana Docs",Persiana Docs
@@ -336,10 +308,6 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="RTL2.fr@SD" tvg-logo="" tvg-name="RTL2",RTL2
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8
-#EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="saida.a.francesa.2021" tvg-logo="https://image.tmdb.org/t/p/w780/jSqnvS5kz0BmJOT4VWaCV20KeDY.jpg" tvg-name="Saída à Francesa (2021)",Saída à Francesa (2021)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/805873.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="saida.a.francesa.leg.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSqnvS5kz0BmJOT4VWaCV20KeDY.jpg" tvg-name="Saída à Francesa LEG (2021)",Saída à Francesa LEG (2021)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966889.mp4
 #EXTINF:-1 group-title="Live" tvg-id="ShababFM.ps@SD" tvg-logo="" tvg-name="Shabab FM (720p) [Not 24/7]",Shabab FM (720p) [Not 24/7]
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="SonyOneBlacklist.fr@HD" tvg-logo="" tvg-name="Sony One Blacklist (1080p)",Sony One Blacklist (1080p)
@@ -362,8 +330,6 @@ https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="SudRadio.fr@SD" tvg-logo="" tvg-name="Sud Radio (288p)",Sud Radio (288p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
-#EXTINF:-1 group-title="FILMES • GUERRA" tvg-id="suite.francesa.2015" tvg-logo="https://image.tmdb.org/t/p/w780/4tXfSooFaJLzQFi20iT8LgdOBfu.jpg" tvg-name="Suite Francesa (2015)",Suite Francesa (2015)
-http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/809996.mp4
 #EXTINF:-1 group-title="Live" tvg-id="T18.fr@HD" tvg-logo="" tvg-name="T18 (1080p)",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="TeleGohelle.fr@SD" tvg-logo="" tvg-name="TéléGohelle",TéléGohelle
@@ -378,38 +344,6 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="TiVi5Monde.fr@SD" tvg-logo="" tvg-name="TiVi5 Monde [Geo-blocked]",TiVi5 Monde [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/c6R5CsRggPdUGCyEM4mdECVlbtx.jpg" tvg-name="Tour de France: No Coração do Pelotão S01 E01",Tour de France: No Coração do Pelotão S01 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875351.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/uXwLmk7LJ92TBiwGTjPqbjAmG9H.jpg" tvg-name="Tour de France: No Coração do Pelotão S01 E02",Tour de France: No Coração do Pelotão S01 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875352.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/WTqkKs7SLPkwjkHyBsMGW8qZcX.jpg" tvg-name="Tour de France: No Coração do Pelotão S01 E03",Tour de France: No Coração do Pelotão S01 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875353.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/rVBq7Yl5T7hndhS5lQMKmGaNk1c.jpg" tvg-name="Tour de France: No Coração do Pelotão S01 E04",Tour de France: No Coração do Pelotão S01 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875354.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/tHFdLyId3693iORiSqYLr0Jeu2P.jpg" tvg-name="Tour de France: No Coração do Pelotão S01 E05",Tour de France: No Coração do Pelotão S01 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875355.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/wnidRFaKUmzAIdVeiHVsDJE27Mc.jpg" tvg-name="Tour de France: No Coração do Pelotão S01 E06",Tour de France: No Coração do Pelotão S01 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875356.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/gs5GuNnjJNJDKRISClMgU2yboVm.jpg" tvg-name="Tour de France: No Coração do Pelotão S01 E07",Tour de France: No Coração do Pelotão S01 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875357.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/jSxttRvGx7nVwRMChB2t4SbKDhy.jpg" tvg-name="Tour de France: No Coração do Pelotão S01 E08",Tour de France: No Coração do Pelotão S01 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875358.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s02.e01" tvg-logo="https://image.tmdb.org/t/p/w300/vSbFJ6FljBx7n5RnP8lfnL38TAP.jpg" tvg-name="Tour de France: No Coração do Pelotão S02 E01",Tour de France: No Coração do Pelotão S02 E01
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875359.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s02.e02" tvg-logo="https://image.tmdb.org/t/p/w300/uSPoiBWYBWdqmIvO7oxo7QxCfB1.jpg" tvg-name="Tour de France: No Coração do Pelotão S02 E02",Tour de France: No Coração do Pelotão S02 E02
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875360.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s02.e03" tvg-logo="https://image.tmdb.org/t/p/w300/yBM01ga0W1jh1tfvgAeY2pXlmTR.jpg" tvg-name="Tour de France: No Coração do Pelotão S02 E03",Tour de France: No Coração do Pelotão S02 E03
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875361.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s02.e04" tvg-logo="https://image.tmdb.org/t/p/w300/jO2RVAWfrqxVgU422vqlZ28LoCZ.jpg" tvg-name="Tour de France: No Coração do Pelotão S02 E04",Tour de France: No Coração do Pelotão S02 E04
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875362.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s02.e05" tvg-logo="https://image.tmdb.org/t/p/w300/hn1yVvljnSLzDJxm1T2i6ZR9G69.jpg" tvg-name="Tour de France: No Coração do Pelotão S02 E05",Tour de France: No Coração do Pelotão S02 E05
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875363.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s02.e06" tvg-logo="https://image.tmdb.org/t/p/w300/fNTb1qNmPW9lq1oA5Ngc0MmpnLJ.jpg" tvg-name="Tour de France: No Coração do Pelotão S02 E06",Tour de France: No Coração do Pelotão S02 E06
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875364.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s02.e07" tvg-logo="https://image.tmdb.org/t/p/w300/kcZVYA9LPtaFMl5cIlf1dJa6lJ5.jpg" tvg-name="Tour de France: No Coração do Pelotão S02 E07",Tour de France: No Coração do Pelotão S02 E07
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875365.mp4
-#EXTINF:-1 group-title="SERIES • DOCUMENTÁRIOS" tvg-id="tour.de.france.no.coracao.do.pelotao.s02.e08" tvg-logo="https://image.tmdb.org/t/p/w300/yHIwITBAHaE0qDJPzRdP5eUlQTx.jpg" tvg-name="Tour de France: No Coração do Pelotão S02 E08",Tour de France: No Coração do Pelotão S02 E08
-http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875366.mp4
 #EXTINF:-1 group-title="Live" tvg-id="TraceBrazuca.fr@SD" tvg-logo="" tvg-name="TRACE Brazuca (1080p)",TRACE Brazuca (1080p)
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live" tvg-id="TraceGospel.fr@SD" tvg-logo="" tvg-name="Trace Gospel (1080p)",Trace Gospel (1080p)
