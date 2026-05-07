@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="Live" tvg-id="HTSporTV.tr@SD" tvg-logo="" tvg-name="HTSpor TV (1080p)",HTSpor TV (1080p)
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.fhd1" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 FHD¹",SPORTV 1 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464794
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.fhd2" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 FHD²",SPORTV 1 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464795
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.hd1" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 HD¹",SPORTV 1 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464796
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.hd2" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 HD²",SPORTV 1 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464797
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.sd1" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 SD¹",SPORTV 1 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464798
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.sd2" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 SD²",SPORTV 1 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464799
+#EXTINF:-1 group-title="Sports" tvg-id="SporTV.br@SD" tvg-logo="" tvg-name="SporTV (1280p)",SporTV (1280p)
+https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 SD",SPORTV 2 SD
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464804
+#EXTINF:-1 group-title="Sports" tvg-id="SporTV2.br@SD" tvg-logo="" tvg-name="SporTV 2 (1280p)",SporTV 2 (1280p)
+https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="SporTV2Alternativo.br@SD" tvg-logo="" tvg-name="SporTV 2 Alternativo (720p)",SporTV 2 Alternativo (720p)
+https://stm.sinalmycn.com/19025/video.m3u8
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.fhd1" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 FHD¹",SPORTV 2 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464800
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.fhd2" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 FHD²",SPORTV 2 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464801
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.hd1" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 HD¹",SPORTV 2 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464802
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.hd2" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 HD²",SPORTV 2 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464803
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.sd2" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 SD²",SPORTV 2 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464805
+#EXTINF:-1 group-title="Sports" tvg-id="SporTV3.br@SD" tvg-logo="" tvg-name="SporTV 3 (1080p)",SporTV 3 (1080p)
+https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.fhd1" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 FHD¹",SPORTV 3 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464806
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.fhd2" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 FHD²",SPORTV 3 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464807
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.hd1" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 HD¹",SPORTV 3 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464808
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.hd2" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 HD²",SPORTV 3 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464809
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.sd1" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 SD¹",SPORTV 3 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464810
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.sd2" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 SD²",SPORTV 3 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464811
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.fhd1" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 FHD¹",SPORTV 4 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464812
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.fhd2" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 FHD²",SPORTV 4 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464813
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.hd1" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 HD¹",SPORTV 4 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464814
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.hd2" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 HD²",SPORTV 4 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464815
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.sd1" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 SD¹",SPORTV 4 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464816
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.sd2" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 SD²",SPORTV 4 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464817
+#EXTINF:-1 group-title="Sports" tvg-id="SporTVAlternativo.br@SD" tvg-logo="" tvg-name="SporTV Alternativo (720p)",SporTV Alternativo (720p)
+https://stm.sinalmycn.com/19024/video.m3u8

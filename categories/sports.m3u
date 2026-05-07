@@ -1,0 +1,986 @@
+#EXTM3U
+#EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="a.influencer.divina.2023" tvg-logo="https://image.tmdb.org/t/p/w780/saP1nYtwwp9umyHeUUSKNyuBLbj.jpg" tvg-name="A Influencer Divina (2023)",A Influencer Divina (2023)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/843258.mp4
+#EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="a.influenciadora.2021" tvg-logo="https://image.tmdb.org/t/p/w780/mpBHwg365CHxp9O1uhlyUan6pnT.jpg" tvg-name="A Influenciadora (2021)",A Influenciadora (2021)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/826418.mp4
+#EXTINF:-1 group-title="FILMES • TERROR" tvg-id="a.profecia.iii.o.conflito.final.1981" tvg-logo="https://image.tmdb.org/t/p/w780/2B8MTqjDbx26ULnEyyV5vta13Ho.jpg" tvg-name="A Profecia III: O Conflito Final (1981)",A Profecia III: O Conflito Final (1981)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/729835.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="ACISportTV.it@SD" tvg-logo="" tvg-name="ACI Sport TV (1080p)",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Adjarasport1.ge@SD" tvg-logo="" tvg-name="Adjarasport 1",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Africa24Sport.fr@SD" tvg-logo="" tvg-name="Africa 24 Sport (1080p)",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="CANAIS • TABELA DE JOGOS" tvg-id="agenda.ufc1" tvg-logo="https://i.imgur.com/TYLXk9v.png" tvg-name="AGENDA UFC¹",AGENDA UFC¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464757
+#EXTINF:-1 group-title="Sports" tvg-id="AlfaSport.cy@SD" tvg-logo="" tvg-name="Alfa Sport (1080p) [Not 24/7]",Alfa Sport (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="FILMES • AÇÃO" tvg-id="alita.anjo.de.combate.2019" tvg-logo="https://image.tmdb.org/t/p/w780/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" tvg-name="Alita: Anjo de Combate (2019)",Alita: Anjo de Combate (2019)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/733318.mp4
+#EXTINF:-1 group-title="FILMES • 4K" tvg-id="alita.anjo.de.combate.4k.2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" tvg-name="Alita: Anjo de Combate 4K (2019)",Alita: Anjo de Combate 4K (2019)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/967365.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/7KNyJ2qd2nmn30mk65gmwqmoXd7.jpg" tvg-name="American Sports Story S01 E01",American Sports Story S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889911.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/kfg4hXvbqclRDmARQiLRvZHVKHM.jpg" tvg-name="American Sports Story S01 E02",American Sports Story S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889912.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/mtaOflQyGW2In9PzyffVw1IhmwI.jpg" tvg-name="American Sports Story S01 E03",American Sports Story S01 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889913.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/qAM1xv4XfeKRBhqeuVfFsHaXyVl.jpg" tvg-name="American Sports Story S01 E04",American Sports Story S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889914.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/2kqOfbhtXcnGYfQAe0TAkR1wNju.jpg" tvg-name="American Sports Story S01 E05",American Sports Story S01 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889915.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/qa9kyKFwzZSdnFGTZqXTjotsOml.jpg" tvg-name="American Sports Story S01 E06",American Sports Story S01 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889916.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/3W0HOofJYihxQjkavWuoP1JGeo6.jpg" tvg-name="American Sports Story S01 E07",American Sports Story S01 E07
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889917.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/58n6MS6S3ZbxPx0QQVZEuRyrojJ.jpg" tvg-name="American Sports Story S01 E08",American Sports Story S01 E08
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889918.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/tDZJr48EJQO8U8pb7vq8DbZ0c7r.jpg" tvg-name="American Sports Story S01 E09",American Sports Story S01 E09
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889919.mp4
+#EXTINF:-1 group-title="SERIES • DISNEY + PLUS" tvg-id="american.sports.story.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/eICbounLhl6DcjvboQavwBJUEZG.jpg" tvg-name="American Sports Story S01 E10",American Sports Story S01 E10
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889920.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="AntenaSport.ro@SD" tvg-logo="" tvg-name="AntenaSport (1280p) [Not 24/7]",AntenaSport (1280p) [Not 24/7]
+https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 group-title="Sports" tvg-id="AS3SportTV.ve@SD" tvg-logo="" tvg-name="AS3 Sport TV (1080p)",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="asterix.e.obelix.o.combate.dos.chefes.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/z5oy1f1prjCByJ8yRqEoHlLkfmO.jpg" tvg-name="Asterix e Obelix: O Combate dos Chefes S01 E01",Asterix e Obelix: O Combate dos Chefes S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/895385.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="asterix.e.obelix.o.combate.dos.chefes.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/r3pwxf7yFoxEnPXfahbCVIziCCR.jpg" tvg-name="Asterix e Obelix: O Combate dos Chefes S01 E02",Asterix e Obelix: O Combate dos Chefes S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/895386.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="asterix.e.obelix.o.combate.dos.chefes.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/nkycX30qB20mxW6Pm0f6MU3zuBy.jpg" tvg-name="Asterix e Obelix: O Combate dos Chefes S01 E03",Asterix e Obelix: O Combate dos Chefes S01 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/895387.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="asterix.e.obelix.o.combate.dos.chefes.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/kEB58UQ10qikeVH1zrUHHBRa4jE.jpg" tvg-name="Asterix e Obelix: O Combate dos Chefes S01 E04",Asterix e Obelix: O Combate dos Chefes S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/895388.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="asterix.e.obelix.o.combate.dos.chefes.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/2BFE4PN4AyEklT3E8fIBJJKcq1v.jpg" tvg-name="Asterix e Obelix: O Combate dos Chefes S01 E05",Asterix e Obelix: O Combate dos Chefes S01 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/895389.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="auto.motor.sport" tvg-logo="" tvg-name="Auto Motor Sport",Auto Motor Sport
+https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="AwapaSportsTV.sv@SD" tvg-logo="" tvg-name="Awapa Sports TV (1080p) [Not 24/7]",Awapa Sports TV (1080p) [Not 24/7]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="BahrainSports1.bh@SD" tvg-logo="" tvg-name="Bahrain Sports 1 (720p) [Not 24/7]",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="BahrainSports2.bh@SD" tvg-logo="" tvg-name="Bahrain Sports 2 (720p) [Not 24/7]",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS • BAND SPORTS" tvg-id="band.sports.fhd1" tvg-logo="https://assistatv.me/images/124878d2fbbb79854692a54237862193.png" tvg-name="BAND SPORTS FHD¹",BAND SPORTS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464753
+#EXTINF:-1 group-title="CANAIS • BAND SPORTS" tvg-id="band.sports.fhd2" tvg-logo="https://assistatv.me/images/124878d2fbbb79854692a54237862193.png" tvg-name="BAND SPORTS FHD²",BAND SPORTS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971694
+#EXTINF:-1 group-title="CANAIS • BAND SPORTS" tvg-id="band.sports.hd1" tvg-logo="https://assistatv.me/images/124878d2fbbb79854692a54237862193.png" tvg-name="BAND SPORTS HD¹",BAND SPORTS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464754
+#EXTINF:-1 group-title="CANAIS • BAND SPORTS" tvg-id="band.sports.hd2" tvg-logo="https://assistatv.me/images/124878d2fbbb79854692a54237862193.png" tvg-name="BAND SPORTS HD²",BAND SPORTS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971695
+#EXTINF:-1 group-title="CANAIS • BAND SPORTS" tvg-id="band.sports.sd1" tvg-logo="https://assistatv.me/images/124878d2fbbb79854692a54237862193.png" tvg-name="BAND SPORTS SD¹",BAND SPORTS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464755
+#EXTINF:-1 group-title="CANAIS • BAND SPORTS" tvg-id="band.sports.sd2" tvg-logo="https://assistatv.me/images/124878d2fbbb79854692a54237862193.png" tvg-name="BAND SPORTS SD²",BAND SPORTS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971696
+#EXTINF:-1 group-title="Sports" tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="" tvg-name="BeIN SPORTS XTRA (1080p) [Geo-blocked]",BeIN SPORTS XTRA (1080p) [Geo-blocked]
+https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="bein.sports.xtra.en.espanol.1080p" tvg-logo="" tvg-name="beIN SPORTS Xtra en Español (1080p)",beIN SPORTS Xtra en Español (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.vf=SylQdpcCl2O
+#EXTINF:-1 group-title="Sports" tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="" tvg-name="beIN Sports XTRA en Espanol (1080p)",beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="BEKSports.us@West" tvg-logo="" tvg-name="BEK TV Sports West (720p)",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="belem.zona.de.conflito.2013" tvg-logo="https://image.tmdb.org/t/p/w780/uDb51EIifJ3AEob0yJUaaeMs1yn.jpg" tvg-name="Belém: Zona de Conflito (2013)",Belém: Zona de Conflito (2013)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/741107.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="bill.russell.lenda.da.nba.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF0VXgGjivK05HNjcfV1X5ZZ76M.jpg" tvg-name="Bill Russell: Lenda da NBA S01 E01",Bill Russell: Lenda da NBA S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/864787.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="bill.russell.lenda.da.nba.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF0VXgGjivK05HNjcfV1X5ZZ76M.jpg" tvg-name="Bill Russell: Lenda da NBA S01 E02",Bill Russell: Lenda da NBA S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/864788.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="bio.broly.1994.tvg.logo.https.image.tmdb.org.t.p.w780.vyenlk3ludgyqz9t2g4wivdmr3w.jpg.group.title.filmes.animes.filmes.dragon.ball.z.o.combate.final.bio.broly.1994" tvg-logo="" tvg-name="Bio-Broly (1994)" tvg-logo="https://image.tmdb.org/t/p/w780/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg" group-title="FILMES • ANIMES FILMES",Dragon Ball Z: O Combate Final, Bio-Broly (1994)",Bio-Broly (1994)" tvg-logo="https://image.tmdb.org/t/p/w780/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg" group-title="FILMES • ANIMES FILMES",Dragon Ball Z: O Combate Final, Bio-Broly (1994)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/847721.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="CBCSport.az@HD" tvg-logo="" tvg-name="CBC Sport HD [Geo-blocked]",CBC Sport HD [Geo-blocked]
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-logo="" tvg-name="CBS Sports Golazo Network (720p)",CBS Sports Golazo Network (720p)
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="CBSSportsHQ.us@SD" tvg-logo="" tvg-name="CBS Sports HQ (1080p) [Geo-blocked]",CBS Sports HQ (1080p) [Geo-blocked]
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="CinePremiere.us@SD" tvg-logo="" tvg-name="Cine Premiere",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="claro.sports.mexico" tvg-logo="" tvg-name="Claro Sports Mexico",Claro Sports Mexico
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="combate.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" tvg-name="COMBATE FHD¹",COMBATE FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464647
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="combate.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" tvg-name="COMBATE FHD²",COMBATE FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464648
+#EXTINF:-1 group-title="Sports" tvg-id="Combate.br@SD" tvg-logo="" tvg-name="Combate Global",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="combate.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" tvg-name="COMBATE HD¹",COMBATE HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464649
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="combate.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" tvg-name="COMBATE HD²",COMBATE HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464650
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="combate.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" tvg-name="COMBATE SD¹",COMBATE SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464651
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="combate.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTNf/combate.png" tvg-name="COMBATE SD²",COMBATE SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464652
+#EXTINF:-1 group-title="FILMES • INFANTIL" tvg-id="combatentes.da.liberdade.ray.2018" tvg-logo="https://image.tmdb.org/t/p/w780/vH6xVfAfgE1Toe5CMjHit8DPqMQ.jpg" tvg-name="Combatentes da Liberdade: Ray (2018)",Combatentes da Liberdade: Ray (2018)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/746509.mp4
+#EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="como.se.tornar.influente.2020" tvg-logo="https://image.tmdb.org/t/p/w780/onoSu7x4nAzh8u6GX9wACjbsgfD.jpg" tvg-name="Como Se Tornar Influente (2020)",Como Se Tornar Influente (2020)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/746831.mp4
+#EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="conflitos.em.familia.2017" tvg-logo="https://image.tmdb.org/t/p/w780/2J8VR4OecoqdCqjT3A9f01h6fZZ.jpg" tvg-name="Conflitos Em Família (2017)",Conflitos Em Família (2017)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/747179.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="CTSport.cz@SD" tvg-logo="" tvg-name="ČT Sport (720p)",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="DDSports.in@SD" tvg-logo="" tvg-name="DD Sports SD (720p)",DD Sports SD (720p)
+http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="DirecTVSports.us@Panregional" tvg-logo="" tvg-name="DirecTV Sports (1080p)",DirecTV Sports (1080p)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="FILMES • AVENTURA" tvg-id="dragonball.evolution.2009" tvg-logo="https://image.tmdb.org/t/p/w780/ztlqrY7VgFIFmtzVsh3TPYiXCdF.jpg" tvg-name="Dragonball Evolution (2009)",Dragonball Evolution (2009)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/753380.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="DSportsUruguay.uy@SD" tvg-logo="" tvg-name="DSports Uruguay",DSports Uruguay
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="dyn.sport.mix.720p" tvg-logo="" tvg-name="Dyn Sport Mix (720p)",Dyn Sport Mix (720p)
+https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="earth.final.conflict" tvg-logo="" tvg-name="Earth: Final Conflict",Earth: Final Conflict
+https://jmp2.uk/plu-66f1331f9409630008077623.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ERTSports1.gr@HD" tvg-logo="" tvg-name="ERT Sports 1 (1080p)",ERT Sports 1 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 group-title="Sports" tvg-id="ERTSports2.gr@HD" tvg-logo="" tvg-name="ERT Sports 2 (1080p)",ERT Sports 2 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNThf/espn.png" tvg-name="ESPN FHD",ESPN FHD
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971202
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.2" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNTlf/espn2.png" tvg-name="ESPN 2 FHD",ESPN 2 FHD
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971208
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.2.alt" tvg-logo="https://assistatv.me/images/a5b2718c75617834e6f20c098405c684.png" tvg-name="ESPN 2 FHD (Alt)",ESPN 2 FHD (Alt)
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971209
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.3" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjBf/espn3.png" tvg-name="ESPN 3 FHD",ESPN 3 FHD
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971214
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.3.alt" tvg-logo="https://assistatv.me/images/851f18f6e64fdb2e5df1056c2db285af.png" tvg-name="ESPN 3 FHD (Alt)",ESPN 3 FHD (Alt)
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971215
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.4" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjFf/espn4.png" tvg-name="ESPN 4 FHD",ESPN 4 FHD
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971220
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.4.alt" tvg-logo="https://assistatv.me/images/2a9c4f7879157b2df1b7d6b55991f280.png" tvg-name="ESPN 4 FHD (Alt)",ESPN 4 FHD (Alt)
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971221
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.5" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjJf/espn5.png" tvg-name="ESPN 5 FHD",ESPN 5 FHD
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971226
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.5.alt" tvg-logo="https://assistatv.me/images/025bb59b7f9087ff7ddcada4656d443d.png" tvg-name="ESPN 5 FHD (Alt)",ESPN 5 FHD (Alt)
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971227
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.6" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjNf/espn6.png" tvg-name="ESPN 6 FHD",ESPN 6 FHD
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971232
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.6.alt" tvg-logo="https://assistatv.me/images/528dc0ae98c5523da1abd22739ce9682.png" tvg-name="ESPN 6 FHD (Alt)",ESPN 6 FHD (Alt)
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971233
+#EXTINF:-1 group-title="CANAIS • ESPN" tvg-id="espn.alt" tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" tvg-name="ESPN FHD (Alt)",ESPN FHD (Alt)
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971203
+#EXTINF:-1 group-title="Sports" tvg-id="ESPNDeportes.us@SD" tvg-logo="" tvg-name="ESPN Deportes (360p)",ESPN Deportes (360p)
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-logo="" tvg-name="ESPN8 The Ocho (1080p)",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Esport3.es@SD" tvg-logo="" tvg-name="Esport3 (1080p) [Geo-blocked]",Esport3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Esport3.es@Originals" tvg-logo="" tvg-name="Esport3 (1080p) [Not 24/7]",Esport3 (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="FILMES • AÇÃO" tvg-id="esporte.sangrento.1993" tvg-logo="https://image.tmdb.org/t/p/w780/uTQ42xQ0dWMtppI1AvvNLSFrHMD.jpg" tvg-name="Esporte Sangrento (1993)",Esporte Sangrento (1993)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/756751.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="esportes.pelo.mundo.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8ukbOysvG0j2Yb7Ih6ISMxTB6x.jpg" tvg-name="Esportes pelo Mundo S01 E01",Esportes pelo Mundo S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/857864.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="esportes.pelo.mundo.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhvvtEOCjC6HPn0rptigAUPCMsq.jpg" tvg-name="Esportes pelo Mundo S01 E02",Esportes pelo Mundo S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/857865.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="esportes.pelo.mundo.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfGJB4xucs1cRXICQUv3g4Uq4aS.jpg" tvg-name="Esportes pelo Mundo S01 E03",Esportes pelo Mundo S01 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/857866.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="esportes.pelo.mundo.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziPPUoBbwYnM5KqwKltowhW9VNy.jpg" tvg-name="Esportes pelo Mundo S01 E04",Esportes pelo Mundo S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/857867.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="esportes.pelo.mundo.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PQWGu0UK2wrSO3u7ibUDh1pEye.jpg" tvg-name="Esportes pelo Mundo S01 E05",Esportes pelo Mundo S01 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/857868.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="esportes.pelo.mundo.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oXWDuMf4ooVuXSJpo0w3aVirXD.jpg" tvg-name="Esportes pelo Mundo S01 E06",Esportes pelo Mundo S01 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/857869.mp4
+#EXTINF:-1 group-title="FILMES • TERROR" tvg-id="followed.influencia.maligna.2020" tvg-logo="https://image.tmdb.org/t/p/w780/cqQ7Fw21E5CMaGuyomh9E4crqZq.jpg" tvg-name="Followed: Influência Maligna (2020)",Followed: Influência Maligna (2020)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/759277.mp4
+#EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="fora.de.combate.2018" tvg-logo="https://image.tmdb.org/t/p/w780/47ITipyIx7QPjB1oyNsR6H52Ic0.jpg" tvg-name="Fora de Combate (2018)",Fora de Combate (2018)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/759338.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSports1.us@HD" tvg-logo="" tvg-name="Fox Sports 1 (1280p)",Fox Sports 1 (1280p)
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="fox.sports.1080p" tvg-logo="" tvg-name="FOX Sports (1080p)",FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSports.ar@SD" tvg-logo="" tvg-name="Fox Sports (1080p)",Fox Sports (1080p)
+#EXTVLCOPT:http-referrer=https://foxsports.com.ar/
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="fox.sports.1080p.geo.blocked" tvg-logo="" tvg-name="FOX Sports (1080p) [Geo-blocked]",FOX Sports (1080p) [Geo-blocked]
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSports2.us@HD" tvg-logo="" tvg-name="Fox Sports 2 (720p) [Not 24/7]",Fox Sports 2 (720p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="" tvg-name="Fox Sports 3 Latin America (1080p)",Fox Sports 3 Latin America (1080p)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="fox.sports.720p" tvg-logo="" tvg-name="FOX Sports (720p)",FOX Sports (720p)
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FoxDeportes.us@SD" tvg-logo="" tvg-name="Fox Sports en Espanol (720p)",Fox Sports en Espanol (720p)
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FTFSports.us@SD" tvg-logo="" tvg-name="FTF Sports (720p)",FTF Sports (720p)
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FuboSportsNetwork.us@SD" tvg-logo="" tvg-name="fubo Sports Network (1080p)",fubo Sports Network (1080p)
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/dZutwYQkU5ddauTt4DImZ00w2M6.jpg" tvg-name="Ganbare Douki-chan S01 E01",Ganbare Douki-chan S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845728.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/5Z5cXdnrZ7q8DKXUQUQK9VdoiTB.jpg" tvg-name="Ganbare Douki-chan S01 E02",Ganbare Douki-chan S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845729.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/gg4tYBwPSHYQYNkf5AV4GPmRVFq.jpg" tvg-name="Ganbare Douki-chan S01 E03",Ganbare Douki-chan S01 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845730.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/vVd4DRcOA7TGqeTg3wIUlUWUjfa.jpg" tvg-name="Ganbare Douki-chan S01 E04",Ganbare Douki-chan S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845731.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/uKKIYE3SsA9HiULCUoxCy1iNhKs.jpg" tvg-name="Ganbare Douki-chan S01 E05",Ganbare Douki-chan S01 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845732.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/4enMcJwMN7E6BTDmgK4qTGEGMz5.jpg" tvg-name="Ganbare Douki-chan S01 E06",Ganbare Douki-chan S01 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845734.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/ltN1HRPxvezH2KRCfSaQsNVyXSI.jpg" tvg-name="Ganbare Douki-chan S01 E07",Ganbare Douki-chan S01 E07
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845735.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/lt9ifvW11TbTnPReBptB5DhfYar.jpg" tvg-name="Ganbare Douki-chan S01 E08",Ganbare Douki-chan S01 E08
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845736.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/oR3h1tAqaqN9jZr3Lrfrv5lBMap.jpg" tvg-name="Ganbare Douki-chan S01 E09",Ganbare Douki-chan S01 E09
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845737.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/jqpFjXpWw1PAow2DQ3vJIqTBP8Y.jpg" tvg-name="Ganbare Douki-chan S01 E10",Ganbare Douki-chan S01 E10
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845738.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e11" tvg-logo="https://image.tmdb.org/t/p/w300/6wxmZgB2F0c8ETEpCyQ7fdfua7v.jpg" tvg-name="Ganbare Douki-chan S01 E11",Ganbare Douki-chan S01 E11
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845739.mp4
+#EXTINF:-1 group-title="SERIES • ANIMES" tvg-id="ganbare.douki.chan.s01.e12" tvg-logo="https://image.tmdb.org/t/p/w300/k4X5XSHpv2cjL5chdWuKMH7nDZ3.jpg" tvg-name="Ganbare Douki-chan S01 E12",Ganbare Douki-chan S01 E12
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845740.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="GAORASPORTS.jp@SD" tvg-logo="" tvg-name="Gaora Sports (544p)",Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="Sports" tvg-id="GEMSport.tr@SD" tvg-logo="" tvg-name="GEM Sport",GEM Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="guerrero.s01.e04.tvg.logo.https.image.tmdb.org.t.p.w1280.744rv0b9expc6eyggxuepgc5ufc.jpg.group.title.series.netflix.contigo.guerrero.s01.e04" tvg-logo="" tvg-name="Guerrero S01 E04" tvg-logo="https://image.tmdb.org/t/p/w1280/744Rv0b9eXPc6eyGGXUepGc5UfC.jpg" group-title="SERIES • NETFLIX",Contigo, Guerrero S01 E04",Guerrero S01 E04" tvg-logo="https://image.tmdb.org/t/p/w1280/744Rv0b9eXPc6eyGGXUepGc5UfC.jpg" group-title="SERIES • NETFLIX",Contigo, Guerrero S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/857861.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="HorizonSports.us@SD" tvg-logo="" tvg-name="Horizon Sports (720p)",Horizon Sports (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254
+#EXTINF:-1 group-title="Sports" tvg-id="ilhados.e.desesperados.s04.e05.tvg.logo.https.image.tmdb.org.t.p.w300.wienfltplsfbrsm3xwhtn1xpc6n.jpg.group.title.series.netflix.solteiros.ilhados.e.desesperados.s04.e05" tvg-logo="" tvg-name="Ilhados e Desesperados S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/wiENFLTPLSFbRSM3XWHtn1XpC6n.jpg" group-title="SERIES • NETFLIX",Solteiros, Ilhados e Desesperados S04 E05",Ilhados e Desesperados S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/wiENFLTPLSFbRSM3XWHtn1XpC6n.jpg" group-title="SERIES • NETFLIX",Solteiros, Ilhados e Desesperados S04 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/813127.mp4
+#EXTINF:-1 group-title="FILMES • COMÉDIA" tvg-id="influencer.de.mentira.2022" tvg-logo="https://image.tmdb.org/t/p/w780/dJKVZFS61uqFrTdyu0bo57ExX3Y.jpg" tvg-name="Influencer de Mentira (2022)",Influencer de Mentira (2022)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/766026.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="influencer.do.mal.a.historia.de.jodi.hildebrandt.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//m2i7fkeUwo6scfbeaZdS6lUs0Jy.jpg" tvg-name="Influencer do Mal: A História de Jodi Hildebrandt (2025)",Influencer do Mal: A História de Jodi Hildebrandt (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972962.mp4
+#EXTINF:-1 group-title="FILMES • TERROR" tvg-id="influencia.2019" tvg-logo="https://image.tmdb.org/t/p/w780/37dVsF56Htes7w7PhpNF3pGk1xA.jpg" tvg-name="Influência (2019)",Influência (2019)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/766039.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="influenciadores.offline.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/AafUru8kJtNuw6RNCzOOJvArY4E.jpg" tvg-name="Influenciadores Offline S01 E01",Influenciadores Offline S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875719.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="influenciadores.offline.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/7n9rgA1STiZwUmBgHwLmWxVB3kL.jpg" tvg-name="Influenciadores Offline S01 E02",Influenciadores Offline S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875720.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="influenciadores.offline.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/zAocECb3EH9Yfcrr8fAMzNoIje7.jpg" tvg-name="Influenciadores Offline S01 E03",Influenciadores Offline S01 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875721.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="influenciadores.offline.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/e2qXeE3pXmozd4xS1jUmD8ytbtJ.jpg" tvg-name="Influenciadores Offline S01 E04",Influenciadores Offline S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875722.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="influenciadores.offline.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/yzbZFrDqbEo4hcknqCdX2vFzx1N.jpg" tvg-name="Influenciadores Offline S01 E05",Influenciadores Offline S01 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875723.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="influenciadores.offline.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/uZncPh1R02nJbTVEiwUItS1kTtj.jpg" tvg-name="Influenciadores Offline S01 E06",Influenciadores Offline S01 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875724.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="influenciadores.offline.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/7zOrwbwCsEeoQQgQ3EPhluih4GK.jpg" tvg-name="Influenciadores Offline S01 E07",Influenciadores Offline S01 E07
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875725.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="influenciadores.offline.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/3udtg8m9KxARh6f2IY7gH7W5ODc.jpg" tvg-name="Influenciadores Offline S01 E08",Influenciadores Offline S01 E08
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/875726.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="JSPORTS1.jp@SD" tvg-logo="" tvg-name="J Sports 1 (544p)",J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="Sports" tvg-id="JSPORTS2.jp@SD" tvg-logo="" tvg-name="J Sports 2 (544p)",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="Sports" tvg-id="JSPORTS3.jp@SD" tvg-logo="" tvg-name="J Sports 3 (544p)",J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="Sports" tvg-id="JSPORTS4.jp@SD" tvg-logo="" tvg-name="J Sports 4 (544p)",J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="Sports" tvg-id="JordanSport.jo@SD" tvg-logo="" tvg-name="Jordan Sport (1080p) [Geo-blocked]",Jordan Sport (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="JordanSport2.jo@HD" tvg-logo="" tvg-name="Jordan Sport 2 (1080p) [Geo-blocked]",Jordan Sport 2 (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/learning2/learning2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="KTVSport.kw@SD" tvg-logo="" tvg-name="KTV Sport (1080p)",KTV Sport (1080p)
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="KTVSportPlus.kw@SD" tvg-logo="" tvg-name="KTV Sport Plus (1080p)",KTV Sport Plus (1080p)
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="leaderboard.sports.news.1080p" tvg-logo="" tvg-name="Leaderboard Sports News (1080p)",Leaderboard Sports News (1080p)
+https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FILMES • AÇÃO" tvg-id="lego.liga.da.justica.combate.cosmico.2016" tvg-logo="https://image.tmdb.org/t/p/w780/lxO2VxlzrgoW59Ox92HQWoVZy1Y.jpg" tvg-name="Lego Liga da Justiça: Combate Cósmico (2016)",Lego Liga da Justiça: Combate Cósmico (2016)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/771207.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E01",Linha de Combate S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818018.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E02",Linha de Combate S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818019.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E03",Linha de Combate S01 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818020.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E04",Linha de Combate S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818021.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E05",Linha de Combate S01 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818022.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E06",Linha de Combate S01 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818023.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E07",Linha de Combate S01 E07
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818024.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E08",Linha de Combate S01 E08
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818025.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E09",Linha de Combate S01 E09
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818027.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E10",Linha de Combate S01 E10
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818028.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e11" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E11",Linha de Combate S01 E11
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818029.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e12" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E12",Linha de Combate S01 E12
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818030.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e13" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E13",Linha de Combate S01 E13
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818031.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e14" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E14",Linha de Combate S01 E14
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818032.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e15" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E15",Linha de Combate S01 E15
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818033.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e16" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E16",Linha de Combate S01 E16
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818034.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e17" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E17",Linha de Combate S01 E17
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818035.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e18" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E18",Linha de Combate S01 E18
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818036.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e19" tvg-logo="https://image.tmdb.org/t/p/w300/5Y2bC0sL66Atf2iB8OqYPBeziAG.jpg" tvg-name="Linha de Combate S01 E19",Linha de Combate S01 E19
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818037.mp4
+#EXTINF:-1 group-title="SERIES • REALITY" tvg-id="linha.de.combate.s01.e20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHwyI32ZzyPmmWOb54bW90nSgCm.jpg" tvg-name="Linha de Combate S01 E20",Linha de Combate S01 E20
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818038.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="MNetSport.mk@SD" tvg-logo="" tvg-name="M-Net Sport (720p)",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="M4Sport.hu@SD" tvg-logo="" tvg-name="M4 Sport",M4 Sport
+http://88.212.15.19/live/m4_hun/index.m3u8
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ma.influencia.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//dKp87mqKqNygSNiQH4pMfIFAcyJ.jpg" tvg-name="Má Influência (2025)",Má Influência (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/845118.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="marvel.studios.the.fantastic.four.first.steps.world.premiere.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//z7wI0jpec9gz2IwVciND1nbRBy0.jpg" tvg-name="Marvel Studios' The Fantastic Four: First Steps - World Premiere (2025)",Marvel Studios' The Fantastic Four: First Steps - World Premiere (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/970080.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="matchroom.lendas.do.esporte.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/sSxbG58TZf6dsKlhdZUdR8YZMac.jpg" tvg-name="Matchroom: Lendas do Esporte S01 E01",Matchroom: Lendas do Esporte S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/952547.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="matchroom.lendas.do.esporte.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/qSn92XuJqm3mOA6ifKkksC4FEHL.jpg" tvg-name="Matchroom: Lendas do Esporte S01 E02",Matchroom: Lendas do Esporte S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/952548.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="matchroom.lendas.do.esporte.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/1opkHgXIRpJdPBwXCLv8jtT4ZMp.jpg" tvg-name="Matchroom: Lendas do Esporte S01 E03",Matchroom: Lendas do Esporte S01 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/952549.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="matchroom.lendas.do.esporte.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/mZkaw8A6XMRkJ7zpLkSDuXT8mGb.jpg" tvg-name="Matchroom: Lendas do Esporte S01 E04",Matchroom: Lendas do Esporte S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/952550.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="matchroom.lendas.do.esporte.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/bQvu1rEMTwx2NVVAHdXjwS9jPGl.jpg" tvg-name="Matchroom: Lendas do Esporte S01 E05",Matchroom: Lendas do Esporte S01 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/952551.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="matchroom.lendas.do.esporte.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/zHyybbzWmYYNCJqxaeVuqgUhLNq.jpg" tvg-name="Matchroom: Lendas do Esporte S01 E06",Matchroom: Lendas do Esporte S01 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/952552.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="MidpenMediaCenterChannel28.us@SD" tvg-logo="" tvg-name="Midpen Media Center Youth Education and Sports Channel 28 (720p)",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MNBSport.mn@SD" tvg-logo="" tvg-name="MNB Sport (1080p)",MNB Sport (1080p)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MoreThanSportsTV.de@SD" tvg-logo="" tvg-name="More Than Sports TV (1080p)",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="msg.sportszone.720p" tvg-logo="" tvg-name="MSG SportsZone (720p)",MSG SportsZone (720p)
+https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MultivisionSports.gt@SD" tvg-logo="" tvg-name="Multivisión Sports (720p) [Not 24/7]",Multivisión Sports (720p) [Not 24/7]
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e01" tvg-logo="https://image.tmdb.org/t/p/w300/qGdl4AczVh6MDwUTHZ2cuWSBYmE.jpg" tvg-name="NBA: 5 em Quadra S01 E01",NBA: 5 em Quadra S01 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889176.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e02" tvg-logo="https://image.tmdb.org/t/p/w300/rUSGv79ciPCYkz1911K1z8Oepgn.jpg" tvg-name="NBA: 5 em Quadra S01 E02",NBA: 5 em Quadra S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889177.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e03" tvg-logo="https://image.tmdb.org/t/p/w300/edMifag1tohPXrV5PkEHbZoyuFB.jpg" tvg-name="NBA: 5 em Quadra S01 E03",NBA: 5 em Quadra S01 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889178.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e04" tvg-logo="https://image.tmdb.org/t/p/w300/cjhYMnjDnaVdWTiWbcMNjwN5kcc.jpg" tvg-name="NBA: 5 em Quadra S01 E04",NBA: 5 em Quadra S01 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889179.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e05" tvg-logo="https://image.tmdb.org/t/p/w300/uTtu2VPINNPQzWO6D8mrBEgmvuA.jpg" tvg-name="NBA: 5 em Quadra S01 E05",NBA: 5 em Quadra S01 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889180.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e06" tvg-logo="https://image.tmdb.org/t/p/w300/hhgpqz8B2q7pViTSovHiq7t8DOv.jpg" tvg-name="NBA: 5 em Quadra S01 E06",NBA: 5 em Quadra S01 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889181.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e07" tvg-logo="https://image.tmdb.org/t/p/w300/vTZ4EWF3QrfZjitN1aDj1yDLfoA.jpg" tvg-name="NBA: 5 em Quadra S01 E07",NBA: 5 em Quadra S01 E07
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889182.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e08" tvg-logo="https://image.tmdb.org/t/p/w300/pB7dLbQRKdqXUBKtWpUqu9r1uez.jpg" tvg-name="NBA: 5 em Quadra S01 E08",NBA: 5 em Quadra S01 E08
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889183.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e09" tvg-logo="https://image.tmdb.org/t/p/w300/dLm5KGXMyCxrZC2yIvNXyzvCS5Y.jpg" tvg-name="NBA: 5 em Quadra S01 E09",NBA: 5 em Quadra S01 E09
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889184.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s01.e10" tvg-logo="https://image.tmdb.org/t/p/w300/6L01pPN35MwCJ9mNbWTbNztE5ZC.jpg" tvg-name="NBA: 5 em Quadra S01 E10",NBA: 5 em Quadra S01 E10
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/889185.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s02.e01" tvg-logo="https://image.tmdb.org/t/p/w780/95kxEQlknZXGQGyKnogRHn75rCR.jpg" tvg-name="NBA: 5 em Quadra S02 E01",NBA: 5 em Quadra S02 E01
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/967955.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s02.e02" tvg-logo="https://image.tmdb.org/t/p/w780/95kxEQlknZXGQGyKnogRHn75rCR.jpg" tvg-name="NBA: 5 em Quadra S02 E02",NBA: 5 em Quadra S02 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/967956.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s02.e03" tvg-logo="https://image.tmdb.org/t/p/w780/95kxEQlknZXGQGyKnogRHn75rCR.jpg" tvg-name="NBA: 5 em Quadra S02 E03",NBA: 5 em Quadra S02 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/967957.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s02.e04" tvg-logo="https://image.tmdb.org/t/p/w780/95kxEQlknZXGQGyKnogRHn75rCR.jpg" tvg-name="NBA: 5 em Quadra S02 E04",NBA: 5 em Quadra S02 E04
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/967958.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s02.e05" tvg-logo="https://image.tmdb.org/t/p/w780/95kxEQlknZXGQGyKnogRHn75rCR.jpg" tvg-name="NBA: 5 em Quadra S02 E05",NBA: 5 em Quadra S02 E05
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/967959.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s02.e06" tvg-logo="https://image.tmdb.org/t/p/w780/95kxEQlknZXGQGyKnogRHn75rCR.jpg" tvg-name="NBA: 5 em Quadra S02 E06",NBA: 5 em Quadra S02 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/967960.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s02.e07" tvg-logo="https://image.tmdb.org/t/p/w780/95kxEQlknZXGQGyKnogRHn75rCR.jpg" tvg-name="NBA: 5 em Quadra S02 E07",NBA: 5 em Quadra S02 E07
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/967961.mp4
+#EXTINF:-1 group-title="SERIES • NETFLIX" tvg-id="nba.5.em.quadra.s02.e08" tvg-logo="https://image.tmdb.org/t/p/w780/95kxEQlknZXGQGyKnogRHn75rCR.jpg" tvg-name="NBA: 5 em Quadra S02 E08",NBA: 5 em Quadra S02 E08
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/967962.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="nba.fast.channel.720p" tvg-logo="" tvg-name="NBA FAST Channel (720p)",NBA FAST Channel (720p)
+https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NBATV.us@SD" tvg-logo="" tvg-name="NBA TV (1080p) [Geo-blocked]",NBA TV (1080p) [Geo-blocked]
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NBATVCanada.ca@SD" tvg-logo="" tvg-name="NBA TV Canada (1080p)",NBA TV Canada (1080p)
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NBCSportsBayArea.us@SD" tvg-logo="" tvg-name="NBC Sports Bay Area (720p) [Not 24/7]",NBC Sports Bay Area (720p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 group-title="Sports" tvg-id="NBCSportsBoston.us@SD" tvg-logo="" tvg-name="NBC Sports Boston (1080p) [Not 24/7]",NBC Sports Boston (1080p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 group-title="Sports" tvg-id="NBCSportsNOW.us@SD" tvg-logo="" tvg-name="NBC Sports NOW (1080p)",NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 group-title="Sports" tvg-id="NBCSportsPhiladelphia.us@SD" tvg-logo="" tvg-name="NBC Sports Philadelphia (720p) [Not 24/7]",NBC Sports Philadelphia (720p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 group-title="Sports" tvg-id="NFLChannel.us@SD" tvg-logo="" tvg-name="NFL Channel (1080p) [Geo-blocked]",NFL Channel (1080p) [Geo-blocked]
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFLRedZone.us@SD" tvg-logo="" tvg-name="NFL RedZone (720p) [Not 24/7]",NFL RedZone (720p) [Not 24/7]
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 group-title="CANAIS • NSPORTS" tvg-id="nsports.11" tvg-logo="https://od.lk/s/NzdfNTg2NDIxNjZf/nsports.png" tvg-name="NSPORTS 1¹",NSPORTS 1¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/718017
+#EXTINF:-1 group-title="CANAIS • NSPORTS" tvg-id="nsports.21" tvg-logo="https://od.lk/s/NzdfNTg2NDIxNjZf/nsports.png" tvg-name="NSPORTS 2¹",NSPORTS 2¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971974
+#EXTINF:-1 group-title="CANAIS • NSPORTS" tvg-id="nsports.extra.12" tvg-logo="https://od.lk/s/NzdfNTg2NDIxNjZf/nsports.png" tvg-name="NSPORTS EXTRA 1²",NSPORTS EXTRA 1²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/718019
+#EXTINF:-1 group-title="CANAIS • NSPORTS" tvg-id="nsports.extra.22" tvg-logo="https://od.lk/s/NzdfNTg2NDIxNjZf/nsports.png" tvg-name="NSPORTS EXTRA 2²",NSPORTS EXTRA 2²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/718021
+#EXTINF:-1 group-title="Sports" tvg-id="NudgeSportsChannel.ph@HD" tvg-logo="" tvg-name="Nudge Sports Channel (1080p)",Nudge Sports Channel (1080p)
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+#EXTINF:-1 group-title="FILMES • 2024" tvg-id="o.ultimo.combate.2024" tvg-logo="https://image.tmdb.org/t/p/w780/w8sNJnX5ZEUgFBRf3vx1spI9BsU.jpg" tvg-name="O Último Combate (2024)",O Último Combate (2024)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/947595.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="OFTVOffenbach.de@SD" tvg-logo="" tvg-name="OF-TV Offenbach (720p)",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="okarishimasu.s01.e02.tvg.logo.https.image.tmdb.org.t.p.w300.ezpwlfnflapmrmzoxbvw4f7yqbz.jpg.group.title.series.animes.kanojo.okarishimasu.s01.e02" tvg-logo="" tvg-name="Okarishimasu S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ezPWlfnFlAPMrMZoxbVW4F7yQbz.jpg" group-title="SERIES • ANIMES",Kanojo, Okarishimasu S01 E02",Okarishimasu S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ezPWlfnFlAPMrMZoxbVW4F7yQbz.jpg" group-title="SERIES • ANIMES",Kanojo, Okarishimasu S01 E02
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/845825.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="OmanSportsTV.om@SD" tvg-logo="" tvg-name="Oman Sports TV (1080p) [Not 24/7]",Oman Sports TV (1080p) [Not 24/7]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="os.conflitos.na.irlanda.2022" tvg-logo="https://image.tmdb.org/t/p/w780/j5cddOCZYWqHdIxKaZ3z44Ckst6.jpg" tvg-name="Os Conflitos na Irlanda (2022)",Os Conflitos na Irlanda (2022)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/846813.mp4
+#EXTINF:-1 group-title="FILMES • 2024" tvg-id="pilotos.de.combate.2024" tvg-logo="https://image.tmdb.org/t/p/w780/eKML6xBIWCAlDsOCltxqEcZsgnY.jpg" tvg-name="Pilotos de Combate (2024)",Pilotos de Combate (2024)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/829168.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="pluto.tv.e.sports" tvg-logo="" tvg-name="Pluto TV E-Sports",Pluto TV E-Sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="pluto.tv.esportes" tvg-logo="" tvg-name="Pluto TV Esportes",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="pluto.tv.sport" tvg-logo="" tvg-name="Pluto TV Sport",Pluto TV Sport
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="PolsatSport1.pl@SD" tvg-logo="" tvg-name="Polsat Sport 1 (1080p) [Geo-blocked]",Polsat Sport 1 (1080p) [Geo-blocked]
+http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
+#EXTINF:-1 group-title="Sports" tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="" tvg-name="Polsat Sport Premium 2 (1080p)",Polsat Sport Premium 2 (1080p)
+http://78.130.250.2:8023/play/a05r/index.m3u8
+#EXTINF:-1 group-title="FILMES • DRAMA" tvg-id="ponto.de.inflexao.2021" tvg-logo="https://image.tmdb.org/t/p/w780/fTQnNImD3PXpa189bWrN23y4hvG.jpg" tvg-name="Ponto de Inflexão (2021)",Ponto de Inflexão (2021)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/799637.mp4
+#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="ponto.de.inflexao.leg.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTQnNImD3PXpa189bWrN23y4hvG.jpg" tvg-name="Ponto de Inflexão LEG (2021)",Ponto de Inflexão LEG (2021)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966816.mp4
+#EXTINF:-1 group-title="FILMES • GUERRA" tvg-id="posto.de.combate.2020" tvg-logo="https://image.tmdb.org/t/p/w780/b1LYcrHuYGUGFZwhOiAitapWHfl.jpg" tvg-name="Posto de Combate (2020)",Posto de Combate (2020)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/800199.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="powersports.world.1080p" tvg-logo="" tvg-name="Powersports World (1080p)",Powersports World (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powersports-world/pwrsp.m3u8?ads.vf=6Tj0ccfKg3S
+#EXTINF:-1 group-title="Sports" tvg-id="PremierSports.ph@SD" tvg-logo="" tvg-name="Premier Sports (1080p)",Premier Sports (1080p)
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="PremierSports2.ph@SD" tvg-logo="" tvg-name="Premier Sports 2 (1080p)",Premier Sports 2 (1080p)
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.2.fhd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 2 FHD¹",PREMIERE 2 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464825
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.2.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 2 FHD²",PREMIERE 2 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464826
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.2.hd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 2 HD¹",PREMIERE 2 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464827
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.2.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 2 HD²",PREMIERE 2 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464828
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.2.sd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 2 SD¹",PREMIERE 2 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464829
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.2.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 2 SD²",PREMIERE 2 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464830
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.3.fhd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 3 FHD¹",PREMIERE 3 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464831
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.3.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 3 FHD²",PREMIERE 3 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464832
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.3.hd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 3 HD¹",PREMIERE 3 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464833
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.3.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 3 HD²",PREMIERE 3 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464834
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.3.sd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 3 SD¹",PREMIERE 3 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464835
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.3.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 3 SD²",PREMIERE 3 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464836
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.4.fhd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 4 FHD¹",PREMIERE 4 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464837
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.4.fhd2" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 4 FHD²",PREMIERE 4 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977394
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.4.hd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 4 HD¹",PREMIERE 4 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464838
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.4.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 4 HD²",PREMIERE 4 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464839
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.4.sd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 4 SD¹",PREMIERE 4 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464840
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.4.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 4 SD²",PREMIERE 4 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464841
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.5.fhd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 5 FHD¹",PREMIERE 5 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464842
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.5.fhd2" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 5 FHD²",PREMIERE 5 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977395
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.5.hd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 5 HD¹",PREMIERE 5 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464843
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.5.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 5 HD²",PREMIERE 5 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464844
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.5.sd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 5 SD¹",PREMIERE 5 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464845
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.5.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 5 SD²",PREMIERE 5 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464846
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.6.fhd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 6 FHD¹",PREMIERE 6 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464847
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.6.fhd2" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 6 FHD²",PREMIERE 6 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977396
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.6.hd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 6 HD¹",PREMIERE 6 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464848
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.6.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 6 HD²",PREMIERE 6 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464849
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.6.sd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 6 SD¹",PREMIERE 6 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464850
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.6.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 6 SD²",PREMIERE 6 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464851
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.7.fhd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 7 FHD¹",PREMIERE 7 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464852
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.7.fhd2" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 7 FHD²",PREMIERE 7 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977397
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.7.hd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 7 HD¹",PREMIERE 7 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464853
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.7.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 7 HD²",PREMIERE 7 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464854
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.7.sd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 7 SD¹",PREMIERE 7 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464855
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.7.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 7 SD²",PREMIERE 7 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464856
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.8.fhd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 8 FHD¹",PREMIERE 8 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464857
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.8.fhd2" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 8 FHD²",PREMIERE 8 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977398
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.8.hd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 8 HD¹",PREMIERE 8 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464858
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.8.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" tvg-name="PREMIERE 8 HD²",PREMIERE 8 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464859
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.8.sd1" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 8 SD¹",PREMIERE 8 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464860
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.8.sd2" tvg-logo="https://assistatv.me/images/b9b2e266c43e5f7eafa0584427d89c5a.png" tvg-name="PREMIERE 8 SD²",PREMIERE 8 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977399
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.clubes.fhd1" tvg-logo="https://assistatv.me/images/430d54b50faab261c0529be2db0c257a.png" tvg-name="PREMIERE CLUBES FHD¹",PREMIERE CLUBES FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464819
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.clubes.fhd2" tvg-logo="https://assistatv.me/images/430d54b50faab261c0529be2db0c257a.png" tvg-name="PREMIERE CLUBES FHD²",PREMIERE CLUBES FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464820
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.clubes.hd1" tvg-logo="https://assistatv.me/images/430d54b50faab261c0529be2db0c257a.png" tvg-name="PREMIERE CLUBES HD¹",PREMIERE CLUBES HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464821
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.clubes.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NThf/premiereclubes.png" tvg-name="PREMIERE CLUBES HD²",PREMIERE CLUBES HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464822
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.clubes.sd1" tvg-logo="https://assistatv.me/images/430d54b50faab261c0529be2db0c257a.png" tvg-name="PREMIERE CLUBES SD¹",PREMIERE CLUBES SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464823
+#EXTINF:-1 group-title="CANAIS • PREMIERE CLUBES" tvg-id="premiere.clubes.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NThf/premiereclubes.png" tvg-name="PREMIERE CLUBES SD²",PREMIERE CLUBES SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464824
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereFC1.br@SD" tvg-logo="" tvg-name="Premiere FC 1",Premiere FC 1
+https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereFC2.br@SD" tvg-logo="" tvg-name="Premiere FC 2",Premiere FC 2
+https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereFC3.br@SD" tvg-logo="" tvg-name="Premiere FC 3",Premiere FC 3
+https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereFC4.br@SD" tvg-logo="" tvg-name="Premiere FC 4",Premiere FC 4
+https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereFC5.br@SD" tvg-logo="" tvg-name="Premiere FC 5",Premiere FC 5
+https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereFC6.br@SD" tvg-logo="" tvg-name="Premiere FC 6",Premiere FC 6
+https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereFC7.br@SD" tvg-logo="" tvg-name="Premiere FC 7",Premiere FC 7
+https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereFC8.br@SD" tvg-logo="" tvg-name="Premiere FC 8",Premiere FC 8
+https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="PROSportInternational.my@SD" tvg-logo="" tvg-name="PRO Sport International",PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="PTVSports.pk@SD" tvg-logo="" tvg-name="PTV Sports (1080p)",PTV Sports (1080p)
+http://103.250.28.74:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="QazSport.kz@SD" tvg-logo="" tvg-name="QazSport (480p) [Geo-blocked]",QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-logo="" tvg-name="Radio Turrialba TV Sports (720p) [Not 24/7]",Radio Turrialba TV Sports (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://iblups.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="rai.sport.2" tvg-logo="" tvg-name="Rai Sport 2",Rai Sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="RaiSport.it@HD" tvg-logo="" tvg-name="Rai Sport HD (720p) [Geo-Blocked]",Rai Sport HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="Sports" tvg-id="RealitateaSportiva.ro@SD" tvg-logo="" tvg-name="Realitatea Sportiva (720p)",Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="retake.e.sport.live.720p" tvg-logo="" tvg-name="Retake E-sport Live (720p)",Retake E-sport Live (720p)
+https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="roku.sports.channel.1080p" tvg-logo="" tvg-name="Roku Sports Channel (1080p)",Roku Sports Channel (1080p)
+https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="RTASport.af@SD" tvg-logo="" tvg-name="RTA Sport (1080p)",RTA Sport (1080p)
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="RTSHSport.al@SD" tvg-logo="" tvg-name="RTSH Sport (1080p)",RTSH Sport (1080p)
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="AstrahanRuSport.ru@SD" tvg-logo="" tvg-name="Астрахань.Ru Sport (720p)",Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SSport.tr@SD" tvg-logo="" tvg-name="S Sport",S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SSport2.tr@SD" tvg-logo="" tvg-name="S Sport 2",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SanMarinoRTVSport.sm@SD" tvg-logo="" tvg-name="San Marino RTV Sport (720p)",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SharjahSports.ae@SD" tvg-logo="" tvg-name="Sharjah Sports (1080p) [Geo-blocked]",Sharjah Sports (1080p) [Geo-blocked]
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="shooting.sports.life.1080p" tvg-logo="" tvg-name="Shooting Sports Life (1080p)",Shooting Sports Life (1080p)
+https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="FILMES • INFANTIL" tvg-id="sinbad.a.lenda.dos.sete.mares.2003" tvg-logo="https://image.tmdb.org/t/p/w780/xuIZnkO5q1gonbIlGb8w3uBsanM.jpg" tvg-name="Sinbad - A Lenda dos Sete Mares (2003)",Sinbad - A Lenda dos Sete Mares (2003)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/808281.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen1.in@SD" tvg-logo="" tvg-name="Sony Sports Ten 1 (1080p) [Geo-blocked]",Sony Sports Ten 1 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen1.in@HD" tvg-logo="" tvg-name="Sony Sports Ten 1 HD (1080p) [Geo-blocked]",Sony Sports Ten 1 HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen2.in@SD" tvg-logo="" tvg-name="Sony Sports Ten 2 (1080p) [Geo-blocked]",Sony Sports Ten 2 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen2.in@HD" tvg-logo="" tvg-name="Sony Sports Ten 2 HD (1080p) [Geo-blocked]",Sony Sports Ten 2 HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="" tvg-name="Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]",Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="" tvg-name="Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]",Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen4.in@Tamil" tvg-logo="" tvg-name="Sony Sports Ten 4 (1080p) [Geo-blocked]",Sony Sports Ten 4 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen4.in@Telugu" tvg-logo="" tvg-name="Sony Sports Ten 4 Telugu (1080p)",Sony Sports Ten 4 Telugu (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen5.in@SD" tvg-logo="" tvg-name="Sony Sports Ten 5 (1080p) [Geo-blocked]",Sony Sports Ten 5 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen5.in@HD" tvg-logo="" tvg-name="Sony Sports Ten 5 HD (1080p) [Geo-blocked]",Sony Sports Ten 5 HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205%20HD.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="speed.sport.1.1080p" tvg-logo="" tvg-name="Speed Sport 1 (1080p)",Speed Sport 1 (1080p)
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="spiegel.tv.konflikte" tvg-logo="" tvg-name="SPIEGEL TV Konflikte",SPIEGEL TV Konflikte
+https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sport1.hu@SD" tvg-logo="" tvg-name="Sport 1 (1280p)",Sport 1 (1280p)
+http://46.149.191.217:9005/play/a017
+#EXTINF:-1 group-title="Sports" tvg-id="Sport.sk@SD" tvg-logo="" tvg-name=":Šport (1080p)",:Šport (1080p)
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sport.fishing.tv.1080p" tvg-logo="" tvg-name="Sport Fishing TV (1080p)",Sport Fishing TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sportitalia.it@SD" tvg-logo="" tvg-name="Sport Italia (1080p)",Sport Italia (1080p)
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportdigitalFUSSBALL.de@HD" tvg-logo="" tvg-name="Sportdigital FUSSBALL HD (1080p)",Sportdigital FUSSBALL HD (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sportitalia24.it@SD" tvg-logo="" tvg-name="Sportitalia 24 (720p) [Geo-blocked]",Sportitalia 24 (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sportitalia.live.24" tvg-logo="" tvg-name="Sportitalia Live 24",Sportitalia Live 24
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportitaliaMotori.it@SD" tvg-logo="" tvg-name="Sportitalia Motori (720p) [Geo-blocked]",Sportitalia Motori (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportitaliaSolocalcio.it@SD" tvg-logo="" tvg-name="Sportitalia Solocalcio (1080p)",Sportitalia Solocalcio (1080p)
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sportoutdoor.tv" tvg-logo="" tvg-name="Sportoutdoor.tv",Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportsConnect.za@SD" tvg-logo="" tvg-name="Sports Connect (720p)",Sports Connect (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sports.first.1080p" tvg-logo="" tvg-name="Sports First (1080p)",Sports First (1080p)
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sports.first.tv.1080p" tvg-logo="" tvg-name="Sports First TV (1080p)",Sports First TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8?ads.vf=IqoHUzAjl6S
+#EXTINF:-1 group-title="Sports" tvg-id="SportsTV.tr@SD" tvg-logo="" tvg-name="Sports TV (720p) [Geo-blocked]",Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportsGrid.us@SD" tvg-logo="" tvg-name="SportsGrid (1080p)",SportsGrid (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8?ads.vf=8ukz5gCI8vu
+#EXTINF:-1 group-title="Sports" tvg-id="SportsTVPlus.us@SD" tvg-logo="" tvg-name="SportsTVPlus (1080p)",SportsTVPlus (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.fhd1" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 FHD¹",SPORTV 1 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464794
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.fhd2" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 FHD²",SPORTV 1 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464795
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.hd1" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 HD¹",SPORTV 1 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464796
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.hd2" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 HD²",SPORTV 1 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464797
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.sd1" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 SD¹",SPORTV 1 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464798
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.1.sd2" tvg-logo="https://assistatv.me/images/aa47a4e507bced4a1d0245d080e67015.png" tvg-name="SPORTV 1 SD²",SPORTV 1 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464799
+#EXTINF:-1 group-title="Sports" tvg-id="SporTV.br@SD" tvg-logo="" tvg-name="SporTV (1280p)",SporTV (1280p)
+https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 SD",SPORTV 2 SD
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464804
+#EXTINF:-1 group-title="Sports" tvg-id="SporTV2.br@SD" tvg-logo="" tvg-name="SporTV 2 (1280p)",SporTV 2 (1280p)
+https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Sports" tvg-id="SporTV2Alternativo.br@SD" tvg-logo="" tvg-name="SporTV 2 Alternativo (720p)",SporTV 2 Alternativo (720p)
+https://stm.sinalmycn.com/19025/video.m3u8
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.fhd1" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 FHD¹",SPORTV 2 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464800
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.fhd2" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 FHD²",SPORTV 2 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464801
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.hd1" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 HD¹",SPORTV 2 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464802
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.hd2" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 HD²",SPORTV 2 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464803
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.2.sd2" tvg-logo="https://assistatv.me/images/1720b67138d8c44b0e3515690a0dca39.png" tvg-name="SPORTV 2 SD²",SPORTV 2 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464805
+#EXTINF:-1 group-title="Sports" tvg-id="SporTV3.br@SD" tvg-logo="" tvg-name="SporTV 3 (1080p)",SporTV 3 (1080p)
+https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.fhd1" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 FHD¹",SPORTV 3 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464806
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.fhd2" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 FHD²",SPORTV 3 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464807
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.hd1" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 HD¹",SPORTV 3 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464808
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.hd2" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 HD²",SPORTV 3 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464809
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.sd1" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 SD¹",SPORTV 3 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464810
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.3.sd2" tvg-logo="https://assistatv.me/images/f4c1f24d2fc02e94e1f4366e2ff6d5f0.png" tvg-name="SPORTV 3 SD²",SPORTV 3 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464811
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.fhd1" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 FHD¹",SPORTV 4 FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464812
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.fhd2" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 FHD²",SPORTV 4 FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464813
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.hd1" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 HD¹",SPORTV 4 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464814
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.hd2" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 HD²",SPORTV 4 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464815
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.sd1" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 SD¹",SPORTV 4 SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464816
+#EXTINF:-1 group-title="CANAIS • SPORTV" tvg-id="sportv.4.sd2" tvg-logo="https://assistatv.me/images/4473a709761c1a97b385df78c9c7760f.png" tvg-name="SPORTV 4 SD²",SPORTV 4 SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464817
+#EXTINF:-1 group-title="Sports" tvg-id="SporTVAlternativo.br@SD" tvg-logo="" tvg-name="SporTV Alternativo (720p)",SporTV Alternativo (720p)
+https://stm.sinalmycn.com/19024/video.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="StarSports1.in@HD" tvg-logo="" tvg-name="Star Sports 1 HD (1080p)",Star Sports 1 HD (1080p)
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 group-title="Sports" tvg-id="StarSports1Hindi.in@SD" tvg-logo="" tvg-name="Star Sports 1 Hindi (576p)",Star Sports 1 Hindi (576p)
+http://103.253.18.58:8000/play/a03o
+#EXTINF:-1 group-title="Sports" tvg-id="StarSports2.in@HD" tvg-logo="" tvg-name="Star Sports 2 HD (1080p)",Star Sports 2 HD (1080p)
+https://mini.allinonereborn.fun/tata.php?id=11819
+#EXTINF:-1 group-title="Sports" tvg-id="StarSports2Hindi.in@HD" tvg-logo="" tvg-name="Star Sports 2 Hindi HD (1080p)",Star Sports 2 Hindi HD (1080p)
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SuspilneSport.ua@SD" tvg-logo="" tvg-name="Suspilne. Sport (1080p) [Geo-blocked]",Suspilne. Sport (1080p) [Geo-blocked]
+https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSports.bd@SD" tvg-logo="" tvg-name="T Sports (720p)",T Sports (720p)
+https://tvsen7.aynaott.com/tsportshd/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="talkSPORT.uk@SD" tvg-logo="" tvg-name="talkSPORT (1080p)",talkSPORT (1080p)
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TDMSports.mo@SD" tvg-logo="" tvg-name="TDM Sports Ch. 93 (720p)",TDM Sports Ch. 93 (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TenSportsPakistan.pk@SD" tvg-logo="" tvg-name="Ten Sports Pakistan",Ten Sports Pakistan
+http://121.91.61.106:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="the.nba.channel.720p" tvg-logo="" tvg-name="The NBA Channel (720p)",The NBA Channel (720p)
+https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TigoSportsPlus.py@SD" tvg-logo="" tvg-name="Tigo Sports+",Tigo Sports+
+http://45.170.130.224:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TigoSports.gt@SD" tvg-logo="" tvg-name="Tigo Sports (1080p)",Tigo Sports (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TigoSports.py@SD" tvg-logo="" tvg-name="Tigo Sports (720p)",Tigo Sports (720p)
+https://live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TigoSports.cr@SD" tvg-logo="" tvg-name="Tigo Sports (720p) [Geo-blocked]",Tigo Sports (720p) [Geo-blocked]
+https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TigoSports.sv@SD" tvg-logo="" tvg-name="Tigo Sports TV El Salvador (720p) [Geo-blocked]",Tigo Sports TV El Salvador (720p) [Geo-blocked]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TNCSports.bz@SD" tvg-logo="" tvg-name="TNC Sports (1080p)",TNC Sports (1080p)
+https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TRSport.it@SD" tvg-logo="" tvg-name="TR Sport (480p)",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TraceSportStars.fr@HD" tvg-logo="" tvg-name="Trace Sport Stars (Australia) (1080p)",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FILMES • FAROESTE" tvg-id="tres.homens.em.conflito.1966" tvg-logo="https://image.tmdb.org/t/p/w780/bHwIzQrbJKiFwArLLngS1Ej6xPc.jpg" tvg-name="Três Homens em Conflito (1966)",Três Homens em Conflito (1966)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/814807.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="TurkmenistanSport.tm@SD" tvg-logo="" tvg-name="Türkmenistan Sport (406p) [Not 24/7]",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TVMsportPlus.mt@SD" tvg-logo="" tvg-name="TVMsport+ (1080p)",TVMsport+ (1080p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TVPSport.pl@SD" tvg-logo="" tvg-name="TVP Sport (1080p)",TVP Sport (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 group-title="Sports" tvg-id="TVRSport.ro@SD" tvg-logo="" tvg-name="TVR Sport",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TVRISport.id@SD" tvg-logo="" tvg-name="TVRI Sport (720p)",TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TVSClassicSports.us@SD" tvg-logo="" tvg-name="TVS Classic Sports (360p)",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TVSPinballNetwork.us@SD" tvg-logo="" tvg-name="TVS Pinball Network (480p)",TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TVSSports.us@SD" tvg-logo="" tvg-name="TVS Sports (720p) [Not 24/7]",TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TVSSportsBureau.us@SD" tvg-logo="" tvg-name="TVS Sports Bureau (720p)",TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TVSWomenSports.us@SD" tvg-logo="" tvg-name="TVS Women Sports (720p)",TVS Women Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TyCSports.ar@SD" tvg-logo="" tvg-name="TyC Sports (1080p) [Geo-blocked]",TyC Sports (1080p) [Geo-blocked]
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TyCSportsLatinAmerica.ar@Panregional" tvg-logo="" tvg-name="TyC Sports Latin America (1080p)",TyC Sports Latin America (1080p)
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TyCSportsUSA.ar@SD" tvg-logo="" tvg-name="TyC Sports USA",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="u.transport.1080p.geo.blocked" tvg-logo="" tvg-name="U&Transport (1080p) [Geo-blocked]",U&Transport (1080p) [Geo-blocked]
+https://amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk-36uja.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="u.transport.720p" tvg-logo="" tvg-name="U&Transport (720p)",U&Transport (720p)
+https://jmp2.uk/plu-64c0d6765dc1660008a3e033.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ufc" tvg-logo="" tvg-name="UFC",UFC
+https://jmp2.uk/plu-6792044b680721c77c5b9ba2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ufc.1080p" tvg-logo="" tvg-name="UFC (1080p)",UFC (1080p)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ufc.1080p.geo.blocked" tvg-logo="" tvg-name="UFC (1080p) [Geo-blocked]",UFC (1080p) [Geo-blocked]
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.311.makhachev.vs.moicano.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//osB5inl8PzaZiC3OYRr2WOepjwr.jpg" tvg-name="UFC 311: Makhachev vs. Moicano (2025)",UFC 311: Makhachev vs. Moicano (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/956568.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.313.pereira.vs.ankalaev.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//lOKaLq4i16KZg2nzo0q1vdGKlip.jpg" tvg-name="UFC 313: Pereira vs. Ankalaev (2025)",UFC 313: Pereira vs. Ankalaev (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/956565.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.317.topuria.vs.oliveira.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//nMdjudaUKePXVSaCaqYFTTGZIik.jpg" tvg-name="UFC 317: Topuria vs. Oliveira (2025)",UFC 317: Topuria vs. Oliveira (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/955198.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.318.holloway.vs.poirier.3.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//j7cPZPCO9jo0xxfghfChAWVpjuz.jpg" tvg-name="UFC 318: Holloway vs. Poirier 3 (2025)",UFC 318: Holloway vs. Poirier 3 (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/953820.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.319.du.plessis.vs.chimaev.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//sllTo8ajL9P76k6hL80glCiJGAq.jpg" tvg-name="UFC 319: du Plessis vs. Chimaev (2025)",UFC 319: du Plessis vs. Chimaev (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/953808.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.320.ankalaev.vs.pereira.2.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//risS8tlRrCqcLGm1pWccdPL4uG9.jpg" tvg-name="UFC 320: Ankalaev vs. Pereira 2 (2025)",UFC 320: Ankalaev vs. Pereira 2 (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972017.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.321.aspinall.vs.gane.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//q8IBnGPkIHRXYPckBnsWkh5iszL.jpg" tvg-name="UFC 321: Aspinall vs. Gane (2025)",UFC 321: Aspinall vs. Gane (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972300.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.322.della.maddalena.vs.makhachev.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//9NMA6qNCRSUmIARMVY49bEFGPlx.jpg" tvg-name="UFC 322: Della Maddalena vs. Makhachev (2025)",UFC 322: Della Maddalena vs. Makhachev (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972169.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.324.gaethje.vs.pimblett.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//sAeBHIJMoxYeXLzU8hVTo3N6uQD.jpg" tvg-name="UFC 324: Gaethje vs. Pimblett (2026)",UFC 324: Gaethje vs. Pimblett (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/973729.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.325.volkanovski.vs.lopes.2.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//xoZDTsM9OOP2GzxAtiXwsRDAkrn.jpg" tvg-name="UFC 325: Volkanovski vs. Lopes 2 (2026)",UFC 325: Volkanovski vs. Lopes 2 (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/973807.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.326.holloway.vs.oliveira.2.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//lpwfV5pdZaZHweHcO2XwgkBy8j0.jpg" tvg-name="UFC 326: Holloway vs. Oliveira 2 (2026)",UFC 326: Holloway vs. Oliveira 2 (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/974999.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.327.prochazka.vs.ulberg.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//xOXOIhBtTtTDX5Pdi8ToGCFV7Ej.jpg" tvg-name="UFC 327: Procházka vs. Ulberg (2026)",UFC 327: Procházka vs. Ulberg (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/977499.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="ufc.720p" tvg-logo="" tvg-name="UFC (720p)",UFC (720p)
+https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.253.kape.vs.almabayev.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//8m51y7cfcwotQMtsUoKKBI1THdo.jpg" tvg-name="UFC Fight Night 253: Kape vs. Almabayev (2025)",UFC Fight Night 253: Kape vs. Almabayev (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/956566.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.254.vettori.vs.dolidze.2.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//gyMRwMVbbA4yOeiKJ13E9zZwyWs.jpg" tvg-name="UFC Fight Night 254: Vettori vs. Dolidze 2 (2025)",UFC Fight Night 254: Vettori vs. Dolidze 2 (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/956564.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.256.burns.vs.morales.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//4QSAYIHkg5IfHL3tvmvhXXlZWwF.jpg" tvg-name="UFC Fight Night 256: Burns vs. Morales (2025)",UFC Fight Night 256: Burns vs. Morales (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/955211.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.257.walker.vs.zhang.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ccmc8OMG9jH13IKhOJS8FUZMiYz.jpg" tvg-name="UFC Fight Night 257: Walker vs. Zhang (2025)",UFC Fight Night 257: Walker vs. Zhang (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/953807.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.258.imavov.vs.borralho.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//mj3S0pMp5kHccFmyVZ1L49c2Xtp.jpg" tvg-name="UFC Fight Night 258: Imavov vs. Borralho (2025)",UFC Fight Night 258: Imavov vs. Borralho (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/953805.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.259.lopes.vs.silva.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//mz46A273TKSmScnVE7YwEpwTrIz.jpg" tvg-name="UFC Fight Night 259: Lopes vs. Silva (2025)",UFC Fight Night 259: Lopes vs. Silva (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972049.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.260.ulberg.vs.reyes.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//nzCwCaT3l2f63ZanExAvq95zvmX.jpg" tvg-name="UFC Fight Night 260: Ulberg vs. Reyes (2025)",UFC Fight Night 260: Ulberg vs. Reyes (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/971998.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.261.oliveira.vs.gamrot.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//rghYP9uKA9J8agCIomNEjzwUafn.jpg" tvg-name="UFC Fight Night 261: Oliveira vs. Gamrot (2025)",UFC Fight Night 261: Oliveira vs. Gamrot (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972193.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.262.de.ridder.vs.allen.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//4AN5TFjodXnLTXxZvBaQVpdD2gm.jpg" tvg-name="UFC Fight Night 262: de Ridder vs. Allen (2025)",UFC Fight Night 262: de Ridder vs. Allen (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/971997.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.263.garcia.vs.onama.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//58CntwIBhPezpGljHg4Bune2mXR.jpg" tvg-name="UFC Fight Night 263: Garcia vs. Onama (2025)",UFC Fight Night 263: Garcia vs. Onama (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/971996.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.264.bonfim.vs.brown.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//4Tf2O273lHOKXd85YbOW4C4rKaC.jpg" tvg-name="UFC Fight Night 264: Bonfim vs. Brown (2025)",UFC Fight Night 264: Bonfim vs. Brown (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/971995.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.fight.night.265.tsarukyan.vs.hooker.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//7xxilzCS72ukBvt3wg3idQbLTEM.jpg" tvg-name="UFC Fight Night 265: Tsarukyan vs. Hooker (2025)",UFC Fight Night 265: Tsarukyan vs. Hooker (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/971994.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.fight.night.266.bautista.vs.oliveira.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//4aq2ZfcHp9iqgVcFM5ToXUTNp4q.jpg" tvg-name="UFC Fight Night 266: Bautista vs. Oliveira (2026)",UFC Fight Night 266: Bautista vs. Oliveira (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/974027.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.fight.night.267.strickland.vs.hernandez.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//nDEbtlRgUl14gamR0FbG4qxdLY5.jpg" tvg-name="UFC Fight Night 267: Strickland vs. Hernandez (2026)",UFC Fight Night 267: Strickland vs. Hernandez (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/974962.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.fight.night.268.moreno.vs.kavanagh.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//2KXYDDtitf4hyFm1eI3wdcV2r8c.jpg" tvg-name="UFC Fight Night 268: Moreno vs. Kavanagh (2026)",UFC Fight Night 268: Moreno vs. Kavanagh (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/974961.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.fight.night.270.evloev.vs.murphy.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//lmyayfRfWpT3wFCkCPIJauJxLpE.jpg" tvg-name="UFC Fight Night 270: Evloev vs. Murphy (2026)",UFC Fight Night 270: Evloev vs. Murphy (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/976501.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.fight.night.271.adesanya.vs.pyfer.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//eqJQz7pOs9VX5emYxrse9dYdf8D.jpg" tvg-name="UFC Fight Night 271: Adesanya vs. Pyfer (2026)",UFC Fight Night 271: Adesanya vs. Pyfer (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/977079.mp4
+#EXTINF:-1 group-title="FILMES • 2026" tvg-id="ufc.fight.night.272.moicano.vs.duncan.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//nNSAYpeY85WRDWlquJOPp0stS4r.jpg" tvg-name="UFC Fight Night 272: Moicano vs. Duncan (2026)",UFC Fight Night 272: Moicano vs. Duncan (2026)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/977494.mp4
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="ufc.fight.pass.1.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2ODNf/ufcfightpass.png" tvg-name="UFC FIGHT PASS 1 HD¹",UFC FIGHT PASS 1 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464654
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="ufc.fight.pass.1.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2ODNf/ufcfightpass.png" tvg-name="UFC FIGHT PASS 1 HD²",UFC FIGHT PASS 1 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464655
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="ufc.fight.pass.2.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2ODNf/ufcfightpass.png" tvg-name="UFC FIGHT PASS 2 HD¹",UFC FIGHT PASS 2 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464656
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="ufc.fight.pass.2.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2ODNf/ufcfightpass.png" tvg-name="UFC FIGHT PASS 2 HD²",UFC FIGHT PASS 2 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464657
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="ufc.fight.pass.3.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2ODNf/ufcfightpass.png" tvg-name="UFC FIGHT PASS 3 HD¹",UFC FIGHT PASS 3 HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464658
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="ufc.fight.pass.3.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2ODNf/ufcfightpass.png" tvg-name="UFC FIGHT PASS 3 HD²",UFC FIGHT PASS 3 HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971992
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.abc.8.hill.vs.rountree.jr.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//yjA69XE8phBEJIlQCGcEsLgwA7W.jpg" tvg-name="UFC on ABC 8: Hill vs. Rountree Jr. (2025)",UFC on ABC 8: Hill vs. Rountree Jr. (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/955200.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.espn.64.moreno.vs.erceg.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//dx87XigdvTHNdESjLbSeLQnIoBC.jpg" tvg-name="UFC on ESPN 64: Moreno vs. Erceg (2025)",UFC on ESPN 64: Moreno vs. Erceg (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/955220.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.espn.66.machado.garry.vs.prates.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//1QwNcc1FS8GzVbno8KzxCE5XbVw.jpg" tvg-name="UFC on ESPN 66: Machado Garry vs. Prates (2025)",UFC on ESPN 66: Machado Garry vs. Prates (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/955218.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.espn.67.sandhagen.vs.figueiredo.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//bRiuuMKG5wsdEuGUaF4TM0UPPN5.jpg" tvg-name="UFC on ESPN 67: Sandhagen vs. Figueiredo (2025)",UFC on ESPN 67: Sandhagen vs. Figueiredo (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/955217.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.espn.69.usman.vs.buckley.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//izxUQUR7IBUBYZaavFcbsRVFX66.jpg" tvg-name="UFC on ESPN 69: Usman vs. Buckley (2025)",UFC on ESPN 69: Usman vs. Buckley (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/955209.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.espn.70.lewis.vs.teixeira.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//hRgqZkmQj4f5lA5uWY1sLZqWifC.jpg" tvg-name="UFC on ESPN 70: Lewis vs. Teixeira (2025)",UFC on ESPN 70: Lewis vs. Teixeira (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/955193.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.espn.71.taira.vs.park.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//pxLnN5ZnVLn3DOM9jLxU3OGw53M.jpg" tvg-name="UFC on ESPN 71: Taira vs. Park (2025)",UFC on ESPN 71: Taira vs. Park (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/953816.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.espn.72.dolidze.vs.hernandez.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//V3vkYcsxDw6x1lg31SKhSoJRXz.jpg" tvg-name="UFC on ESPN 72: Dolidze vs. Hernandez (2025)",UFC on ESPN 72: Dolidze vs. Hernandez (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/953818.mp4
+#EXTINF:-1 group-title="FILMES • 2025" tvg-id="ufc.on.espn.73.royval.vs.kape.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ruecaJTlopSfXQ6WvXnbbL6eSIK.jpg" tvg-name="UFC on ESPN 73: Royval vs. Kape (2025)",UFC on ESPN 73: Royval vs. Kape (2025)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972230.mp4
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="ufc.reprise.hd1" tvg-logo="https://i.imgur.com/dB6iZvH.png" tvg-name="UFC REPRISE HD¹",UFC REPRISE HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/464653
+#EXTINF:-1 group-title="CANAIS • COMBATE - UFC FIGHT" tvg-id="ufc.reprise.hd2" tvg-logo="https://i.imgur.com/dB6iZvH.png" tvg-name="UFC REPRISE HD²",UFC REPRISE HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971993
+#EXTINF:-1 group-title="Sports" tvg-id="Unbeaten.us@SD" tvg-logo="" tvg-name="Unbeaten Sports Channel (1080p)",Unbeaten Sports Channel (1080p)
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.fhd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE FHD¹",UNIVERSAL PREMIERE FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977438
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.fhd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE FHD²",UNIVERSAL PREMIERE FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899537
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.hd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE HD¹",UNIVERSAL PREMIERE HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977439
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.hd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE HD²",UNIVERSAL PREMIERE HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899535
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.sd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE SD¹",UNIVERSAL PREMIERE SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/977440
+#EXTINF:-1 group-title="CANAIS • FILMES E SERIES" tvg-id="universal.premiere.sd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/universal-premiere.png" tvg-name="UNIVERSAL PREMIERE SD²",UNIVERSAL PREMIERE SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899536
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.101" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 10¹",USA: NBA LEAGUE PASS 10¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465090
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.11" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 1¹",USA: NBA LEAGUE PASS 1¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465081
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.21" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 2¹",USA: NBA LEAGUE PASS 2¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465082
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.31" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 3¹",USA: NBA LEAGUE PASS 3¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465083
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.41" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 4¹",USA: NBA LEAGUE PASS 4¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465084
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.51" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 5¹",USA: NBA LEAGUE PASS 5¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465085
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.61" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 6¹",USA: NBA LEAGUE PASS 6¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465086
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.71" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 7¹",USA: NBA LEAGUE PASS 7¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465087
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.81" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 8¹",USA: NBA LEAGUE PASS 8¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465088
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.91" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS 9¹",USA: NBA LEAGUE PASS 9¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/465089
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.102" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 10²",USA: NBA LEAGUE PASS EXTRA 10²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971976
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.12" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 1²",USA: NBA LEAGUE PASS EXTRA 1²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461895
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.22" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 2²",USA: NBA LEAGUE PASS EXTRA 2²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461896
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.32" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 3²",USA: NBA LEAGUE PASS EXTRA 3²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461897
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.42" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 4²",USA: NBA LEAGUE PASS EXTRA 4²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461898
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.52" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 5²",USA: NBA LEAGUE PASS EXTRA 5²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461899
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.62" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 6²",USA: NBA LEAGUE PASS EXTRA 6²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461900
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.72" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 7²",USA: NBA LEAGUE PASS EXTRA 7²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461901
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.82" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 8²",USA: NBA LEAGUE PASS EXTRA 8²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461902
+#EXTINF:-1 group-title="CANAIS • NBA LEAGUE PASS" tvg-id="usa.nba.league.pass.extra.92" tvg-logo="https://assistatv.me/images/6c7d5c2521a92538ca8ee70953eb0f9d.png" tvg-name="USA: NBA LEAGUE PASS EXTRA 9²",USA: NBA LEAGUE PASS EXTRA 9²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/461903
+#EXTINF:-1 group-title="FILMES • INFANTIL" tvg-id="vombate.ao.combate.2020" tvg-logo="https://image.tmdb.org/t/p/w780/h9Q9XlyIBspegMLCuxo4UWZyZlm.jpg" tvg-name="Vombate ao Combate (2020)",Vombate ao Combate (2020)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/821487.mp4
+#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="vombate.ao.combate.leg.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Q9XlyIBspegMLCuxo4UWZyZlm.jpg" tvg-name="Vombate ao Combate LEG (2020)",Vombate ao Combate LEG (2020)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/967107.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="W14DKD145.us@SD" tvg-logo="" tvg-name="W14DK-D 14.5 All Sports Television Network",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="WillowSports.us@SD" tvg-logo="" tvg-name="Willow Sports (1080p) [Geo-blocked]",Willow Sports (1080p) [Geo-blocked]
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="WinSports.co@SD" tvg-logo="" tvg-name="Win Sports (1080p)",Win Sports (1080p)
+http://190.60.40.34:8001/play/a0ef
+#EXTINF:-1 group-title="Sports" tvg-id="WomensSportsNetwork.us@SD" tvg-logo="" tvg-name="Women's Sports Network (1080p)",Women's Sports Network (1080p)
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="WorldofFreesports.de@Poland" tvg-logo="" tvg-name="World of Freesports (1080p)",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="WorldofFreesports.de@SD" tvg-logo="" tvg-name="World of Freesports (1080p)",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS • XSPORTS" tvg-id="x.sports.fhd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/xsports.png" tvg-name="X-SPORTS FHD¹",X-SPORTS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/901861
+#EXTINF:-1 group-title="CANAIS • XSPORTS" tvg-id="x.sports.fhd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/xsports.png" tvg-name="X-SPORTS FHD²",X-SPORTS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/901860
+#EXTINF:-1 group-title="CANAIS • XSPORTS" tvg-id="x.sports.hd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/xsports.png" tvg-name="X-SPORTS HD¹",X-SPORTS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/901863
+#EXTINF:-1 group-title="CANAIS • XSPORTS" tvg-id="x.sports.hd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/xsports.png" tvg-name="X-SPORTS HD²",X-SPORTS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/901862
+#EXTINF:-1 group-title="CANAIS • XSPORTS" tvg-id="x.sports.sd1" tvg-logo="https://meuplayer.tv.br/lgs_btv/xsports.png" tvg-name="X-SPORTS SD¹",X-SPORTS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/901865
+#EXTINF:-1 group-title="CANAIS • XSPORTS" tvg-id="x.sports.sd2" tvg-logo="https://meuplayer.tv.br/lgs_btv/xsports.png" tvg-name="X-SPORTS SD²",X-SPORTS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/901864
+#EXTINF:-1 group-title="Sports" tvg-id="xtrem.sports.1080p" tvg-logo="" tvg-name="Xtrem Sports (1080p)",Xtrem Sports (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="yahoo.sports.network.1080p" tvg-logo="" tvg-name="Yahoo! Sports Network (1080p)",Yahoo! Sports Network (1080p)
+https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
+#EXTINF:-1 group-title="FILMES • SUSPENSE" tvg-id="zona.de.combate.2021" tvg-logo="https://image.tmdb.org/t/p/w780/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg" tvg-name="Zona de Combate (2021)",Zona de Combate (2021)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/822517.mp4
+#EXTINF:-1 group-title="FILMES • GUERRA" tvg-id="zona.de.conflito.1999" tvg-logo="https://image.tmdb.org/t/p/w780/w4UuDtGbRjr49epjTMWmB4whpzC.jpg" tvg-name="Zona de Conflito (1999)",Zona de Conflito (1999)
+http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/822519.mp4
+#EXTINF:-1 group-title="Sports" tvg-id="ZoyTVSports1.bo@SD" tvg-logo="" tvg-name="Zoy TV Sports 1 (1080p) [Not 24/7]",Zoy TV Sports 1 (1080p) [Not 24/7]
+https://mio.zoymilton.com/ZoyEventos/index.m3u8

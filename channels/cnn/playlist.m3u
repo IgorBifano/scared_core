@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="ACNN.ng@SD" tvg-logo="" tvg-name="ACNN (480p)",ACNN (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.fhd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL FHD¹",CNN BRASIL FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717157
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.fhd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL FHD²",CNN BRASIL FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971826
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.hd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL HD¹",CNN BRASIL HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717159
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.hd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL HD²",CNN BRASIL HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971827
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.money.fhd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY FHD¹",CNN BRASIL MONEY FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717183
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.money.fhd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY FHD²",CNN BRASIL MONEY FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971847
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.money.hd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY HD¹",CNN BRASIL MONEY HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717184
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.money.hd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY HD²",CNN BRASIL MONEY HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971848
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.money.sd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY SD¹",CNN BRASIL MONEY SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717185
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.money.sd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY SD²",CNN BRASIL MONEY SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971849
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.sd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL SD¹",CNN BRASIL SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717160
+#EXTINF:-1 group-title="CANAIS • NOTICIAS" tvg-id="cnn.brasil.sd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL SD²",CNN BRASIL SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971828
+#EXTINF:-1 group-title="Series" tvg-id="guerrero.s01.e06.tvg.logo.https.image.tmdb.org.t.p.w1280.b4hlmgpq2ghf0jbwcxcnn5lgib8.jpg.group.title.series.netflix.contigo.guerrero.s01.e06" tvg-logo="" tvg-name="Guerrero S01 E06" tvg-logo="https://image.tmdb.org/t/p/w1280/b4hlmGpQ2GHF0JbWcXCnN5LGib8.jpg" group-title="SERIES • NETFLIX",Contigo, Guerrero S01 E06",Guerrero S01 E06" tvg-logo="https://image.tmdb.org/t/p/w1280/b4hlmGpQ2GHF0JbWcXCnN5LGib8.jpg" group-title="SERIES • NETFLIX",Contigo, Guerrero S01 E06
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/857863.mp4
+#EXTINF:-1 group-title="Series" tvg-id="ja.era.s03.e03.tvg.logo.https.image.tmdb.org.t.p.w300.apf1q2qiu2kyuxcnn2zmd5qohkt.jpg.group.title.series.prime.amazon.video.lol.se.rir.ja.era.s03.e03" tvg-logo="" tvg-name="Já Era S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ApF1Q2qiu2kyuxCnn2zMd5qoHkT.jpg" group-title="SERIES • PRIME AMAZON VIDEO",LOL: Se Rir, Já Era S03 E03",Já Era S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ApF1Q2qiu2kyuxCnn2zMd5qoHkT.jpg" group-title="SERIES • PRIME AMAZON VIDEO",LOL: Se Rir, Já Era S03 E03
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/818945.mp4
+#EXTINF:-1 group-title="Series" tvg-id="recatada.e.do.lar.s03.e17.tvg.logo.https.image.tmdb.org.t.p.w300.cnndfkz89bvuytsyx2squwrers1.jpg.group.title.series.comedia.bela.recatada.e.do.lar.s03.e17" tvg-logo="" tvg-name="Recatada e do Lar S03 E17" tvg-logo="https://image.tmdb.org/t/p/w300/cnNdfKZ89bVUYTSYx2sQUWRERS1.jpg" group-title="SERIES • COMÉDIA",Bela, Recatada e do Lar S03 E17",Recatada e do Lar S03 E17" tvg-logo="https://image.tmdb.org/t/p/w300/cnNdfKZ89bVUYTSYx2sQUWRERS1.jpg" group-title="SERIES • COMÉDIA",Bela, Recatada e do Lar S03 E17
+http://tyzic.xyz:80/series/IgorBifano/bng6vizn/800860.mp4

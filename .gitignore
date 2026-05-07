@@ -1,9 +1,5 @@
-node_modules
-.artifacts
-.secrets
-.actrc
-.DS_Store
-/.gh-pages/
-/.api/
-.env
-/temp/
+__pycache__/
+*.pyc
+backup/
+output/report.json
+logs/

@@ -1,80 +1,87 @@
-# IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
+# IPTV System
 
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+Projeto pessoal para consolidar playlists IPTV locais, integrar `plus.m3u`, remover entradas inválidas e gerar saídas organizadas por país, categoria e canal.
 
-## Table of contents
+## Estrutura
 
-- 🚀 [How to use?](#how-to-use)
-- 📺 [Playlists](#playlists)
-- 🗓 [EPG](#epg)
-- 🗄 [Database](#database)
-- 👨‍💻 [API](#api)
-- 📚 [Resources](#resources)
-- 💬 [Discussions](#discussions)
-- ❓ [FAQ](#faq)
-- 🛠 [Contribution](#contribution)
-- ⚖ [Legal](#legal)
-- © [License](#license)
-
-## How to use?
-
-Simply paste the link to one of the playlists into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
-
-![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
-
-## Playlists
-
-The main playlist containing all channels available in the repository can be found at:
-
+```text
+iptv/
+├── backup/                    # snapshot do projeto legado antes da limpeza
+├── categories/                # playlists geradas por categoria
+├── channels/                  # playlists geradas por canal conhecido
+├── config/
+│   └── sources.txt            # URLs extras opcionais
+├── countries/                 # playlists geradas por país
+├── kids/                      # atalho para categoria gerada
+├── live/                      # atalho para categoria gerada
+├── logos/                     # reservado para logos locais
+├── movies/                    # atalho para categoria gerada
+├── news/                      # atalho para categoria gerada
+├── output/                    # saídas finais
+├── playlists/
+│   └── local/
+│       └── legacy_streams/    # playlists herdadas do projeto anterior
+├── scripts/
+│   ├── iptv_core.py
+│   └── merge_lists.py
+├── series/                    # atalho para categoria gerada
+├── sports/                    # atalho para categoria gerada
+├── task.md
+└── vod/                       # atalho para categoria gerada
 ```
-https://iptv-org.github.io/iptv/index.m3u
+
+## Fontes lidas pelo sistema
+
+O script `scripts/merge_lists.py` lê:
+
+1. Todas as playlists locais em `playlists/**/*.m3u`
+2. `plus.m3u` na raiz do projeto ou um nível acima da raiz do repositório
+3. URLs listadas em `config/sources.txt`
+
+## Como executar
+
+```bash
+python scripts/merge_lists.py
 ```
 
-Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
+Validação opcional de conectividade dos streams:
 
-## EPG
+```bash
+python scripts/merge_lists.py --check-streams --limit 500
+```
 
-[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the channels can be downloaded using utilities published in the [iptv-org/epg](https://github.com/iptv-org/epg) repository.
+Opções úteis:
 
-## Database
+```bash
+python scripts/merge_lists.py --help
+```
 
-All channel data is taken from the [iptv-org/database](https://github.com/iptv-org/database) repository. If you find any errors please open a new [issue](https://github.com/iptv-org/database/issues) there.
+## Saídas geradas
 
-## API
+- `output/all_channels.m3u`
+- `output/countries/*.m3u`
+- `output/categories/*.m3u`
+- `output/channels/*.m3u`
+- `countries/<pais>/playlist.m3u`
+- `channels/<canal>/playlist.m3u`
+- `sports/playlist.m3u`, `movies/playlist.m3u`, `series/playlist.m3u`, `kids/playlist.m3u`, `news/playlist.m3u`, `live/playlist.m3u`, `vod/playlist.m3u`
+- `output/report.json`
 
-The API documentation can be found in the [iptv-org/api](https://github.com/iptv-org/api) repository.
+## Como adicionar novas listas
 
-## Resources
+1. Coloque arquivos `.m3u` dentro de `playlists/`
+2. Adicione URLs remotas em `config/sources.txt`, uma por linha
+3. Atualize `plus.m3u` quando necessário
+4. Rode `python scripts/merge_lists.py`
 
-Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
+## Como atualizar playlists
 
-## Discussions
+- Substitua ou acrescente fontes em `playlists/`
+- Edite `config/sources.txt`
+- Rode novamente o script para reconstruir todos os recortes
 
-If you have a question or idea, welcome to the [Discussions](https://github.com/orgs/iptv-org/discussions).
+## Observações
 
-## FAQ
-
-The answers to the most popular questions can be found in the [FAQ.md](FAQ.md) file.
-
-## Contribution
-
-Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
-
-And thank you to everyone who has already contributed!
-
-### Backers
-
-<a href="https://opencollective.com/iptv-org"><img src="https://opencollective.com/iptv-org/backers.svg?width=890" /></a>
-
-### Contributors
-
-<a href="https://github.com/iptv-org/iptv/graphs/contributors"><img src="https://opencollective.com/iptv-org/contributors.svg?width=890" /></a>
-
-## Legal
-
-No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by opening an [issue](https://github.com/iptv-org/iptv/issues/new?template=6_copyright-claim.yml). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
-
+- A detecção de país e categoria é heurística, baseada em `name`, `group-title` e `tvg-id`
+- O script prioriza entradas da `plus.m3u` em conflitos de duplicidade
+- A checagem de links offline é opcional porque pode ser lenta e depende de acesso de rede
