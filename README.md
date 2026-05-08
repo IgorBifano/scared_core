@@ -182,5 +182,6 @@ O workflow automático está em `.github/workflows/generate-playlists.yml`.
 - O script prioriza entradas da `plus.m3u` em conflitos de duplicidade
 - A checagem de links offline é opcional porque pode ser lenta e depende de acesso de rede
 - O `group-title` é o campo usado pelos players para montar grupos como `Sports`, `News`, `Movies`, `Netflix` e `Drama`
+- O parser agora publica `group-title` composto quando faz sentido, como `Sports | ESPN`, `Open TV | Globo`, `Movies | Action` e `Series | HBO`
 - Apps como TiviMate, IPTV Smarters, OTT Navigator, VLC e Kodi consomem diretamente `index.m3u`, `output/live/index.m3u`, `output/movies/index.m3u` e `output/series/index.m3u`
 - Para manter os arquivos publicados menores, os recortes `all_channels`, `countries` e `channels` agora publicam apenas conteúdo linear live

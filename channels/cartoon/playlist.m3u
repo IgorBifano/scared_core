@@ -1,43 +1,43 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Kids" tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="CartoonClassics.pl@FAST" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="CartoonClassics.pl@FAST" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.classics.1080p" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.classics.1080p" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.fhd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK FHD¹",CARTOON NETWORK FHD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.fhd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK FHD¹",CARTOON NETWORK FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721560
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK FHD²",CARTOON NETWORK FHD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK FHD²",CARTOON NETWORK FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721561
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.hd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK HD¹",CARTOON NETWORK HD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.hd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK HD¹",CARTOON NETWORK HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721562
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK HD²",CARTOON NETWORK HD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK HD²",CARTOON NETWORK HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721563
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.sd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK SD¹",CARTOON NETWORK SD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.sd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK SD¹",CARTOON NETWORK SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721564
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK SD²",CARTOON NETWORK SD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK SD²",CARTOON NETWORK SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721565
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD¹",CARTOONITO FHD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD¹",CARTOONITO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721566
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD²",CARTOONITO FHD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD²",CARTOONITO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721567
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD¹",CARTOONITO HD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD¹",CARTOONITO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721568
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD²",CARTOONITO HD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD²",CARTOONITO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721569
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD¹",CARTOONITO SD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD¹",CARTOONITO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721570
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD²",CARTOONITO SD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD²",CARTOONITO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721571
-#EXTINF:-1 group-title="Kids" tvg-id="GoldenEagleCartoon.cn@SD" tvg-logo="" tvg-name="Golden Eagle Cartoon",Golden Eagle Cartoon
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="GoldenEagleCartoon.cn@SD" tvg-logo="" tvg-name="Golden Eagle Cartoon",Golden Eagle Cartoon
 http://1.24.190.98:10080/hls/51/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="GospelCartoon.br@SD" tvg-logo="" tvg-name="Gospel Cartoon (360p)",Gospel Cartoon (360p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="GospelCartoon.br@SD" tvg-logo="" tvg-name="Gospel Cartoon (360p)",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="JiaJiaCartoon.cn@SD" tvg-logo="" tvg-name="JiaJia Cartoon",JiaJia Cartoon
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="JiaJiaCartoon.cn@SD" tvg-logo="" tvg-name="JiaJia Cartoon",JiaJia Cartoon
 http://49.113.179.174:4022/udp/238.125.0.158:5140
-#EXTINF:-1 group-title="Kids" tvg-id="XtremaCartoons.ar@SD" tvg-logo="" tvg-name="Xtrema Cartoons",Xtrema Cartoons
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="XtremaCartoons.ar@SD" tvg-logo="" tvg-name="Xtrema Cartoons",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="ZBCartoon.in@HD" tvg-logo="" tvg-name="ZB Cartoon (1080p)",ZB Cartoon (1080p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="ZBCartoon.in@HD" tvg-logo="" tvg-name="ZB Cartoon (1080p)",ZB Cartoon (1080p)
 https://server.zillarbarta.com/zbcatun/video.m3u8

@@ -25,17 +25,17 @@ https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 group-title="Regional" tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="" tvg-name="Comedy Central Latin America (1080p)",Comedy Central Latin America (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="" tvg-name="Disney Channel Latin America (1080p)",Disney Channel Latin America (1080p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="" tvg-name="Disney Channel Latin America (1080p)",Disney Channel Latin America (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="" tvg-name="Disney Jr. Latin America South",Disney Jr. Latin America South
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="" tvg-name="Disney Jr. Latin America South",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 group-title="Sports" tvg-id="DSportsUruguay.uy@SD" tvg-logo="" tvg-name="DSports Uruguay",DSports Uruguay
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ELatinAmerica.us@South" tvg-logo="" tvg-name="E! Latin America (720p)",E! Latin America (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="" tvg-name="Fox Sports 3 Latin America (1080p)",Fox Sports 3 Latin America (1080p)
+#EXTINF:-1 group-title="Sports | Fox" tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="" tvg-name="Fox Sports 3 Latin America (1080p)",Fox Sports 3 Latin America (1080p)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FXLatinAmerica.us@South" tvg-logo="" tvg-name="FX Latin America South (720p)",FX Latin America South (720p)
+#EXTINF:-1 group-title="Entertainment | Fox" tvg-id="FXLatinAmerica.us@South" tvg-logo="" tvg-name="FX Latin America South (720p)",FX Latin America South (720p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-78_720.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="GarageTVLatinAmerica.ar@SD" tvg-logo="" tvg-name="Garage TV Latin America",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8

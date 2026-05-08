@@ -6,6 +6,7 @@ import re
 import socket
 import unicodedata
 from dataclasses import dataclass, field
+from datetime import datetime
 from pathlib import Path
 from typing import Iterable
 from urllib.error import URLError
@@ -33,6 +34,7 @@ LIVE_GROUP_TITLES = {
     "sports": "Sports",
     "news": "News",
     "kids": "Kids",
+    "open_tv": "Open TV",
     "entertainment": "Entertainment",
     "documentary": "Documentary",
     "regional": "Regional",
@@ -48,6 +50,8 @@ MOVIE_GROUP_TITLES = {
     "documentary": "Documentary",
     "animation": "Anime",
     "family": "Family",
+    "kids": "Kids",
+    "launches": "Launches",
     "crime": "Crime",
     "scifi": "Sci-Fi",
     "general": "Movies",
@@ -55,7 +59,12 @@ MOVIE_GROUP_TITLES = {
 
 SERIES_GROUP_TITLES = {
     "netflix": "Netflix",
+    "prime_video": "Prime Video",
     "hbo": "HBO",
+    "apple_tv": "Apple TV+",
+    "disney_plus": "Disney+",
+    "paramount_plus": "Paramount+",
+    "crunchyroll": "Crunchyroll",
     "anime": "Anime",
     "sitcom": "Sitcom",
     "drama": "Drama",
@@ -68,6 +77,7 @@ LIVE_CATEGORY_KEYWORDS = {
     "sports": ["sport", "sports", "premiere", "espn", "fox sports", "sportv", "combate", "ufc", "nba", "nfl"],
     "news": ["news", "noticias", "notícias", "jornal", "cnn", "bbc news", "record news", "globonews", "band news"],
     "kids": ["kids", "children", "infantil", "cartoon", "disney channel", "disney junior", "nick", "nick jr", "boomerang", "gloob"],
+    "open_tv": ["globo", "sbt", "record", "band", "redetv", "rede tv"],
     "documentary": ["documentario", "documentários", "documentaries", "discovery", "animal planet", "history", "nat geo", "investigation", "tlc"],
     "regional": ["regional", "regionais", "globo regionais", "tv local", "rede amazonica", "capital", "interior"],
     "entertainment": ["entertainment", "entretenimento", "variedades", "show", "canais", "globo", "sbt", "record", "band", "warner", "sony", "universal"],
@@ -83,6 +93,8 @@ MOVIE_GENRE_KEYWORDS = {
     "documentary": ["documentario", "documentário", "documentary", "doc"],
     "animation": ["animacao", "animação", "animation", "anime", "desenho"],
     "family": ["family", "familia", "família", "infantil", "kids"],
+    "kids": ["kids", "infantil", "children", "disney", "pixar", "dreamworks"],
+    "launches": [],
     "crime": ["crime", "policial", "investigacao", "investigação"],
     "scifi": ["ficcao", "ficção", "scifi", "sci-fi", "fantasia", "fantasy"],
     "general": [],
@@ -90,7 +102,12 @@ MOVIE_GENRE_KEYWORDS = {
 
 SERIES_GENRE_KEYWORDS = {
     "netflix": ["netflix"],
+    "prime_video": ["prime video", "amazon prime", "primevideo"],
     "hbo": ["hbo", "max"],
+    "apple_tv": ["apple tv", "apple tv+"],
+    "disney_plus": ["disney+", "disney plus"],
+    "paramount_plus": ["paramount+", "paramount plus"],
+    "crunchyroll": ["crunchyroll"],
     "anime": ["anime", "animacao", "animação"],
     "sitcom": ["sitcom", "comedia", "comédia", "comedy"],
     "drama": ["drama", "novela", "seriado", "globoplay"],
@@ -152,6 +169,10 @@ CHANNEL_KEYWORDS = {
     "fox": ["fox", "fx", "fxx"],
     "cnn": ["cnn"],
     "globo": ["globo"],
+    "band": ["band", "bandsports"],
+    "record": ["record", "record news"],
+    "sbt": ["sbt"],
+    "redetv": ["redetv", "rede tv"],
     "nick": ["nick", "nickelodeon", "nick jr"],
     "warner": ["warner", "warner channel", "space", "tnt"],
 }
@@ -168,6 +189,10 @@ CHANNEL_OUTPUT_NAMES = {
     "fox": ["fox"],
     "cnn": ["cnn"],
     "globo": ["globo"],
+    "band": ["band"],
+    "record": ["record"],
+    "sbt": ["sbt"],
+    "redetv": ["redetv"],
     "nick": ["nick"],
     "warner": ["warner"],
 }
@@ -206,6 +231,7 @@ class PlaylistEntry:
     vod_genre: str = "general"
     series_genre: str = "general"
     channel_group: str | None = None
+    quality: str = ""
 
     @property
     def tvg_id(self) -> str:
@@ -459,6 +485,7 @@ def enrich_entries(entries: Iterable[PlaylistEntry]) -> list[PlaylistEntry]:
         entry.vod_genre = detect_movie_genre(entry) if entry.content_type == "movies" else ""
         entry.series_genre = detect_series_genre(entry) if entry.content_type == "series" else ""
         entry.channel_group = detect_channel_group(entry)
+        entry.quality = detect_quality(entry)
         standardize_entry(entry)
         enriched.append(entry)
     return enriched
@@ -538,10 +565,33 @@ def squeeze_spaces(value: str) -> str:
 
 def canonical_group_title(entry: PlaylistEntry) -> str:
     if entry.content_type == "live":
-        return LIVE_GROUP_TITLES.get(entry.live_category, "Entertainment")
+        base_group = LIVE_GROUP_TITLES.get(entry.live_category, "Entertainment")
+        if entry.channel_group:
+            return f"{base_group} | {format_slug_label(entry.channel_group)}"
+        return base_group
     if entry.content_type == "movies":
-        return MOVIE_GROUP_TITLES.get(entry.vod_genre, "Movies")
-    return SERIES_GROUP_TITLES.get(entry.series_genre, "Series")
+        return f'Movies | {MOVIE_GROUP_TITLES.get(entry.vod_genre, "Movies")}'
+    return f'Series | {SERIES_GROUP_TITLES.get(entry.series_genre, "Series")}'
+
+
+def format_slug_label(value: str) -> str:
+    labels = {
+        "sportv": "SporTV",
+        "hbo": "HBO",
+        "cnn": "CNN",
+        "espn": "ESPN",
+        "sbt": "SBT",
+        "band": "Band",
+        "redetv": "RedeTV",
+        "prime_video": "Prime Video",
+        "apple_tv": "Apple TV+",
+        "disney_plus": "Disney+",
+        "paramount_plus": "Paramount+",
+        "crunchyroll": "Crunchyroll",
+    }
+    if value in labels:
+        return labels[value]
+    return value.replace("_", " ").title()
 
 
 def looks_like_linear_channel(entry: PlaylistEntry) -> bool:
@@ -594,6 +644,10 @@ def is_probable_movie(entry: PlaylistEntry) -> bool:
 
 def detect_live_category(entry: PlaylistEntry) -> str:
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.tvg_id]))
+    if detect_channel_group(entry) in {"globo", "sbt", "record", "band", "redetv"}:
+        if any(token in haystack for token in ["regional", "rede amazonica", "capital", "interior"]):
+            return "regional"
+        return "open_tv"
     for category, keywords in LIVE_CATEGORY_KEYWORDS.items():
         if any(keyword in haystack for keyword in keywords):
             return category
@@ -602,6 +656,10 @@ def detect_live_category(entry: PlaylistEntry) -> str:
 
 def detect_movie_genre(entry: PlaylistEntry) -> str:
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
+    release_year = detect_release_year(entry)
+    current_year = datetime.now().year
+    if release_year and release_year >= current_year - 1:
+        return "launches"
     for genre, keywords in MOVIE_GENRE_KEYWORDS.items():
         if keywords and any(keyword in haystack for keyword in keywords):
             return genre
@@ -614,6 +672,35 @@ def detect_series_genre(entry: PlaylistEntry) -> str:
         if keywords and any(keyword in haystack for keyword in keywords):
             return genre
     return "general"
+
+
+def detect_quality(entry: PlaylistEntry) -> str:
+    haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.tvg_id]))
+    quality_keywords = [
+        ("4K", ["4k", "uhd", "2160p"]),
+        ("FHD", ["fhd", "fullhd", "1080p"]),
+        ("HD", ["hd", "720p"]),
+        ("SD", ["sd", "480p", "360p"]),
+    ]
+    for label, tokens in quality_keywords:
+        if any(token in haystack for token in tokens):
+            return label
+    return ""
+
+
+def detect_release_year(entry: PlaylistEntry) -> int | None:
+    candidates: list[int] = []
+    sources = [entry.name, entry.attributes.get("tvg-name", ""), entry.tvg_id]
+    for source in sources:
+        candidates.extend(int(value) for value in re.findall(r"\((19\d{2}|20\d{2})\)", source))
+        candidates.extend(int(value) for value in re.findall(r"(?:^|[\s._-])(19\d{2}|20\d{2})(?:$|[\s._-])", source))
+    if not candidates:
+        return None
+    current_year = datetime.now().year + 1
+    valid = [value for value in candidates if 1900 <= value <= current_year]
+    if not valid:
+        return None
+    return max(valid)
 
 
 def check_stream_availability(entries: list[PlaylistEntry], timeout: float, limit: int | None = None) -> tuple[list[PlaylistEntry], int]:
@@ -777,7 +864,7 @@ def write_outputs(
             save_playlist(project_root / "output" / "channels" / f"{alias}.m3u", channel_entries)
 
     live_groups = group_entries_by_attr(live_entries, "live_category")
-    for slug in ["sports", "news", "kids", "entertainment", "documentary", "regional"]:
+    for slug in ["sports", "news", "kids", "open_tv", "entertainment", "documentary", "regional"]:
         save_playlist(project_root / "output" / "live" / f"{slug}.m3u", live_groups.get(slug, []))
     save_playlist(project_root / "output" / "live" / "documentaries.m3u", live_groups.get("documentary", []))
     save_playlist(project_root / "output" / "live" / "all.m3u", live_entries)

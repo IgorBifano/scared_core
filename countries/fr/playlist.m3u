@@ -108,7 +108,7 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="DBMTV.fr@SD" tvg-logo="" tvg-name="DBM TV (1080p)",DBM TV (1080p)
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyJr.fr@SD" tvg-logo="" tvg-name="Disney Jr. (1080p)",Disney Jr. (1080p)
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyJr.fr@SD" tvg-logo="" tvg-name="Disney Jr. (1080p)",Disney Jr. (1080p)
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Equidia.fr@SD" tvg-logo="" tvg-name="Equidia (1080p)",Equidia (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
@@ -237,11 +237,11 @@ https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NatureTime.ca@France" tvg-logo="" tvg-name="Nature Time France (1080p)",Nature Time France (1080p)
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.fr@SD" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.fr@SD" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickelodeonJunior.fr@SD" tvg-logo="" tvg-name="Nickelodeon Junior (1080p)",Nickelodeon Junior (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickelodeonJunior.fr@SD" tvg-logo="" tvg-name="Nickelodeon Junior (1080p)",Nickelodeon Junior (1080p)
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickelodeonTeen.fr@SD" tvg-logo="" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickelodeonTeen.fr@SD" tvg-logo="" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Novocomedy.fr@SD" tvg-logo="" tvg-name="Novo Comedy (720p)",Novo Comedy (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -344,7 +344,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/tele
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="" tvg-name="TF1 Series Films (1080p) [Geo-Blocked]",TF1 Series Films (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TFX.fr@SD" tvg-logo="" tvg-name="TFX (1080p) [Geo-Blocked]",TFX (1080p) [Geo-Blocked]
+#EXTINF:-1 group-title="Entertainment | Fox" tvg-id="TFX.fr@SD" tvg-logo="" tvg-name="TFX (1080p) [Geo-Blocked]",TFX (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TiVi5Monde.fr@SD" tvg-logo="" tvg-name="TiVi5 Monde [Geo-blocked]",TiVi5 Monde [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8

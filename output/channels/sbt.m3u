@@ -1,0 +1,239 @@
+#EXTM3U name="Family Media"
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="al.sbt.alagoas.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AL - SBT ALAGOAS FHD¹",AL - SBT ALAGOAS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716517
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="al.sbt.alagoas.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AL - SBT ALAGOAS FHD²",AL - SBT ALAGOAS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971612
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="al.sbt.alagoas.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AL - SBT ALAGOAS HD¹",AL - SBT ALAGOAS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970320
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="al.sbt.alagoas.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AL - SBT ALAGOAS HD²",AL - SBT ALAGOAS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971627
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="al.sbt.alagoas.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AL - SBT ALAGOAS SD¹",AL - SBT ALAGOAS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970335
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="al.sbt.alagoas.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AL - SBT ALAGOAS SD²",AL - SBT ALAGOAS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971642
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="am.stb.amazonas.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AM - STB AMAZONAS FHD¹",AM - STB AMAZONAS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716500
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="am.stb.amazonas.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AM - STB AMAZONAS FHD²",AM - STB AMAZONAS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971598
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="am.stb.amazonas.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AM - STB AMAZONAS HD¹",AM - STB AMAZONAS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970307
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="am.stb.amazonas.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AM - STB AMAZONAS HD²",AM - STB AMAZONAS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971614
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="am.stb.amazonas.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AM - STB AMAZONAS SD¹",AM - STB AMAZONAS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970322
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="am.stb.amazonas.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="AM - STB AMAZONAS SD²",AM - STB AMAZONAS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971629
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ba.sbt.tv.aratu.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="BA - SBT TV ARATU FHD¹",BA - SBT TV ARATU FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716501
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ba.sbt.tv.aratu.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="BA - SBT TV ARATU FHD²",BA - SBT TV ARATU FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971599
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ba.sbt.tv.aratu.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="BA - SBT TV ARATU HD¹",BA - SBT TV ARATU HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970308
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ba.sbt.tv.aratu.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="BA - SBT TV ARATU HD²",BA - SBT TV ARATU HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971615
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ba.sbt.tv.aratu.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="BA - SBT TV ARATU SD¹",BA - SBT TV ARATU SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970323
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ba.sbt.tv.aratu.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="BA - SBT TV ARATU SD²",BA - SBT TV ARATU SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971630
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="WSBTTV281.us@SD" tvg-logo="" tvg-name="CBS 22 South Bend IN (WSBT) (1080p)",CBS 22 South Bend IN (WSBT) (1080p)
+https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ce.sbt.tv.jangadeiro.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="CE - SBT TV JANGADEIRO FHD¹",CE - SBT TV JANGADEIRO FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716513
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ce.sbt.tv.jangadeiro.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="CE - SBT TV JANGADEIRO FHD²",CE - SBT TV JANGADEIRO FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971609
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ce.sbt.tv.jangadeiro.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="CE - SBT TV JANGADEIRO HD¹",CE - SBT TV JANGADEIRO HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970317
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ce.sbt.tv.jangadeiro.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="CE - SBT TV JANGADEIRO HD²",CE - SBT TV JANGADEIRO HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971624
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ce.sbt.tv.jangadeiro.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="CE - SBT TV JANGADEIRO SD¹",CE - SBT TV JANGADEIRO SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970332
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ce.sbt.tv.jangadeiro.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="CE - SBT TV JANGADEIRO SD²",CE - SBT TV JANGADEIRO SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971639
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="go.sbt.goias.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="GO - SBT GOIAS FHD¹",GO - SBT GOIAS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716504
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="go.sbt.goias.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="GO - SBT GOIAS FHD²",GO - SBT GOIAS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971601
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="go.sbt.goias.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="GO - SBT GOIAS HD¹",GO - SBT GOIAS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970310
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="go.sbt.goias.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="GO - SBT GOIAS HD²",GO - SBT GOIAS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971617
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="go.sbt.goias.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="GO - SBT GOIAS SD¹",GO - SBT GOIAS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970325
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="go.sbt.goias.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="GO - SBT GOIAS SD²",GO - SBT GOIAS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971632
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ma.sbt.imperatriz.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MA - SBT IMPERATRIZ FHD¹",MA - SBT IMPERATRIZ FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/978969
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ma.sbt.imperatriz.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MA - SBT IMPERATRIZ HD¹",MA - SBT IMPERATRIZ HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/978970
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ma.sbt.imperatriz.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MA - SBT IMPERATRIZ SD¹",MA - SBT IMPERATRIZ SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/978971
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ma.sbt.sao.luis.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MA - SBT SÃO LUIS FHD¹",MA - SBT SÃO LUIS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/978973
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="ma.sbt.sao.luis.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MA - SBT SÃO LUIS HD¹",MA - SBT SÃO LUIS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/978972
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE FHD¹",PE - SBT TV JORNAL RECIFE FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716515
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE FHD²",PE - SBT TV JORNAL RECIFE FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971610
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE HD¹",PE - SBT TV JORNAL RECIFE HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970318
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE HD²",PE - SBT TV JORNAL RECIFE HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971625
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE SD¹",PE - SBT TV JORNAL RECIFE SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970333
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE SD²",PE - SBT TV JORNAL RECIFE SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971640
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pi.sbt.tv.cidade.verde.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PI - SBT TV CIDADE VERDE FHD¹",PI - SBT TV CIDADE VERDE FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716508
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pi.sbt.tv.cidade.verde.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PI - SBT TV CIDADE VERDE FHD²",PI - SBT TV CIDADE VERDE FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971605
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pi.sbt.tv.cidade.verde.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PI - SBT TV CIDADE VERDE HD¹",PI - SBT TV CIDADE VERDE HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970313
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pi.sbt.tv.cidade.verde.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PI - SBT TV CIDADE VERDE HD²",PI - SBT TV CIDADE VERDE HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971620
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pi.sbt.tv.cidade.verde.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PI - SBT TV CIDADE VERDE SD¹",PI - SBT TV CIDADE VERDE SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970328
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pi.sbt.tv.cidade.verde.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PI - SBT TV CIDADE VERDE SD²",PI - SBT TV CIDADE VERDE SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971635
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pr.sbt.parana.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PR - SBT PARANA FHD¹",PR - SBT PARANA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716507
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pr.sbt.parana.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PR - SBT PARANA FHD²",PR - SBT PARANA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971604
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pr.sbt.parana.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PR - SBT PARANA HD¹",PR - SBT PARANA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970312
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pr.sbt.parana.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PR - SBT PARANA HD²",PR - SBT PARANA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971619
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pr.sbt.parana.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PR - SBT PARANA SD¹",PR - SBT PARANA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970327
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pr.sbt.parana.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PR - SBT PARANA SD²",PR - SBT PARANA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971634
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rn.sbt.tv.ponta.negra.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RN - SBT TV PONTA NEGRA FHD¹",RN - SBT TV PONTA NEGRA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716506
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rn.sbt.tv.ponta.negra.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RN - SBT TV PONTA NEGRA FHD²",RN - SBT TV PONTA NEGRA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971603
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rn.sbt.tv.ponta.negra.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RN - SBT TV PONTA NEGRA HD¹",RN - SBT TV PONTA NEGRA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970311
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rn.sbt.tv.ponta.negra.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RN - SBT TV PONTA NEGRA HD²",RN - SBT TV PONTA NEGRA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971618
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rn.sbt.tv.ponta.negra.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RN - SBT TV PONTA NEGRA SD¹",RN - SBT TV PONTA NEGRA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970326
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rn.sbt.tv.ponta.negra.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RN - SBT TV PONTA NEGRA SD²",RN - SBT TV PONTA NEGRA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971633
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rs.sbt.rio.grande.do.sul.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RS - SBT RIO GRANDE DO SUL FHD¹",RS - SBT RIO GRANDE DO SUL FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716510
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rs.sbt.rio.grande.do.sul.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RS - SBT RIO GRANDE DO SUL FHD²",RS - SBT RIO GRANDE DO SUL FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971606
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rs.sbt.rio.grande.do.sul.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RS - SBT RIO GRANDE DO SUL HD¹",RS - SBT RIO GRANDE DO SUL HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970314
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rs.sbt.rio.grande.do.sul.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RS - SBT RIO GRANDE DO SUL HD²",RS - SBT RIO GRANDE DO SUL HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971621
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rs.sbt.rio.grande.do.sul.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RS - SBT RIO GRANDE DO SUL SD¹",RS - SBT RIO GRANDE DO SUL SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970329
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="rs.sbt.rio.grande.do.sul.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RS - SBT RIO GRANDE DO SUL SD²",RS - SBT RIO GRANDE DO SUL SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971636
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.brasilia.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="DF - SBT BRASILIA FHD¹",DF - SBT BRASILIA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716502
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.brasilia.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="DF - SBT BRASILIA FHD²",DF - SBT BRASILIA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971600
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.brasilia.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="DF - SBT BRASILIA HD¹",DF - SBT BRASILIA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970309
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.brasilia.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="DF - SBT BRASILIA HD²",DF - SBT BRASILIA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971616
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.brasilia.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="DF - SBT BRASILIA SD¹",DF - SBT BRASILIA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970324
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.brasilia.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="DF - SBT BRASILIA SD²",DF - SBT BRASILIA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971631
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="SBTCuiaba.br@SD" tvg-logo="" tvg-name="SBT Cuiaba",SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.difusora.caxias.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT DIFUSORA CAXIAS FHD¹",RJ - SBT DIFUSORA CAXIAS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716512
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.difusora.caxias.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT DIFUSORA CAXIAS FHD²",RJ - SBT DIFUSORA CAXIAS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971608
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.difusora.caxias.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT DIFUSORA CAXIAS HD¹",RJ - SBT DIFUSORA CAXIAS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970316
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.difusora.caxias.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT DIFUSORA CAXIAS HD²",RJ - SBT DIFUSORA CAXIAS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971623
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.difusora.caxias.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT DIFUSORA CAXIAS SD¹",RJ - SBT DIFUSORA CAXIAS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970331
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.difusora.caxias.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT DIFUSORA CAXIAS SD²",RJ - SBT DIFUSORA CAXIAS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971638
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SP - SBT FHD¹",SP - SBT FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716495
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SP - SBT FHD²",SP - SBT FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971594
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SP - SBT HD¹",SP - SBT HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716496
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SP - SBT HD²",SP - SBT HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971595
+#EXTINF:-1 group-title="Regional | SBT" tvg-id="SBTInterior.br@SD" tvg-logo="" tvg-name="SBT Interior (720p)",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.minas.gerais.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MG - SBT MINAS GERAIS FHD¹",MG - SBT MINAS GERAIS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716511
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.minas.gerais.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MG - SBT MINAS GERAIS FHD²",MG - SBT MINAS GERAIS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971607
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.minas.gerais.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MG - SBT MINAS GERAIS HD¹",MG - SBT MINAS GERAIS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970315
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.minas.gerais.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MG - SBT MINAS GERAIS HD²",MG - SBT MINAS GERAIS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971622
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.minas.gerais.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MG - SBT MINAS GERAIS SD¹",MG - SBT MINAS GERAIS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970330
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.minas.gerais.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="MG - SBT MINAS GERAIS SD²",MG - SBT MINAS GERAIS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971637
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.nacional.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SP - SBT NACIONAL FHD¹",SP - SBT NACIONAL FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716505
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.nacional.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SP - SBT NACIONAL FHD²",SP - SBT NACIONAL FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971602
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.fhd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS FHD¹",SBT NEWS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/972326
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.fhd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS FHD²",SBT NEWS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/972330
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.h2651" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS H265¹",SBT NEWS H265¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/972327
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.h2652" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS H265²",SBT NEWS H265²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/972331
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.hd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS HD¹",SBT NEWS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/972328
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.hd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS HD²",SBT NEWS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/972332
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.sd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS SD¹",SBT NEWS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/972329
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.sd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS SD²",SBT NEWS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/972333
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="SBTNovaMutum.br@SD" tvg-logo="" tvg-name="SBT Nova Mutum",SBT Nova Mutum
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.rio.de.janeiro.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT RIO DE JANEIRO FHD¹",RJ - SBT RIO DE JANEIRO FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716499
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.rio.de.janeiro.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT RIO DE JANEIRO FHD²",RJ - SBT RIO DE JANEIRO FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971597
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.rio.de.janeiro.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT RIO DE JANEIRO HD¹",RJ - SBT RIO DE JANEIRO HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970306
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.rio.de.janeiro.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT RIO DE JANEIRO HD²",RJ - SBT RIO DE JANEIRO HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971613
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.rio.de.janeiro.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT RIO DE JANEIRO SD¹",RJ - SBT RIO DE JANEIRO SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970321
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.rio.de.janeiro.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="RJ - SBT RIO DE JANEIRO SD²",RJ - SBT RIO DE JANEIRO SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971628
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="SBTRondonopolis.br@SD" tvg-logo="" tvg-name="SBT Rondonopolis",SBT Rondonopolis
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SP - SBT SD¹",SP - SBT SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716498
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SP - SBT SD²",SP - SBT SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971596
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="SBTSinop.br@SD" tvg-logo="" tvg-name="SBT Sinop",SBT Sinop
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="SBTTV.th@SD" tvg-logo="" tvg-name="SBT TV",SBT TV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="SBTV.hr@SD" tvg-logo="" tvg-name="SBTV (1080p) [Not 24/7]",SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sc.sbt.santa.catarina.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SC - SBT SANTA CATARINA FHD¹",SC - SBT SANTA CATARINA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716516
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sc.sbt.santa.catarina.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SC - SBT SANTA CATARINA FHD²",SC - SBT SANTA CATARINA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971611
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sc.sbt.santa.catarina.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SC - SBT SANTA CATARINA HD¹",SC - SBT SANTA CATARINA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970319
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sc.sbt.santa.catarina.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SC - SBT SANTA CATARINA HD²",SC - SBT SANTA CATARINA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971626
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sc.sbt.santa.catarina.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SC - SBT SANTA CATARINA SD¹",SC - SBT SANTA CATARINA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970334
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sc.sbt.santa.catarina.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="SC - SBT SANTA CATARINA SD²",SC - SBT SANTA CATARINA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971641

@@ -47,7 +47,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_400
 http://115.42.65.142:9981/stream/channelid/966869781
 #EXTINF:-1 group-title="News" tvg-id="ABPNews.in@SD" tvg-logo="" tvg-name="ABP News (1080p)",ABP News (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="ACNN.ng@SD" tvg-logo="" tvg-name="ACNN (480p)",ACNN (480p)
+#EXTINF:-1 group-title="News | CNN" tvg-id="ACNN.ng@SD" tvg-logo="" tvg-name="ACNN (480p)",ACNN (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="adn.noticias.720p" tvg-logo="" tvg-name="ADN Noticias (720p)",ADN Noticias (720p)
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
@@ -105,17 +105,17 @@ https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="AznewsTV.se@SD" tvg-logo="" tvg-name="Azerbaijan News TV (720p) [Not 24/7]",Azerbaijan News TV (720p) [Not 24/7]
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="band.news.fhd1" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS FHD¹",BAND NEWS FHD¹
+#EXTINF:-1 group-title="Open TV | Band" tvg-id="band.news.fhd1" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS FHD¹",BAND NEWS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717154
-#EXTINF:-1 group-title="News" tvg-id="band.news.fhd2" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS FHD²",BAND NEWS FHD²
+#EXTINF:-1 group-title="Open TV | Band" tvg-id="band.news.fhd2" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS FHD²",BAND NEWS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971823
-#EXTINF:-1 group-title="News" tvg-id="band.news.hd1" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS HD¹",BAND NEWS HD¹
+#EXTINF:-1 group-title="Open TV | Band" tvg-id="band.news.hd1" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS HD¹",BAND NEWS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717155
-#EXTINF:-1 group-title="News" tvg-id="band.news.hd2" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS HD²",BAND NEWS HD²
+#EXTINF:-1 group-title="Open TV | Band" tvg-id="band.news.hd2" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS HD²",BAND NEWS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971824
-#EXTINF:-1 group-title="News" tvg-id="band.news.sd1" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS SD¹",BAND NEWS SD¹
+#EXTINF:-1 group-title="Open TV | Band" tvg-id="band.news.sd1" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS SD¹",BAND NEWS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717156
-#EXTINF:-1 group-title="News" tvg-id="band.news.sd2" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS SD²",BAND NEWS SD²
+#EXTINF:-1 group-title="Open TV | Band" tvg-id="band.news.sd2" tvg-logo="https://assistatv.me/images/9c6af5c3ff24dac5945c7397daa43466.png" tvg-name="BAND NEWS SD²",BAND NEWS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971825
 #EXTINF:-1 group-title="News" tvg-id="BansalNews.in@SD" tvg-logo="" tvg-name="Bansal News (720p)",Bansal News (720p)
 https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
@@ -238,29 +238,29 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 #EXTINF:-1 group-title="News" tvg-id="CnewsBharat.in@SD" tvg-logo="" tvg-name="Cnews Bharat (720p)",Cnews Bharat (720p)
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.fhd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL FHD¹",CNN BRASIL FHD¹
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.fhd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL FHD¹",CNN BRASIL FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717157
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.fhd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL FHD²",CNN BRASIL FHD²
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.fhd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL FHD²",CNN BRASIL FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971826
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.hd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL HD¹",CNN BRASIL HD¹
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.hd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL HD¹",CNN BRASIL HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717159
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.hd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL HD²",CNN BRASIL HD²
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.hd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL HD²",CNN BRASIL HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971827
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.money.fhd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY FHD¹",CNN BRASIL MONEY FHD¹
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.money.fhd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY FHD¹",CNN BRASIL MONEY FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717183
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.money.fhd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY FHD²",CNN BRASIL MONEY FHD²
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.money.fhd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY FHD²",CNN BRASIL MONEY FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971847
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.money.hd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY HD¹",CNN BRASIL MONEY HD¹
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.money.hd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY HD¹",CNN BRASIL MONEY HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717184
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.money.hd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY HD²",CNN BRASIL MONEY HD²
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.money.hd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY HD²",CNN BRASIL MONEY HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971848
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.money.sd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY SD¹",CNN BRASIL MONEY SD¹
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.money.sd1" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY SD¹",CNN BRASIL MONEY SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717185
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.money.sd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY SD²",CNN BRASIL MONEY SD²
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.money.sd2" tvg-logo="https://i.imgur.com/bH1VxGe.png" tvg-name="CNN BRASIL MONEY SD²",CNN BRASIL MONEY SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971849
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.sd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL SD¹",CNN BRASIL SD¹
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.sd1" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL SD¹",CNN BRASIL SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717160
-#EXTINF:-1 group-title="News" tvg-id="cnn.brasil.sd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL SD²",CNN BRASIL SD²
+#EXTINF:-1 group-title="News | CNN" tvg-id="cnn.brasil.sd2" tvg-logo="https://assistatv.me/images/f0703a2da7ddcb681772b1780c7601ff.png" tvg-name="CNN BRASIL SD²",CNN BRASIL SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971828
 #EXTINF:-1 group-title="News" tvg-id="ctb.perth.news.720p" tvg-logo="" tvg-name="CTB Perth News (720p)",CTB Perth News (720p)
 https://news.ctbperth.net.au/hls/stream.m3u8
@@ -342,9 +342,9 @@ https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="foshan.news.tv" tvg-logo="" tvg-name="Foshan News TV",Foshan News TV
 http://dslive.grtn.cn/fszh/sd/live.m3u8
-#EXTINF:-1 group-title="News" tvg-id="FoxNewsChannel.us@SD" tvg-logo="" tvg-name="Fox News Channel (720p) [Not 24/7]",Fox News Channel (720p) [Not 24/7]
+#EXTINF:-1 group-title="News | Fox" tvg-id="FoxNewsChannel.us@SD" tvg-logo="" tvg-name="Fox News Channel (720p) [Not 24/7]",Fox News Channel (720p) [Not 24/7]
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 group-title="News" tvg-id="FoxNewsRadio.us@SD" tvg-logo="" tvg-name="Fox News Radio (720p)",Fox News Radio (720p)
+#EXTINF:-1 group-title="News | Fox" tvg-id="FoxNewsRadio.us@SD" tvg-logo="" tvg-name="Fox News Radio (720p)",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="FreshNews.kh@SD" tvg-logo="" tvg-name="Fresh News",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
@@ -354,17 +354,17 @@ https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg0
 http://116.90.120.151:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="global.news.national.720p" tvg-logo="" tvg-name="Global News National (720p)",Global News National (720p)
 https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
-#EXTINF:-1 group-title="News" tvg-id="globo.news.fhd1" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS FHD¹",GLOBO NEWS FHD¹
+#EXTINF:-1 group-title="Open TV | Globo" tvg-id="globo.news.fhd1" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS FHD¹",GLOBO NEWS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717161
-#EXTINF:-1 group-title="News" tvg-id="globo.news.fhd2" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS FHD²",GLOBO NEWS FHD²
+#EXTINF:-1 group-title="Open TV | Globo" tvg-id="globo.news.fhd2" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS FHD²",GLOBO NEWS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971829
-#EXTINF:-1 group-title="News" tvg-id="globo.news.hd1" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS HD¹",GLOBO NEWS HD¹
+#EXTINF:-1 group-title="Open TV | Globo" tvg-id="globo.news.hd1" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS HD¹",GLOBO NEWS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717162
-#EXTINF:-1 group-title="News" tvg-id="globo.news.hd2" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS HD²",GLOBO NEWS HD²
+#EXTINF:-1 group-title="Open TV | Globo" tvg-id="globo.news.hd2" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS HD²",GLOBO NEWS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971830
-#EXTINF:-1 group-title="News" tvg-id="globo.news.sd1" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS SD¹",GLOBO NEWS SD¹
+#EXTINF:-1 group-title="Open TV | Globo" tvg-id="globo.news.sd1" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS SD¹",GLOBO NEWS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717164
-#EXTINF:-1 group-title="News" tvg-id="globo.news.sd2" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS SD²",GLOBO NEWS SD²
+#EXTINF:-1 group-title="Open TV | Globo" tvg-id="globo.news.sd2" tvg-logo="https://assistatv.me/images/67430e342bdacf60aa10602b5967ec85.png" tvg-name="GLOBO NEWS SD²",GLOBO NEWS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971831
 #EXTINF:-1 group-title="News" tvg-id="GoodNewsToday.in@SD" tvg-logo="" tvg-name="Good News Today (720p)",Good News Today (720p)
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
@@ -617,19 +617,19 @@ https://live1.mediadesk.al/oranews.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/p18-news/index.m3u8?ads.vf=IhM3b64Cz34
 #EXTINF:-1 group-title="News" tvg-id="PalitraNews.ge@SD" tvg-logo="" tvg-name="Palitra News (480p) [Not 24/7]",Palitra News (480p) [Not 24/7]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="pe.sbt.tv.jornal.recife.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE FHD¹",PE - SBT TV JORNAL RECIFE FHD¹
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.fhd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE FHD¹",PE - SBT TV JORNAL RECIFE FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/716515
-#EXTINF:-1 group-title="News" tvg-id="pe.sbt.tv.jornal.recife.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE FHD²",PE - SBT TV JORNAL RECIFE FHD²
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.fhd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE FHD²",PE - SBT TV JORNAL RECIFE FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971610
-#EXTINF:-1 group-title="News" tvg-id="pe.sbt.tv.jornal.recife.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE HD¹",PE - SBT TV JORNAL RECIFE HD¹
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.hd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE HD¹",PE - SBT TV JORNAL RECIFE HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/970318
-#EXTINF:-1 group-title="News" tvg-id="pe.sbt.tv.jornal.recife.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE HD²",PE - SBT TV JORNAL RECIFE HD²
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.hd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE HD²",PE - SBT TV JORNAL RECIFE HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971625
-#EXTINF:-1 group-title="News" tvg-id="pe.sbt.tv.jornal.recife.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE SD¹",PE - SBT TV JORNAL RECIFE SD¹
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.sd1" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE SD¹",PE - SBT TV JORNAL RECIFE SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/970333
-#EXTINF:-1 group-title="News" tvg-id="pe.sbt.tv.jornal.recife.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE SD²",PE - SBT TV JORNAL RECIFE SD²
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="pe.sbt.tv.jornal.recife.sd2" tvg-logo="https://assistatv.me/images/eadc1bacb17aea28d29fefc19868b5e1.png" tvg-name="PE - SBT TV JORNAL RECIFE SD²",PE - SBT TV JORNAL RECIFE SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971640
-#EXTINF:-1 group-title="News" tvg-id="pluto.tv.record.news.720p" tvg-logo="" tvg-name="Pluto TV Record News (720p)",Pluto TV Record News (720p)
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pluto.tv.record.news.720p" tvg-logo="" tvg-name="Pluto TV Record News (720p)",Pluto TV Record News (720p)
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 #EXTINF:-1 group-title="News" tvg-id="PolimerNews.in@SD" tvg-logo="" tvg-name="Polimer News (720p)",Polimer News (720p)
 https://live-cf-polimernews.dailyhunt.in/master.m3u8
@@ -682,19 +682,19 @@ https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 group-title="News" tvg-id="RealNewsKerala.in@SD" tvg-logo="" tvg-name="Real News Kerala (1080p) [Not 24/7]",Real News Kerala (1080p) [Not 24/7]
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="RecordNews.br@SD" tvg-logo="" tvg-name="Record News (720p) [Geo-blocked]",Record News (720p) [Geo-blocked]
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordNews.br@SD" tvg-logo="" tvg-name="Record News (720p) [Geo-blocked]",Record News (720p) [Geo-blocked]
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="record.news.fhd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS FHD¹",RECORD NEWS FHD¹
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.fhd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS FHD¹",RECORD NEWS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717168
-#EXTINF:-1 group-title="News" tvg-id="record.news.fhd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS FHD²",RECORD NEWS FHD²
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.fhd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS FHD²",RECORD NEWS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971835
-#EXTINF:-1 group-title="News" tvg-id="record.news.hd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS HD¹",RECORD NEWS HD¹
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.hd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS HD¹",RECORD NEWS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717170
-#EXTINF:-1 group-title="News" tvg-id="record.news.hd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS HD²",RECORD NEWS HD²
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.hd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS HD²",RECORD NEWS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971836
-#EXTINF:-1 group-title="News" tvg-id="record.news.sd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS SD¹",RECORD NEWS SD¹
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.sd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS SD¹",RECORD NEWS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717171
-#EXTINF:-1 group-title="News" tvg-id="record.news.sd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS SD²",RECORD NEWS SD²
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.sd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS SD²",RECORD NEWS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971837
 #EXTINF:-1 group-title="News" tvg-id="RevryNews.us@SD" tvg-logo="" tvg-name="Revry News (720p) [Not 24/7]",Revry News (720p) [Not 24/7]
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
@@ -729,21 +729,21 @@ https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00
 #EXTINF:-1 group-title="News" tvg-id="SandeshNews.in@SD" tvg-logo="" tvg-name="Sandesh News (1080p)",Sandesh News (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8?ads.vf=-cicf8IVlO8
-#EXTINF:-1 group-title="News" tvg-id="sbt.news.fhd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS FHD¹",SBT NEWS FHD¹
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.fhd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS FHD¹",SBT NEWS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972326
-#EXTINF:-1 group-title="News" tvg-id="sbt.news.fhd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS FHD²",SBT NEWS FHD²
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.fhd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS FHD²",SBT NEWS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972330
-#EXTINF:-1 group-title="News" tvg-id="sbt.news.h2651" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS H265¹",SBT NEWS H265¹
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.h2651" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS H265¹",SBT NEWS H265¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972327
-#EXTINF:-1 group-title="News" tvg-id="sbt.news.h2652" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS H265²",SBT NEWS H265²
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.h2652" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS H265²",SBT NEWS H265²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972331
-#EXTINF:-1 group-title="News" tvg-id="sbt.news.hd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS HD¹",SBT NEWS HD¹
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.hd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS HD¹",SBT NEWS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972328
-#EXTINF:-1 group-title="News" tvg-id="sbt.news.hd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS HD²",SBT NEWS HD²
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.hd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS HD²",SBT NEWS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972332
-#EXTINF:-1 group-title="News" tvg-id="sbt.news.sd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS SD¹",SBT NEWS SD¹
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.sd1" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS SD¹",SBT NEWS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972329
-#EXTINF:-1 group-title="News" tvg-id="sbt.news.sd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS SD²",SBT NEWS SD²
+#EXTINF:-1 group-title="Open TV | SBT" tvg-id="sbt.news.sd2" tvg-logo="https://i.imgur.com/EV9SUnp.png" tvg-name="SBT NEWS SD²",SBT NEWS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972333
 #EXTINF:-1 group-title="News" tvg-id="KGUNTV96.us@SD" tvg-logo="" tvg-name="Scripps News",Scripps News
 https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8

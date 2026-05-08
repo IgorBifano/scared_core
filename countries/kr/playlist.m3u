@@ -13,7 +13,7 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBSTV.kr@SD" tvg-logo="" tvg-name="BBS Buddhist Broadcasting (1080p)",BBS Buddhist Broadcasting (1080p)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BTNTV.kr@SD" tvg-logo="" tvg-name="BTN TV (1080p)",BTN TV (1080p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="BTNTV.kr@SD" tvg-logo="" tvg-name="BTN TV (1080p)",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ChannelA.kr@SD" tvg-logo="" tvg-name="Channel A [Geo-blocked]",Channel A [Geo-blocked]
 http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
@@ -35,7 +35,7 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="FGTV.kr@SD" tvg-logo="" tvg-name="FGTV (720p)",FGTV (720p)
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KBSI231.us@HD" tvg-logo="" tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+#EXTINF:-1 group-title="Entertainment | Fox" tvg-id="KBSI231.us@HD" tvg-logo="" tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="GCN.kr@SD" tvg-logo="" tvg-name="GCN24 Korean (720p)",GCN24 Korean (720p)
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8

@@ -1,71 +1,71 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.101" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 10¹",DISNEY 10¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.101" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 10¹",DISNEY 10¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901883
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.11" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 1¹",DISNEY 1¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.11" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 1¹",DISNEY 1¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901874
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.21" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 2¹",DISNEY 2¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.21" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 2¹",DISNEY 2¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901875
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.31" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 3¹",DISNEY 3¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.31" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 3¹",DISNEY 3¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901876
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.41" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 4¹",DISNEY 4¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.41" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 4¹",DISNEY 4¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901877
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.51" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 5¹",DISNEY 5¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.51" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 5¹",DISNEY 5¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901878
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.61" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 6¹",DISNEY 6¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.61" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 6¹",DISNEY 6¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901879
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.71" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 7¹",DISNEY 7¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.71" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 7¹",DISNEY 7¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901880
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.81" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 8¹",DISNEY 8¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.81" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 8¹",DISNEY 8¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901881
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.91" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 9¹",DISNEY 9¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.91" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 9¹",DISNEY 9¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901882
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.pt@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.pt@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.pl@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.pl@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
 https://streamer.filmowo.xyz/memfs/24012cc7-5a6e-492f-9083-579349d56f37.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.in@SD" tvg-logo="" tvg-name="Disney Channel (576p)",Disney Channel (576p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.in@SD" tvg-logo="" tvg-name="Disney Channel (576p)",Disney Channel (576p)
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.bg@SD" tvg-logo="" tvg-name="Disney Channel (576p)",Disney Channel (576p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.bg@SD" tvg-logo="" tvg-name="Disney Channel (576p)",Disney Channel (576p)
 http://84.54.128.52:9090/play/3006/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.de@SD" tvg-logo="" tvg-name="Disney Channel (576p) [Geo-Blocked]",Disney Channel (576p) [Geo-Blocked]
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.de@SD" tvg-logo="" tvg-name="Disney Channel (576p) [Geo-Blocked]",Disney Channel (576p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.us@East" tvg-logo="" tvg-name="Disney Channel East (720p) [Not 24/7]",Disney Channel East (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.us@East" tvg-logo="" tvg-name="Disney Channel East (720p) [Not 24/7]",Disney Channel East (720p) [Not 24/7]
 https://tvpass.org/live/DisneyChannelEast/hd
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.jp@SD" tvg-logo="" tvg-name="Disney Channel Japan (544p)",Disney Channel Japan (544p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.jp@SD" tvg-logo="" tvg-name="Disney Channel Japan (544p)",Disney Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="" tvg-name="Disney Channel Latin America (1080p)",Disney Channel Latin America (1080p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="" tvg-name="Disney Channel Latin America (1080p)",Disney Channel Latin America (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.102" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 10²",DISNEY EXTRA 10²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.102" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 10²",DISNEY EXTRA 10²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977434
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.12" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 1²",DISNEY EXTRA 1²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.12" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 1²",DISNEY EXTRA 1²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901866
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.22" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 2²",DISNEY EXTRA 2²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.22" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 2²",DISNEY EXTRA 2²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901867
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.32" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 3²",DISNEY EXTRA 3²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.32" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 3²",DISNEY EXTRA 3²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901868
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.42" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 4²",DISNEY EXTRA 4²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.42" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 4²",DISNEY EXTRA 4²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901869
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.52" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 5²",DISNEY EXTRA 5²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.52" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 5²",DISNEY EXTRA 5²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901870
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.62" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 6²",DISNEY EXTRA 6²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.62" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 6²",DISNEY EXTRA 6²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901871
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.72" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 7²",DISNEY EXTRA 7²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.72" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 7²",DISNEY EXTRA 7²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901872
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.82" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 8²",DISNEY EXTRA 8²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.82" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 8²",DISNEY EXTRA 8²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901873
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.92" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 9²",DISNEY EXTRA 9²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.92" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 9²",DISNEY EXTRA 9²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977433
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyInternationalHD.in@SD" tvg-logo="" tvg-name="Disney International HD (1080p)",Disney International HD (1080p)
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyInternationalHD.in@SD" tvg-logo="" tvg-name="Disney International HD (1080p)",Disney International HD (1080p)
 http://116.90.120.151:8000/play/a0hp/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyJr.fr@SD" tvg-logo="" tvg-name="Disney Jr. (1080p)",Disney Jr. (1080p)
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyJr.fr@SD" tvg-logo="" tvg-name="Disney Jr. (1080p)",Disney Jr. (1080p)
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyJr.tr@SD" tvg-logo="" tvg-name="Disney Jr. (1080p) [Geo-blocked]",Disney Jr. (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyJr.tr@SD" tvg-logo="" tvg-name="Disney Jr. (1080p) [Geo-blocked]",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="" tvg-name="Disney Jr. Latin America South",Disney Jr. Latin America South
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="" tvg-name="Disney Jr. Latin America South",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyJunior.es@SD" tvg-logo="" tvg-name="Disney Junior (576p)",Disney Junior (576p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyJunior.es@SD" tvg-logo="" tvg-name="Disney Junior (576p)",Disney Junior (576p)
 https://bbb.exoadash.com/TVD1561/index.mpd
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyJunior.us@East" tvg-logo="" tvg-name="Disney Junior East (720p) [Not 24/7]",Disney Junior East (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyJunior.us@East" tvg-logo="" tvg-name="Disney Junior East (720p) [Not 24/7]",Disney Junior East (720p) [Not 24/7]
 https://tvpass.org/live/DisneyJuniorEast/hd
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyXD.us@East" tvg-logo="" tvg-name="Disney XD East (720p) [Not 24/7]",Disney XD East (720p) [Not 24/7]
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyXD.us@East" tvg-logo="" tvg-name="Disney XD East (720p) [Not 24/7]",Disney XD East (720p) [Not 24/7]
 https://tvpass.org/live/DisneyXDEast/hd

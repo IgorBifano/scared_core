@@ -81,10 +81,10 @@ https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 group-title="Entertainment" tvg-id="canela.music.presents" tvg-logo="" tvg-name="Canela Music Presents",Canela Music Presents
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:-1 group-title="Kids" tvg-id="CartoonClassics.pl@FAST" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="CartoonClassics.pl@FAST" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.classics.1080p" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.classics.1080p" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ChivacoaTVInternacional.ve@SD" tvg-logo="" tvg-name="Chivacoa TV Internacional (720p)",Chivacoa TV Internacional (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
@@ -132,7 +132,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="DhoomMusic.in@SD" tvg-logo="" tvg-name="Dhoom Music (720p)",Dhoom Music (720p)
 https://cdn-1.pishow.tv/live/1456/master.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.pt@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.pt@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="doctor.who.classic.720p" tvg-logo="" tvg-name="Doctor Who Classic (720p)",Doctor Who Classic (720p)
 https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
@@ -275,9 +275,9 @@ https://cloudvideo.servers10.com:8081/8032/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NDTVIndia.in@SD" tvg-logo="" tvg-name="NDTV India (720p)",NDTV India (720p)
 http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.clasico.720p" tvg-logo="" tvg-name="Nickelodeon Clásico (720p)",Nickelodeon Clásico (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.clasico.720p" tvg-logo="" tvg-name="Nickelodeon Clásico (720p)",Nickelodeon Clásico (720p)
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.classics.720p" tvg-logo="" tvg-name="Nickelodeon Classics (720p)",Nickelodeon Classics (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.classics.720p" tvg-logo="" tvg-name="Nickelodeon Classics (720p)",Nickelodeon Classics (720p)
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Nortvision.ec@SD" tvg-logo="" tvg-name="Nortvisión (720p)",Nortvisión (720p)
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8

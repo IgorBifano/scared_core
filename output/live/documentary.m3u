@@ -1,23 +1,23 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Documentary" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="" tvg-name="发现之旅 (576p)",发现之旅 (576p)
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="" tvg-name="发现之旅 (576p)",发现之旅 (576p)
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="alone.by.history.720p" tvg-logo="" tvg-name="Alone By History (720p)",Alone By History (720p)
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="american.pickers.by.history.1080p.geo.blocked" tvg-logo="" tvg-name="American Pickers by History (1080p) [Geo-blocked]",American Pickers by History (1080p) [Geo-blocked]
 https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.fhd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD¹",ANIMAL PLANET FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.fhd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD¹",ANIMAL PLANET FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717202
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.fhd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD²",ANIMAL PLANET FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.fhd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD²",ANIMAL PLANET FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971854
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.hd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD¹",ANIMAL PLANET HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.hd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD¹",ANIMAL PLANET HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717203
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.hd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD²",ANIMAL PLANET HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.hd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD²",ANIMAL PLANET HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971855
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.sd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD¹",ANIMAL PLANET SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.sd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD¹",ANIMAL PLANET SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717204
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.sd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD²",ANIMAL PLANET SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.sd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD²",ANIMAL PLANET SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971856
-#EXTINF:-1 group-title="Documentary" tvg-id="AsharqDiscovery.sa@SD" tvg-logo="" tvg-name="Asharq Discovery (1080p)",Asharq Discovery (1080p)
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="AsharqDiscovery.sa@SD" tvg-logo="" tvg-name="Asharq Discovery (1080p)",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="AutenticHistory.de@SD" tvg-logo="" tvg-name="Autentic History (1080p)",Autentic History (1080p)
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
@@ -31,89 +31,89 @@ https://tvpass.org/live/CrimePlusInvestigation/hd
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="csi.crime.scene.investigation" tvg-logo="" tvg-name="CSI: Crime Scene Investigation",CSI: Crime Scene Investigation
 https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.fhd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD¹",DISCOVERY CHANNEL FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.fhd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD¹",DISCOVERY CHANNEL FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717205
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.fhd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD²",DISCOVERY CHANNEL FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.fhd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD²",DISCOVERY CHANNEL FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971857
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.hd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD¹",DISCOVERY CHANNEL HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.hd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD¹",DISCOVERY CHANNEL HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717206
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.hd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD²",DISCOVERY CHANNEL HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.hd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD²",DISCOVERY CHANNEL HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971858
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.sd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD¹",DISCOVERY CHANNEL SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.sd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD¹",DISCOVERY CHANNEL SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717207
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.sd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD²",DISCOVERY CHANNEL SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.sd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD²",DISCOVERY CHANNEL SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971859
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.fhd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD¹",DISCOVERY HOME & HEALTH FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.fhd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD¹",DISCOVERY HOME & HEALTH FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717208
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.fhd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD²",DISCOVERY HOME & HEALTH FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.fhd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD²",DISCOVERY HOME & HEALTH FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971860
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.hd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD¹",DISCOVERY HOME & HEALTH HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.hd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD¹",DISCOVERY HOME & HEALTH HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717209
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.hd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD²",DISCOVERY HOME & HEALTH HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.hd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD²",DISCOVERY HOME & HEALTH HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971861
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.sd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD¹",DISCOVERY HOME & HEALTH SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.sd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD¹",DISCOVERY HOME & HEALTH SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717210
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.sd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD²",DISCOVERY HOME & HEALTH SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.sd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD²",DISCOVERY HOME & HEALTH SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971862
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.fhd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD¹",DISCOVERY SCIENCE FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.fhd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD¹",DISCOVERY SCIENCE FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717211
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.fhd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD²",DISCOVERY SCIENCE FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.fhd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD²",DISCOVERY SCIENCE FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971863
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.hd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD¹",DISCOVERY SCIENCE HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.hd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD¹",DISCOVERY SCIENCE HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717213
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.hd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD²",DISCOVERY SCIENCE HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.hd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD²",DISCOVERY SCIENCE HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971864
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.sd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD¹",DISCOVERY SCIENCE SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.sd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD¹",DISCOVERY SCIENCE SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717214
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.sd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD²",DISCOVERY SCIENCE SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.sd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD²",DISCOVERY SCIENCE SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971865
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.fhd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD¹",DISCOVERY THEATER FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.fhd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD¹",DISCOVERY THEATER FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717215
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.fhd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD²",DISCOVERY THEATER FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.fhd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD²",DISCOVERY THEATER FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971866
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.hd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD¹",DISCOVERY THEATER HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.hd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD¹",DISCOVERY THEATER HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717216
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.hd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD²",DISCOVERY THEATER HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.hd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD²",DISCOVERY THEATER HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971867
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.sd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD¹",DISCOVERY THEATER SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.sd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD¹",DISCOVERY THEATER SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717217
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.sd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD²",DISCOVERY THEATER SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.sd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD²",DISCOVERY THEATER SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971868
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.fhd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD¹",DISCOVERY TLC FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.fhd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD¹",DISCOVERY TLC FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717218
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.fhd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD²",DISCOVERY TLC FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.fhd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD²",DISCOVERY TLC FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971869
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.hd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD¹",DISCOVERY TLC HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.hd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD¹",DISCOVERY TLC HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717219
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.hd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD²",DISCOVERY TLC HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.hd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD²",DISCOVERY TLC HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971870
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.sd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD¹",DISCOVERY TLC SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.sd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD¹",DISCOVERY TLC SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717220
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.sd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD²",DISCOVERY TLC SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.sd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD²",DISCOVERY TLC SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971871
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.fhd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD¹",DISCOVERY TURBO FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.fhd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD¹",DISCOVERY TURBO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717221
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.fhd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD²",DISCOVERY TURBO FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.fhd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD²",DISCOVERY TURBO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971872
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.hd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD¹",DISCOVERY TURBO HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.hd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD¹",DISCOVERY TURBO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717222
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.hd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD²",DISCOVERY TURBO HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.hd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD²",DISCOVERY TURBO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971873
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.sd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD¹",DISCOVERY TURBO SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.sd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD¹",DISCOVERY TURBO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717223
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.sd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD²",DISCOVERY TURBO SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.sd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD²",DISCOVERY TURBO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971874
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.fhd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD¹",DISCOVERY WORLD FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.fhd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD¹",DISCOVERY WORLD FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717224
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.fhd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD²",DISCOVERY WORLD FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.fhd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD²",DISCOVERY WORLD FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971875
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.hd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD¹",DISCOVERY WORLD HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.hd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD¹",DISCOVERY WORLD HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717225
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.hd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD²",DISCOVERY WORLD HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.hd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD²",DISCOVERY WORLD HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971876
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.sd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD¹",DISCOVERY WORLD SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.sd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD¹",DISCOVERY WORLD SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717226
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.sd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD²",DISCOVERY WORLD SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.sd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD²",DISCOVERY WORLD SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971877
 #EXTINF:-1 group-title="Documentary" tvg-id="h2.fhd1" tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" tvg-name="H2 FHD¹",H2 FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717228
@@ -178,17 +178,17 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 http://103.72.101.252:8080/live/1471.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="history.warfare.now.1080p" tvg-logo="" tvg-name="History & Warfare Now (1080p)",History & Warfare Now (1080p)
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.fhd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD¹",ID - INVESTIGAÇÃO DISCOVERY FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.fhd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD¹",ID - INVESTIGAÇÃO DISCOVERY FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717238
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.fhd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD²",ID - INVESTIGAÇÃO DISCOVERY FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.fhd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD²",ID - INVESTIGAÇÃO DISCOVERY FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971887
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.hd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹",ID - INVESTIGAÇÃO DISCOVERY HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.hd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹",ID - INVESTIGAÇÃO DISCOVERY HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717239
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.hd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²",ID - INVESTIGAÇÃO DISCOVERY HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.hd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²",ID - INVESTIGAÇÃO DISCOVERY HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971888
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.sd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD¹",ID - INVESTIGAÇÃO DISCOVERY SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.sd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD¹",ID - INVESTIGAÇÃO DISCOVERY SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717240
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.sd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD²",ID - INVESTIGAÇÃO DISCOVERY SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.sd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD²",ID - INVESTIGAÇÃO DISCOVERY SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971889
 #EXTINF:-1 group-title="Documentary" tvg-id="investigation.1080p" tvg-logo="" tvg-name="Investigation (1080p)",Investigation (1080p)
 https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8
@@ -210,7 +210,7 @@ https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
 https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="rakuten.documentarios.1080p" tvg-logo="" tvg-name="Rakuten Documentários (1080p)",Rakuten Documentários (1080p)
 https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="RTLCrime.de@HD" tvg-logo="" tvg-name="RTL Crime HD (1080p)",RTL Crime HD (1080p)
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="RTLCrime.de@HD" tvg-logo="" tvg-name="RTL Crime HD (1080p)",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="TrueHistory.us@SD" tvg-logo="" tvg-name="True History (720p)",True History (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0

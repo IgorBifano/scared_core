@@ -70,7 +70,7 @@ https://streaming.televizor-24-tochka.ru/live/15.m3u8
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVCentr.ru@SD" tvg-logo="" tvg-name="ТВ Центр",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.ru@SD" tvg-logo="" tvg-name="ТНТ",ТНТ
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="TNT.ru@SD" tvg-logo="" tvg-name="ТНТ",ТНТ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/23.m3u8
@@ -577,7 +577,7 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/978128
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978130
 #EXTINF:-1 group-title="Kids" tvg-id="24h.johnny.bravo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • JOHNNY BRAVO",24H • JOHNNY BRAVO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978129
-#EXTINF:-1 group-title="Kids" tvg-id="24h.karate.kid" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KARATE KID",24H • KARATE KID
+#EXTINF:-1 group-title="Kids | Discovery" tvg-id="24h.karate.kid" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KARATE KID",24H • KARATE KID
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978131
 #EXTINF:-1 group-title="Entertainment" tvg-id="24h.kenan.e.kel" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KENAN E KEL",24H • KENAN E KEL
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978233
@@ -857,13 +857,13 @@ http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NTV.ru@Plus4" tvg-logo="" tvg-name="НТВ +4 (576p)",НТВ +4 (576p)
 https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNT4.ru@SD" tvg-logo="" tvg-name="ТНТ4 (576p)",ТНТ4 (576p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="TNT4.ru@SD" tvg-logo="" tvg-name="ТНТ4 (576p)",ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="4FunKids.pl@SD" tvg-logo="" tvg-name="4 Fun Kids (576i) [[Not 24/7]]",4 Fun Kids (576i) [[Not 24/7]]
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="4FunTV.pl@SD" tvg-logo="" tvg-name="4 Fun TV (576i) [Not 24/7]",4 Fun TV (576i) [Not 24/7]
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNT4International.ru@SD" tvg-logo="" tvg-name="ТНТ4 International (576p)",ТНТ4 International (576p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="TNT4International.ru@SD" tvg-logo="" tvg-name="ТНТ4 International (576p)",ТНТ4 International (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ChuzhouPublicChannel.cn@SD" tvg-logo="" tvg-name="滁州市广播电视台 公共频道 (400p)",滁州市广播电视台 公共频道 (400p)
@@ -986,7 +986,7 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://31.148.48.15/Kto_est_kto/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KurajTV.ru@SD" tvg-logo="" tvg-name="Курай (Уфа) (576p)",Курай (Уфа) (576p)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MatchBoets.ru@SD" tvg-logo="" tvg-name="МАТЧ! Боец (576p)",МАТЧ! Боец (576p)
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="MatchBoets.ru@SD" tvg-logo="" tvg-name="МАТЧ! Боец (576p)",МАТЧ! Боец (576p)
 http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Mama.ru@SD" tvg-logo="" tvg-name="Мама (576p)",Мама (576p)
 http://31.148.48.15/Mama/index.m3u8
@@ -1071,9 +1071,9 @@ http://31.148.48.15/Che/index.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="576p" tvg-logo="" tvg-name="交城電視台 (576p)",交城電視台 (576p)
 http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="" tvg-name="发现之旅 (576p)",发现之旅 (576p)
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="" tvg-name="发现之旅 (576p)",发现之旅 (576p)
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="CCTVWomensFashion.cn@SD" tvg-logo="" tvg-name="女性时尚 (576p)",女性时尚 (576p)
 http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
@@ -1434,7 +1434,7 @@ https://acheloostv.streamings.gr/live/stream/index.m3u8
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RD16KOPRXE0O9L4VAXVJ/hls3/now,-1m/m.m3u8?ads.vf=EoTB4HqnHbi
 #EXTINF:-1 group-title="Sports" tvg-id="ACISportTV.it@SD" tvg-logo="" tvg-name="ACI Sport TV (1080p)",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 group-title="News" tvg-id="ACNN.ng@SD" tvg-logo="" tvg-name="ACNN (480p)",ACNN (480p)
+#EXTINF:-1 group-title="News | CNN" tvg-id="ACNN.ng@SD" tvg-logo="" tvg-name="ACNN (480p)",ACNN (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="acorn.tv.mysteries.720p" tvg-logo="" tvg-name="Acorn TV Mysteries (720p)",Acorn TV Mysteries (720p)
 https://d25ms2fshb3tcf.cloudfront.net/playlist.m3u8
@@ -1893,7 +1893,7 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/717831
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717832
 #EXTINF:-1 group-title="Entertainment" tvg-id="AMC.af@SD" tvg-logo="" tvg-name="AMC (1080p)",AMC (1080p)
 https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="amc.cupid.1080p" tvg-logo="" tvg-name="AMC Cupid (1080p)",AMC Cupid (1080p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="amc.cupid.1080p" tvg-logo="" tvg-name="AMC Cupid (1080p)",AMC Cupid (1080p)
 https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="amc.reality.1080p" tvg-logo="" tvg-name="AMC Reality (1080p)",AMC Reality (1080p)
 https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
@@ -1960,7 +1960,7 @@ https://a-cdn.klowdtv.com/live2/asn/playlist.m3u8
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="AmmanTV.jo@SD" tvg-logo="" tvg-name="Amman TV (720p)",Amman TV (720p)
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="AmouYazidTV.dz@SD" tvg-logo="" tvg-name="Amou Yazid TV (576p)",Amou Yazid TV (576p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="AmouYazidTV.dz@SD" tvg-logo="" tvg-name="Amou Yazid TV (576p)",Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="AmouzeshTV.ir@SD" tvg-logo="" tvg-name="Amouzesh",Amouzesh
 https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
@@ -2050,17 +2050,17 @@ https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d.m3u8
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="AniOne.hk@SD" tvg-logo="" tvg-name="Ani-Blast (720p)",Ani-Blast (720p)
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.fhd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD¹",ANIMAL PLANET FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.fhd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD¹",ANIMAL PLANET FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717202
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.fhd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD²",ANIMAL PLANET FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.fhd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD²",ANIMAL PLANET FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971854
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.hd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD¹",ANIMAL PLANET HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.hd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD¹",ANIMAL PLANET HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717203
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.hd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD²",ANIMAL PLANET HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.hd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD²",ANIMAL PLANET HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971855
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.sd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD¹",ANIMAL PLANET SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.sd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD¹",ANIMAL PLANET SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717204
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.sd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD²",ANIMAL PLANET SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.sd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD²",ANIMAL PLANET SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971856
 #EXTINF:-1 group-title="Entertainment" tvg-id="animax.544p" tvg-logo="" tvg-name="Animax (544p)",Animax (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
@@ -2255,7 +2255,7 @@ https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Asgabat.tm@SD" tvg-logo="" tvg-name="Aşgabat (406p) [Not 24/7]",Aşgabat (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch006.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="AsharqDiscovery.sa@SD" tvg-logo="" tvg-name="Asharq Discovery (1080p)",Asharq Discovery (1080p)
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="AsharqDiscovery.sa@SD" tvg-logo="" tvg-name="Asharq Discovery (1080p)",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="AsharqDocumentary.sa@SD" tvg-logo="" tvg-name="Asharq Documentary (1080p)",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
@@ -2333,7 +2333,7 @@ https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/atmadarshan-tv/index.m3u8?ads.vf=7uUA7ZPQxdm
 #EXTINF:-1 group-title="News" tvg-id="ATNNews.bd@SD" tvg-logo="" tvg-name="ATN News (1080p)",ATN News (1080p)
 https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ATNTelevision.co@SD" tvg-logo="" tvg-name="ATN Televisión (720p) [Not 24/7]",ATN Televisión (720p) [Not 24/7]
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="ATNTelevision.co@SD" tvg-logo="" tvg-name="ATN Televisión (720p) [Not 24/7]",ATN Televisión (720p) [Not 24/7]
 https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="AtomicAcademyTV.ro@SD" tvg-logo="" tvg-name="Atomic Academy TV (480p)",Atomic Academy TV (480p)
 https://atomic.streamnet.ro/academia.m3u8
@@ -2995,7 +2995,7 @@ https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
 https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="BTMTV.ug@SD" tvg-logo="" tvg-name="BTM TV (480p) [Not 24/7]",BTM TV (480p) [Not 24/7]
 https://btmug.zerocdn.org/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BTNTV.rw@SD" tvg-logo="" tvg-name="BTN TV (480p)",BTN TV (480p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="BTNTV.rw@SD" tvg-logo="" tvg-name="BTN TV (480p)",BTN TV (480p)
 https://tv.btnrwanda.com:3086/live/btnlive.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="BTV.id@SD" tvg-logo="" tvg-name="BTV (1080p)",BTV (1080p)
 https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
@@ -3575,29 +3575,29 @@ https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="CartagoMediosTV.cr@SD" tvg-logo="" tvg-name="Cartago Medios TV (720p) [Not 24/7]",Cartago Medios TV (720p) [Not 24/7]
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.fhd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK FHD¹",CARTOON NETWORK FHD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.fhd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK FHD¹",CARTOON NETWORK FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721560
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK FHD²",CARTOON NETWORK FHD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK FHD²",CARTOON NETWORK FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721561
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.hd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK HD¹",CARTOON NETWORK HD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.hd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK HD¹",CARTOON NETWORK HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721562
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK HD²",CARTOON NETWORK HD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK HD²",CARTOON NETWORK HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721563
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.sd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK SD¹",CARTOON NETWORK SD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.sd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK SD¹",CARTOON NETWORK SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721564
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK SD²",CARTOON NETWORK SD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.network.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK SD²",CARTOON NETWORK SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721565
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD¹",CARTOONITO FHD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD¹",CARTOONITO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721566
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD²",CARTOONITO FHD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD²",CARTOONITO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721567
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD¹",CARTOONITO HD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD¹",CARTOONITO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721568
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD²",CARTOONITO HD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD²",CARTOONITO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721569
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD¹",CARTOONITO SD¹
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD¹",CARTOONITO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721570
-#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD²",CARTOONITO SD²
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoonito.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD²",CARTOONITO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721571
 #EXTINF:-1 group-title="Entertainment" tvg-id="CarubanTV.id@HD" tvg-logo="" tvg-name="Caruban TV (1080p)",Caruban TV (1080p)
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
@@ -4927,155 +4927,155 @@ https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="DiscoveringChina.cn@SD" tvg-logo="" tvg-name="Discovering China (1080p)",Discovering China (1080p)
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.fhd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD¹",DISCOVERY CHANNEL FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.fhd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD¹",DISCOVERY CHANNEL FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717205
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.fhd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD²",DISCOVERY CHANNEL FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.fhd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD²",DISCOVERY CHANNEL FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971857
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.hd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD¹",DISCOVERY CHANNEL HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.hd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD¹",DISCOVERY CHANNEL HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717206
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.hd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD²",DISCOVERY CHANNEL HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.hd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD²",DISCOVERY CHANNEL HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971858
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.sd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD¹",DISCOVERY CHANNEL SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.sd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD¹",DISCOVERY CHANNEL SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717207
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.channel.sd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD²",DISCOVERY CHANNEL SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.sd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD²",DISCOVERY CHANNEL SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971859
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.fhd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD¹",DISCOVERY HOME & HEALTH FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.fhd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD¹",DISCOVERY HOME & HEALTH FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717208
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.fhd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD²",DISCOVERY HOME & HEALTH FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.fhd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD²",DISCOVERY HOME & HEALTH FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971860
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.hd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD¹",DISCOVERY HOME & HEALTH HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.hd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD¹",DISCOVERY HOME & HEALTH HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717209
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.hd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD²",DISCOVERY HOME & HEALTH HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.hd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD²",DISCOVERY HOME & HEALTH HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971861
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.sd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD¹",DISCOVERY HOME & HEALTH SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.sd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD¹",DISCOVERY HOME & HEALTH SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717210
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.home.health.sd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD²",DISCOVERY HOME & HEALTH SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.sd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD²",DISCOVERY HOME & HEALTH SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971862
-#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.fhd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD¹",DISCOVERY KIDS FHD¹
+#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.fhd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD¹",DISCOVERY KIDS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721572
-#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.fhd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD²",DISCOVERY KIDS FHD²
+#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.fhd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD²",DISCOVERY KIDS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721573
-#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.hd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD¹",DISCOVERY KIDS HD¹
+#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.hd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD¹",DISCOVERY KIDS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721574
-#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.hd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD²",DISCOVERY KIDS HD²
+#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.hd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD²",DISCOVERY KIDS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721575
-#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.sd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD¹",DISCOVERY KIDS SD¹
+#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.sd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD¹",DISCOVERY KIDS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721576
-#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.sd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD²",DISCOVERY KIDS SD²
+#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.sd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD²",DISCOVERY KIDS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721577
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.fhd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD¹",DISCOVERY SCIENCE FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.fhd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD¹",DISCOVERY SCIENCE FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717211
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.fhd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD²",DISCOVERY SCIENCE FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.fhd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD²",DISCOVERY SCIENCE FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971863
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.hd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD¹",DISCOVERY SCIENCE HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.hd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD¹",DISCOVERY SCIENCE HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717213
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.hd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD²",DISCOVERY SCIENCE HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.hd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD²",DISCOVERY SCIENCE HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971864
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.sd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD¹",DISCOVERY SCIENCE SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.sd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD¹",DISCOVERY SCIENCE SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717214
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.sd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD²",DISCOVERY SCIENCE SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.sd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD²",DISCOVERY SCIENCE SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971865
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.fhd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD¹",DISCOVERY THEATER FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.fhd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD¹",DISCOVERY THEATER FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717215
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.fhd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD²",DISCOVERY THEATER FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.fhd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD²",DISCOVERY THEATER FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971866
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.hd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD¹",DISCOVERY THEATER HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.hd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD¹",DISCOVERY THEATER HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717216
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.hd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD²",DISCOVERY THEATER HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.hd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD²",DISCOVERY THEATER HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971867
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.sd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD¹",DISCOVERY THEATER SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.sd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD¹",DISCOVERY THEATER SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717217
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.theater.sd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD²",DISCOVERY THEATER SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.sd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD²",DISCOVERY THEATER SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971868
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.fhd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD¹",DISCOVERY TLC FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.fhd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD¹",DISCOVERY TLC FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717218
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.fhd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD²",DISCOVERY TLC FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.fhd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD²",DISCOVERY TLC FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971869
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.hd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD¹",DISCOVERY TLC HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.hd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD¹",DISCOVERY TLC HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717219
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.hd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD²",DISCOVERY TLC HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.hd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD²",DISCOVERY TLC HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971870
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.sd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD¹",DISCOVERY TLC SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.sd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD¹",DISCOVERY TLC SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717220
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.tlc.sd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD²",DISCOVERY TLC SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.sd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD²",DISCOVERY TLC SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971871
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.fhd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD¹",DISCOVERY TURBO FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.fhd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD¹",DISCOVERY TURBO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717221
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.fhd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD²",DISCOVERY TURBO FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.fhd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD²",DISCOVERY TURBO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971872
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.hd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD¹",DISCOVERY TURBO HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.hd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD¹",DISCOVERY TURBO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717222
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.hd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD²",DISCOVERY TURBO HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.hd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD²",DISCOVERY TURBO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971873
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.sd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD¹",DISCOVERY TURBO SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.sd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD¹",DISCOVERY TURBO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717223
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.turbo.sd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD²",DISCOVERY TURBO SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.sd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD²",DISCOVERY TURBO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971874
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.fhd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD¹",DISCOVERY WORLD FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.fhd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD¹",DISCOVERY WORLD FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717224
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.fhd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD²",DISCOVERY WORLD FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.fhd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD²",DISCOVERY WORLD FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971875
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.hd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD¹",DISCOVERY WORLD HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.hd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD¹",DISCOVERY WORLD HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717225
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.hd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD²",DISCOVERY WORLD HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.hd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD²",DISCOVERY WORLD HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971876
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.sd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD¹",DISCOVERY WORLD SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.sd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD¹",DISCOVERY WORLD SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717226
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.world.sd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD²",DISCOVERY WORLD SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.sd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD²",DISCOVERY WORLD SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971877
 #EXTINF:-1 group-title="Entertainment" tvg-id="DishaTV.in@SD" tvg-logo="" tvg-name="Disha TV (576p)",Disha TV (576p)
 https://mumt04.tangotv.in/DISHATV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="DismarRadioTV.py@SD" tvg-logo="" tvg-name="Dismar Radio TV (720p)",Dismar Radio TV (720p)
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.101" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 10¹",DISNEY 10¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.101" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 10¹",DISNEY 10¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901883
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.11" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 1¹",DISNEY 1¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.11" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 1¹",DISNEY 1¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901874
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.21" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 2¹",DISNEY 2¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.21" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 2¹",DISNEY 2¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901875
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.31" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 3¹",DISNEY 3¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.31" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 3¹",DISNEY 3¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901876
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.41" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 4¹",DISNEY 4¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.41" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 4¹",DISNEY 4¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901877
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.51" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 5¹",DISNEY 5¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.51" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 5¹",DISNEY 5¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901878
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.61" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 6¹",DISNEY 6¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.61" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 6¹",DISNEY 6¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901879
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.71" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 7¹",DISNEY 7¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.71" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 7¹",DISNEY 7¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901880
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.81" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 8¹",DISNEY 8¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.81" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 8¹",DISNEY 8¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901881
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.91" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 9¹",DISNEY 9¹
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.91" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY 9¹",DISNEY 9¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901882
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.pl@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.pl@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
 https://streamer.filmowo.xyz/memfs/24012cc7-5a6e-492f-9083-579349d56f37.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.in@SD" tvg-logo="" tvg-name="Disney Channel (576p)",Disney Channel (576p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.in@SD" tvg-logo="" tvg-name="Disney Channel (576p)",Disney Channel (576p)
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.bg@SD" tvg-logo="" tvg-name="Disney Channel (576p)",Disney Channel (576p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.bg@SD" tvg-logo="" tvg-name="Disney Channel (576p)",Disney Channel (576p)
 http://84.54.128.52:9090/play/3006/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.102" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 10²",DISNEY EXTRA 10²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.102" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 10²",DISNEY EXTRA 10²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977434
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.12" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 1²",DISNEY EXTRA 1²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.12" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 1²",DISNEY EXTRA 1²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901866
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.22" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 2²",DISNEY EXTRA 2²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.22" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 2²",DISNEY EXTRA 2²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901867
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.32" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 3²",DISNEY EXTRA 3²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.32" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 3²",DISNEY EXTRA 3²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901868
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.42" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 4²",DISNEY EXTRA 4²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.42" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 4²",DISNEY EXTRA 4²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901869
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.52" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 5²",DISNEY EXTRA 5²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.52" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 5²",DISNEY EXTRA 5²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901870
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.62" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 6²",DISNEY EXTRA 6²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.62" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 6²",DISNEY EXTRA 6²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901871
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.72" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 7²",DISNEY EXTRA 7²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.72" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 7²",DISNEY EXTRA 7²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901872
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.82" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 8²",DISNEY EXTRA 8²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.82" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 8²",DISNEY EXTRA 8²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901873
-#EXTINF:-1 group-title="Entertainment" tvg-id="disney.extra.92" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 9²",DISNEY EXTRA 9²
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="disney.extra.92" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" tvg-name="DISNEY EXTRA 9²",DISNEY EXTRA 9²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977433
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyInternationalHD.in@SD" tvg-logo="" tvg-name="Disney International HD (1080p)",Disney International HD (1080p)
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyInternationalHD.in@SD" tvg-logo="" tvg-name="Disney International HD (1080p)",Disney International HD (1080p)
 http://116.90.120.151:8000/play/a0hp/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DisneyJr.tr@SD" tvg-logo="" tvg-name="Disney Jr. (1080p) [Geo-blocked]",Disney Jr. (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Entertainment | Disney" tvg-id="DisneyJr.tr@SD" tvg-logo="" tvg-name="Disney Jr. (1080p) [Geo-blocked]",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="DitisHelmond.nl@SD" tvg-logo="" tvg-name="Dit is Helmond (480p)",Dit is Helmond (480p)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
@@ -5659,33 +5659,33 @@ https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="EslahTV.af@SD" tvg-logo="" tvg-name="Eslah TV (720p)",Eslah TV (720p)
 https://eslahtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="EspaceTV.gn@SD" tvg-logo="" tvg-name="Espace TV (1080p)",Espace TV (1080p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="EspaceTV.gn@SD" tvg-logo="" tvg-name="Espace TV (1080p)",Espace TV (1080p)
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="EsperiaTV.it@SD" tvg-logo="" tvg-name="Esperia TV (480p) [Not 24/7]",Esperia TV (480p) [Not 24/7]
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="espn" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNThf/espn.png" tvg-name="ESPN FHD",ESPN FHD
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNThf/espn.png" tvg-name="ESPN FHD",ESPN FHD
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971202
-#EXTINF:-1 group-title="Sports" tvg-id="espn.2" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNTlf/espn2.png" tvg-name="ESPN 2 FHD",ESPN 2 FHD
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.2" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNTlf/espn2.png" tvg-name="ESPN 2 FHD",ESPN 2 FHD
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971208
-#EXTINF:-1 group-title="Sports" tvg-id="espn.2.alt" tvg-logo="https://assistatv.me/images/a5b2718c75617834e6f20c098405c684.png" tvg-name="ESPN 2 FHD (Alt)",ESPN 2 FHD (Alt)
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.2.alt" tvg-logo="https://assistatv.me/images/a5b2718c75617834e6f20c098405c684.png" tvg-name="ESPN 2 FHD (Alt)",ESPN 2 FHD (Alt)
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971209
-#EXTINF:-1 group-title="Sports" tvg-id="espn.3" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjBf/espn3.png" tvg-name="ESPN 3 FHD",ESPN 3 FHD
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.3" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjBf/espn3.png" tvg-name="ESPN 3 FHD",ESPN 3 FHD
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971214
-#EXTINF:-1 group-title="Sports" tvg-id="espn.3.alt" tvg-logo="https://assistatv.me/images/851f18f6e64fdb2e5df1056c2db285af.png" tvg-name="ESPN 3 FHD (Alt)",ESPN 3 FHD (Alt)
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.3.alt" tvg-logo="https://assistatv.me/images/851f18f6e64fdb2e5df1056c2db285af.png" tvg-name="ESPN 3 FHD (Alt)",ESPN 3 FHD (Alt)
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971215
-#EXTINF:-1 group-title="Sports" tvg-id="espn.4" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjFf/espn4.png" tvg-name="ESPN 4 FHD",ESPN 4 FHD
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.4" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjFf/espn4.png" tvg-name="ESPN 4 FHD",ESPN 4 FHD
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971220
-#EXTINF:-1 group-title="Sports" tvg-id="espn.4.alt" tvg-logo="https://assistatv.me/images/2a9c4f7879157b2df1b7d6b55991f280.png" tvg-name="ESPN 4 FHD (Alt)",ESPN 4 FHD (Alt)
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.4.alt" tvg-logo="https://assistatv.me/images/2a9c4f7879157b2df1b7d6b55991f280.png" tvg-name="ESPN 4 FHD (Alt)",ESPN 4 FHD (Alt)
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971221
-#EXTINF:-1 group-title="Sports" tvg-id="espn.5" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjJf/espn5.png" tvg-name="ESPN 5 FHD",ESPN 5 FHD
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.5" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjJf/espn5.png" tvg-name="ESPN 5 FHD",ESPN 5 FHD
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971226
-#EXTINF:-1 group-title="Sports" tvg-id="espn.5.alt" tvg-logo="https://assistatv.me/images/025bb59b7f9087ff7ddcada4656d443d.png" tvg-name="ESPN 5 FHD (Alt)",ESPN 5 FHD (Alt)
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.5.alt" tvg-logo="https://assistatv.me/images/025bb59b7f9087ff7ddcada4656d443d.png" tvg-name="ESPN 5 FHD (Alt)",ESPN 5 FHD (Alt)
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971227
-#EXTINF:-1 group-title="Sports" tvg-id="espn.6" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjNf/espn6.png" tvg-name="ESPN 6 FHD",ESPN 6 FHD
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.6" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNjNf/espn6.png" tvg-name="ESPN 6 FHD",ESPN 6 FHD
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971232
-#EXTINF:-1 group-title="Sports" tvg-id="espn.6.alt" tvg-logo="https://assistatv.me/images/528dc0ae98c5523da1abd22739ce9682.png" tvg-name="ESPN 6 FHD (Alt)",ESPN 6 FHD (Alt)
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.6.alt" tvg-logo="https://assistatv.me/images/528dc0ae98c5523da1abd22739ce9682.png" tvg-name="ESPN 6 FHD (Alt)",ESPN 6 FHD (Alt)
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971233
-#EXTINF:-1 group-title="Sports" tvg-id="espn.alt" tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" tvg-name="ESPN FHD (Alt)",ESPN FHD (Alt)
+#EXTINF:-1 group-title="Sports | ESPN" tvg-id="espn.alt" tvg-logo="https://assistatv.me/images/15fb376f5ed64f8f09d390130d0baace.png" tvg-name="ESPN FHD (Alt)",ESPN FHD (Alt)
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971203
 #EXTINF:-1 group-title="Entertainment" tvg-id="EspresoTV.ua@SD" tvg-logo="" tvg-name="Espreso TV (1080p)",Espreso TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
@@ -6104,16 +6104,16 @@ http://dslive.grtn.cn/fszh/sd/live.m3u8
 https://all3media-four-in-a-bed-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="FoursquareTV.ng@SD" tvg-logo="" tvg-name="Foursquare TV (360p) [Not 24/7]",Foursquare TV (360p) [Not 24/7]
 https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="fox.local.seattle" tvg-logo="" tvg-name="FOX LOCAL Seattle",FOX LOCAL Seattle
+#EXTINF:-1 group-title="Entertainment | Fox" tvg-id="fox.local.seattle" tvg-logo="" tvg-name="FOX LOCAL Seattle",FOX LOCAL Seattle
 https://jmp2.uk/plu-667f36eda1d7ad00085f588e.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="fox.sports.1080p" tvg-logo="" tvg-name="FOX Sports (1080p)",FOX Sports (1080p)
+#EXTINF:-1 group-title="Sports | Fox" tvg-id="fox.sports.1080p" tvg-logo="" tvg-name="FOX Sports (1080p)",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="FoxSports.ar@SD" tvg-logo="" tvg-name="Fox Sports (1080p)",Fox Sports (1080p)
+#EXTINF:-1 group-title="Sports | Fox" tvg-id="FoxSports.ar@SD" tvg-logo="" tvg-name="Fox Sports (1080p)",Fox Sports (1080p)
 #EXTVLCOPT:http-referrer=https://foxsports.com.ar/
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="fox.sports.1080p.geo.blocked" tvg-logo="" tvg-name="FOX Sports (1080p) [Geo-blocked]",FOX Sports (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Sports | Fox" tvg-id="fox.sports.1080p.geo.blocked" tvg-logo="" tvg-name="FOX Sports (1080p) [Geo-blocked]",FOX Sports (1080p) [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="fox.sports.720p" tvg-logo="" tvg-name="FOX Sports (720p)",FOX Sports (720p)
+#EXTINF:-1 group-title="Sports | Fox" tvg-id="fox.sports.720p" tvg-logo="" tvg-name="FOX Sports (720p)",FOX Sports (720p)
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="FranchsTV.gt@SD" tvg-logo="" tvg-name="Franchs TV (720p)",Franchs TV (720p)
 https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
@@ -6181,11 +6181,11 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/715910
 http://tyzic.xyz:80/IgorBifano/bng6vizn/970254
 #EXTINF:-1 group-title="Entertainment" tvg-id="FutureTV.lb@SD" tvg-logo="" tvg-name="Future TV (1080p)",Future TV (1080p)
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FX.tr@HD" tvg-logo="" tvg-name="FX (1080p) [Geo-blocked]",FX (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Entertainment | Fox" tvg-id="FX.tr@HD" tvg-logo="" tvg-name="FX (1080p) [Geo-blocked]",FX (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FX1.ir@SD" tvg-logo="" tvg-name="FX TV 1",FX TV 1
+#EXTINF:-1 group-title="Entertainment | Fox" tvg-id="FX1.ir@SD" tvg-logo="" tvg-name="FX TV 1",FX TV 1
 https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FX2.ir@SD" tvg-logo="" tvg-name="FX TV 2",FX TV 2
+#EXTINF:-1 group-title="Entertainment | Fox" tvg-id="FX2.ir@SD" tvg-logo="" tvg-name="FX TV 2",FX TV 2
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="fztv.1.1080p" tvg-logo="" tvg-name="福州广播电视台新闻综合频道 (FZTV-1) (1080p)",福州广播电视台新闻综合频道 (FZTV-1) (1080p)
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
@@ -6475,7 +6475,7 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="golden.boy" tvg-logo="" tvg-name="Golden Boy",Golden Boy
 https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="GoldenEagleCartoon.cn@SD" tvg-logo="" tvg-name="Golden Eagle Cartoon",Golden Eagle Cartoon
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="GoldenEagleCartoon.cn@SD" tvg-logo="" tvg-name="Golden Eagle Cartoon",Golden Eagle Cartoon
 http://1.24.190.98:10080/hls/51/index.m3u8
 #EXTINF:-1 group-title="Regional" tvg-id="Golden.mx@Panregional" tvg-logo="" tvg-name="Golden TV (240p) [Not 24/7]",Golden TV (240p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
@@ -6608,7 +6608,7 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="GTNCanada.ca@SD" tvg-logo="" tvg-name="GTN Canada (1080i) [Geo-blocked]",GTN Canada (1080i) [Geo-blocked]
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GTNTV.ke@SD" tvg-logo="" tvg-name="GTN TV (1080p) [Not 24/7]",GTN TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="GTNTV.ke@SD" tvg-logo="" tvg-name="GTN TV (1080p) [Not 24/7]",GTN TV (1080p) [Not 24/7]
 https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="GTV.si@SD" tvg-logo="" tvg-name="GTV (360p) [Not 24/7]",GTV (360p) [Not 24/7]
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
@@ -6747,133 +6747,133 @@ http://158.180.39.89:5033/hayatplus.m3u8
 http://158.180.39.89:5033/hayatovci.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="haz.clic" tvg-logo="" tvg-name="Haz Clic!",Haz Clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.2.fhd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 FHD¹",HBO 2 FHD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.fhd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 FHD¹",HBO 2 FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717441
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.2.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 FHD²",HBO 2 FHD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 FHD²",HBO 2 FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717465
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.2.hd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 HD¹",HBO 2 HD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.hd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 HD¹",HBO 2 HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717442
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.2.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 HD²",HBO 2 HD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 HD²",HBO 2 HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717466
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.2.sd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 SD¹",HBO 2 SD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.sd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 SD¹",HBO 2 SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717443
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.2.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 SD²",HBO 2 SD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 SD²",HBO 2 SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717467
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.family.fhd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY FHD¹",HBO FAMILY FHD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.fhd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY FHD¹",HBO FAMILY FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717444
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.family.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY FHD²",HBO FAMILY FHD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY FHD²",HBO FAMILY FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717468
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.family.hd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY HD¹",HBO FAMILY HD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.hd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY HD¹",HBO FAMILY HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717445
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.family.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY HD²",HBO FAMILY HD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY HD²",HBO FAMILY HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717469
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.family.sd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY SD¹",HBO FAMILY SD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.sd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY SD¹",HBO FAMILY SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717446
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.family.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY SD²",HBO FAMILY SD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY SD²",HBO FAMILY SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717470
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.fhd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO FHD¹",HBO FHD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.fhd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO FHD¹",HBO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717438
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO FHD²",HBO FHD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO FHD²",HBO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717462
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.hd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO HD¹",HBO HD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.hd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO HD¹",HBO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717439
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO HD²",HBO HD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO HD²",HBO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717463
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.11" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 1¹",HBO MAX 1¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.11" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 1¹",HBO MAX 1¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464661
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.21" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 2¹",HBO MAX 2¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.21" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 2¹",HBO MAX 2¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464663
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.31" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 3¹",HBO MAX 3¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.31" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 3¹",HBO MAX 3¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464665
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.41" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 4¹",HBO MAX 4¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.41" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 4¹",HBO MAX 4¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464667
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.51" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 5¹",HBO MAX 5¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.51" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 5¹",HBO MAX 5¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464669
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.61" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 6¹",HBO MAX 6¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.61" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 6¹",HBO MAX 6¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464670
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.71" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 7¹",HBO MAX 7¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.71" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 7¹",HBO MAX 7¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464671
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.81" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 8¹",HBO MAX 8¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.81" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 8¹",HBO MAX 8¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464672
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.extra.12" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 1²",HBO MAX EXTRA 1²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.12" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 1²",HBO MAX EXTRA 1²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464662
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.extra.22" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 2²",HBO MAX EXTRA 2²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.22" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 2²",HBO MAX EXTRA 2²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464664
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.extra.32" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 3²",HBO MAX EXTRA 3²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.32" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 3²",HBO MAX EXTRA 3²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464666
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.extra.42" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 4²",HBO MAX EXTRA 4²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.42" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 4²",HBO MAX EXTRA 4²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464668
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.extra.52" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 5²",HBO MAX EXTRA 5²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.52" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 5²",HBO MAX EXTRA 5²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464673
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.extra.62" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 6²",HBO MAX EXTRA 6²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.62" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 6²",HBO MAX EXTRA 6²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464674
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.extra.72" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 7²",HBO MAX EXTRA 7²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.72" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 7²",HBO MAX EXTRA 7²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464660
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.max.extra.82" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX EXTRA 8²",HBO MAX EXTRA 8²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.82" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX EXTRA 8²",HBO MAX EXTRA 8²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972048
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.mundi.fhd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI FHD¹",HBO MUNDI FHD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.fhd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI FHD¹",HBO MUNDI FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717447
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.mundi.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI FHD²",HBO MUNDI FHD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI FHD²",HBO MUNDI FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717471
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.mundi.hd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI HD¹",HBO MUNDI HD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.hd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI HD¹",HBO MUNDI HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717448
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.mundi.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI HD²",HBO MUNDI HD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI HD²",HBO MUNDI HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717472
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.mundi.sd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI SD¹",HBO MUNDI SD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.sd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI SD¹",HBO MUNDI SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717449
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.mundi.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI SD²",HBO MUNDI SD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI SD²",HBO MUNDI SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717473
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.plus.fhd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS FHD¹",HBO PLUS FHD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.fhd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS FHD¹",HBO PLUS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717450
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.plus.fhd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS FHD²",HBO PLUS FHD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.fhd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS FHD²",HBO PLUS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717474
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.plus.hd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS HD¹",HBO PLUS HD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.hd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS HD¹",HBO PLUS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717451
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.plus.hd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS HD²",HBO PLUS HD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.hd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS HD²",HBO PLUS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717475
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.plus.sd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS SD¹",HBO PLUS SD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.sd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS SD¹",HBO PLUS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717452
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.plus.sd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS SD²",HBO PLUS SD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.sd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS SD²",HBO PLUS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717476
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.pop.fhd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP FHD¹",HBO POP FHD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.fhd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP FHD¹",HBO POP FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717453
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.pop.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP FHD²",HBO POP FHD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP FHD²",HBO POP FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717477
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.pop.hd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP HD¹",HBO POP HD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.hd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP HD¹",HBO POP HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717454
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.pop.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP HD²",HBO POP HD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP HD²",HBO POP HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717478
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.pop.sd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP SD¹",HBO POP SD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.sd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP SD¹",HBO POP SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717455
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.pop.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP SD²",HBO POP SD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP SD²",HBO POP SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717479
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.sd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO SD¹",HBO SD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.sd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO SD¹",HBO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717440
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO SD²",HBO SD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO SD²",HBO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717464
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.signature.fhd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE FHD¹",HBO SIGNATURE FHD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.fhd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE FHD¹",HBO SIGNATURE FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717456
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.signature.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE FHD²",HBO SIGNATURE FHD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE FHD²",HBO SIGNATURE FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717480
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.signature.hd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE HD¹",HBO SIGNATURE HD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.hd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE HD¹",HBO SIGNATURE HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717457
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.signature.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE HD²",HBO SIGNATURE HD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE HD²",HBO SIGNATURE HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717481
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.signature.sd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE SD¹",HBO SIGNATURE SD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.sd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE SD¹",HBO SIGNATURE SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717458
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.signature.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE SD²",HBO SIGNATURE SD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE SD²",HBO SIGNATURE SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717482
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.xtreme.fhd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME FHD¹",HBO XTREME FHD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.fhd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME FHD¹",HBO XTREME FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717459
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.xtreme.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME FHD²",HBO XTREME FHD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME FHD²",HBO XTREME FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717483
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.xtreme.hd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME HD¹",HBO XTREME HD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.hd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME HD¹",HBO XTREME HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717460
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.xtreme.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME HD²",HBO XTREME HD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME HD²",HBO XTREME HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717484
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.xtreme.sd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME SD¹",HBO XTREME SD¹
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.sd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME SD¹",HBO XTREME SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717461
-#EXTINF:-1 group-title="Entertainment" tvg-id="hbo.xtreme.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME SD²",HBO XTREME SD²
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME SD²",HBO XTREME SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717485
 #EXTINF:-1 group-title="Entertainment" tvg-id="HCH.hn@SD" tvg-logo="" tvg-name="HCH",HCH
 https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
@@ -7306,17 +7306,17 @@ https://jmp2.uk/plu-686fc8fe1889b4ad04604704.m3u8
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ICTV.ke@SD" tvg-logo="" tvg-name="ICTV (480p) [Not 24/7]",ICTV (480p) [Not 24/7]
 https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.fhd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD¹",ID - INVESTIGAÇÃO DISCOVERY FHD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.fhd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD¹",ID - INVESTIGAÇÃO DISCOVERY FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717238
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.fhd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD²",ID - INVESTIGAÇÃO DISCOVERY FHD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.fhd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD²",ID - INVESTIGAÇÃO DISCOVERY FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971887
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.hd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹",ID - INVESTIGAÇÃO DISCOVERY HD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.hd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹",ID - INVESTIGAÇÃO DISCOVERY HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717239
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.hd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²",ID - INVESTIGAÇÃO DISCOVERY HD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.hd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²",ID - INVESTIGAÇÃO DISCOVERY HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971888
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.sd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD¹",ID - INVESTIGAÇÃO DISCOVERY SD¹
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.sd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD¹",ID - INVESTIGAÇÃO DISCOVERY SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717240
-#EXTINF:-1 group-title="Documentary" tvg-id="id.investigacao.discovery.sd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD²",ID - INVESTIGAÇÃO DISCOVERY SD²
+#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.sd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD²",ID - INVESTIGAÇÃO DISCOVERY SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971889
 #EXTINF:-1 group-title="Entertainment" tvg-id="IdeaalTV.nl@SD" tvg-logo="" tvg-name="Ideaal TV (480p) [Not 24/7]",Ideaal TV (480p) [Not 24/7]
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
@@ -7494,7 +7494,7 @@ https://amg27604-amg27604c1-amgplt0002.playout.now3.amagi.tv/playlist/amg27604-a
 http://83.103.150.198:8080
 #EXTINF:-1 group-title="Entertainment" tvg-id="intermediate.league.curacao.geo.blocked" tvg-logo="" tvg-name="Intermediate League Curaçao [Geo-blocked]",Intermediate League Curaçao [Geo-blocked]
 https://streannlivecariflix.cachefly.net/cariflix12/cariflix12/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNTInternational.ru@SD" tvg-logo="" tvg-name="ТНТ International (480p)",ТНТ International (480p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="TNTInternational.ru@SD" tvg-logo="" tvg-name="ТНТ International (480p)",ТНТ International (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="PeretzInternational.ru@SD" tvg-logo="" tvg-name="Перец International (576p)",Перец International (576p)
@@ -7747,7 +7747,7 @@ https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="JFVTV.sv@SD" tvg-logo="" tvg-name="JFV TV (720p)",JFV TV (720p)
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="JiaJiaCartoon.cn@SD" tvg-logo="" tvg-name="JiaJia Cartoon",JiaJia Cartoon
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="JiaJiaCartoon.cn@SD" tvg-logo="" tvg-name="JiaJia Cartoon",JiaJia Cartoon
 http://49.113.179.174:4022/udp/238.125.0.158:5140
 #EXTINF:-1 group-title="Kids" tvg-id="JiangxiChildrensChannel.cn@SD" tvg-logo="" tvg-name="Jiangxi Children's Channel",Jiangxi Children's Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
@@ -7819,7 +7819,7 @@ https://jrtv-live.ercdn.net/learning2/learning2.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="jornada.nas.estrelas.a.nova.geracao" tvg-logo="" tvg-name="Jornada nas Estrelas A Nova Geração",Jornada nas Estrelas A Nova Geração
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="jornada.nas.estrelas.deep.space.nine" tvg-logo="" tvg-name="Jornada nas Estrelas Deep Space Nine",Jornada nas Estrelas Deep Space Nine
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="jornada.nas.estrelas.deep.space.nine" tvg-logo="" tvg-name="Jornada nas Estrelas Deep Space Nine",Jornada nas Estrelas Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="jornada.nas.estrelas.voyager" tvg-logo="" tvg-name="Jornada nas Estrelas Voyager",Jornada nas Estrelas Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
@@ -8075,7 +8075,7 @@ http://31.148.48.15/KHL_TV/index.m3u8
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KhozestanTV.ir@SD" tvg-logo="" tvg-name="Khozestan",Khozestan
 https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KhushbooBangla.in@SD" tvg-logo="" tvg-name="Khushboo Bangla (720p)",Khushboo Bangla (720p)
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="KhushbooBangla.in@SD" tvg-logo="" tvg-name="Khushboo Bangla (720p)",Khushboo Bangla (720p)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KibrisGencTV.cy@SD" tvg-logo="" tvg-name="Kibris Genç TV (720p) [Not 24/7]",Kibris Genç TV (720p) [Not 24/7]
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
@@ -8825,7 +8825,7 @@ https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
 https://mumt03.tangotv.in/MAINATV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="MajestadTelevision.ec@SD" tvg-logo="" tvg-name="Majestad Televisión (720p)",Majestad Televisión (720p)
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MajidAlMohandis.sa@SD" tvg-logo="" tvg-name="Majid Al Mohandis (1080p)",Majid Al Mohandis (1080p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="MajidAlMohandis.sa@SD" tvg-logo="" tvg-name="Majid Al Mohandis (1080p)",Majid Al Mohandis (1080p)
 https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Makan33.il@SD" tvg-logo="" tvg-name="Makan 33 (1080p)",Makan 33 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
@@ -9268,7 +9268,7 @@ https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="missions" tvg-logo="" tvg-name="Missions",Missions
 https://jmp2.uk/plu-6824539e1295f98347e95242.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="mister.rogers.neighborhood" tvg-logo="" tvg-name="Mister Rogers' Neighborhood",Mister Rogers' Neighborhood
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="mister.rogers.neighborhood" tvg-logo="" tvg-name="Mister Rogers' Neighborhood",Mister Rogers' Neighborhood
 https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="misterios.medicos" tvg-logo="" tvg-name="Misterios Medicos",Misterios Medicos
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
@@ -9482,7 +9482,7 @@ https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="MorroTV.do@SD" tvg-logo="" tvg-name="MorroTV (720p) [Not 24/7]",MorroTV (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="mosaico.hbo.max" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="MOSAICO HBO MAX",MOSAICO HBO MAX
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="mosaico.hbo.max" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="MOSAICO HBO MAX",MOSAICO HBO MAX
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464659
 #EXTINF:-1 group-title="Entertainment" tvg-id="MosaiqueFM.tn@SD" tvg-logo="" tvg-name="Mosaique FM (1080p)",Mosaique FM (1080p)
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
@@ -10025,37 +10025,37 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NiceTVKenya.ke@SD" tvg-logo="" tvg-name="Nice TV Kenya (720p) [Not 24/7]",Nice TV Kenya (720p) [Not 24/7]
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickHDPlus.in@HD" tvg-logo="" tvg-name="Nick HD+ (1080p)",Nick HD+ (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickHDPlus.in@HD" tvg-logo="" tvg-name="Nick HD+ (1080p)",Nick HD+ (1080p)
 http://103.72.101.252:8080/live/1226.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickJr.in@SD" tvg-logo="" tvg-name="Nick Jr. (576p)",Nick Jr. (576p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickJr.in@SD" tvg-logo="" tvg-name="Nick Jr. (576p)",Nick Jr. (576p)
 http://103.72.101.252:8080/live/544.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nick.jr.club" tvg-logo="" tvg-name="Nick Jr. Club",Nick Jr. Club
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nick.jr.club" tvg-logo="" tvg-name="Nick Jr. Club",Nick Jr. Club
 https://jmp2.uk/plu-5f121460b73ac6000719fbaf.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nick.jr.club.720p" tvg-logo="" tvg-name="Nick Jr. Club (720p)",Nick Jr. Club (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nick.jr.club.720p" tvg-logo="" tvg-name="Nick Jr. Club (720p)",Nick Jr. Club (720p)
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nick.jr.pluto.tv" tvg-logo="" tvg-name="Nick Jr. Pluto TV",Nick Jr. Pluto TV
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nick.jr.pluto.tv" tvg-logo="" tvg-name="Nick Jr. Pluto TV",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nick.jr.pluto.tv.720p" tvg-logo="" tvg-name="Nick Jr. Pluto TV (720p)",Nick Jr. Pluto TV (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nick.jr.pluto.tv.720p" tvg-logo="" tvg-name="Nick Jr. Pluto TV (720p)",Nick Jr. Pluto TV (720p)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.pl@SD" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.pl@SD" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
 https://streamer.filmowo.xyz/memfs/cd3264be-9df6-43cb-91ca-364082c257eb.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.in@SD" tvg-logo="" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.in@SD" tvg-logo="" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
 http://103.72.101.252:8080/live/545.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.ee@SD" tvg-logo="" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.ee@SD" tvg-logo="" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
 http://195.64.140.147:10121/121
-#EXTINF:-1 group-title="Kids" tvg-id="NickelodeonAsia.sg@Indonesia" tvg-logo="" tvg-name="Nickelodeon Asia Indonesia (1080p)",Nickelodeon Asia Indonesia (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickelodeonAsia.sg@Indonesia" tvg-logo="" tvg-name="Nickelodeon Asia Indonesia (1080p)",Nickelodeon Asia Indonesia (1080p)
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.icarly" tvg-logo="" tvg-name="Nickelodeon iCarly",Nickelodeon iCarly
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.icarly" tvg-logo="" tvg-name="Nickelodeon iCarly",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.teen.720p" tvg-logo="" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.teen.720p" tvg-logo="" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.toons" tvg-logo="" tvg-name="Nickelodeon Toons",Nickelodeon Toons
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.toons" tvg-logo="" tvg-name="Nickelodeon Toons",Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.toons.720p" tvg-logo="" tvg-name="Nickelodeon Toons (720p)",Nickelodeon Toons (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.toons.720p" tvg-logo="" tvg-name="Nickelodeon Toons (720p)",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nicktoons" tvg-logo="" tvg-name="NickToons",NickToons
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nicktoons" tvg-logo="" tvg-name="NickToons",NickToons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.pl@SD" tvg-logo="" tvg-name="Nicktoons (1080p)",Nicktoons (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nicktoons.pl@SD" tvg-logo="" tvg-name="Nicktoons (1080p)",Nicktoons (1080p)
 https://streamer.filmowo.xyz/memfs/a9e785bf-54f7-4a9d-be03-1ad6ace02cd3.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NicoyaTV.cr@SD" tvg-logo="" tvg-name="Nicoya TV (720p) [Not 24/7]",Nicoya TV (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
@@ -10442,7 +10442,7 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="RadioOmegaTV.hn@SD" tvg-logo="" tvg-name="Omega TV (720p) [Not 24/7]",Omega TV (720p) [Not 24/7]
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="IRIBOmid.ir@SD" tvg-logo="" tvg-name="Omid",Omid
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="IRIBOmid.ir@SD" tvg-logo="" tvg-name="Omid",Omid
 https://ncdn.telewebion.ir/omid/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="OmroepBrabant.nl@SD" tvg-logo="" tvg-name="Omroep Brabant (1080p)",Omroep Brabant (1080p)
 https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
@@ -11320,7 +11320,7 @@ https://jmp2.uk/plu-5cd149f021cb6c55e258bbe8.m3u8
 https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.snooker.900.720p" tvg-logo="" tvg-name="Pluto TV Snooker 900 (720p)",Pluto TV Snooker 900 (720p)
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.space" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="pluto.tv.space" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="pluto.tv.sport" tvg-logo="" tvg-name="Pluto TV Sport",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
@@ -12104,7 +12104,7 @@ http://92.86.248.141:8080/ram/playlist.m3u8
 https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="RASDTV.eh@SD" tvg-logo="" tvg-name="RASD TV (1080i)",RASD TV (1080i)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RashidAlMajed.sa@SD" tvg-logo="" tvg-name="Rashid AlMajed (1080p)",Rashid AlMajed (1080p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="RashidAlMajed.sa@SD" tvg-logo="" tvg-name="Rashid AlMajed (1080p)",Rashid AlMajed (1080p)
 https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="RasmeyHangMeasHDTV.kh@SD" tvg-logo="" tvg-name="Rasmey Hang Meas HDTV (720p) [Not 24/7]",Rasmey Hang Meas HDTV (720p) [Not 24/7]
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
@@ -12176,9 +12176,9 @@ https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="RealitateaStar.ro@SD" tvg-logo="" tvg-name="Realitatea Star (576i)",Realitatea Star (576i)
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="realmadrid.tv" tvg-logo="" tvg-name="Realmadrid TV",Realmadrid TV
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="realmadrid.tv" tvg-logo="" tvg-name="Realmadrid TV",Realmadrid TV
 https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="realmadrid.tv.720p" tvg-logo="" tvg-name="Realmadrid TV (720p)",Realmadrid TV (720p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="realmadrid.tv.720p" tvg-logo="" tvg-name="Realmadrid TV (720p)",Realmadrid TV (720p)
 https://jmp2.uk/plu-660d714719ca71000849cc1f.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="RedPlus.co@SD" tvg-logo="" tvg-name="Red+ (1080p)",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
@@ -12242,17 +12242,17 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/977445
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977443
 #EXTINF:-1 group-title="Entertainment" tvg-id="rede.super.sd2" tvg-logo="https://logos.tonaonda.uk/logos/redesuper.png" tvg-name="REDE SUPER SD²",REDE SUPER SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977446
-#EXTINF:-1 group-title="Entertainment" tvg-id="rede.tv.4k1" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV 4K¹",REDE TV 4K¹
+#EXTINF:-1 group-title="Open TV | RedeTV" tvg-id="rede.tv.4k1" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV 4K¹",REDE TV 4K¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977451
-#EXTINF:-1 group-title="Entertainment" tvg-id="rede.tv.4k2" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV 4K²",REDE TV 4K²
+#EXTINF:-1 group-title="Open TV | RedeTV" tvg-id="rede.tv.4k2" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV 4K²",REDE TV 4K²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/977450
-#EXTINF:-1 group-title="Entertainment" tvg-id="rede.tv.fhd1" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV FHD¹",REDE TV FHD¹
+#EXTINF:-1 group-title="Open TV | RedeTV" tvg-id="rede.tv.fhd1" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV FHD¹",REDE TV FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/715912
-#EXTINF:-1 group-title="Entertainment" tvg-id="rede.tv.fhd2" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV FHD²",REDE TV FHD²
+#EXTINF:-1 group-title="Open TV | RedeTV" tvg-id="rede.tv.fhd2" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV FHD²",REDE TV FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/970256
-#EXTINF:-1 group-title="Entertainment" tvg-id="rede.tv.hd1" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV HD¹",REDE TV HD¹
+#EXTINF:-1 group-title="Open TV | RedeTV" tvg-id="rede.tv.hd1" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV HD¹",REDE TV HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/715913
-#EXTINF:-1 group-title="Entertainment" tvg-id="rede.tv.hd2" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV HD²",REDE TV HD²
+#EXTINF:-1 group-title="Open TV | RedeTV" tvg-id="rede.tv.hd2" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDE TV HD²",REDE TV HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/970257
 #EXTINF:-1 group-title="Entertainment" tvg-id="rede.vida.fhd1" tvg-logo="https://i.imgur.com/EYvhhme.png" tvg-name="REDE VIDA FHD¹",REDE VIDA FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717294
@@ -12268,9 +12268,9 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/717297
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971937
 #EXTINF:-1 group-title="Entertainment" tvg-id="RedemptionTelevisionMinistry.za@SD" tvg-logo="" tvg-name="Redemption TV Ministry (720p)",Redemption TV Ministry (720p)
 https://live.nixsat.com/play/rtm/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="redetv.sd1" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDETV SD¹",REDETV SD¹
+#EXTINF:-1 group-title="Open TV | RedeTV" tvg-id="redetv.sd1" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDETV SD¹",REDETV SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/715914
-#EXTINF:-1 group-title="Entertainment" tvg-id="redetv.sd2" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDETV SD²",REDETV SD²
+#EXTINF:-1 group-title="Open TV | RedeTV" tvg-id="redetv.sd2" tvg-logo="https://assistatv.me/images/327e34c68dd7271bb8f9b0cb25ae526e.png" tvg-name="REDETV SD²",REDETV SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/970258
 #EXTINF:-1 group-title="Entertainment" tvg-id="reelz.famous.infamous.1080p" tvg-logo="" tvg-name="Reelz Famous & Infamous (1080p)",Reelz Famous & Infamous (1080p)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
@@ -12450,7 +12450,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://jmp2.uk/plu-64a28c62d609b60008ca4933.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ROCKEntertainment.sg@SD" tvg-logo="" tvg-name="ROCK Entertainment (720p)",ROCK Entertainment (720p)
 http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
-#EXTINF:-1 group-title="Entertainment" tvg-id="rock.solid.wrestling.tv.1080p" tvg-logo="" tvg-name="Rock Solid Wrestling TV (1080p)",Rock Solid Wrestling TV (1080p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="rock.solid.wrestling.tv.1080p" tvg-logo="" tvg-name="Rock Solid Wrestling TV (1080p)",Rock Solid Wrestling TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0HQB0C0B3JRT3U7C103F/hls3/now,-1m/m.m3u8?ads.vf=HkyN6qE7bvi
 #EXTINF:-1 group-title="Entertainment" tvg-id="RockTV.mk@SD" tvg-logo="" tvg-name="Rock TV (1080p) [Not 24/7]",Rock TV (1080p) [Not 24/7]
@@ -13547,11 +13547,11 @@ http://118.81.195.79:9003/hls/24/index.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="SOYPlanchaTV.cr@SD" tvg-logo="" tvg-name="SOY Plancha TV (720p)",SOY Plancha TV (720p)
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="space.series.1080p" tvg-logo="" tvg-name="Space Series (1080p)",Space Series (1080p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="space.series.1080p" tvg-logo="" tvg-name="Space Series (1080p)",Space Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SpaceTV.az@SD" tvg-logo="" tvg-name="Space TV",Space TV
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="SpaceTV.az@SD" tvg-logo="" tvg-name="Space TV",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SpacetoonArabic.ae@SD" tvg-logo="" tvg-name="Spacetoon Arabic (1080p)",Spacetoon Arabic (1080p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="SpacetoonArabic.ae@SD" tvg-logo="" tvg-name="Spacetoon Arabic (1080p)",Spacetoon Arabic (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="spark.tv.luz.amor.1080p" tvg-logo="" tvg-name="Spark TV Luz & Amor (1080p)",Spark TV Luz & Amor (1080p)
 https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
@@ -13669,7 +13669,7 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/suvarnatv_live_https/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarTamilTelevision.lk@SD" tvg-logo="" tvg-name="Star Tamil Television (360p)",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
-#EXTINF:-1 group-title="Entertainment" tvg-id="star.trek.deep.space.nine" tvg-logo="" tvg-name="Star Trek: Deep Space Nine",Star Trek: Deep Space Nine
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="star.trek.deep.space.nine" tvg-logo="" tvg-name="Star Trek: Deep Space Nine",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65a67d200c7ff50008cb131a.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="star.trek.enterprise" tvg-logo="" tvg-name="Star Trek: Enterprise",Star Trek: Enterprise
 https://jmp2.uk/plu-66337ed7a0a74e0008895699.m3u8
@@ -14237,7 +14237,7 @@ https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
 https://i.mjh.nz/.r/te-reo.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TeaTV.vn@SD" tvg-logo="" tvg-name="Tea TV (720p)",Tea TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="team.liquid.1080p" tvg-logo="" tvg-name="Team Liquid (1080p)",Team Liquid (1080p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="team.liquid.1080p" tvg-logo="" tvg-name="Team Liquid (1080p)",Team Liquid (1080p)
 https://d3qzt5cx2j8lfl.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TeatroTV.it@SD" tvg-logo="" tvg-name="Teatro TV (720p)",Teatro TV (720p)
 https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
@@ -14322,7 +14322,7 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TeleVariete.ht@SD" tvg-logo="" tvg-name="Tele Variete",Tele Variete
 https://acwstream.com/hb/chaine30/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TeleVid.co@SD" tvg-logo="" tvg-name="Tele Vid (1080p)",Tele Vid (1080p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="TeleVid.co@SD" tvg-logo="" tvg-name="Tele Vid (1080p)",Tele Vid (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TeleYucatan.mx@SD" tvg-logo="" tvg-name="Tele Yucatan (1080p) [Geo-blocked]",Tele Yucatan (1080p) [Geo-blocked]
@@ -15001,45 +15001,45 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="TNPNews.in@SD" tvg-logo="" tvg-name="TNP News (1080p)",TNP News (1080p)
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.fhd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT FHD¹",TNT FHD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.fhd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT FHD¹",TNT FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899499
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.fhd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT FHD²",TNT FHD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.fhd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT FHD²",TNT FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899500
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.hd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT HD¹",TNT HD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.hd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT HD¹",TNT HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899501
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.hd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT HD²",TNT HD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.hd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT HD²",TNT HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899502
-#EXTINF:-1 group-title="Kids" tvg-id="TNTKidsTV.ba@SD" tvg-logo="" tvg-name="TNT Kids (288p)",TNT Kids (288p)
+#EXTINF:-1 group-title="Kids | Warner" tvg-id="TNTKidsTV.ba@SD" tvg-logo="" tvg-name="TNT Kids (288p)",TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS FHD¹",TNT NOVELAS FHD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.novelas.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS FHD¹",TNT NOVELAS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899487
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS FHD²",TNT NOVELAS FHD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.novelas.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS FHD²",TNT NOVELAS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899488
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS HD¹",TNT NOVELAS HD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.novelas.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS HD¹",TNT NOVELAS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899489
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS HD²",TNT NOVELAS HD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.novelas.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS HD²",TNT NOVELAS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899490
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS SD¹",TNT NOVELAS SD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.novelas.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS SD¹",TNT NOVELAS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899491
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS SD²",TNT NOVELAS SD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.novelas.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS SD²",TNT NOVELAS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899492
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.sd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SD¹",TNT SD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.sd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SD¹",TNT SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899503
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.sd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SD²",TNT SD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.sd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SD²",TNT SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899504
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.fhd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES FHD¹",TNT SERIES FHD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.series.fhd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES FHD¹",TNT SERIES FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899505
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.fhd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES FHD²",TNT SERIES FHD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.series.fhd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES FHD²",TNT SERIES FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899506
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.hd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES HD¹",TNT SERIES HD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.series.hd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES HD¹",TNT SERIES HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899507
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.hd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES HD²",TNT SERIES HD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.series.hd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES HD²",TNT SERIES HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899508
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.sd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES SD¹",TNT SERIES SD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.series.sd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES SD¹",TNT SERIES SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899509
-#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.sd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES SD²",TNT SERIES SD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="tnt.series.sd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES SD²",TNT SERIES SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899510
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNTV.pf@SD" tvg-logo="" tvg-name="TNTV (1080p)",TNTV (1080p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="TNTV.pf@SD" tvg-logo="" tvg-name="TNTV (1080p)",TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TSC.ca@SD" tvg-logo="" tvg-name="Today's Shopping Choice (TSC) (720p)",Today's Shopping Choice (TSC) (720p)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
@@ -16720,7 +16720,7 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="VoktaTV.bd@SD" tvg-logo="" tvg-name="Vokta TV (720p)",Vokta TV (720p)
 https://vokta.raytahost.com/live/voktatv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="VolgyhidTV.hu@SD" tvg-logo="" tvg-name="Völgyhíd TV (540p)",Völgyhíd TV (540p)
+#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="VolgyhidTV.hu@SD" tvg-logo="" tvg-name="Völgyhíd TV (540p)",Völgyhíd TV (540p)
 https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Volver.ar@SD" tvg-logo="" tvg-name="Volver (480p)",Volver (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8
@@ -16804,21 +16804,21 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 https://newproxy3.vidivu.tv/waptv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="wapa.1080p" tvg-logo="" tvg-name="WAPA+ (1080p)",WAPA+ (1080p)
 https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="warner.bros.tv.say.yes.to.the.dress.720p" tvg-logo="" tvg-name="Warner Bros. TV Say Yes to the Dress (720p)",Warner Bros. TV Say Yes to the Dress (720p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="warner.bros.tv.say.yes.to.the.dress.720p" tvg-logo="" tvg-name="Warner Bros. TV Say Yes to the Dress (720p)",Warner Bros. TV Say Yes to the Dress (720p)
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="warner.bros.tv.sweet.escapes" tvg-logo="" tvg-name="Warner Bros. TV Sweet Escapes",Warner Bros. TV Sweet Escapes
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="warner.bros.tv.sweet.escapes" tvg-logo="" tvg-name="Warner Bros. TV Sweet Escapes",Warner Bros. TV Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL FHD¹",WARNER CHANNEL FHD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="warner.channel.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL FHD¹",WARNER CHANNEL FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899523
-#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL FHD²",WARNER CHANNEL FHD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="warner.channel.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL FHD²",WARNER CHANNEL FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899524
-#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL HD¹",WARNER CHANNEL HD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="warner.channel.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL HD¹",WARNER CHANNEL HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899525
-#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL HD²",WARNER CHANNEL HD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="warner.channel.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL HD²",WARNER CHANNEL HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899526
-#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL SD¹",WARNER CHANNEL SD¹
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="warner.channel.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL SD¹",WARNER CHANNEL SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899527
-#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL SD²",WARNER CHANNEL SD²
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="warner.channel.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL SD²",WARNER CHANNEL SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899528
 #EXTINF:-1 group-title="Entertainment" tvg-id="wasabi.la.chaine.anime.1080p" tvg-logo="" tvg-name="Wasabi la chaîne anime (1080p)",Wasabi la chaîne anime (1080p)
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
@@ -16865,7 +16865,7 @@ https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3
 https://live-manifest.production-public.tubi.io/live/a8250c51-f628-4936-97cb-67a931d2d7d8/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="wbtv.ghosts.are.real.720p.geo.blocked" tvg-logo="" tvg-name="WBTV Ghosts are Real (720p) [Geo-blocked]",WBTV Ghosts are Real (720p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147c920a3250/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="wbtv.hbo.boxing.1080p.geo.blocked" tvg-logo="" tvg-name="WBTV HBO Boxing (1080p) [Geo-blocked]",WBTV HBO Boxing (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="wbtv.hbo.boxing.1080p.geo.blocked" tvg-logo="" tvg-name="WBTV HBO Boxing (1080p) [Geo-blocked]",WBTV HBO Boxing (1080p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="wbtv.how.to.720p.geo.blocked" tvg-logo="" tvg-name="WBTV How To (720p) [Geo-blocked]",WBTV How To (720p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8
@@ -17155,7 +17155,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0
 #EXTINF:-1 group-title="Entertainment" tvg-id="XtremaAccion.ar@SD" tvg-logo="" tvg-name="Xtrema Accion",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="XtremaCartoons.ar@SD" tvg-logo="" tvg-name="Xtrema Cartoons",Xtrema Cartoons
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="XtremaCartoons.ar@SD" tvg-logo="" tvg-name="Xtrema Cartoons",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="XtremaTerror.ar@SD" tvg-logo="" tvg-name="Xtrema Terror",Xtrema Terror
@@ -17537,7 +17537,7 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ZBBhakti.in@HD" tvg-logo="" tvg-name="ZB Bhakti (720p)",ZB Bhakti (720p)
 https://server.zillarbarta.com/zbbhakti/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="ZBCartoon.in@HD" tvg-logo="" tvg-name="ZB Cartoon (1080p)",ZB Cartoon (1080p)
+#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="ZBCartoon.in@HD" tvg-logo="" tvg-name="ZB Cartoon (1080p)",ZB Cartoon (1080p)
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ZBCinema.in@HD" tvg-logo="" tvg-name="ZB Cinema (720p)",ZB Cinema (720p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8

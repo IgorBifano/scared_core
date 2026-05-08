@@ -16,7 +16,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 group-title="Entertainment" tvg-id="ChannelGinga.jp@SD" tvg-logo="" tvg-name="Channel Ginga (1080p)",Channel Ginga (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.jp@SD" tvg-logo="" tvg-name="Disney Channel Japan (544p)",Disney Channel Japan (544p)
+#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.jp@SD" tvg-logo="" tvg-name="Disney Channel Japan (544p)",Disney Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 group-title="Entertainment" tvg-id="Dlife.jp@SD" tvg-logo="" tvg-name="Dlife (1080p)",Dlife (1080p)
 https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
@@ -96,7 +96,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="SkyA.jp@SD" tvg-logo="" tvg-name="Sky A (544p)",Sky A (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="Entertainment" tvg-id="SpaceShowerTV.jp@SD" tvg-logo="" tvg-name="Space Shower TV (544p)",Space Shower TV (544p)
+#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="SpaceShowerTV.jp@SD" tvg-logo="" tvg-name="Space Shower TV (544p)",Space Shower TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarChannel2.jp@SD" tvg-logo="" tvg-name="Star 2 (544p)",Star 2 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27

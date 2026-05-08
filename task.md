@@ -8,125 +8,230 @@ Hoje o sistema separa arquivos fisicamente, mas os players IPTV não navegam dir
 
 O sistema precisa deixar de pensar como filesystem e passar a funcionar como catálogo IPTV real.
 
-REQUISITOS PRINCIPAIS
+========================
+ESTRUTURA PRINCIPAL
+===================
 
-1. Corrigir o arquivo principal:
+Corrigir:
 
-* output/index.m3u
 * index.m3u
+* output/index.m3u
 
-Eles DEVEM conter canais reais com URLs reais de stream.
-NÃO podem conter referências para outras playlists como:
+Eles DEVEM conter:
 
-* channels/espn.m3u
-* categories/sports.m3u
+* streams reais
+* URLs reais
+* metadata correta
+* categorias funcionais
 
-O index.m3u precisa funcionar diretamente em:
+NÃO usar:
 
-* IPTV Smarters
-* TiviMate
-* OTT Navigator
-* VLC
+* links relativos
+* subplaylists como stream
+* channels/espn.m3u dentro do index
 
-Formato esperado:
+Formato correto:
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="espn.br" tvg-logo="..." group-title="Sports",ESPN
-[https://stream.m3u8](https://stream.m3u8)
+#EXTINF:-1 tvg-id="espn.br" tvg-logo="..." group-title="Sports | ESPN",ESPN HD
+https://stream.m3u8
 
-2. Corrigir a classificação do conteúdo
+========================
+ORGANIZAÇÃO DE TV AO VIVO
+=========================
 
-Separar corretamente:
+Separar canais por:
 
-* TV ao Vivo
-* Filmes
-* Séries
+* categoria
+* emissora
+* qualidade
 
-Regras:
+Exemplos obrigatórios:
 
-LIVE TV:
+Canais Abertos:
 
-* canais lineares
-* streams contínuos
+* Globo
+* SBT
+* Record
+* Band
+* RedeTV
+
+Esportes:
+
 * ESPN
 * SporTV
-* Globo
-* Discovery
-* CNN
 * Premiere
+* Combate
+* Bandsports
+
+Filmes e séries:
+
 * HBO
-* etc
+* Telecine
+* Warner
+* Paramount
 
-MOVIES:
+Infantil:
 
-* filmes VOD
-* detectar:
-  1080p
-  BluRay
-  WEB-DL
-  Movie
-  títulos de filmes
+* Cartoon Network
+* Disney Channel
+* Nickelodeon
+* Discovery Kids
 
-SERIES:
+Documentários:
 
-* detectar:
-  S01E01
-  Season
-  Episode
-  Temporada
-  Capítulo
+* Discovery
+* History
+* National Geographic
 
-3. Corrigir o uso de group-title
+Notícias:
 
-Os players IPTV organizam tudo pelo:
+* CNN
+* GloboNews
+* Record News
+* Band News
 
-* group-title
+========================
+SEPARAÇÃO POR EMISSORA
+======================
 
-Criar grupos consistentes:
+Criar playlists específicas:
 
-TV ao Vivo:
+/output/channels/espn.m3u
+/output/channels/sportv.m3u
+/output/channels/globo.m3u
+/output/channels/hbo.m3u
+/output/channels/disney.m3u
 
-* Sports
-* News
-* Entertainment
-* Kids
-* Movies
-* Documentary
-* Regional
+Essas playlists DEVEM agrupar:
 
-Movies:
+* SD
+* HD
+* FHD
+* 4K
+* canais alternativos
+
+Exemplo:
+
+ESPN SD
+ESPN HD
+ESPN FHD
+ESPN 2
+ESPN 3
+ESPN 4
+
+SporTV SD
+SporTV HD
+SporTV 2
+SporTV 3
+
+Globo SP
+Globo RJ
+Globo MG
+Globo Nordeste
+
+========================
+SEPARAÇÃO DE FILMES
+===================
+
+Filmes NÃO podem aparecer em Live TV.
+
+Separar automaticamente por gênero:
 
 * Action
 * Comedy
 * Horror
-* Anime
 * Drama
+* Documentary
+* Anime
+* Thriller
+* Sci-Fi
+* Family
+* Kids
+* Romance
+* Launches
 
-Series:
+Criar playlists:
+
+/output/movies/action.m3u
+/output/movies/comedy.m3u
+/output/movies/launches.m3u
+
+Detectar automaticamente:
+
+* BluRay
+* WEB-DL
+* 1080p
+* 4K
+* Movie
+* MKV
+* MP4
+
+========================
+SEPARAÇÃO DE SÉRIES
+===================
+
+Separar séries corretamente.
+
+Detectar:
+
+* S01E01
+* Season
+* Episode
+* Temporada
+* Capítulo
+
+Separar por plataforma:
 
 * Netflix
-* HBO
-* Anime
-* Sitcom
-* Drama
+* Prime Video
+* HBO Max
+* Apple TV+
+* Disney+
+* Paramount+
+* Crunchyroll
 
-4. Remover identificação pessoal
+Criar playlists:
+
+/output/series/netflix.m3u
+/output/series/prime_video.m3u
+/output/series/hbo.m3u
+/output/series/anime.m3u
+
+========================
+GROUP-TITLE
+===========
+
+Os players IPTV organizam tudo via:
+
+* group-title
+
+Padronizar group-title.
+
+Exemplos:
+
+group-title="Sports | ESPN"
+group-title="Sports | SporTV"
+group-title="Open TV | Globo"
+group-title="Movies | Action"
+group-title="Series | Netflix"
+
+========================
+METADATA
+========
+
+Adicionar quando possível:
+
+* tvg-id
+* tvg-logo
+* tvg-name
+* group-title
 
 Remover completamente:
 
 * IgorBifano
 * scared_core
-
-Verificar:
-
-* #EXTM3U
-* #PLAYLIST
-* tvg-name
-* metadata
-* parser
-* README
-* outputs
 
 Substituir por:
 
@@ -134,21 +239,28 @@ Substituir por:
   ou
 * Family Media
 
-5. Melhorar heurísticas do parser
+========================
+PARSER
+======
 
 Revisar:
 
 * scripts/merge_lists.py
 * scripts/iptv_core.py
 
-O parser deve:
+Melhorar heurísticas para:
 
-* detectar live/vod/series
-* detectar categorias automaticamente
-* não misturar filmes com live TV
-* não misturar séries com canais lineares
+* live TV
+* movies
+* series
+* categories
+* quality detection
+* platform detection
+* duplicate removal
 
-6. Gerar estrutura final
+========================
+OUTPUT FINAL
+============
 
 Gerar:
 
@@ -163,9 +275,11 @@ Gerar:
 /output/categories/
 /output/countries/
 
-Todos os arquivos devem conter streams reais e funcionais.
+Todos os arquivos DEVEM conter streams reais.
 
-7. Compatibilidade
+========================
+COMPATIBILIDADE
+===============
 
 Garantir compatibilidade com:
 
@@ -175,22 +289,14 @@ Garantir compatibilidade com:
 * VLC
 * Kodi
 
-8. Validar a saída
+========================
+VALIDAÇÃO FINAL
+===============
 
 Explicar:
 
 * por que a versão anterior não funcionava
-* o que foi corrigido
-* como os players IPTV interpretam group-title
-* como o sistema agora separa conteúdo corretamente
-
-9. GitHub Pages
-
-Garantir que os arquivos gerados funcionem diretamente via:
-
-[https://igorbifano.github.io/scared_core/](https://igorbifano.github.io/scared_core/)
-
-e que:
-[https://igorbifano.github.io/scared_core/index.m3u](https://igorbifano.github.io/scared_core/index.m3u)
-
-seja a playlist principal utilizável diretamente nos players IPTV.
+* como players IPTV interpretam group-title
+* como o parser agora classifica conteúdos
+* como live TV, movies e series foram separados
+* como emissoras específicas agora agrupam SD/HD/FHD corretamente

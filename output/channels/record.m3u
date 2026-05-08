@@ -1,0 +1,241 @@
+#EXTM3U name="Family Media"
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="am.record.manaus.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="AM - RECORD MANAUS FHD¹",AM - RECORD MANAUS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970359
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="am.record.manaus.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="AM - RECORD MANAUS FHD²",AM - RECORD MANAUS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971727
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="am.record.manaus.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="AM - RECORD MANAUS HD¹",AM - RECORD MANAUS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716583
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="am.record.manaus.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="AM - RECORD MANAUS HD²",AM - RECORD MANAUS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971707
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="am.record.manaus.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="AM - RECORD MANAUS SD¹",AM - RECORD MANAUS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970360
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="am.record.manaus.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="AM - RECORD MANAUS SD²",AM - RECORD MANAUS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971728
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ba.record.tv.itapoan.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="BA - RECORD TV ITAPOAN FHD¹",BA - RECORD TV ITAPOAN FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970350
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ba.record.tv.itapoan.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="BA - RECORD TV ITAPOAN FHD²",BA - RECORD TV ITAPOAN FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971718
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ba.record.tv.itapoan.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="BA - RECORD TV ITAPOAN HD¹",BA - RECORD TV ITAPOAN HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716589
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ba.record.tv.itapoan.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="BA - RECORD TV ITAPOAN HD²",BA - RECORD TV ITAPOAN HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971711
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ba.record.tv.itapoan.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="BA - RECORD TV ITAPOAN SD¹",BA - RECORD TV ITAPOAN SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970351
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ba.record.tv.itapoan.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="BA - RECORD TV ITAPOAN SD²",BA - RECORD TV ITAPOAN SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971719
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ce.record.tv.cidade.fortaleza.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="CE - RECORD TV CIDADE FORTALEZA FHD¹",CE - RECORD TV CIDADE FORTALEZA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970355
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ce.record.tv.cidade.fortaleza.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="CE - RECORD TV CIDADE FORTALEZA FHD²",CE - RECORD TV CIDADE FORTALEZA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971723
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ce.record.tv.cidade.fortaleza.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="CE - RECORD TV CIDADE FORTALEZA HD¹",CE - RECORD TV CIDADE FORTALEZA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970356
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ce.record.tv.cidade.fortaleza.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="CE - RECORD TV CIDADE FORTALEZA HD²",CE - RECORD TV CIDADE FORTALEZA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971724
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ce.record.tv.cidade.fortaleza.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="CE - RECORD TV CIDADE FORTALEZA SD¹",CE - RECORD TV CIDADE FORTALEZA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716595
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="ce.record.tv.cidade.fortaleza.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="CE - RECORD TV CIDADE FORTALEZA SD²",CE - RECORD TV CIDADE FORTALEZA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971716
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="es.record.vitoria.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="ES - RECORD VITORIA FHD¹",ES - RECORD VITORIA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970378
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="es.record.vitoria.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="ES - RECORD VITORIA FHD²",ES - RECORD VITORIA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971746
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="es.record.vitoria.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="ES - RECORD VITORIA HD¹",ES - RECORD VITORIA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716591
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="es.record.vitoria.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="ES - RECORD VITORIA HD²",ES - RECORD VITORIA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971713
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="es.record.vitoria.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="ES - RECORD VITORIA SD¹",ES - RECORD VITORIA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970379
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="es.record.vitoria.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="ES - RECORD VITORIA SD²",ES - RECORD VITORIA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971747
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="go.record.goias.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="GO - RECORD GOIAS FHD¹",GO - RECORD GOIAS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970357
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="go.record.goias.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="GO - RECORD GOIAS FHD²",GO - RECORD GOIAS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971725
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="go.record.goias.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="GO - RECORD GOIAS HD¹",GO - RECORD GOIAS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716582
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="go.record.goias.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="GO - RECORD GOIAS HD²",GO - RECORD GOIAS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971706
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="go.record.goias.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="GO - RECORD GOIAS SD¹",GO - RECORD GOIAS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970358
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="go.record.goias.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="GO - RECORD GOIAS SD²",GO - RECORD GOIAS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971726
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="GuinnessWorldRecords.us@SD" tvg-logo="" tvg-name="Guinness World Records (480i)",Guinness World Records (480i)
+https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.m3u8?i=475_567
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pa.record.belem.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PA - RECORD BELEM FHD¹",PA - RECORD BELEM FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970363
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pa.record.belem.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PA - RECORD BELEM FHD²",PA - RECORD BELEM FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971731
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pa.record.belem.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PA - RECORD BELEM HD¹",PA - RECORD BELEM HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970364
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pa.record.belem.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PA - RECORD BELEM HD²",PA - RECORD BELEM HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971732
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pa.record.belem.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PA - RECORD BELEM SD¹",PA - RECORD BELEM SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716584
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pa.record.belem.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PA - RECORD BELEM SD²",PA - RECORD BELEM SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971708
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pe.record.tv.guarapes.recife.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PE - RECORD TV GUARAPES RECIFE FHD¹",PE - RECORD TV GUARAPES RECIFE FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970367
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pe.record.tv.guarapes.recife.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PE - RECORD TV GUARAPES RECIFE FHD²",PE - RECORD TV GUARAPES RECIFE FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971735
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pe.record.tv.guarapes.recife.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PE - RECORD TV GUARAPES RECIFE HD¹",PE - RECORD TV GUARAPES RECIFE HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716590
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pe.record.tv.guarapes.recife.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PE - RECORD TV GUARAPES RECIFE HD²",PE - RECORD TV GUARAPES RECIFE HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971712
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pe.record.tv.guarapes.recife.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PE - RECORD TV GUARAPES RECIFE SD¹",PE - RECORD TV GUARAPES RECIFE SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970368
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pe.record.tv.guarapes.recife.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PE - RECORD TV GUARAPES RECIFE SD²",PE - RECORD TV GUARAPES RECIFE SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971736
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pluto.tv.record.news.720p" tvg-logo="" tvg-name="Pluto TV Record News (720p)",Pluto TV Record News (720p)
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pr.record.ric.tv.parana.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PR - RECORD RIC TV PARANA FHD¹",PR - RECORD RIC TV PARANA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970365
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pr.record.ric.tv.parana.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PR - RECORD RIC TV PARANA FHD²",PR - RECORD RIC TV PARANA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971733
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pr.record.ric.tv.parana.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PR - RECORD RIC TV PARANA HD¹",PR - RECORD RIC TV PARANA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970366
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pr.record.ric.tv.parana.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PR - RECORD RIC TV PARANA HD²",PR - RECORD RIC TV PARANA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971734
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pr.record.ric.tv.parana.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PR - RECORD RIC TV PARANA SD¹",PR - RECORD RIC TV PARANA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716596
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="pr.record.ric.tv.parana.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="PR - RECORD RIC TV PARANA SD²",PR - RECORD RIC TV PARANA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971717
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="Record.br@SD" tvg-logo="" tvg-name="Record (720p) [Geo-Blocked]",Record (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.brasilia.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="DF - RECORD BRASILIA FHD¹",DF - RECORD BRASILIA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970352
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.brasilia.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="DF - RECORD BRASILIA FHD²",DF - RECORD BRASILIA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971720
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.brasilia.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="DF - RECORD BRASILIA HD¹",DF - RECORD BRASILIA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716578
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.brasilia.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="DF - RECORD BRASILIA HD²",DF - RECORD BRASILIA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971703
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.brasilia.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="DF - RECORD BRASILIA SD¹",DF - RECORD BRASILIA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970353
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.brasilia.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="DF - RECORD BRASILIA SD²",DF - RECORD BRASILIA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971721
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.campinas.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD CAMPINAS FHD¹",SP - RECORD CAMPINAS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970354
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.campinas.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD CAMPINAS FHD²",SP - RECORD CAMPINAS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971722
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.campinas.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD CAMPINAS HD¹",SP - RECORD CAMPINAS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716592
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.campinas.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD CAMPINAS HD²",SP - RECORD CAMPINAS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971714
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.campinas.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD CAMPINAS SD¹",SP - RECORD CAMPINAS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716579
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.campinas.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD CAMPINAS SD²",SP - RECORD CAMPINAS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971704
+#EXTINF:-1 group-title="Regional | Record" tvg-id="record.interior.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD INTERIOR FHD¹",SP - RECORD INTERIOR FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970369
+#EXTINF:-1 group-title="Regional | Record" tvg-id="record.interior.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD INTERIOR FHD²",SP - RECORD INTERIOR FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971737
+#EXTINF:-1 group-title="Regional | Record" tvg-id="record.interior.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD INTERIOR HD¹",SP - RECORD INTERIOR HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716580
+#EXTINF:-1 group-title="Regional | Record" tvg-id="record.interior.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD INTERIOR HD²",SP - RECORD INTERIOR HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971705
+#EXTINF:-1 group-title="Regional | Record" tvg-id="record.interior.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD INTERIOR SD¹",SP - RECORD INTERIOR SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970370
+#EXTINF:-1 group-title="Regional | Record" tvg-id="record.interior.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD INTERIOR SD²",SP - RECORD INTERIOR SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971738
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.minas.gerais.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD MINAS GERAIS FHD¹",MG - RECORD MINAS GERAIS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970361
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.minas.gerais.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD MINAS GERAIS FHD²",MG - RECORD MINAS GERAIS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971729
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.minas.gerais.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD MINAS GERAIS HD¹",MG - RECORD MINAS GERAIS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716576
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.minas.gerais.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD MINAS GERAIS HD²",MG - RECORD MINAS GERAIS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971701
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.minas.gerais.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD MINAS GERAIS SD¹",MG - RECORD MINAS GERAIS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970362
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.minas.gerais.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD MINAS GERAIS SD²",MG - RECORD MINAS GERAIS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971730
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordNews.br@SD" tvg-logo="" tvg-name="Record News (720p) [Geo-blocked]",Record News (720p) [Geo-blocked]
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.fhd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS FHD¹",RECORD NEWS FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717168
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.fhd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS FHD²",RECORD NEWS FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971835
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.hd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS HD¹",RECORD NEWS HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717170
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.hd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS HD²",RECORD NEWS HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971836
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.sd1" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS SD¹",RECORD NEWS SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/717171
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.news.sd2" tvg-logo="https://assistatv.me/images/b42c43a34aa12f292e470108265ddb3b.png" tvg-name="RECORD NEWS SD²",RECORD NEWS SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971837
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.rio.de.janeiro.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RJ - RECORD RIO DE JANEIRO FHD¹",RJ - RECORD RIO DE JANEIRO FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970371
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.rio.de.janeiro.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RJ - RECORD RIO DE JANEIRO FHD²",RJ - RECORD RIO DE JANEIRO FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971739
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.rio.de.janeiro.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RJ - RECORD RIO DE JANEIRO HD¹",RJ - RECORD RIO DE JANEIRO HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716574
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.rio.de.janeiro.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RJ - RECORD RIO DE JANEIRO HD²",RJ - RECORD RIO DE JANEIRO HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971700
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.rio.de.janeiro.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RJ - RECORD RIO DE JANEIRO SD¹",RJ - RECORD RIO DE JANEIRO SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970372
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.rio.de.janeiro.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RJ - RECORD RIO DE JANEIRO SD²",RJ - RECORD RIO DE JANEIRO SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971740
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.sao.paulo.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD SAO PAULO FHD¹",SP - RECORD SAO PAULO FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716571
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.sao.paulo.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD SAO PAULO FHD²",SP - RECORD SAO PAULO FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971697
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.sao.paulo.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD SAO PAULO HD¹",SP - RECORD SAO PAULO HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716572
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.sao.paulo.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD SAO PAULO HD²",SP - RECORD SAO PAULO HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971698
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.sao.paulo.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD SAO PAULO SD¹",SP - RECORD SAO PAULO SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716573
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.sao.paulo.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SP - RECORD SAO PAULO SD²",SP - RECORD SAO PAULO SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971699
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordTVSaoPaulo.br@SD" tvg-logo="" tvg-name="Record TV SP (720p) [Geo-blocked]",Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordTVBelem.br@SD" tvg-logo="" tvg-name="Record TV Belem (720p) [Geo-blocked]",Record TV Belem (720p) [Geo-blocked]
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordTVBrasilia.br@SD" tvg-logo="" tvg-name="Record TV Brasilia (720p) [Geo-blocked]",Record TV Brasilia (720p) [Geo-blocked]
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordTVGoias.br@SD" tvg-logo="" tvg-name="Record TV Goias (720p) [Geo-blocked]",Record TV Goias (720p) [Geo-blocked]
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordTVItapoan.br@SD" tvg-logo="" tvg-name="Record TV Itapoan (720p) [Geo-blocked]",Record TV Itapoan (720p) [Geo-blocked]
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordTVRio.br@SD" tvg-logo="" tvg-name="Record TV Rio (720p) [Geo-blocked]",Record TV Rio (720p) [Geo-blocked]
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="RecordRS.br@SD" tvg-logo="" tvg-name="Record TV RS (720p) [Geo-blocked]",Record TV RS (720p) [Geo-blocked]
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.uberlandia.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD UBERLANDIA FHD¹",MG - RECORD UBERLANDIA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970376
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.uberlandia.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD UBERLANDIA FHD²",MG - RECORD UBERLANDIA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971744
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.uberlandia.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD UBERLANDIA HD¹",MG - RECORD UBERLANDIA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716594
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.uberlandia.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD UBERLANDIA HD²",MG - RECORD UBERLANDIA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971715
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.uberlandia.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD UBERLANDIA SD¹",MG - RECORD UBERLANDIA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970377
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="record.uberlandia.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="MG - RECORD UBERLANDIA SD²",MG - RECORD UBERLANDIA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971745
+#EXTINF:-1 group-title="Regional | Record" tvg-id="RecordTVInteriorSP.br@SD" tvg-logo="" tvg-name="RecordTV Interior SP",RecordTV Interior SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="rs.record.guaiba.rio.grande.do.sul.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RS - RECORD GUAÍBA RIO GRANDE DO SUL FHD¹",RS - RECORD GUAÍBA RIO GRANDE DO SUL FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970373
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="rs.record.guaiba.rio.grande.do.sul.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RS - RECORD GUAÍBA RIO GRANDE DO SUL FHD²",RS - RECORD GUAÍBA RIO GRANDE DO SUL FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971741
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="rs.record.guaiba.rio.grande.do.sul.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RS - RECORD GUAÍBA RIO GRANDE DO SUL HD¹",RS - RECORD GUAÍBA RIO GRANDE DO SUL HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716577
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="rs.record.guaiba.rio.grande.do.sul.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RS - RECORD GUAÍBA RIO GRANDE DO SUL HD²",RS - RECORD GUAÍBA RIO GRANDE DO SUL HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971702
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="rs.record.guaiba.rio.grande.do.sul.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RS - RECORD GUAÍBA RIO GRANDE DO SUL SD¹",RS - RECORD GUAÍBA RIO GRANDE DO SUL SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716585
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="rs.record.guaiba.rio.grande.do.sul.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="RS - RECORD GUAÍBA RIO GRANDE DO SUL SD²",RS - RECORD GUAÍBA RIO GRANDE DO SUL SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971709
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="sc.record.ndtv.santa.catarina.fhd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SC - RECORD NDTV SANTA CATARINA FHD¹",SC - RECORD NDTV SANTA CATARINA FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970374
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="sc.record.ndtv.santa.catarina.fhd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SC - RECORD NDTV SANTA CATARINA FHD²",SC - RECORD NDTV SANTA CATARINA FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971742
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="sc.record.ndtv.santa.catarina.hd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SC - RECORD NDTV SANTA CATARINA HD¹",SC - RECORD NDTV SANTA CATARINA HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/716586
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="sc.record.ndtv.santa.catarina.hd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SC - RECORD NDTV SANTA CATARINA HD²",SC - RECORD NDTV SANTA CATARINA HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971710
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="sc.record.ndtv.santa.catarina.sd1" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SC - RECORD NDTV SANTA CATARINA SD¹",SC - RECORD NDTV SANTA CATARINA SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/970375
+#EXTINF:-1 group-title="Open TV | Record" tvg-id="sc.record.ndtv.santa.catarina.sd2" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png" tvg-name="SC - RECORD NDTV SANTA CATARINA SD²",SC - RECORD NDTV SANTA CATARINA SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/971743

@@ -1,65 +1,65 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Kids" tvg-id="NickHDPlus.in@HD" tvg-logo="" tvg-name="Nick HD+ (1080p)",Nick HD+ (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickHDPlus.in@HD" tvg-logo="" tvg-name="Nick HD+ (1080p)",Nick HD+ (1080p)
 http://103.72.101.252:8080/live/1226.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="" tvg-name="Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="" tvg-name="Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.de@SD" tvg-logo="" tvg-name="Nick Germany (1080p) [Geo-blocked]",Nick Germany (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.de@SD" tvg-logo="" tvg-name="Nick Germany (1080p) [Geo-blocked]",Nick Germany (1080p) [Geo-blocked]
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickJr.in@SD" tvg-logo="" tvg-name="Nick Jr. (576p)",Nick Jr. (576p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickJr.in@SD" tvg-logo="" tvg-name="Nick Jr. (576p)",Nick Jr. (576p)
 http://103.72.101.252:8080/live/544.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nick.jr.club" tvg-logo="" tvg-name="Nick Jr. Club",Nick Jr. Club
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nick.jr.club" tvg-logo="" tvg-name="Nick Jr. Club",Nick Jr. Club
 https://jmp2.uk/plu-5f121460b73ac6000719fbaf.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nick.jr.club.720p" tvg-logo="" tvg-name="Nick Jr. Club (720p)",Nick Jr. Club (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nick.jr.club.720p" tvg-logo="" tvg-name="Nick Jr. Club (720p)",Nick Jr. Club (720p)
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nick.jr.pluto.tv" tvg-logo="" tvg-name="Nick Jr. Pluto TV",Nick Jr. Pluto TV
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nick.jr.pluto.tv" tvg-logo="" tvg-name="Nick Jr. Pluto TV",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nick.jr.pluto.tv.720p" tvg-logo="" tvg-name="Nick Jr. Pluto TV (720p)",Nick Jr. Pluto TV (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nick.jr.pluto.tv.720p" tvg-logo="" tvg-name="Nick Jr. Pluto TV (720p)",Nick Jr. Pluto TV (720p)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.fr@SD" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.fr@SD" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.us@East" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.us@East" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.pl@SD" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.pl@SD" tvg-logo="" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
 https://streamer.filmowo.xyz/memfs/cd3264be-9df6-43cb-91ca-364082c257eb.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.in@SD" tvg-logo="" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.in@SD" tvg-logo="" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
 http://103.72.101.252:8080/live/545.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.ee@SD" tvg-logo="" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nickelodeon.ee@SD" tvg-logo="" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
 http://195.64.140.147:10121/121
-#EXTINF:-1 group-title="Kids" tvg-id="NickelodeonAsia.sg@Indonesia" tvg-logo="" tvg-name="Nickelodeon Asia Indonesia (1080p)",Nickelodeon Asia Indonesia (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickelodeonAsia.sg@Indonesia" tvg-logo="" tvg-name="Nickelodeon Asia Indonesia (1080p)",Nickelodeon Asia Indonesia (1080p)
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.clasico.720p" tvg-logo="" tvg-name="Nickelodeon Clásico (720p)",Nickelodeon Clásico (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.clasico.720p" tvg-logo="" tvg-name="Nickelodeon Clásico (720p)",Nickelodeon Clásico (720p)
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickClassico.us@Brazil" tvg-logo="" tvg-name="Nickelodeon Clássico (720p)",Nickelodeon Clássico (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickClassico.us@Brazil" tvg-logo="" tvg-name="Nickelodeon Clássico (720p)",Nickelodeon Clássico (720p)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.classics.720p" tvg-logo="" tvg-name="Nickelodeon Classics (720p)",Nickelodeon Classics (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.classics.720p" tvg-logo="" tvg-name="Nickelodeon Classics (720p)",Nickelodeon Classics (720p)
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickenEspanol.us@SD" tvg-logo="" tvg-name="Nickelodeon en español",Nickelodeon en español
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickenEspanol.us@SD" tvg-logo="" tvg-name="Nickelodeon en español",Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickelodeonGlobal.uk@SD" tvg-logo="" tvg-name="Nickelodeon Global (576p)",Nickelodeon Global (576p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickelodeonGlobal.uk@SD" tvg-logo="" tvg-name="Nickelodeon Global (576p)",Nickelodeon Global (576p)
 http://46.149.191.217:9011/play/a018
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.icarly" tvg-logo="" tvg-name="Nickelodeon iCarly",Nickelodeon iCarly
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.icarly" tvg-logo="" tvg-name="Nickelodeon iCarly",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickelodeonJunior.fr@SD" tvg-logo="" tvg-name="Nickelodeon Junior (1080p)",Nickelodeon Junior (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickelodeonJunior.fr@SD" tvg-logo="" tvg-name="Nickelodeon Junior (1080p)",Nickelodeon Junior (1080p)
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickPlutoTV.us@US" tvg-logo="" tvg-name="Nickelodeon Pluto TV (720p)",Nickelodeon Pluto TV (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickPlutoTV.us@US" tvg-logo="" tvg-name="Nickelodeon Pluto TV (720p)",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickelodeonTeen.fr@SD" tvg-logo="" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickelodeonTeen.fr@SD" tvg-logo="" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.teen.720p" tvg-logo="" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.teen.720p" tvg-logo="" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.toons" tvg-logo="" tvg-name="Nickelodeon Toons",Nickelodeon Toons
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.toons" tvg-logo="" tvg-name="Nickelodeon Toons",Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.toons.720p" tvg-logo="" tvg-name="Nickelodeon Toons (720p)",Nickelodeon Toons (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.toons.720p" tvg-logo="" tvg-name="Nickelodeon Toons (720p)",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickOnline.br@HD" tvg-logo="" tvg-name="NickOnline (720p)",NickOnline (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickOnline.br@HD" tvg-logo="" tvg-name="NickOnline (720p)",NickOnline (720p)
 https://x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickOnlineSpongebob.br@HD" tvg-logo="" tvg-name="NickOnline Spongebob (1080p) [Not 24/7]",NickOnline Spongebob (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickOnlineSpongebob.br@HD" tvg-logo="" tvg-name="NickOnline Spongebob (1080p) [Not 24/7]",NickOnline Spongebob (1080p) [Not 24/7]
 https://spongebobnew.x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="nicktoons" tvg-logo="" tvg-name="NickToons",NickToons
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="nicktoons" tvg-logo="" tvg-name="NickToons",NickToons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.pl@SD" tvg-logo="" tvg-name="Nicktoons (1080p)",Nicktoons (1080p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="Nicktoons.pl@SD" tvg-logo="" tvg-name="Nicktoons (1080p)",Nicktoons (1080p)
 https://streamer.filmowo.xyz/memfs/a9e785bf-54f7-4a9d-be03-1ad6ace02cd3.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickToonsBrasil.br@SD" tvg-logo="" tvg-name="NickToons Brasil (480p)",NickToons Brasil (480p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickToonsBrasil.br@SD" tvg-logo="" tvg-name="NickToons Brasil (480p)",NickToons Brasil (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NickWeb.br" tvg-logo="" tvg-name="NickWeb (720p)",NickWeb (720p)
+#EXTINF:-1 group-title="Kids | Nick" tvg-id="NickWeb.br" tvg-logo="" tvg-name="NickWeb (720p)",NickWeb (720p)
 https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
