@@ -1,14 +1,27 @@
-Analise completamente o projeto IPTV atual antes de modificar qualquer coisa.
+Analise completamente o sistema IPTV atual antes de alterar qualquer arquivo.
 
-Objetivo:
-Transformar o sistema atual em uma estrutura IPTV organizada e compatível com players modernos, utilizando apenas playlists M3U funcionais via GitHub Pages.
+O objetivo agora é reorganizar TODA a estrutura IPTV para funcionar como um catálogo IPTV profissional real, compatível com:
+
+* IPTV Smarters
+* TiviMate
+* OTT Navigator
+* Kodi
+* VLC
 
 IMPORTANTE:
-Hoje o sistema separa arquivos fisicamente, mas os players IPTV não navegam diretórios GitHub como pastas. Eles dependem da metadata M3U (#EXTINF, group-title, tvg-id, tvg-logo, etc).
+Atualmente as categorias existem fisicamente, mas os conteúdos não aparecem corretamente dentro dos players IPTV.
 
-O sistema precisa deixar de pensar como filesystem e passar a funcionar como catálogo IPTV real.
+O sistema precisa:
 
-========================
+* usar corretamente group-title
+* classificar streams reais
+* gerar playlists funcionais
+* separar TV ao vivo, séries e filmes corretamente
+* garantir que os conteúdos apareçam dentro das categorias dos players
+
+O sistema NÃO deve depender de navegação de diretórios GitHub.
+
+==================================================
 ESTRUTURA PRINCIPAL
 ===================
 
@@ -17,100 +30,76 @@ Corrigir:
 * index.m3u
 * output/index.m3u
 
-Eles DEVEM conter:
+Esses arquivos DEVEM conter:
 
 * streams reais
 * URLs reais
 * metadata correta
-* categorias funcionais
+* group-title correto
 
 NÃO usar:
 
-* links relativos
-* subplaylists como stream
-* channels/espn.m3u dentro do index
+* playlists internas como stream
+* caminhos relativos como:
+  channels/espn.m3u
 
 Formato correto:
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="espn.br" tvg-logo="..." group-title="Sports | ESPN",ESPN HD
+#EXTINF:-1 tvg-id="espn.br" tvg-logo="..." group-title="TV AO VIVO | Canais ESPN",ESPN HD
 https://stream.m3u8
 
-========================
-ORGANIZAÇÃO DE TV AO VIVO
-=========================
+==================================================
+TV AO VIVO — CATEGORIAS OBRIGATÓRIAS
+====================================
 
-Separar canais por:
+Separar os canais EXATAMENTE nessas categorias:
 
-* categoria
-* emissora
-* qualidade
+* Todos
+* Canais Abertos
+* Canais Internacionais
+* Canais Documentarios
+* Canais Filmes e Series
+* Canais HBO
+* Canais Telecine
+* Canais Infantis
+* Canais Noticias
+* Canais Variedades
+* Canais Religiosos
+* Canais Premiere Clubes
+* Canais Sportv
+* Canais ESPN
+* Canais Amazon Prime
+* Canais Disney
+* Canais Paramount
+* Canais HBO MAX
+* Canais TNT
+* Canais Combate/UFC Fight
+* Canais Nba League Pass
+* Canais Apple TV
+* Canais Cazé TV
+* Canais DAZN
+* Canais GE TV
+* Canais GOAT
+* Canais Nosso Futebol
+* Canais NSPORTS
+* Canais XSPORTS
+* Canais 24h Animes
+* Canais 24h Discovery
+* Canais 24h Novelas
+* Canais 24h Infantis
+* Canais 24h Series de TV
+* Canais Adultos
 
-Exemplos obrigatórios:
-
-Canais Abertos:
-
-* Globo
-* SBT
-* Record
-* Band
-* RedeTV
-
-Esportes:
-
-* ESPN
-* SporTV
-* Premiere
-* Combate
-* Bandsports
-
-Filmes e séries:
-
-* HBO
-* Telecine
-* Warner
-* Paramount
-
-Infantil:
-
-* Cartoon Network
-* Disney Channel
-* Nickelodeon
-* Discovery Kids
-
-Documentários:
-
-* Discovery
-* History
-* National Geographic
-
-Notícias:
-
-* CNN
-* GloboNews
-* Record News
-* Band News
-
-========================
-SEPARAÇÃO POR EMISSORA
+==================================================
+REGRAS PARA TV AO VIVO
 ======================
 
-Criar playlists específicas:
-
-/output/channels/espn.m3u
-/output/channels/sportv.m3u
-/output/channels/globo.m3u
-/output/channels/hbo.m3u
-/output/channels/disney.m3u
-
-Essas playlists DEVEM agrupar:
+Agrupar automaticamente:
 
 * SD
 * HD
 * FHD
 * 4K
-* canais alternativos
 
 Exemplo:
 
@@ -121,7 +110,6 @@ ESPN 2
 ESPN 3
 ESPN 4
 
-SporTV SD
 SporTV HD
 SporTV 2
 SporTV 3
@@ -129,52 +117,65 @@ SporTV 3
 Globo SP
 Globo RJ
 Globo MG
-Globo Nordeste
 
-========================
-SEPARAÇÃO DE FILMES
-===================
+Usar:
+group-title="TV AO VIVO | Canais ESPN"
 
-Filmes NÃO podem aparecer em Live TV.
+==================================================
+SÉRIES — CATEGORIAS OBRIGATÓRIAS
+================================
 
-Separar automaticamente por gênero:
+Separar EXATAMENTE nessas categorias:
 
-* Action
-* Comedy
-* Horror
+* Todos
+* ABC
+* AMC+
+* Apple TV
+* BBC ONE
+* Brasil Paralelo
+* CW
+* Discovery +
+* Disney +
+* GloboPlay
+* HBO Max
+* Hulu
+* Lionsgate +
+* Looke
+* Netflix
+* Paramount +
+* PlayPlus
+* Amazon Prime Video
+* Starz
+* Via Play
+* Ação
+* Animação/Infantil
+* Animes
+* Aventura
+* Chicago Universe
+* Comedia
+* Crime
+* Documentários
+* Dorama
 * Drama
-* Documentary
-* Anime
-* Thriller
-* Sci-Fi
-* Family
-* Kids
+* Ficção e Fantasia
+* Faroeste
+* Guerra
+* Marvel
+* Mini Séries
+* Nacional
+* Novelas
+* Reality Shows
 * Romance
-* Launches
+* Suspense
+* Terror
+* Turcas
+* Tv Show
 
-Criar playlists:
-
-/output/movies/action.m3u
-/output/movies/comedy.m3u
-/output/movies/launches.m3u
+==================================================
+REGRAS PARA SÉRIES
+==================
 
 Detectar automaticamente:
-
-* BluRay
-* WEB-DL
-* 1080p
-* 4K
-* Movie
-* MKV
-* MP4
-
-========================
-SEPARAÇÃO DE SÉRIES
-===================
-
-Separar séries corretamente.
-
-Detectar:
 
 * S01E01
 * Season
@@ -182,42 +183,93 @@ Detectar:
 * Temporada
 * Capítulo
 
-Separar por plataforma:
+Separar:
 
-* Netflix
-* Prime Video
-* HBO Max
-* Apple TV+
-* Disney+
-* Paramount+
-* Crunchyroll
+* plataforma
+* gênero
+* coleção
 
-Criar playlists:
+Exemplo:
 
-/output/series/netflix.m3u
-/output/series/prime_video.m3u
-/output/series/hbo.m3u
-/output/series/anime.m3u
+group-title="SERIES | Netflix"
+group-title="SERIES | Dorama"
+group-title="SERIES | Marvel"
 
-========================
-GROUP-TITLE
-===========
+IMPORTANTE:
+Hoje as séries existem no sistema mas não aparecem corretamente nas categorias.
 
-Os players IPTV organizam tudo via:
+Corrigir isso.
 
-* group-title
+==================================================
+FILMES — CATEGORIAS OBRIGATÓRIAS
+================================
 
-Padronizar group-title.
+Separar EXATAMENTE nessas categorias:
 
-Exemplos:
+* Todos
+* Cinema
+* Lançamentos
+* 4K
+* Ação
+* Animação
+* Animes Filmes
+* Aventura
+* Clássicos
+* Coletânea 007
+* Coletânea Batman
+* Coletânea Bourne
+* Coletânea Jornada nas Estrelas
+* Coletânea Os Trapalhões
+* Coletânea Resident Evil
+* Coletânea Rocky
+* Coletânea Star Wars
+* Comédia Stand-up
+* Comédia
+* Comédia Romântica
+* Crime
+* Drama
+* Documentários Filmes
+* Faroeste
+* Ficção
+* Guerra
+* Infantil
+* Karaoke
+* Legendados
+* Musical
+* Nacional
+* Religiosos
+* Romance
+* Suspense
+* Terror
+* Especiais de Natal
 
-group-title="Sports | ESPN"
-group-title="Sports | SporTV"
-group-title="Open TV | Globo"
-group-title="Movies | Action"
-group-title="Series | Netflix"
+==================================================
+REGRAS PARA FILMES
+==================
 
-========================
+Detectar automaticamente:
+
+* Movie
+* BluRay
+* WEB-DL
+* 1080p
+* 4K
+* MKV
+* MP4
+
+Separar corretamente:
+
+* filmes
+* séries
+* canais live
+
+Usar:
+
+group-title="FILMES | Ação"
+group-title="FILMES | Lançamentos"
+group-title="FILMES | 4K"
+
+==================================================
 METADATA
 ========
 
@@ -239,7 +291,7 @@ Substituir por:
   ou
 * Family Media
 
-========================
+==================================================
 PARSER
 ======
 
@@ -248,17 +300,16 @@ Revisar:
 * scripts/merge_lists.py
 * scripts/iptv_core.py
 
-Melhorar heurísticas para:
+Melhorar:
 
-* live TV
-* movies
-* series
-* categories
-* quality detection
-* platform detection
-* duplicate removal
+* heurísticas
+* classificação
+* detecção de categorias
+* detecção de qualidade
+* detecção de plataforma
+* separação de conteúdo
 
-========================
+==================================================
 OUTPUT FINAL
 ============
 
@@ -267,36 +318,25 @@ Gerar:
 /index.m3u
 /output/index.m3u
 
-/output/live/index.m3u
-/output/movies/index.m3u
-/output/series/index.m3u
+/output/live/
+/output/series/
+/output/movies/
 
 /output/channels/
 /output/categories/
 /output/countries/
 
-Todos os arquivos DEVEM conter streams reais.
+Todos os arquivos devem conter streams reais funcionais.
 
-========================
-COMPATIBILIDADE
-===============
-
-Garantir compatibilidade com:
-
-* IPTV Smarters
-* TiviMate
-* OTT Navigator
-* VLC
-* Kodi
-
-========================
+==================================================
 VALIDAÇÃO FINAL
 ===============
 
 Explicar:
 
-* por que a versão anterior não funcionava
-* como players IPTV interpretam group-title
+* por que as categorias não apareciam antes
+* como os players IPTV interpretam group-title
 * como o parser agora classifica conteúdos
-* como live TV, movies e series foram separados
-* como emissoras específicas agora agrupam SD/HD/FHD corretamente
+* como live TV, séries e filmes foram separados
+* como SD/HD/FHD/4K foram agrupados
+* como as plataformas foram identificadas
