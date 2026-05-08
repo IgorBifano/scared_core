@@ -1,6 +1,6 @@
 # IPTV System
 
-Projeto pessoal para consolidar playlists IPTV locais, integrar `plus.m3u`, remover entradas inválidas e gerar saídas organizadas por país, categoria e canal.
+Catálogo `Family Media` para consolidar playlists IPTV, integrar `plus.m3u`, remover entradas inválidas e gerar saídas organizadas por tipo de conteúdo, país, categoria e canal.
 
 ## Arquitetura Atual
 
@@ -21,8 +21,10 @@ O parser agora separa explicitamente:
 - `movies`: VOD de filmes
 - `series`: episódios e catálogos seriados
 
-Saídas principais:
+Saídas principais com streams diretos:
 
+- `index.m3u`
+- `output/index.m3u`
 - `output/live/index.m3u`
 - `output/movies/index.m3u`
 - `output/series/index.m3u`
@@ -38,11 +40,13 @@ Saídas principais:
 7. Remove entradas vazias, inválidas e duplicadas
 8. Classifica live por categoria, movies por gênero e series por gênero
 9. Classifica por país e canal/rede apenas quando fizer sentido
-10. Gera `output/all_channels.m3u`, `output/index.m3u` e os recortes derivados
+10. Gera `index.m3u`, `output/index.m3u`, `output/all_channels.m3u` e os recortes derivados
 
-## Por Que O Parser Antigo Misturava Tipos
+## Por Que A Versão Anterior Não Funcionava Bem
 
-O problema principal era a ordem das decisões:
+O problema principal não era só a classificação. O `index.m3u` principal era publicado como uma playlist de referências para outros arquivos `.m3u`, e não como uma playlist com streams reais. Players IPTV tratam cada item como algo reproduzível; eles não navegam a estrutura do GitHub Pages como se fosse um diretório.
+
+Na classificação, o erro central era a ordem das decisões:
 
 - antes ele tentava inferir `category` diretamente
 - depois agrupava por nome de marca como `globo`, `disney`, `hbo`
@@ -56,7 +60,8 @@ Exemplo real:
 Agora a regra é:
 
 1. decidir se a entrada é `live`, `movie` ou `series`
-2. só então aplicar os agrupamentos específicos desse tipo
+2. reescrever `group-title` para grupos consistentes que os players entendem
+3. só então aplicar os agrupamentos específicos desse tipo
 
 ## Pontos Críticos E Gargalos
 
@@ -121,8 +126,9 @@ python scripts/merge_lists.py --help
 
 ## Saídas geradas
 
+- `index.m3u` (playlist principal com streams reais)
+- `output/index.m3u` (espelho da playlist principal)
 - `output/all_channels.m3u` (somente TV ao vivo)
-- `output/index.m3u`
 - `output/live/*.m3u`
 - `output/movies/*.m3u`
 - `output/series/*.m3u`
@@ -137,13 +143,19 @@ python scripts/merge_lists.py --help
 
 ## GitHub Pages
 
-O `index.m3u` principal é gerado com base pública padrão:
+O `index.m3u` principal é utilizável diretamente em players IPTV:
+
+```text
+https://igorbifano.github.io/scared_core/index.m3u
+```
+
+Os recortes derivados continuam publicados sob:
 
 ```text
 https://igorbifano.github.io/scared_core/output
 ```
 
-Se a URL pública mudar:
+Se a base pública dos recortes mudar:
 
 ```bash
 python scripts/merge_lists.py --base-url https://seu-dominio/output
@@ -169,5 +181,6 @@ O workflow automático está em `.github/workflows/generate-playlists.yml`.
 - A detecção de tipo, país e categoria é heurística, baseada em `name`, `group-title`, `tvg-id` e URL
 - O script prioriza entradas da `plus.m3u` em conflitos de duplicidade
 - A checagem de links offline é opcional porque pode ser lenta e depende de acesso de rede
-- Apps como TiviMate, IPTV Smarters e OTT Navigator consomem melhor os índices `output/live/index.m3u`, `output/movies/index.m3u` e `output/series/index.m3u`
+- O `group-title` é o campo usado pelos players para montar grupos como `Sports`, `News`, `Movies`, `Netflix` e `Drama`
+- Apps como TiviMate, IPTV Smarters, OTT Navigator, VLC e Kodi consomem diretamente `index.m3u`, `output/live/index.m3u`, `output/movies/index.m3u` e `output/series/index.m3u`
 - Para manter os arquivos publicados menores, os recortes `all_channels`, `countries` e `channels` agora publicam apenas conteúdo linear live

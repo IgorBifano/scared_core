@@ -1,265 +1,265 @@
-#EXTM3U
+#EXTM3U name="Family Media"
 #EXTINF:-1 group-title="Kids" tvg-id="13Kids.cl@SD" tvg-logo="" tvg-name="13 Kids (1080p)",13 Kids (1080p)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.101.dalmatas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • 101 DALMATAS",24H • 101 DALMATAS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.101.dalmatas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • 101 DALMATAS",24H • 101 DALMATAS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978079
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.3.palavrinhas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • 3 PALAVRINHAS",24H • 3 PALAVRINHAS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.3.palavrinhas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • 3 PALAVRINHAS",24H • 3 PALAVRINHAS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978080
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.a.familia.addams" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • A FAMILIA ADDAMS",24H • A FAMILIA ADDAMS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.a.familia.addams" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • A FAMILIA ADDAMS",24H • A FAMILIA ADDAMS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978081
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.a.nossa.turma" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • A NOSSA TURMA",24H • A NOSSA TURMA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.a.nossa.turma" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • A NOSSA TURMA",24H • A NOSSA TURMA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978082
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.a.pequena.sereia" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • A PEQUENA SEREIA",24H • A PEQUENA SEREIA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.a.pequena.sereia" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • A PEQUENA SEREIA",24H • A PEQUENA SEREIA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978083
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.a.vida.moderna.de.rocko" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • A VIDA MODERNA DE ROCKO",24H • A VIDA MODERNA DE ROCKO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.a.vida.moderna.de.rocko" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • A VIDA MODERNA DE ROCKO",24H • A VIDA MODERNA DE ROCKO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978084
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.aladdin" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ALADDIN",24H • ALADDIN
+#EXTINF:-1 group-title="Kids" tvg-id="24h.aladdin" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ALADDIN",24H • ALADDIN
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978085
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.animaniacs" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ANIMANIACS",24H • ANIMANIACS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.animaniacs" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ANIMANIACS",24H • ANIMANIACS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978086
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.as.aventuras.de.tintin" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • AS AVENTURAS DE TINTIN",24H • AS AVENTURAS DE TINTIN
+#EXTINF:-1 group-title="Kids" tvg-id="24h.as.aventuras.de.tintin" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • AS AVENTURAS DE TINTIN",24H • AS AVENTURAS DE TINTIN
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978087
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.as.meninas.superpoderosas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • AS MENINAS SUPERPODEROSAS",24H • AS MENINAS SUPERPODEROSAS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.as.meninas.superpoderosas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • AS MENINAS SUPERPODEROSAS",24H • AS MENINAS SUPERPODEROSAS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978088
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.baby.looney.tunes" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BABY LOONEY TUNES",24H • BABY LOONEY TUNES
+#EXTINF:-1 group-title="Kids" tvg-id="24h.baby.looney.tunes" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BABY LOONEY TUNES",24H • BABY LOONEY TUNES
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978089
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.backyardigans" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BACKYARDIGANS",24H • BACKYARDIGANS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.backyardigans" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BACKYARDIGANS",24H • BACKYARDIGANS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978090
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.batman" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BATMAN",24H • BATMAN
+#EXTINF:-1 group-title="Kids" tvg-id="24h.batman" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BATMAN",24H • BATMAN
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978091
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.bibo.pai.bob.filho" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BIBO PAI BOB FILHO",24H • BIBO PAI BOB FILHO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.bibo.pai.bob.filho" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BIBO PAI BOB FILHO",24H • BIBO PAI BOB FILHO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978092
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.bob.esponja" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BOB ESPONJA",24H • BOB ESPONJA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.bob.esponja" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BOB ESPONJA",24H • BOB ESPONJA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978093
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.bob.zoom" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BOB ZOOM",24H • BOB ZOOM
+#EXTINF:-1 group-title="Kids" tvg-id="24h.bob.zoom" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BOB ZOOM",24H • BOB ZOOM
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978094
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.buzz.lightyears" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BUZZ LIGHTYEARS",24H • BUZZ LIGHTYEARS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.buzz.lightyears" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • BUZZ LIGHTYEARS",24H • BUZZ LIGHTYEARS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978095
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.capitao.caverna" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CAPITAO CAVERNA",24H • CAPITAO CAVERNA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.capitao.caverna" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CAPITAO CAVERNA",24H • CAPITAO CAVERNA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978096
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.capitao.planeta" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CAPITAO PLANETA",24H • CAPITAO PLANETA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.capitao.planeta" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CAPITAO PLANETA",24H • CAPITAO PLANETA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978097
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.carangos.e.motocas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CARANGOS E MOTOCAS",24H • CARANGOS E MOTOCAS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.carangos.e.motocas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CARANGOS E MOTOCAS",24H • CARANGOS E MOTOCAS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978098
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.carmen.sandiego" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CARMEN SANDIEGO",24H • CARMEN SANDIEGO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.carmen.sandiego" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CARMEN SANDIEGO",24H • CARMEN SANDIEGO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978099
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.castelo.ra.tim.bum" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CASTELO RA-TIM-BUM",24H • CASTELO RA-TIM-BUM
+#EXTINF:-1 group-title="Kids" tvg-id="24h.castelo.ra.tim.bum" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CASTELO RA-TIM-BUM",24H • CASTELO RA-TIM-BUM
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978100
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.cavalo.de.fogo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CAVALO DE FOGO",24H • CAVALO DE FOGO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.cavalo.de.fogo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CAVALO DE FOGO",24H • CAVALO DE FOGO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978101
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.caverna.do.dragao" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CAVERNA DO DRAGÃO",24H • CAVERNA DO DRAGÃO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.caverna.do.dragao" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CAVERNA DO DRAGÃO",24H • CAVERNA DO DRAGÃO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978102
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.chaves.desenho.animado" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CHAVES DESENHO ANIMADO",24H • CHAVES DESENHO ANIMADO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.chaves.desenho.animado" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CHAVES DESENHO ANIMADO",24H • CHAVES DESENHO ANIMADO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978103
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.coelho.ricochete.e.blaublau" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • COELHO RICOCHETE E BLAUBLAU",24H • COELHO RICOCHETE E BLAUBLAU
+#EXTINF:-1 group-title="Kids" tvg-id="24h.coelho.ricochete.e.blaublau" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • COELHO RICOCHETE E BLAUBLAU",24H • COELHO RICOCHETE E BLAUBLAU
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978104
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.coragem.o.cao.covarde" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CORAGEM O CÃO COVARDE",24H • CORAGEM O CÃO COVARDE
+#EXTINF:-1 group-title="Kids" tvg-id="24h.coragem.o.cao.covarde" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CORAGEM O CÃO COVARDE",24H • CORAGEM O CÃO COVARDE
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978105
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.corrida.maluca" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CORRIDA MALUCA",24H • CORRIDA MALUCA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.corrida.maluca" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • CORRIDA MALUCA",24H • CORRIDA MALUCA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978106
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.danny.phantom" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DANNY PHANTOM",24H • DANNY PHANTOM
+#EXTINF:-1 group-title="Kids" tvg-id="24h.danny.phantom" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DANNY PHANTOM",24H • DANNY PHANTOM
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978107
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.denis.o.pimentinha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DENIS O PIMENTINHA",24H • DENIS O PIMENTINHA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.denis.o.pimentinha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DENIS O PIMENTINHA",24H • DENIS O PIMENTINHA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978108
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.detona.ralf" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DETONA RALF",24H • DETONA RALF
+#EXTINF:-1 group-title="Kids" tvg-id="24h.detona.ralf" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DETONA RALF",24H • DETONA RALF
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978109
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.dora.a.aventureira" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DORA A AVENTUREIRA",24H • DORA A AVENTUREIRA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.dora.a.aventureira" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DORA A AVENTUREIRA",24H • DORA A AVENTUREIRA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978110
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.doug" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DOUG",24H • DOUG
+#EXTINF:-1 group-title="Kids" tvg-id="24h.doug" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DOUG",24H • DOUG
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978111
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.du.dudu.e.edu" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DU DUDU E EDU",24H • DU DUDU E EDU
+#EXTINF:-1 group-title="Kids" tvg-id="24h.du.dudu.e.edu" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DU DUDU E EDU",24H • DU DUDU E EDU
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978112
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.ducktales" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DUCKTALES",24H • DUCKTALES
+#EXTINF:-1 group-title="Kids" tvg-id="24h.ducktales" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • DUCKTALES",24H • DUCKTALES
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978113
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.esquilo.sem.grilo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ESQUILO SEM GRILO",24H • ESQUILO SEM GRILO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.esquilo.sem.grilo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ESQUILO SEM GRILO",24H • ESQUILO SEM GRILO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978114
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.eu.sou.o.maximo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • EU SOU O MAXIMO",24H • EU SOU O MAXIMO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.eu.sou.o.maximo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • EU SOU O MAXIMO",24H • EU SOU O MAXIMO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978115
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.familia.urso" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • FAMILIA URSO",24H • FAMILIA URSO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.familia.urso" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • FAMILIA URSO",24H • FAMILIA URSO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978116
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.formiga.atomica" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • FORMIGA ATOMICA",24H • FORMIGA ATOMICA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.formiga.atomica" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • FORMIGA ATOMICA",24H • FORMIGA ATOMICA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978117
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.freakazoide" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • FREAKAZOIDE",24H • FREAKAZOIDE
+#EXTINF:-1 group-title="Kids" tvg-id="24h.freakazoide" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • FREAKAZOIDE",24H • FREAKAZOIDE
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978118
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.galinha.pintadinha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • GALINHA PINTADINHA",24H • GALINHA PINTADINHA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.galinha.pintadinha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • GALINHA PINTADINHA",24H • GALINHA PINTADINHA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978119
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.gasparzinho" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • GASPARZINHO",24H • GASPARZINHO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.gasparzinho" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • GASPARZINHO",24H • GASPARZINHO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978120
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.gato.felix" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • GATO FELIX",24H • GATO FELIX
+#EXTINF:-1 group-title="Kids" tvg-id="24h.gato.felix" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • GATO FELIX",24H • GATO FELIX
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978121
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.he.man.e.os.mestres.do.universo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HE-MAN E OS MESTRES DO UNIVERSO",24H • HE-MAN E OS MESTRES DO UNIVERSO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.he.man.e.os.mestres.do.universo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HE-MAN E OS MESTRES DO UNIVERSO",24H • HE-MAN E OS MESTRES DO UNIVERSO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978122
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.hey.arnold" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HEY ARNOLD",24H • HEY ARNOLD
+#EXTINF:-1 group-title="Kids" tvg-id="24h.hey.arnold" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HEY ARNOLD",24H • HEY ARNOLD
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978123
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.homem.aranha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HOMEM ARANHA",24H • HOMEM ARANHA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.homem.aranha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HOMEM ARANHA",24H • HOMEM ARANHA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978124
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.homem.de.ferro" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HOMEM DE FERRO",24H • HOMEM DE FERRO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.homem.de.ferro" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HOMEM DE FERRO",24H • HOMEM DE FERRO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978125
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.hotweels" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HOTWEELS",24H • HOTWEELS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.hotweels" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HOTWEELS",24H • HOTWEELS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978126
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.hulk" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HULK",24H • HULK
+#EXTINF:-1 group-title="Kids" tvg-id="24h.hulk" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • HULK",24H • HULK
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978127
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.jambo.e.ruivao" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • JAMBO E RUIVÃO",24H • JAMBO E RUIVÃO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.jambo.e.ruivao" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • JAMBO E RUIVÃO",24H • JAMBO E RUIVÃO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978128
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.joao.grandao" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • JOÃO GRANDÃO",24H • JOÃO GRANDÃO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.joao.grandao" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • JOÃO GRANDÃO",24H • JOÃO GRANDÃO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978130
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.johnny.bravo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • JOHNNY BRAVO",24H • JOHNNY BRAVO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.johnny.bravo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • JOHNNY BRAVO",24H • JOHNNY BRAVO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978129
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.karate.kid" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KARATE KID",24H • KARATE KID
+#EXTINF:-1 group-title="Kids" tvg-id="24h.karate.kid" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KARATE KID",24H • KARATE KID
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978131
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.kick.buttowski" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KICK BUTTOWSKI",24H • KICK BUTTOWSKI
+#EXTINF:-1 group-title="Kids" tvg-id="24h.kick.buttowski" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KICK BUTTOWSKI",24H • KICK BUTTOWSKI
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978132
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.knd.aturma.do.bairro" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KND - ATURMA DO BAIRRO",24H • KND - ATURMA DO BAIRRO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.knd.aturma.do.bairro" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KND - ATURMA DO BAIRRO",24H • KND - ATURMA DO BAIRRO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978133
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.leao.da.montanha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LEAO DA MONTANHA",24H • LEAO DA MONTANHA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.leao.da.montanha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LEAO DA MONTANHA",24H • LEAO DA MONTANHA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978134
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.liga.da.justica" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LIGA DA JUSTIÇA",24H • LIGA DA JUSTIÇA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.liga.da.justica" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LIGA DA JUSTIÇA",24H • LIGA DA JUSTIÇA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978135
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.lilo.stitch" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LILO & STITCH",24H • LILO & STITCH
+#EXTINF:-1 group-title="Kids" tvg-id="24h.lilo.stitch" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LILO & STITCH",24H • LILO & STITCH
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978137
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.luccas.neto" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LUCCAS NETO",24H • LUCCAS NETO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.luccas.neto" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LUCCAS NETO",24H • LUCCAS NETO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978138
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.luluzinha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LULUZINHA",24H • LULUZINHA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.luluzinha" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • LULUZINHA",24H • LULUZINHA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978139
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.maguila.o.gurila" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MAGUILA O GURILA",24H • MAGUILA O GURILA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.maguila.o.gurila" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MAGUILA O GURILA",24H • MAGUILA O GURILA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978140
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.manda.chuva" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MANDA CHUVA",24H • MANDA CHUVA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.manda.chuva" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MANDA CHUVA",24H • MANDA CHUVA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978141
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.mansao.foster.para.amigos.imaginarios" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS",24H • MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.mansao.foster.para.amigos.imaginarios" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS",24H • MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978142
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.marcelino.pao.e.vinho" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MARCELINO PÃO E VINHO",24H • MARCELINO PÃO E VINHO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.marcelino.pao.e.vinho" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MARCELINO PÃO E VINHO",24H • MARCELINO PÃO E VINHO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978143
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.masha.e.o.urso" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MASHA E O URSO",24H • MASHA E O URSO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.masha.e.o.urso" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MASHA E O URSO",24H • MASHA E O URSO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978144
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.mega.man" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MEGA MAN",24H • MEGA MAN
+#EXTINF:-1 group-title="Kids" tvg-id="24h.mega.man" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MEGA MAN",24H • MEGA MAN
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978145
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.mib.homens.de.preto" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MIB HOMENS DE PRETO",24H • MIB HOMENS DE PRETO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.mib.homens.de.preto" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MIB HOMENS DE PRETO",24H • MIB HOMENS DE PRETO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978146
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.mickey.e.donald" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MICKEY E DONALD",24H • MICKEY E DONALD
+#EXTINF:-1 group-title="Kids" tvg-id="24h.mickey.e.donald" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MICKEY E DONALD",24H • MICKEY E DONALD
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978147
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.mickey.mouse" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MICKEY MOUSE",24H • MICKEY MOUSE
+#EXTINF:-1 group-title="Kids" tvg-id="24h.mickey.mouse" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MICKEY MOUSE",24H • MICKEY MOUSE
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978148
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.miraculous.as.aventuras.de.ladybug" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MIRACULOUS: AS AVENTURAS DE LADYBUG",24H • MIRACULOUS: AS AVENTURAS DE LADYBUG
+#EXTINF:-1 group-title="Kids" tvg-id="24h.miraculous.as.aventuras.de.ladybug" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MIRACULOUS: AS AVENTURAS DE LADYBUG",24H • MIRACULOUS: AS AVENTURAS DE LADYBUG
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978149
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.monica.toy" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MONICA TOY",24H • MONICA TOY
+#EXTINF:-1 group-title="Kids" tvg-id="24h.monica.toy" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MONICA TOY",24H • MONICA TOY
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978150
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.mortal.kombat" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MORTAL KOMBAT",24H • MORTAL KOMBAT
+#EXTINF:-1 group-title="Kids" tvg-id="24h.mortal.kombat" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MORTAL KOMBAT",24H • MORTAL KOMBAT
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978151
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.mundo.bita" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MUNDO BITA",24H • MUNDO BITA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.mundo.bita" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • MUNDO BITA",24H • MUNDO BITA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978152
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.o.fantastico.mundo.de.bob" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O FANTASTICO MUNDO DE BOB",24H • O FANTASTICO MUNDO DE BOB
+#EXTINF:-1 group-title="Kids" tvg-id="24h.o.fantastico.mundo.de.bob" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O FANTASTICO MUNDO DE BOB",24H • O FANTASTICO MUNDO DE BOB
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978153
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.o.inspetor" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O INSPETOR",24H • O INSPETOR
+#EXTINF:-1 group-title="Kids" tvg-id="24h.o.inspetor" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O INSPETOR",24H • O INSPETOR
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978154
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.o.laboratorio.de.dexter" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O LABORATORIO DE DEXTER",24H • O LABORATORIO DE DEXTER
+#EXTINF:-1 group-title="Kids" tvg-id="24h.o.laboratorio.de.dexter" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O LABORATORIO DE DEXTER",24H • O LABORATORIO DE DEXTER
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978155
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.o.maskara" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O MÁSKARA",24H • O MÁSKARA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.o.maskara" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O MÁSKARA",24H • O MÁSKARA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978156
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.o.pequeno.urso" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O PEQUENO URSO",24H • O PEQUENO URSO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.o.pequeno.urso" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O PEQUENO URSO",24H • O PEQUENO URSO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978157
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.o.xodo.da.vovo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O XODÓ DA VOVÓ",24H • O XODÓ DA VOVÓ
+#EXTINF:-1 group-title="Kids" tvg-id="24h.o.xodo.da.vovo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • O XODÓ DA VOVÓ",24H • O XODÓ DA VOVÓ
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978158
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.ogli.e.as.baratas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OGLI E AS BARATAS",24H • OGLI E AS BARATAS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.ogli.e.as.baratas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OGLI E AS BARATAS",24H • OGLI E AS BARATAS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978159
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.os.3.mosqueteiros" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS 3 MOSQUETEIROS",24H • OS 3 MOSQUETEIROS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.os.3.mosqueteiros" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS 3 MOSQUETEIROS",24H • OS 3 MOSQUETEIROS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978160
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.os.caezinhos.do.canil" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS CAEZINHOS DO CANIL",24H • OS CAEZINHOS DO CANIL
+#EXTINF:-1 group-title="Kids" tvg-id="24h.os.caezinhos.do.canil" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS CAEZINHOS DO CANIL",24H • OS CAEZINHOS DO CANIL
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978161
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.os.flinstones" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS FLINSTONES",24H • OS FLINSTONES
+#EXTINF:-1 group-title="Kids" tvg-id="24h.os.flinstones" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS FLINSTONES",24H • OS FLINSTONES
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978162
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.os.jetsons" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS JETSONS",24H • OS JETSONS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.os.jetsons" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS JETSONS",24H • OS JETSONS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978163
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.os.padrinhos.magicos" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS PADRINHOS MÁGICOS",24H • OS PADRINHOS MÁGICOS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.os.padrinhos.magicos" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS PADRINHOS MÁGICOS",24H • OS PADRINHOS MÁGICOS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978164
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.os.sete.monstrinhos" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS SETE MONSTRINHOS",24H • OS SETE MONSTRINHOS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.os.sete.monstrinhos" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS SETE MONSTRINHOS",24H • OS SETE MONSTRINHOS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978165
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.os.ursinhos.gummi" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS URSINHOS GUMMI",24H • OS URSINHOS GUMMI
+#EXTINF:-1 group-title="Kids" tvg-id="24h.os.ursinhos.gummi" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS URSINHOS GUMMI",24H • OS URSINHOS GUMMI
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978166
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.os.verdadeiros.caca.fantasmas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS VERDADEIROS CAÇA FANTASMAS",24H • OS VERDADEIROS CAÇA FANTASMAS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.os.verdadeiros.caca.fantasmas" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • OS VERDADEIROS CAÇA FANTASMAS",24H • OS VERDADEIROS CAÇA FANTASMAS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978167
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.pantera.cor.de.rosa" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PANTERA COR DE ROSA",24H • PANTERA COR DE ROSA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.pantera.cor.de.rosa" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PANTERA COR DE ROSA",24H • PANTERA COR DE ROSA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978168
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.papaleguas.e.coiote" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PAPALEGUAS E COIOTE",24H • PAPALEGUAS E COIOTE
+#EXTINF:-1 group-title="Kids" tvg-id="24h.papaleguas.e.coiote" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PAPALEGUAS E COIOTE",24H • PAPALEGUAS E COIOTE
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978169
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.pepe.legal" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PEPE LEGAL",24H • PEPE LEGAL
+#EXTINF:-1 group-title="Kids" tvg-id="24h.pepe.legal" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PEPE LEGAL",24H • PEPE LEGAL
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978170
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.pernalonga" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PERNALONGA",24H • PERNALONGA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.pernalonga" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PERNALONGA",24H • PERNALONGA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978171
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.pica.pau" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PICA-PAU",24H • PICA-PAU
+#EXTINF:-1 group-title="Kids" tvg-id="24h.pica.pau" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PICA-PAU",24H • PICA-PAU
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978172
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.pingu" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PINGU",24H • PINGU
+#EXTINF:-1 group-title="Kids" tvg-id="24h.pingu" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PINGU",24H • PINGU
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978173
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.pink.e.cerebro" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PINK E CEREBRO",24H • PINK E CEREBRO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.pink.e.cerebro" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • PINK E CEREBRO",24H • PINK E CEREBRO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978174
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.pocoyo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • POCOYO",24H • POCOYO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.pocoyo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • POCOYO",24H • POCOYO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978175
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.popaye" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • POPAYE",24H • POPAYE
+#EXTINF:-1 group-title="Kids" tvg-id="24h.popaye" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • POPAYE",24H • POPAYE
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978176
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.rocket.power" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ROCKET POWER",24H • ROCKET POWER
+#EXTINF:-1 group-title="Kids" tvg-id="24h.rocket.power" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ROCKET POWER",24H • ROCKET POWER
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978177
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.sailor.moom" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SAILOR MOOM",24H • SAILOR MOOM
+#EXTINF:-1 group-title="Kids" tvg-id="24h.sailor.moom" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SAILOR MOOM",24H • SAILOR MOOM
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978178
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.samurai.x" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SAMURAI X",24H • SAMURAI X
+#EXTINF:-1 group-title="Kids" tvg-id="24h.samurai.x" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SAMURAI X",24H • SAMURAI X
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978179
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.scooby.doo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SCOOBY-DOO",24H • SCOOBY-DOO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.scooby.doo" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SCOOBY-DOO",24H • SCOOBY-DOO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978180
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.she.ra" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SHE-RA",24H • SHE-RA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.she.ra" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SHE-RA",24H • SHE-RA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978181
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.show.da.luna" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SHOW DA LUNA",24H • SHOW DA LUNA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.show.da.luna" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SHOW DA LUNA",24H • SHOW DA LUNA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978182
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.snoop.e.sua.turma" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SNOOP E SUA TURMA",24H • SNOOP E SUA TURMA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.snoop.e.sua.turma" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SNOOP E SUA TURMA",24H • SNOOP E SUA TURMA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978204
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.speed.racer" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SPEED RACER",24H • SPEED RACER
+#EXTINF:-1 group-title="Kids" tvg-id="24h.speed.racer" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SPEED RACER",24H • SPEED RACER
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978183
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.super.amigos" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SUPER AMIGOS",24H • SUPER AMIGOS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.super.amigos" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SUPER AMIGOS",24H • SUPER AMIGOS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978184
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.super.choque" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SUPER CHOQUE",24H • SUPER CHOQUE
+#EXTINF:-1 group-title="Kids" tvg-id="24h.super.choque" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SUPER CHOQUE",24H • SUPER CHOQUE
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978185
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.super.mario" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SUPER MÁRIO",24H • SUPER MÁRIO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.super.mario" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SUPER MÁRIO",24H • SUPER MÁRIO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978186
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.swat.kats" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SWAT KATS",24H • SWAT KATS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.swat.kats" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • SWAT KATS",24H • SWAT KATS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978187
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.tartaruga.tuche" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TARTARUGA TUCHE",24H • TARTARUGA TUCHE
+#EXTINF:-1 group-title="Kids" tvg-id="24h.tartaruga.tuche" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TARTARUGA TUCHE",24H • TARTARUGA TUCHE
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978188
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.tazmania" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TAZMANIA",24H • TAZMANIA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.tazmania" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TAZMANIA",24H • TAZMANIA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978189
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.thundercats" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • THUNDERCATS",24H • THUNDERCATS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.thundercats" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • THUNDERCATS",24H • THUNDERCATS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978190
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.tico.e.teco" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TICO E TECO",24H • TICO E TECO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.tico.e.teco" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TICO E TECO",24H • TICO E TECO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978191
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.timao.e.pumba" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TIMÃO E PUMBA",24H • TIMÃO E PUMBA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.timao.e.pumba" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TIMÃO E PUMBA",24H • TIMÃO E PUMBA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978203
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.tom.e.jerry" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TOM E JERRY",24H • TOM E JERRY
+#EXTINF:-1 group-title="Kids" tvg-id="24h.tom.e.jerry" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TOM E JERRY",24H • TOM E JERRY
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978192
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.transformers" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TRANSFORMERS",24H • TRANSFORMERS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.transformers" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TRANSFORMERS",24H • TRANSFORMERS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978193
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.tres.espias.demais" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TRÊS ESPIÂS DEMAIS",24H • TRÊS ESPIÂS DEMAIS
+#EXTINF:-1 group-title="Kids" tvg-id="24h.tres.espias.demais" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TRÊS ESPIÂS DEMAIS",24H • TRÊS ESPIÂS DEMAIS
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978194
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.turma.do.pateta" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TURMA DO PATETA",24H • TURMA DO PATETA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.turma.do.pateta" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TURMA DO PATETA",24H • TURMA DO PATETA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978195
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.tutubarao" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TUTUBARÃO",24H • TUTUBARÃO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.tutubarao" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TUTUBARÃO",24H • TUTUBARÃO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978196
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.tv.quack" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TV QUACK",24H • TV QUACK
+#EXTINF:-1 group-title="Kids" tvg-id="24h.tv.quack" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • TV QUACK",24H • TV QUACK
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978197
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.ursinhos.carinhoso" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • URSINHOS CARINHOSO",24H • URSINHOS CARINHOSO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.ursinhos.carinhoso" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • URSINHOS CARINHOSO",24H • URSINHOS CARINHOSO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978198
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.vaca.e.o.frango" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • VACA E O FRANGO",24H • VACA E O FRANGO
+#EXTINF:-1 group-title="Kids" tvg-id="24h.vaca.e.o.frango" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • VACA E O FRANGO",24H • VACA E O FRANGO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978199
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.wolverine" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • WOLVERINE",24H • WOLVERINE
+#EXTINF:-1 group-title="Kids" tvg-id="24h.wolverine" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • WOLVERINE",24H • WOLVERINE
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978200
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.ze.buscape" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ZÉ BUSCAPÉ",24H • ZÉ BUSCAPÉ
+#EXTINF:-1 group-title="Kids" tvg-id="24h.ze.buscape" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ZÉ BUSCAPÉ",24H • ZÉ BUSCAPÉ
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978201
-#EXTINF:-1 group-title="CANAIS • 24H INFANTIL" tvg-id="24h.ze.comeia" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ZÉ COMÉIA",24H • ZÉ COMÉIA
+#EXTINF:-1 group-title="Kids" tvg-id="24h.ze.comeia" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ZÉ COMÉIA",24H • ZÉ COMÉIA
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978202
 #EXTINF:-1 group-title="Kids" tvg-id="3ABNKids.us@SD" tvg-logo="" tvg-name="3ABN Kids Network",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="4FunKids.pl@SD" tvg-logo="" tvg-name="4 Fun Kids (576i) [[Not 24/7]]",4 Fun Kids (576i) [[Not 24/7]]
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="ShandongTVChildrensChannel.cn@SD" tvg-logo="" tvg-name="山东少儿 (406p) [Geo-blocked]",山东少儿 (406p) [Geo-blocked]
+#EXTINF:-1 group-title="Kids" tvg-id="ShandongTVChildrensChannel.cn@SD" tvg-logo="" tvg-name="山东少儿 (406p) [Geo-blocked]",山东少儿 (406p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
+#EXTINF:-1 group-title="Kids" tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" tvg-logo="" tvg-name="四川妇女儿童 (720p) [Not 24/7]",四川妇女儿童 (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kids" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" tvg-logo="" tvg-name="四川妇女儿童 (720p) [Not 24/7]",四川妇女儿童 (720p) [Not 24/7]
 http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="90.s.kids" tvg-logo="" tvg-name="90's Kids",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
@@ -286,43 +286,43 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
 #EXTINF:-1 group-title="Kids" tvg-id="cartoon.classics.1080p" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoon.network.fhd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK FHD¹",CARTOON NETWORK FHD¹
+#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.fhd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK FHD¹",CARTOON NETWORK FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721560
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoon.network.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK FHD²",CARTOON NETWORK FHD²
+#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK FHD²",CARTOON NETWORK FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721561
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoon.network.hd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK HD¹",CARTOON NETWORK HD¹
+#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.hd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK HD¹",CARTOON NETWORK HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721562
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoon.network.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK HD²",CARTOON NETWORK HD²
+#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK HD²",CARTOON NETWORK HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721563
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoon.network.sd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK SD¹",CARTOON NETWORK SD¹
+#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.sd1" tvg-logo="https://assistatv.me/images/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="CARTOON NETWORK SD¹",CARTOON NETWORK SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721564
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoon.network.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK SD²",CARTOON NETWORK SD²
+#EXTINF:-1 group-title="Kids" tvg-id="cartoon.network.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTdf/cartoonnetwork.png" tvg-name="CARTOON NETWORK SD²",CARTOON NETWORK SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721565
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoonito.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD¹",CARTOONITO FHD¹
+#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD¹",CARTOONITO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721566
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoonito.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD²",CARTOONITO FHD²
+#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO FHD²",CARTOONITO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721567
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoonito.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD¹",CARTOONITO HD¹
+#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD¹",CARTOONITO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721568
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoonito.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD²",CARTOONITO HD²
+#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO HD²",CARTOONITO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721569
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoonito.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD¹",CARTOONITO SD¹
+#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD¹",CARTOONITO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721570
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="cartoonito.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD²",CARTOONITO SD²
+#EXTINF:-1 group-title="Kids" tvg-id="cartoonito.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NTVf/cartoonito.png" tvg-name="CARTOONITO SD²",CARTOONITO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721571
 #EXTINF:-1 group-title="Kids" tvg-id="DiosTeVeKids.hn@SD" tvg-logo="" tvg-name="Dios Te Ve Kids (720p)",Dios Te Ve Kids (720p)
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="discovery.kids.fhd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD¹",DISCOVERY KIDS FHD¹
+#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.fhd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD¹",DISCOVERY KIDS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721572
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="discovery.kids.fhd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD²",DISCOVERY KIDS FHD²
+#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.fhd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD²",DISCOVERY KIDS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721573
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="discovery.kids.hd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD¹",DISCOVERY KIDS HD¹
+#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.hd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD¹",DISCOVERY KIDS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721574
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="discovery.kids.hd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD²",DISCOVERY KIDS HD²
+#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.hd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD²",DISCOVERY KIDS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721575
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="discovery.kids.sd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD¹",DISCOVERY KIDS SD¹
+#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.sd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD¹",DISCOVERY KIDS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721576
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="discovery.kids.sd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD²",DISCOVERY KIDS SD²
+#EXTINF:-1 group-title="Kids" tvg-id="discovery.kids.sd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD²",DISCOVERY KIDS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721577
 #EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.pt@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
@@ -356,33 +356,33 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="GEMKids.tr@SD" tvg-logo="" tvg-name="GEM Kids",GEM Kids
 https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 group-title="Live" tvg-id="Gloob.br@SD" tvg-logo="" tvg-name="Gloob (576p)",Gloob (576p)
+#EXTINF:-1 group-title="Kids" tvg-id="Gloob.br@SD" tvg-logo="" tvg-name="Gloob (576p)",Gloob (576p)
 http://45.235.0.78/Gloob/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloob.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB FHD¹",GLOOB FHD¹
+#EXTINF:-1 group-title="Kids" tvg-id="gloob.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB FHD¹",GLOOB FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721578
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloob.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB FHD²",GLOOB FHD²
+#EXTINF:-1 group-title="Kids" tvg-id="gloob.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB FHD²",GLOOB FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721579
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloob.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB HD¹",GLOOB HD¹
+#EXTINF:-1 group-title="Kids" tvg-id="gloob.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB HD¹",GLOOB HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721580
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloob.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB HD²",GLOOB HD²
+#EXTINF:-1 group-title="Kids" tvg-id="gloob.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB HD²",GLOOB HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721581
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloob.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB SD¹",GLOOB SD¹
+#EXTINF:-1 group-title="Kids" tvg-id="gloob.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB SD¹",GLOOB SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721582
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloob.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB SD²",GLOOB SD²
+#EXTINF:-1 group-title="Kids" tvg-id="gloob.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOB SD²",GLOOB SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721583
-#EXTINF:-1 group-title="Live" tvg-id="GloobWeb.br@SD" tvg-logo="" tvg-name="Gloob Web [Not 24/7]",Gloob Web [Not 24/7]
+#EXTINF:-1 group-title="Kids" tvg-id="GloobWeb.br@SD" tvg-logo="" tvg-name="Gloob Web [Not 24/7]",Gloob Web [Not 24/7]
 https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloobinho.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO FHD¹",GLOOBINHO FHD¹
+#EXTINF:-1 group-title="Kids" tvg-id="gloobinho.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO FHD¹",GLOOBINHO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721584
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloobinho.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO FHD²",GLOOBINHO FHD²
+#EXTINF:-1 group-title="Kids" tvg-id="gloobinho.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO FHD²",GLOOBINHO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721585
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloobinho.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO HD¹",GLOOBINHO HD¹
+#EXTINF:-1 group-title="Kids" tvg-id="gloobinho.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO HD¹",GLOOBINHO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721586
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloobinho.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO HD²",GLOOBINHO HD²
+#EXTINF:-1 group-title="Kids" tvg-id="gloobinho.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO HD²",GLOOBINHO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721587
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloobinho.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO SD¹",GLOOBINHO SD¹
+#EXTINF:-1 group-title="Kids" tvg-id="gloobinho.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO SD¹",GLOOBINHO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721588
-#EXTINF:-1 group-title="CANAIS • INFANTIS" tvg-id="gloobinho.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO SD²",GLOOBINHO SD²
+#EXTINF:-1 group-title="Kids" tvg-id="gloobinho.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzRf/gloob.png" tvg-name="GLOOBINHO SD²",GLOOBINHO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721589
 #EXTINF:-1 group-title="Kids" tvg-id="GoldenEagleCartoon.cn@SD" tvg-logo="" tvg-name="Golden Eagle Cartoon",Golden Eagle Cartoon
 http://1.24.190.98:10080/hls/51/index.m3u8

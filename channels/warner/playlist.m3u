@@ -1,91 +1,103 @@
-#EXTM3U
-#EXTINF:-1 group-title="Live" tvg-id="TNT.ru@SD" tvg-logo="" tvg-name="ТНТ",ТНТ
+#EXTM3U name="Family Media"
+#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.ru@SD" tvg-logo="" tvg-name="ТНТ",ТНТ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/23.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="TNT4.ru@SD" tvg-logo="" tvg-name="ТНТ4 (576p)",ТНТ4 (576p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="TNT4.ru@SD" tvg-logo="" tvg-name="ТНТ4 (576p)",ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="TNT4International.ru@SD" tvg-logo="" tvg-name="ТНТ4 International (576p)",ТНТ4 International (576p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="TNT4International.ru@SD" tvg-logo="" tvg-name="ТНТ4 International (576p)",ТНТ4 International (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="ARTNTV.us@SD" tvg-logo="" tvg-name="ARTN TV (1080p) [Not 24/7]",ARTN TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Entertainment" tvg-id="ARTNTV.us@SD" tvg-logo="" tvg-name="ARTN TV (1080p) [Not 24/7]",ARTN TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="ATNTelevision.co@SD" tvg-logo="" tvg-name="ATN Televisión (720p) [Not 24/7]",ATN Televisión (720p) [Not 24/7]
+#EXTINF:-1 group-title="Entertainment" tvg-id="ATNTelevision.co@SD" tvg-logo="" tvg-name="ATN Televisión (720p) [Not 24/7]",ATN Televisión (720p) [Not 24/7]
 https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="BTNTV.kr@SD" tvg-logo="" tvg-name="BTN TV (1080p)",BTN TV (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="BTNTV.kr@SD" tvg-logo="" tvg-name="BTN TV (1080p)",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="BTNTV.rw@SD" tvg-logo="" tvg-name="BTN TV (480p)",BTN TV (480p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="BTNTV.rw@SD" tvg-logo="" tvg-name="BTN TV (480p)",BTN TV (480p)
 https://tv.btnrwanda.com:3086/live/btnlive.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="CTNTVConneticut.us@SD" tvg-logo="" tvg-name="CT-N TV Conneticut (720p) [Not 24/7]",CT-N TV Conneticut (720p) [Not 24/7]
+#EXTINF:-1 group-title="Entertainment" tvg-id="CTNTVConneticut.us@SD" tvg-logo="" tvg-name="CT-N TV Conneticut (720p) [Not 24/7]",CT-N TV Conneticut (720p) [Not 24/7]
 http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="EspaceTV.gn@SD" tvg-logo="" tvg-name="Espace TV (1080p)",Espace TV (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="EspaceTV.gn@SD" tvg-logo="" tvg-name="Espace TV (1080p)",Espace TV (1080p)
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="GTNTV.ke@SD" tvg-logo="" tvg-name="GTN TV (1080p) [Not 24/7]",GTN TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Entertainment" tvg-id="GTNTV.ke@SD" tvg-logo="" tvg-name="GTN TV (1080p) [Not 24/7]",GTN TV (1080p) [Not 24/7]
 https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="TNTInternational.ru@SD" tvg-logo="" tvg-name="ТНТ International (480p)",ТНТ International (480p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="TNTInternational.ru@SD" tvg-logo="" tvg-name="ТНТ International (480p)",ТНТ International (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="jornada.nas.estrelas.deep.space.nine" tvg-logo="" tvg-name="Jornada nas Estrelas Deep Space Nine",Jornada nas Estrelas Deep Space Nine
+#EXTINF:-1 group-title="Entertainment" tvg-id="jornada.nas.estrelas.deep.space.nine" tvg-logo="" tvg-name="Jornada nas Estrelas Deep Space Nine",Jornada nas Estrelas Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="PlutoTVSpace.us@UK" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
+#EXTINF:-1 group-title="Entertainment" tvg-id="PlutoTVSpace.us@UK" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="PlutoTVSpace.us@Germany" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
+#EXTINF:-1 group-title="Entertainment" tvg-id="PlutoTVSpace.us@Germany" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
 https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="pluto.tv.space" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
+#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.space" tvg-logo="" tvg-name="Pluto TV Space",Pluto TV Space
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="SpaceLivepoweredbysen.uk@SD" tvg-logo="" tvg-name="Space Live powered by sen (1080p)",Space Live powered by sen (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="SpaceLivepoweredbysen.uk@SD" tvg-logo="" tvg-name="Space Live powered by sen (1080p)",Space Live powered by sen (1080p)
 https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Series" tvg-id="space.series.1080p" tvg-logo="" tvg-name="Space Series (1080p)",Space Series (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="space.series.1080p" tvg-logo="" tvg-name="Space Series (1080p)",Space Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="SpaceShowerTV.jp@SD" tvg-logo="" tvg-name="Space Shower TV (544p)",Space Shower TV (544p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="SpaceShowerTV.jp@SD" tvg-logo="" tvg-name="Space Shower TV (544p)",Space Shower TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="Live" tvg-id="SpaceTV.az@SD" tvg-logo="" tvg-name="Space TV",Space TV
+#EXTINF:-1 group-title="Entertainment" tvg-id="SpaceTV.az@SD" tvg-logo="" tvg-name="Space TV",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="SpacetoonArabic.ae@SD" tvg-logo="" tvg-name="Spacetoon Arabic (1080p)",Spacetoon Arabic (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="SpacetoonArabic.ae@SD" tvg-logo="" tvg-name="Spacetoon Arabic (1080p)",Spacetoon Arabic (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="star.trek.deep.space.nine" tvg-logo="" tvg-name="Star Trek: Deep Space Nine",Star Trek: Deep Space Nine
+#EXTINF:-1 group-title="Entertainment" tvg-id="star.trek.deep.space.nine" tvg-logo="" tvg-name="Star Trek: Deep Space Nine",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65a67d200c7ff50008cb131a.m3u8
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.fhd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT FHD¹",TNT FHD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.fhd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT FHD¹",TNT FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899499
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.fhd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT FHD²",TNT FHD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.fhd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT FHD²",TNT FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899500
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.hd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT HD¹",TNT HD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.hd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT HD¹",TNT HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899501
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.hd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT HD²",TNT HD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.hd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT HD²",TNT HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899502
 #EXTINF:-1 group-title="Kids" tvg-id="TNTKidsTV.ba@SD" tvg-logo="" tvg-name="TNT Kids (288p)",TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.novelas.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS FHD¹",TNT NOVELAS FHD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS FHD¹",TNT NOVELAS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899487
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.novelas.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS FHD²",TNT NOVELAS FHD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS FHD²",TNT NOVELAS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899488
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.novelas.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS HD¹",TNT NOVELAS HD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS HD¹",TNT NOVELAS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899489
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.novelas.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS HD²",TNT NOVELAS HD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS HD²",TNT NOVELAS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899490
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.novelas.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS SD¹",TNT NOVELAS SD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS SD¹",TNT NOVELAS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899491
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.novelas.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS SD²",TNT NOVELAS SD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.novelas.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MDJf/tntnovelas.png" tvg-name="TNT NOVELAS SD²",TNT NOVELAS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899492
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.sd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SD¹",TNT SD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.sd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SD¹",TNT SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899503
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.sd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SD²",TNT SD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.sd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SD²",TNT SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899504
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.series.fhd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES FHD¹",TNT SERIES FHD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.fhd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES FHD¹",TNT SERIES FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899505
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.series.fhd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES FHD²",TNT SERIES FHD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.fhd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES FHD²",TNT SERIES FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899506
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.series.hd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES HD¹",TNT SERIES HD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.hd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES HD¹",TNT SERIES HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899507
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.series.hd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES HD²",TNT SERIES HD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.hd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES HD²",TNT SERIES HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899508
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.series.sd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES SD¹",TNT SERIES SD¹
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.sd1" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES SD¹",TNT SERIES SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899509
-#EXTINF:-1 group-title="CANAIS • TNT" tvg-id="tnt.series.sd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES SD²",TNT SERIES SD²
+#EXTINF:-1 group-title="Entertainment" tvg-id="tnt.series.sd2" tvg-logo="https://assistatv.me/images/6a7ef638f3cacf258370a83d3dc741ff.png" tvg-name="TNT SERIES SD²",TNT SERIES SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/899510
-#EXTINF:-1 group-title="Live" tvg-id="TNTV.pf@SD" tvg-logo="" tvg-name="TNTV (1080p)",TNTV (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="TNTV.pf@SD" tvg-logo="" tvg-name="TNTV (1080p)",TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="warner.bros.tv.say.yes.to.the.dress.720p" tvg-logo="" tvg-name="Warner Bros. TV Say Yes to the Dress (720p)",Warner Bros. TV Say Yes to the Dress (720p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="warner.bros.tv.say.yes.to.the.dress.720p" tvg-logo="" tvg-name="Warner Bros. TV Say Yes to the Dress (720p)",Warner Bros. TV Say Yes to the Dress (720p)
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
-#EXTINF:-1 group-title="Live" tvg-id="warner.bros.tv.sweet.escapes" tvg-logo="" tvg-name="Warner Bros. TV Sweet Escapes",Warner Bros. TV Sweet Escapes
+#EXTINF:-1 group-title="Entertainment" tvg-id="warner.bros.tv.sweet.escapes" tvg-logo="" tvg-name="Warner Bros. TV Sweet Escapes",Warner Bros. TV Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.fhd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL FHD¹",WARNER CHANNEL FHD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899523
+#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL FHD²",WARNER CHANNEL FHD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899524
+#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.hd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL HD¹",WARNER CHANNEL HD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899525
+#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL HD²",WARNER CHANNEL HD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899526
+#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.sd1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL SD¹",WARNER CHANNEL SD¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899527
+#EXTINF:-1 group-title="Entertainment" tvg-id="warner.channel.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ3MDhf/warner.png" tvg-name="WARNER CHANNEL SD²",WARNER CHANNEL SD²
+http://tyzic.xyz:80/IgorBifano/bng6vizn/899528

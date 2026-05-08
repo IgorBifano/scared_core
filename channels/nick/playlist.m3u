@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U name="Family Media"
 #EXTINF:-1 group-title="Kids" tvg-id="NickHDPlus.in@HD" tvg-logo="" tvg-name="Nick HD+ (1080p)",Nick HD+ (1080p)
 http://103.72.101.252:8080/live/1226.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="" tvg-name="Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]

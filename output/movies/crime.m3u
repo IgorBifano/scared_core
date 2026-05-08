@@ -1,207 +1,205 @@
-#EXTM3U
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="a.gangue.2021" tvg-logo="https://image.tmdb.org/t/p/w780/pR6rang5RjOFjCYc1K497cY9Rlo.jpg" tvg-name="A Gangue (2021)",A Gangue (2021)
+#EXTM3U name="Family Media"
+#EXTINF:-1 group-title="Crime" tvg-id="a.gangue.2021" tvg-logo="https://image.tmdb.org/t/p/w780/pR6rang5RjOFjCYc1K497cY9Rlo.jpg" tvg-name="A Gangue (2021)",A Gangue (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/726365.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="a.mafia.dos.vampiros.2017" tvg-logo="https://image.tmdb.org/t/p/w780/1F6OYE2pkjnVoXr2otCVtBV77L6.jpg" tvg-name="A Máfia dos Vampiros (2017)",A Máfia dos Vampiros (2017)
+#EXTINF:-1 group-title="Crime" tvg-id="a.mafia.dos.vampiros.2017" tvg-logo="https://image.tmdb.org/t/p/w780/1F6OYE2pkjnVoXr2otCVtBV77L6.jpg" tvg-name="A Máfia dos Vampiros (2017)",A Máfia dos Vampiros (2017)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/728724.mp4
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="a.maquina.do.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/gmUIZkYhEL5qU8JbvnwhUiHUy8a.jpg" tvg-name="A Máquina do Crime (2023)",A Máquina do Crime (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="a.maquina.do.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/gmUIZkYhEL5qU8JbvnwhUiHUy8a.jpg" tvg-name="A Máquina do Crime (2023)",A Máquina do Crime (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/728751.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="a.menina.que.matou.os.pais.2021" tvg-logo="https://image.tmdb.org/t/p/w780/rARhJwdW2cAeh8tgdc7WZqs2nZ1.jpg" tvg-name="A Menina que Matou os Pais (2021)",A Menina que Matou os Pais (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="a.menina.que.matou.os.pais.2021" tvg-logo="https://image.tmdb.org/t/p/w780/rARhJwdW2cAeh8tgdc7WZqs2nZ1.jpg" tvg-name="A Menina que Matou os Pais (2021)",A Menina que Matou os Pais (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/728365.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="a.rede.1995" tvg-logo="https://image.tmdb.org/t/p/w780/cRb3PYrt3YvCsi9FsGpq61FeDZt.jpg" tvg-name="A Rede (1995)",A Rede (1995)
+#EXTINF:-1 group-title="Crime" tvg-id="a.rede.1995" tvg-logo="https://image.tmdb.org/t/p/w780/cRb3PYrt3YvCsi9FsGpq61FeDZt.jpg" tvg-name="A Rede (1995)",A Rede (1995)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/843428.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="acompanhante.fatal.2023" tvg-logo="https://image.tmdb.org/t/p/w780/aHLSB5y42sPjbZhMabG0NVkWtUH.jpg" tvg-name="Acompanhante Fatal (2023)",Acompanhante Fatal (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="acompanhante.fatal.2023" tvg-logo="https://image.tmdb.org/t/p/w780/aHLSB5y42sPjbZhMabG0NVkWtUH.jpg" tvg-name="Acompanhante Fatal (2023)",Acompanhante Fatal (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/952930.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="acordo.com.o.diabo.2023" tvg-logo="https://image.tmdb.org/t/p/w780/ePvoTxLtmJe2IiR7i10NuZaJFMH.jpg" tvg-name="Acordo com o Diabo (2023)",Acordo com o Diabo (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="acordo.com.o.diabo.2023" tvg-logo="https://image.tmdb.org/t/p/w780/ePvoTxLtmJe2IiR7i10NuZaJFMH.jpg" tvg-name="Acordo com o Diabo (2023)",Acordo com o Diabo (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/845339.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="amante.sob.suspeita.2018" tvg-logo="https://image.tmdb.org/t/p/w780/thRqHR0lteRnDqkU5cWIeTF8YT.jpg" tvg-name="Amante sob Suspeita (2018)",Amante sob Suspeita (2018)
+#EXTINF:-1 group-title="Crime" tvg-id="amante.sob.suspeita.2018" tvg-logo="https://image.tmdb.org/t/p/w780/thRqHR0lteRnDqkU5cWIeTF8YT.jpg" tvg-name="Amante sob Suspeita (2018)",Amante sob Suspeita (2018)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/733828.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="amor.vinganca.2023" tvg-logo="https://image.tmdb.org/t/p/w780/daMdK8wKqRyfnj6UzzFUcIkUFei.jpg" tvg-name="Amor & Vingança (2023)",Amor & Vingança (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="amor.vinganca.2023" tvg-logo="https://image.tmdb.org/t/p/w780/daMdK8wKqRyfnj6UzzFUcIkUFei.jpg" tvg-name="Amor & Vingança (2023)",Amor & Vingança (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/845190.mp4
-#EXTINF:-1 group-title="FILMES • FICÇÃO" tvg-id="animais.fantasticos.os.crimes.de.grindelwald.2018" tvg-logo="https://image.tmdb.org/t/p/w780/qXm5c31iPjGfgs3qP1d7zaKJtpa.jpg" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald (2018)",Animais Fantásticos: Os Crimes de Grindelwald (2018)
+#EXTINF:-1 group-title="Crime" tvg-id="animais.fantasticos.os.crimes.de.grindelwald.2018" tvg-logo="https://image.tmdb.org/t/p/w780/qXm5c31iPjGfgs3qP1d7zaKJtpa.jpg" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald (2018)",Animais Fantásticos: Os Crimes de Grindelwald (2018)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/735261.mp4
-#EXTINF:-1 group-title="FILMES • 4K" tvg-id="animais.fantasticos.os.crimes.de.grindelwald.4k.2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxw7AVr2Eyoy2F4uaraLJmrnfE9.jpg" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald 4K (2018)",Animais Fantásticos: Os Crimes de Grindelwald 4K (2018)
+#EXTINF:-1 group-title="Crime" tvg-id="animais.fantasticos.os.crimes.de.grindelwald.4k.2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxw7AVr2Eyoy2F4uaraLJmrnfE9.jpg" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald 4K (2018)",Animais Fantásticos: Os Crimes de Grindelwald 4K (2018)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/967369.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="as.duas.faces.de.um.crime.1996" tvg-logo="https://image.tmdb.org/t/p/w780/kVvaqP1iZXHG3dmkC8rCaC6wnNY.jpg" tvg-name="As Duas Faces de um Crime (1996)",As Duas Faces de um Crime (1996)
+#EXTINF:-1 group-title="Crime" tvg-id="as.duas.faces.de.um.crime.1996" tvg-logo="https://image.tmdb.org/t/p/w780/kVvaqP1iZXHG3dmkC8rCaC6wnNY.jpg" tvg-name="As Duas Faces de um Crime (1996)",As Duas Faces de um Crime (1996)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/951885.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="as.leis.da.fronteira.2021" tvg-logo="https://image.tmdb.org/t/p/w780/p0OP38iLcmgdz32sp7pgczdijL0.jpg" tvg-name="As Leis da Fronteira (2021)",As Leis da Fronteira (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="as.leis.da.fronteira.2021" tvg-logo="https://image.tmdb.org/t/p/w780/p0OP38iLcmgdz32sp7pgczdijL0.jpg" tvg-name="As Leis da Fronteira (2021)",As Leis da Fronteira (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/737483.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="assassinato.na.cachoeira.2016" tvg-logo="https://image.tmdb.org/t/p/w780/ft966z0d5ghxR5E6Hu5p1gvcKZX.jpg" tvg-name="Assassinato na Cachoeira (2016)",Assassinato na Cachoeira (2016)
+#EXTINF:-1 group-title="Crime" tvg-id="assassinato.na.cachoeira.2016" tvg-logo="https://image.tmdb.org/t/p/w780/ft966z0d5ghxR5E6Hu5p1gvcKZX.jpg" tvg-name="Assassinato na Cachoeira (2016)",Assassinato na Cachoeira (2016)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/738216.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="beckett.2021" tvg-logo="https://image.tmdb.org/t/p/w780/hGIxOfxsgcNS8aco8xgFlv3rYnt.jpg" tvg-name="Beckett (2021)",Beckett (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="beckett.2021" tvg-logo="https://image.tmdb.org/t/p/w780/hGIxOfxsgcNS8aco8xgFlv3rYnt.jpg" tvg-name="Beckett (2021)",Beckett (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/740842.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="cacando.assassinos.justica.feita.2022" tvg-logo="https://image.tmdb.org/t/p/w780/gUf67vDDHAaSgyRSDkRx4GJ8NuO.jpg" tvg-name="Caçando Assassinos: Justiça Feita (2022)",Caçando Assassinos: Justiça Feita (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="cacando.assassinos.justica.feita.2022" tvg-logo="https://image.tmdb.org/t/p/w780/gUf67vDDHAaSgyRSDkRx4GJ8NuO.jpg" tvg-name="Caçando Assassinos: Justiça Feita (2022)",Caçando Assassinos: Justiça Feita (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/830851.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="calculo.mortal.2002" tvg-logo="https://image.tmdb.org/t/p/w780/pGNzvmkpRtRJe1NwPYtA3vz7MKl.jpg" tvg-name="Cálculo Mortal (2002)",Cálculo Mortal (2002)
+#EXTINF:-1 group-title="Crime" tvg-id="calculo.mortal.2002" tvg-logo="https://image.tmdb.org/t/p/w780/pGNzvmkpRtRJe1NwPYtA3vz7MKl.jpg" tvg-name="Cálculo Mortal (2002)",Cálculo Mortal (2002)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/835444.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="caminho.sem.volta.2000" tvg-logo="https://image.tmdb.org/t/p/w780/meB6a3YMBqUqG3TrERLTqZJoHN3.jpg" tvg-name="Caminho sem Volta (2000)",Caminho sem Volta (2000)
+#EXTINF:-1 group-title="Crime" tvg-id="caminho.sem.volta.2000" tvg-logo="https://image.tmdb.org/t/p/w780/meB6a3YMBqUqG3TrERLTqZJoHN3.jpg" tvg-name="Caminho sem Volta (2000)",Caminho sem Volta (2000)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/823340.mp4
-#EXTINF:-1 group-title="FILMES • 2026" tvg-id="caminhos.do.crime.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg" tvg-name="Caminhos do Crime (2026)",Caminhos do Crime (2026)
+#EXTINF:-1 group-title="Crime" tvg-id="caminhos.do.crime.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg" tvg-name="Caminhos do Crime (2026)",Caminhos do Crime (2026)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/977083.mp4
-#EXTINF:-1 group-title="FILMES • 2025" tvg-id="caos.os.crimes.de.manson.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//wvM4FDKDfeUFZnf6RGOLRMzT6zf.jpg" tvg-name="Caos: Os Crimes de Manson (2025)",Caos: Os Crimes de Manson (2025)
+#EXTINF:-1 group-title="Crime" tvg-id="caos.os.crimes.de.manson.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//wvM4FDKDfeUFZnf6RGOLRMzT6zf.jpg" tvg-name="Caos: Os Crimes de Manson (2025)",Caos: Os Crimes de Manson (2025)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/843327.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="cena.do.crime.2021" tvg-logo="https://image.tmdb.org/t/p/w780/oDj3CQnDCxNOSVFgbMgydz1AtRw.jpg" tvg-name="Cena do Crime (2021)",Cena do Crime (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="cena.do.crime.2021" tvg-logo="https://image.tmdb.org/t/p/w780/oDj3CQnDCxNOSVFgbMgydz1AtRw.jpg" tvg-name="Cena do Crime (2021)",Cena do Crime (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/745194.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="chamas.da.furia.2021" tvg-logo="https://image.tmdb.org/t/p/w780/utfhJGVMXNfFqzyPfCQDTBLYi19.jpg" tvg-name="Chamas da Fúria (2021)",Chamas da Fúria (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="chamas.da.furia.2021" tvg-logo="https://image.tmdb.org/t/p/w780/utfhJGVMXNfFqzyPfCQDTBLYi19.jpg" tvg-name="Chamas da Fúria (2021)",Chamas da Fúria (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/745330.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="coisas.que.fazemos.por.dinheiro.2019" tvg-logo="https://image.tmdb.org/t/p/w780/sNcavkyxBphGESufA4mUR80AWnc.jpg" tvg-name="Coisas Que Fazemos Por Dinheiro (2019)",Coisas Que Fazemos Por Dinheiro (2019)
+#EXTINF:-1 group-title="Crime" tvg-id="coisas.que.fazemos.por.dinheiro.2019" tvg-logo="https://image.tmdb.org/t/p/w780/sNcavkyxBphGESufA4mUR80AWnc.jpg" tvg-name="Coisas Que Fazemos Por Dinheiro (2019)",Coisas Que Fazemos Por Dinheiro (2019)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/746235.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="como.me.apaixonei.por.um.gangster.2022" tvg-logo="https://image.tmdb.org/t/p/w780/y0XvEUqkLiaiwlq9XovN3p4dkKi.jpg" tvg-name="Como Me Apaixonei por um Gângster (2022)",Como Me Apaixonei por um Gângster (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="como.me.apaixonei.por.um.gangster.2022" tvg-logo="https://image.tmdb.org/t/p/w780/y0XvEUqkLiaiwlq9XovN3p4dkKi.jpg" tvg-name="Como Me Apaixonei por um Gângster (2022)",Como Me Apaixonei por um Gângster (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/746715.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="crime.na.rodovia.paraiso.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvORIgcnRclbvGQ7jtcyDqPLKju.jpg" tvg-name="Crime na Rodovia Paraíso LEG (2022)",Crime na Rodovia Paraíso LEG (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="crime.na.rodovia.paraiso.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvORIgcnRclbvGQ7jtcyDqPLKju.jpg" tvg-name="Crime na Rodovia Paraíso LEG (2022)",Crime na Rodovia Paraíso LEG (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966287.mp4
-#EXTINF:-1 group-title="FILMES • 2024" tvg-id="crime.sobre.rodas.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//uzk7I9d8fpMcL1X1HJwxBcVgqjh.jpg" tvg-name="Crime Sobre Rodas (2024)",Crime Sobre Rodas (2024)
+#EXTINF:-1 group-title="Crime" tvg-id="crime.sobre.rodas.2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//uzk7I9d8fpMcL1X1HJwxBcVgqjh.jpg" tvg-name="Crime Sobre Rodas (2024)",Crime Sobre Rodas (2024)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/974263.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="crimes.do.futuro.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swXniRkuppvEvaXYEvL9RlK5gaQ.jpg" tvg-name="Crimes do Futuro LEG (2022)",Crimes do Futuro LEG (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="crimes.do.futuro.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swXniRkuppvEvaXYEvL9RlK5gaQ.jpg" tvg-name="Crimes do Futuro LEG (2022)",Crimes do Futuro LEG (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966288.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="criminosa.do.sul.2023" tvg-logo="https://image.tmdb.org/t/p/w780/sE4H8njoZZWGwzNmW2TxUxWwDrI.jpg" tvg-name="Criminosa Do Sul (2023)",Criminosa Do Sul (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="criminosa.do.sul.2023" tvg-logo="https://image.tmdb.org/t/p/w780/sE4H8njoZZWGwzNmW2TxUxWwDrI.jpg" tvg-name="Criminosa Do Sul (2023)",Criminosa Do Sul (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/828486.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="custe.o.que.custar.2022" tvg-logo="https://image.tmdb.org/t/p/w780/3y7LbJsCbyp99A7UgoLfDQ7wmm4.jpg" tvg-name="Custe o Que Custar (2022)",Custe o Que Custar (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="custe.o.que.custar.2022" tvg-logo="https://image.tmdb.org/t/p/w780/3y7LbJsCbyp99A7UgoLfDQ7wmm4.jpg" tvg-name="Custe o Que Custar (2022)",Custe o Que Custar (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/846451.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="de.sombra.e.silencio.2023" tvg-logo="https://image.tmdb.org/t/p/w780/dOuPJKkK6ks5V435jgrANVD0OyO.jpg" tvg-name="De Sombra e Silêncio (2023)",De Sombra e Silêncio (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="de.sombra.e.silencio.2023" tvg-logo="https://image.tmdb.org/t/p/w780/dOuPJKkK6ks5V435jgrANVD0OyO.jpg" tvg-name="De Sombra e Silêncio (2023)",De Sombra e Silêncio (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/841637.mp4
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="de.volta.ao.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/jbwGX0S31kJ0y42SojjoD2pN6D7.jpg" tvg-name="De Volta ao Crime (2023)",De Volta ao Crime (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="de.volta.ao.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/jbwGX0S31kJ0y42SojjoD2pN6D7.jpg" tvg-name="De Volta ao Crime (2023)",De Volta ao Crime (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/834847.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="dia.das.bruxas.2019" tvg-logo="https://image.tmdb.org/t/p/w780/yFJ0vCbuSkzXBwg2KBueM3j1QbA.jpg" tvg-name="Dia das Bruxas (2019)",Dia das Bruxas (2019)
+#EXTINF:-1 group-title="Crime" tvg-id="dia.das.bruxas.2019" tvg-logo="https://image.tmdb.org/t/p/w780/yFJ0vCbuSkzXBwg2KBueM3j1QbA.jpg" tvg-name="Dia das Bruxas (2019)",Dia das Bruxas (2019)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/751891.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="ecos.de.um.crime.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iF37UpWeMHA31KY0QvxPtOBX0De.jpg" tvg-name="Ecos de um Crime LEG (2022)",Ecos de um Crime LEG (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="ecos.de.um.crime.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iF37UpWeMHA31KY0QvxPtOBX0De.jpg" tvg-name="Ecos de um Crime LEG (2022)",Ecos de um Crime LEG (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966338.mp4
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="em.uma.terra.muito.distante.havia.um.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/8r9yZ6cmZ6bxIhqfo69X1m9jYNJ.jpg" tvg-name="Em uma Terra Muito Distante… Havia um Crime (2023)",Em uma Terra Muito Distante… Havia um Crime (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="em.uma.terra.muito.distante.havia.um.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/8r9yZ6cmZ6bxIhqfo69X1m9jYNJ.jpg" tvg-name="Em uma Terra Muito Distante… Havia um Crime (2023)",Em uma Terra Muito Distante… Havia um Crime (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/755408.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="era.uma.vez.em.londres.2019" tvg-logo="https://image.tmdb.org/t/p/w780/8SSEYwqCYNJDjhRbXR93DNEEKWX.jpg" tvg-name="Era Uma Vez em Londres (2019)",Era Uma Vez em Londres (2019)
+#EXTINF:-1 group-title="Crime" tvg-id="era.uma.vez.em.londres.2019" tvg-logo="https://image.tmdb.org/t/p/w780/8SSEYwqCYNJDjhRbXR93DNEEKWX.jpg" tvg-name="Era Uma Vez em Londres (2019)",Era Uma Vez em Londres (2019)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/823305.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="estado.de.emergencia.2019" tvg-logo="https://image.tmdb.org/t/p/w780/r5WedEP5puK7AQMBJHDocurWJGV.jpg" tvg-name="Estado de Emergência (2019)",Estado de Emergência (2019)
+#EXTINF:-1 group-title="Crime" tvg-id="estado.de.emergencia.2019" tvg-logo="https://image.tmdb.org/t/p/w780/r5WedEP5puK7AQMBJHDocurWJGV.jpg" tvg-name="Estado de Emergência (2019)",Estado de Emergência (2019)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/757047.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="fim.da.estrada.2022" tvg-logo="https://image.tmdb.org/t/p/w780/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" tvg-name="Fim da Estrada (2022)",Fim da Estrada (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="fim.da.estrada.2022" tvg-logo="https://image.tmdb.org/t/p/w780/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" tvg-name="Fim da Estrada (2022)",Fim da Estrada (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/758929.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="forever.rich.2021" tvg-logo="https://image.tmdb.org/t/p/w780/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg" tvg-name="Forever Rich (2021)",Forever Rich (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="forever.rich.2021" tvg-logo="https://image.tmdb.org/t/p/w780/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg" tvg-name="Forever Rich (2021)",Forever Rich (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/759424.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="furia.sem.limites.2022" tvg-logo="https://image.tmdb.org/t/p/w780/ehWX8KcjL138ztz56c3Gfd00aUX.jpg" tvg-name="Fúria Sem Limites (2022)",Fúria Sem Limites (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="furia.sem.limites.2022" tvg-logo="https://image.tmdb.org/t/p/w780/ehWX8KcjL138ztz56c3Gfd00aUX.jpg" tvg-name="Fúria Sem Limites (2022)",Fúria Sem Limites (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/839702.mp4
-#EXTINF:-1 group-title="FILMES • 2025" tvg-id="hierarquia.do.crime.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//vMVnLjbHy5yxJL5Pr0dikIUmG34.jpg" tvg-name="Hierarquia do Crime (2025)",Hierarquia do Crime (2025)
+#EXTINF:-1 group-title="Crime" tvg-id="hierarquia.do.crime.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//vMVnLjbHy5yxJL5Pr0dikIUmG34.jpg" tvg-name="Hierarquia do Crime (2025)",Hierarquia do Crime (2025)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/974303.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="homens.perigosos.1997" tvg-logo="https://image.tmdb.org/t/p/w780/7sveli98dNp9ZMWIFUj4Itf5hyW.jpg" tvg-name="Homens Perigosos (1997)",Homens Perigosos (1997)
+#EXTINF:-1 group-title="Crime" tvg-id="homens.perigosos.1997" tvg-logo="https://image.tmdb.org/t/p/w780/7sveli98dNp9ZMWIFUj4Itf5hyW.jpg" tvg-name="Homens Perigosos (1997)",Homens Perigosos (1997)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/764536.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="imperdoavel.2021" tvg-logo="https://image.tmdb.org/t/p/w780/kbHo7UFYihixl5goN2Ro5Zs15Cw.jpg" tvg-name="Imperdoável (2021)",Imperdoável (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="imperdoavel.2021" tvg-logo="https://image.tmdb.org/t/p/w780/kbHo7UFYihixl5goN2Ro5Zs15Cw.jpg" tvg-name="Imperdoável (2021)",Imperdoável (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/765507.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="infiltrado.na.mafia.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//oH7yZcpWf7MddYIhs1Xvdk7NUbz.jpg" tvg-name="Infiltrado na Máfia (2023)",Infiltrado na Máfia (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="infiltrado.na.mafia.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//oH7yZcpWf7MddYIhs1Xvdk7NUbz.jpg" tvg-name="Infiltrado na Máfia (2023)",Infiltrado na Máfia (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/970415.mp4
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="johnny.clyde.parceiros.no.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/h3luJ9fz6IuqBSMuafRgkGf2nvW.jpg" tvg-name="Johnny & Clyde - Parceiros no Crime (2023)",Johnny & Clyde - Parceiros no Crime (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="johnny.clyde.parceiros.no.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/h3luJ9fz6IuqBSMuafRgkGf2nvW.jpg" tvg-name="Johnny & Clyde - Parceiros no Crime (2023)",Johnny & Clyde - Parceiros no Crime (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/838630.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="magnatas.do.crime.leg.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaeQ0Xersj2y5t1Hkqljb9i8RaU.jpg" tvg-name="Magnatas do Crime LEG (2020)",Magnatas do Crime LEG (2020)
+#EXTINF:-1 group-title="Crime" tvg-id="magnatas.do.crime.leg.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaeQ0Xersj2y5t1Hkqljb9i8RaU.jpg" tvg-name="Magnatas do Crime LEG (2020)",Magnatas do Crime LEG (2020)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966520.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="mary.kay.letourneau.faces.de.um.escandalo.2022" tvg-logo="https://image.tmdb.org/t/p/w780/sANGKAf4FTz5FxRgTqNt9HzAw7N.jpg" tvg-name="Mary Kay Letourneau: Faces de Um Escândalo (2022)",Mary Kay Letourneau: Faces de Um Escândalo (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="mary.kay.letourneau.faces.de.um.escandalo.2022" tvg-logo="https://image.tmdb.org/t/p/w780/sANGKAf4FTz5FxRgTqNt9HzAw7N.jpg" tvg-name="Mary Kay Letourneau: Faces de Um Escândalo (2022)",Mary Kay Letourneau: Faces de Um Escândalo (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/836960.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="max.payne.2008" tvg-logo="https://image.tmdb.org/t/p/w780/w1Hq5B2wXsbv7G8mA3MIWbjDpQh.jpg" tvg-name="Max Payne (2008)",Max Payne (2008)
+#EXTINF:-1 group-title="Crime" tvg-id="max.payne.2008" tvg-logo="https://image.tmdb.org/t/p/w780/w1Hq5B2wXsbv7G8mA3MIWbjDpQh.jpg" tvg-name="Max Payne (2008)",Max Payne (2008)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/836167.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="meia.noite.no.switchgrass.2021" tvg-logo="https://image.tmdb.org/t/p/w780/yMqiQycjmTVG8ocoQvJkFmHvFnD.jpg" tvg-name="Meia-Noite no Switchgrass (2021)",Meia-Noite no Switchgrass (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="meia.noite.no.switchgrass.2021" tvg-logo="https://image.tmdb.org/t/p/w780/yMqiQycjmTVG8ocoQvJkFmHvFnD.jpg" tvg-name="Meia-Noite no Switchgrass (2021)",Meia-Noite no Switchgrass (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/774960.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="meninos.nao.choram.1999" tvg-logo="https://image.tmdb.org/t/p/w780/5XtvUwIM1juiNvCsdZZXrKdAE5b.jpg" tvg-name="Meninos Não Choram (1999)",Meninos Não Choram (1999)
+#EXTINF:-1 group-title="Crime" tvg-id="meninos.nao.choram.1999" tvg-logo="https://image.tmdb.org/t/p/w780/5XtvUwIM1juiNvCsdZZXrKdAE5b.jpg" tvg-name="Meninos Não Choram (1999)",Meninos Não Choram (1999)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/775186.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="meu.policial.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yg0Lk8JuaoXoOgY6Dndeger3C6.jpg" tvg-name="Meu Policial LEG (2022)",Meu Policial LEG (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="meu.policial.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yg0Lk8JuaoXoOgY6Dndeger3C6.jpg" tvg-name="Meu Policial LEG (2022)",Meu Policial LEG (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966555.mp4
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="meus.sogros.tao.pro.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/49nATL5ugRRdz5dQdWuPuTzB8BE.jpg" tvg-name="Meus Sogros Tão pro Crime (2023)",Meus Sogros Tão pro Crime (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="meus.sogros.tao.pro.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/49nATL5ugRRdz5dQdWuPuTzB8BE.jpg" tvg-name="Meus Sogros Tão pro Crime (2023)",Meus Sogros Tão pro Crime (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/776222.mp4
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="muti.crime.e.poder.2023" tvg-logo="https://image.tmdb.org/t/p/w780/z2fgGa0B5Bk8Ak3ScaTEEnO7qCZ.jpg" tvg-name="Muti: Crime e Poder (2023)",Muti: Crime e Poder (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="muti.crime.e.poder.2023" tvg-logo="https://image.tmdb.org/t/p/w780/z2fgGa0B5Bk8Ak3ScaTEEnO7qCZ.jpg" tvg-name="Muti: Crime e Poder (2023)",Muti: Crime e Poder (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/824064.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="na.mira.dos.assassinos.2022" tvg-logo="https://image.tmdb.org/t/p/w780/68qms1WCeRagS9XX4NaPgxpSUWV.jpg" tvg-name="Na Mira dos Assassinos (2022)",Na Mira dos Assassinos (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="na.mira.dos.assassinos.2022" tvg-logo="https://image.tmdb.org/t/p/w780/68qms1WCeRagS9XX4NaPgxpSUWV.jpg" tvg-name="Na Mira dos Assassinos (2022)",Na Mira dos Assassinos (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/830127.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="nem.um.passo.em.falso.2021" tvg-logo="https://image.tmdb.org/t/p/w780/s3gOA4HILFPzjbRuj7HOC55qKDI.jpg" tvg-name="Nem um Passo em Falso (2021)",Nem um Passo em Falso (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="nem.um.passo.em.falso.2021" tvg-logo="https://image.tmdb.org/t/p/w780/s3gOA4HILFPzjbRuj7HOC55qKDI.jpg" tvg-name="Nem um Passo em Falso (2021)",Nem um Passo em Falso (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/780569.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.alfaiate.2022" tvg-logo="https://image.tmdb.org/t/p/w780/n2CUl7VOOShmsXPuOW6jGvcSu1C.jpg" tvg-name="O Alfaiate (2022)",O Alfaiate (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="o.alfaiate.2022" tvg-logo="https://image.tmdb.org/t/p/w780/n2CUl7VOOShmsXPuOW6jGvcSu1C.jpg" tvg-name="O Alfaiate (2022)",O Alfaiate (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/782785.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.clube.de.apostas.2022" tvg-logo="https://image.tmdb.org/t/p/w780/ljS9zHjqilgvqfuzcrGqrK9E8N9.jpg" tvg-name="O Clube de Apostas (2022)",O Clube de Apostas (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="o.clube.de.apostas.2022" tvg-logo="https://image.tmdb.org/t/p/w780/ljS9zHjqilgvqfuzcrGqrK9E8N9.jpg" tvg-name="O Clube de Apostas (2022)",O Clube de Apostas (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/830938.mp4
-#EXTINF:-1 group-title="FILMES • 2025" tvg-id="o.clube.do.crime.das.quintas.feiras.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//wHW4uQsPyda0jmcDmzOsM8y9BRy.jpg" tvg-name="O Clube do Crime das Quintas-Feiras (2025)",O Clube do Crime das Quintas-Feiras (2025)
+#EXTINF:-1 group-title="Crime" tvg-id="o.clube.do.crime.das.quintas.feiras.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//wHW4uQsPyda0jmcDmzOsM8y9BRy.jpg" tvg-name="O Clube do Crime das Quintas-Feiras (2025)",O Clube do Crime das Quintas-Feiras (2025)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/924035.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.corvo.2012" tvg-logo="https://image.tmdb.org/t/p/w780/zSkpQYyDPt6vgKYJEutPV4bmhNX.jpg" tvg-name="O Corvo (2012)",O Corvo (2012)
+#EXTINF:-1 group-title="Crime" tvg-id="o.corvo.2012" tvg-logo="https://image.tmdb.org/t/p/w780/zSkpQYyDPt6vgKYJEutPV4bmhNX.jpg" tvg-name="O Corvo (2012)",O Corvo (2012)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/835327.mp4
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="o.crime.nao.tira.ferias.2023" tvg-logo="https://image.tmdb.org/t/p/w780/uRusSJ8Fu1vy9tgACbvGeo9AUQd.jpg" tvg-name="O Crime Não Tira Férias (2023)",O Crime Não Tira Férias (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="o.crime.nao.tira.ferias.2023" tvg-logo="https://image.tmdb.org/t/p/w780/uRusSJ8Fu1vy9tgACbvGeo9AUQd.jpg" tvg-name="O Crime Não Tira Férias (2023)",O Crime Não Tira Férias (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/837624.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.enigma.da.medusa.2019" tvg-logo="https://image.tmdb.org/t/p/w780/78CwLdaNRPc5Jv9IWyMoajn5nbI.jpg" tvg-name="O Enigma da Medusa (2019)",O Enigma da Medusa (2019)
+#EXTINF:-1 group-title="Crime" tvg-id="o.enigma.da.medusa.2019" tvg-logo="https://image.tmdb.org/t/p/w780/78CwLdaNRPc5Jv9IWyMoajn5nbI.jpg" tvg-name="O Enigma da Medusa (2019)",O Enigma da Medusa (2019)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/785630.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.fim.da.lealdade.2023" tvg-logo="https://image.tmdb.org/t/p/w780/sy1r4ABRjNrk6Xsp2hPnfhDPM7.jpg" tvg-name="O Fim da Lealdade (2023)",O Fim da Lealdade (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="o.fim.da.lealdade.2023" tvg-logo="https://image.tmdb.org/t/p/w780/sy1r4ABRjNrk6Xsp2hPnfhDPM7.jpg" tvg-name="O Fim da Lealdade (2023)",O Fim da Lealdade (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/843585.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.gangster.nomade.2021" tvg-logo="https://image.tmdb.org/t/p/w780/goLoLNagbnWpPQh4YQE9R2hSLqj.jpg" tvg-name="O Gângster Nômade (2021)",O Gângster Nômade (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="o.gangster.nomade.2021" tvg-logo="https://image.tmdb.org/t/p/w780/goLoLNagbnWpPQh4YQE9R2hSLqj.jpg" tvg-name="O Gângster Nômade (2021)",O Gângster Nômade (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/787093.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.grande.diabolico.2021" tvg-logo="https://image.tmdb.org/t/p/w780/5p91BQTOezgAevOw2wXnseCZ0iM.jpg" tvg-name="O Grande Diabólico (2021)",O Grande Diabólico (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="o.grande.diabolico.2021" tvg-logo="https://image.tmdb.org/t/p/w780/5p91BQTOezgAevOw2wXnseCZ0iM.jpg" tvg-name="O Grande Diabólico (2021)",O Grande Diabólico (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/786736.mp4
-#EXTINF:-1 group-title="FILMES • 2025" tvg-id="o.grande.roubo.do.louvre.o.crime.minuto.a.minuto.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//4QEnN1Sw3Rae7RMDxRCjT48jJFa.jpg" tvg-name="O Grande Roubo do Louvre: O Crime Minuto a Minuto (2025)",O Grande Roubo do Louvre: O Crime Minuto a Minuto (2025)
+#EXTINF:-1 group-title="Crime" tvg-id="o.grande.roubo.do.louvre.o.crime.minuto.a.minuto.2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//4QEnN1Sw3Rae7RMDxRCjT48jJFa.jpg" tvg-name="O Grande Roubo do Louvre: O Crime Minuto a Minuto (2025)",O Grande Roubo do Louvre: O Crime Minuto a Minuto (2025)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972228.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.homem.sem.medo.2022" tvg-logo="https://image.tmdb.org/t/p/w780/jILHhjChpQgKwMMPxKEhK1YzDnx.jpg" tvg-name="O Homem Sem Medo (2022)",O Homem Sem Medo (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="o.homem.sem.medo.2022" tvg-logo="https://image.tmdb.org/t/p/w780/jILHhjChpQgKwMMPxKEhK1YzDnx.jpg" tvg-name="O Homem Sem Medo (2022)",O Homem Sem Medo (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/840251.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.intruso.2014" tvg-logo="https://image.tmdb.org/t/p/w780/5AEwkBgS00k2nAZ2UfbIVtOFpsF.jpg" tvg-name="O Intruso (2014)",O Intruso (2014)
+#EXTINF:-1 group-title="Crime" tvg-id="o.intruso.2014" tvg-logo="https://image.tmdb.org/t/p/w780/5AEwkBgS00k2nAZ2UfbIVtOFpsF.jpg" tvg-name="O Intruso (2014)",O Intruso (2014)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/833149.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.maior.roubo.de.arte.da.historia.2023" tvg-logo="https://image.tmdb.org/t/p/w780/mlLiUFxmOHlbmIhPtLdABMYOhLA.jpg" tvg-name="O Maior Roubo de Arte da História (2023)",O Maior Roubo de Arte da História (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="o.maior.roubo.de.arte.da.historia.2023" tvg-logo="https://image.tmdb.org/t/p/w780/mlLiUFxmOHlbmIhPtLdABMYOhLA.jpg" tvg-name="O Maior Roubo de Arte da História (2023)",O Maior Roubo de Arte da História (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/845649.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.menino.que.matou.meus.pais.2021" tvg-logo="https://image.tmdb.org/t/p/w780/rZDEY4IztUVky6hEjGFfqKE4hiu.jpg" tvg-name="O Menino Que Matou Meus Pais (2021)",O Menino Que Matou Meus Pais (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="o.menino.que.matou.meus.pais.2021" tvg-logo="https://image.tmdb.org/t/p/w780/rZDEY4IztUVky6hEjGFfqKE4hiu.jpg" tvg-name="O Menino Que Matou Meus Pais (2021)",O Menino Que Matou Meus Pais (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/789065.mp4
-#EXTINF:-1 group-title="FILMES • 2024" tvg-id="o.mestre.do.crime.2024" tvg-logo="https://image.tmdb.org/t/p/w780/mkxECqhal1sRGHIWzKoJyHfGiOK.jpg" tvg-name="O Mestre do Crime (2024)",O Mestre do Crime (2024)
+#EXTINF:-1 group-title="Crime" tvg-id="o.mestre.do.crime.2024" tvg-logo="https://image.tmdb.org/t/p/w780/mkxECqhal1sRGHIWzKoJyHfGiOK.jpg" tvg-name="O Mestre do Crime (2024)",O Mestre do Crime (2024)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/947591.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.profissional.1994" tvg-logo="https://image.tmdb.org/t/p/w780/qgco9a59jPKOzwNN99s2mUYRgig.jpg" tvg-name="O Profissional (1994)",O Profissional (1994)
+#EXTINF:-1 group-title="Crime" tvg-id="o.profissional.1994" tvg-logo="https://image.tmdb.org/t/p/w780/qgco9a59jPKOzwNN99s2mUYRgig.jpg" tvg-name="O Profissional (1994)",O Profissional (1994)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/790875.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.rei.do.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/1m18uBBXzlwv0sVXAVE2tWe9rsb.jpg" tvg-name="O Rei do Crime (2023)",O Rei do Crime (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="o.rei.do.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/1m18uBBXzlwv0sVXAVE2tWe9rsb.jpg" tvg-name="O Rei do Crime (2023)",O Rei do Crime (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/836882.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="o.vigilante.mascarado.2016" tvg-logo="https://image.tmdb.org/t/p/w780/pi6vhBfckUQutfqIDweu1qlKGc3.jpg" tvg-name="O Vigilante Mascarado (2016)",O Vigilante Mascarado (2016)
+#EXTINF:-1 group-title="Crime" tvg-id="o.vigilante.mascarado.2016" tvg-logo="https://image.tmdb.org/t/p/w780/pi6vhBfckUQutfqIDweu1qlKGc3.jpg" tvg-name="O Vigilante Mascarado (2016)",O Vigilante Mascarado (2016)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/902903.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="obcecada.2020" tvg-logo="https://image.tmdb.org/t/p/w780/oQoHoVNJZAHKpUabMjiIvyFLahN.jpg" tvg-name="Obcecada (2020)",Obcecada (2020)
+#EXTINF:-1 group-title="Crime" tvg-id="obcecada.2020" tvg-logo="https://image.tmdb.org/t/p/w780/oQoHoVNJZAHKpUabMjiIvyFLahN.jpg" tvg-name="Obcecada (2020)",Obcecada (2020)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/831285.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="oliver.grafite.2021" tvg-logo="https://image.tmdb.org/t/p/w780/h3oT6lZcYC2khtZnzHBgqthj5W.jpg" tvg-name="Oliver Grafite (2021)",Oliver Grafite (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="oliver.grafite.2021" tvg-logo="https://image.tmdb.org/t/p/w780/h3oT6lZcYC2khtZnzHBgqthj5W.jpg" tvg-name="Oliver Grafite (2021)",Oliver Grafite (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/794032.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="onda.de.crimes.leg.2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrpG1ZbnRNHJOgVReoREb6u3nzA.jpg" tvg-name="Onda de Crimes LEG (2018)",Onda de Crimes LEG (2018)
+#EXTINF:-1 group-title="Crime" tvg-id="onda.de.crimes.leg.2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrpG1ZbnRNHJOgVReoREb6u3nzA.jpg" tvg-name="Onda de Crimes LEG (2018)",Onda de Crimes LEG (2018)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/966760.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="os.conflitos.na.irlanda.2022" tvg-logo="https://image.tmdb.org/t/p/w780/j5cddOCZYWqHdIxKaZ3z44Ckst6.jpg" tvg-name="Os Conflitos na Irlanda (2022)",Os Conflitos na Irlanda (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="os.conflitos.na.irlanda.2022" tvg-logo="https://image.tmdb.org/t/p/w780/j5cddOCZYWqHdIxKaZ3z44Ckst6.jpg" tvg-name="Os Conflitos na Irlanda (2022)",Os Conflitos na Irlanda (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/846813.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="os.muitos.santos.de.newark.uma.historia.soprano.2021" tvg-logo="https://image.tmdb.org/t/p/w780/jq9ycHFxR2z8D7sa8yZQFvc0Tw4.jpg" tvg-name="Os Muitos Santos de Newark: Uma História Soprano (2021)",Os Muitos Santos de Newark: Uma História Soprano (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="os.muitos.santos.de.newark.uma.historia.soprano.2021" tvg-logo="https://image.tmdb.org/t/p/w780/jq9ycHFxR2z8D7sa8yZQFvc0Tw4.jpg" tvg-name="Os Muitos Santos de Newark: Uma História Soprano (2021)",Os Muitos Santos de Newark: Uma História Soprano (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/795903.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="panico.1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//cJj2gYzkPFSqYGGOhfLgeANlXkB.jpg" tvg-name="Pânico (1996)",Pânico (1996)
+#EXTINF:-1 group-title="Crime" tvg-id="panico.1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//cJj2gYzkPFSqYGGOhfLgeANlXkB.jpg" tvg-name="Pânico (1996)",Pânico (1996)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/979930.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="pastoral.americana.2016" tvg-logo="https://image.tmdb.org/t/p/w780/nK2lA3LPPqkuetlMTqYZJ8P2fb3.jpg" tvg-name="Pastoral Americana (2016)",Pastoral Americana (2016)
+#EXTINF:-1 group-title="Crime" tvg-id="pastoral.americana.2016" tvg-logo="https://image.tmdb.org/t/p/w780/nK2lA3LPPqkuetlMTqYZJ8P2fb3.jpg" tvg-name="Pastoral Americana (2016)",Pastoral Americana (2016)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/833460.mp4
-#EXTINF:-1 group-title="Movies" tvg-id="PlutoTVCrimeMovies.us@SD" tvg-logo="" tvg-name="Pluto TV Crime Movies",Pluto TV Crime Movies
-https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
-#EXTINF:-1 group-title="FILMES • 2024" tvg-id="poder.policial.2024" tvg-logo="https://image.tmdb.org/t/p/w780/5nYbyTa3w8Ijid53exglHX25A3x.jpg" tvg-name="Poder Policial (2024)",Poder Policial (2024)
+#EXTINF:-1 group-title="Crime" tvg-id="poder.policial.2024" tvg-logo="https://image.tmdb.org/t/p/w780/5nYbyTa3w8Ijid53exglHX25A3x.jpg" tvg-name="Poder Policial (2024)",Poder Policial (2024)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/830473.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="propriedade.2023" tvg-logo="https://image.tmdb.org/t/p/w780/KDsQ9LEJTRUXwbgFQQ5YPSE5m1.jpg" tvg-name="Propriedade (2023)",Propriedade (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="propriedade.2023" tvg-logo="https://image.tmdb.org/t/p/w780/KDsQ9LEJTRUXwbgFQQ5YPSE5m1.jpg" tvg-name="Propriedade (2023)",Propriedade (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/828615.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="rastos.de.sangue.2022" tvg-logo="https://image.tmdb.org/t/p/w780/yHwi0rNp3tCJp4Nd30fed8k6vC.jpg" tvg-name="Rastos de Sangue (2022)",Rastos de Sangue (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="rastos.de.sangue.2022" tvg-logo="https://image.tmdb.org/t/p/w780/yHwi0rNp3tCJp4Nd30fed8k6vC.jpg" tvg-name="Rastos de Sangue (2022)",Rastos de Sangue (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/803378.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="ray.donovan.o.filme.2022" tvg-logo="https://image.tmdb.org/t/p/w780/5sw1EvOeXMGRZGWr18R4EiZs036.jpg" tvg-name="Ray Donovan: O Filme (2022)",Ray Donovan: O Filme (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="ray.donovan.o.filme.2022" tvg-logo="https://image.tmdb.org/t/p/w780/5sw1EvOeXMGRZGWr18R4EiZs036.jpg" tvg-name="Ray Donovan: O Filme (2022)",Ray Donovan: O Filme (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/803454.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="retorno.2022" tvg-logo="https://image.tmdb.org/t/p/w780/8Eh0SF6tEBNiaAP2pNTj9kMLDH8.jpg" tvg-name="Retorno (2022)",Retorno (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="retorno.2022" tvg-logo="https://image.tmdb.org/t/p/w780/8Eh0SF6tEBNiaAP2pNTj9kMLDH8.jpg" tvg-name="Retorno (2022)",Retorno (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/804478.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="segredos.ocultos.2020" tvg-logo="https://image.tmdb.org/t/p/w780/9hTbHoUtdFKvmlnNEUxiDqMGSmx.jpg" tvg-name="Segredos Ocultos (2020)",Segredos Ocultos (2020)
+#EXTINF:-1 group-title="Crime" tvg-id="segredos.ocultos.2020" tvg-logo="https://image.tmdb.org/t/p/w780/9hTbHoUtdFKvmlnNEUxiDqMGSmx.jpg" tvg-name="Segredos Ocultos (2020)",Segredos Ocultos (2020)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/806407.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="seguranca.maxima.2022" tvg-logo="https://image.tmdb.org/t/p/w780/y7Wq8boLNOqlFhGGIhzV2YtZ4ki.jpg" tvg-name="Segurança Máxima (2022)",Segurança Máxima (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="seguranca.maxima.2022" tvg-logo="https://image.tmdb.org/t/p/w780/y7Wq8boLNOqlFhGGIhzV2YtZ4ki.jpg" tvg-name="Segurança Máxima (2022)",Segurança Máxima (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/827758.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="sequestro.inocencia.roubada.2021" tvg-logo="https://image.tmdb.org/t/p/w780/tzVpukXgB0BwLu1Rr14o9q1495p.jpg" tvg-name="Sequestro: Inocência Roubada (2021)",Sequestro: Inocência Roubada (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="sequestro.inocencia.roubada.2021" tvg-logo="https://image.tmdb.org/t/p/w780/tzVpukXgB0BwLu1Rr14o9q1495p.jpg" tvg-name="Sequestro: Inocência Roubada (2021)",Sequestro: Inocência Roubada (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/824312.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="silk.road.mercado.clandestino.2021" tvg-logo="https://image.tmdb.org/t/p/w780/9kE67ohQbiisTOf5jmDvRAzqXF2.jpg" tvg-name="Silk Road - Mercado Clandestino (2021)",Silk Road - Mercado Clandestino (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="silk.road.mercado.clandestino.2021" tvg-logo="https://image.tmdb.org/t/p/w780/9kE67ohQbiisTOf5jmDvRAzqXF2.jpg" tvg-name="Silk Road - Mercado Clandestino (2021)",Silk Road - Mercado Clandestino (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/808016.mp4
-#EXTINF:-1 group-title="FILMES • 2023" tvg-id="sombras.de.um.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg" tvg-name="Sombras de um Crime (2023)",Sombras de um Crime (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="sombras.de.um.crime.2023" tvg-logo="https://image.tmdb.org/t/p/w780/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg" tvg-name="Sombras de um Crime (2023)",Sombras de um Crime (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/808938.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="suriname.2020" tvg-logo="https://image.tmdb.org/t/p/w780/mAUc29CvwbDHOcyLJI4Bpai1jvG.jpg" tvg-name="Suriname (2020)",Suriname (2020)
+#EXTINF:-1 group-title="Crime" tvg-id="suriname.2020" tvg-logo="https://image.tmdb.org/t/p/w780/mAUc29CvwbDHOcyLJI4Bpai1jvG.jpg" tvg-name="Suriname (2020)",Suriname (2020)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/810368.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="the.batman.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg" tvg-name="The Batman (2022)",The Batman (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="the.batman.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg" tvg-name="The Batman (2022)",The Batman (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/965913.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="torturada.pelo.proprio.pai.2021" tvg-logo="https://image.tmdb.org/t/p/w780/ctoPyY37P0jlaEaA7Vd5VhwiI1k.jpg" tvg-name="Torturada Pelo Próprio Pai (2021)",Torturada Pelo Próprio Pai (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="torturada.pelo.proprio.pai.2021" tvg-logo="https://image.tmdb.org/t/p/w780/ctoPyY37P0jlaEaA7Vd5VhwiI1k.jpg" tvg-name="Torturada Pelo Próprio Pai (2021)",Torturada Pelo Próprio Pai (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/813999.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="um.alibi.2022" tvg-logo="https://image.tmdb.org/t/p/w780/wei2WoPJka60ITevLP9f73guSNn.jpg" tvg-name="Um Álibi (2022)",Um Álibi (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="um.alibi.2022" tvg-logo="https://image.tmdb.org/t/p/w780/wei2WoPJka60ITevLP9f73guSNn.jpg" tvg-name="Um Álibi (2022)",Um Álibi (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/847186.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="um.bom.dia.para.morrer.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//poO7GhNqMwMGv42AAnYLmj7oI9Q.jpg" tvg-name="Um Bom Dia Para Morrer (2023)",Um Bom Dia Para Morrer (2023)
+#EXTINF:-1 group-title="Crime" tvg-id="um.bom.dia.para.morrer.2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//poO7GhNqMwMGv42AAnYLmj7oI9Q.jpg" tvg-name="Um Bom Dia Para Morrer (2023)",Um Bom Dia Para Morrer (2023)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/972258.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="um.crime.americano.2007" tvg-logo="https://image.tmdb.org/t/p/w780/vJx8tA2JtEQeEg6wR3uwEgf18hv.jpg" tvg-name="Um Crime Americano (2007)",Um Crime Americano (2007)
+#EXTINF:-1 group-title="Crime" tvg-id="um.crime.americano.2007" tvg-logo="https://image.tmdb.org/t/p/w780/vJx8tA2JtEQeEg6wR3uwEgf18hv.jpg" tvg-name="Um Crime Americano (2007)",Um Crime Americano (2007)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/842881.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="um.crime.argentino.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wbDGd8VkQQGb3m9sMxEpZ0w4sw.jpg" tvg-name="Um Crime Argentino LEG (2022)",Um Crime Argentino LEG (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="um.crime.argentino.leg.2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wbDGd8VkQQGb3m9sMxEpZ0w4sw.jpg" tvg-name="Um Crime Argentino LEG (2022)",Um Crime Argentino LEG (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/967029.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="um.plano.brilhante.2007" tvg-logo="https://image.tmdb.org/t/p/w780/eDMGDQ8MHoOPn5V159Fx1RTKRdQ.jpg" tvg-name="Um Plano Brilhante (2007)",Um Plano Brilhante (2007)
+#EXTINF:-1 group-title="Crime" tvg-id="um.plano.brilhante.2007" tvg-logo="https://image.tmdb.org/t/p/w780/eDMGDQ8MHoOPn5V159Fx1RTKRdQ.jpg" tvg-name="Um Plano Brilhante (2007)",Um Plano Brilhante (2007)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/825699.mp4
-#EXTINF:-1 group-title="FILMES • CLÁSSICOS" tvg-id="um.policial.acima.da.lei.1988" tvg-logo="https://image.tmdb.org/t/p/w780/nrgpYz4cl9DHDzzAoNq0RYJktiY.jpg" tvg-name="Um Policial Acima da Lei (1988)",Um Policial Acima da Lei (1988)
+#EXTINF:-1 group-title="Crime" tvg-id="um.policial.acima.da.lei.1988" tvg-logo="https://image.tmdb.org/t/p/w780/nrgpYz4cl9DHDzzAoNq0RYJktiY.jpg" tvg-name="Um Policial Acima da Lei (1988)",Um Policial Acima da Lei (1988)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/817304.mp4
-#EXTINF:-1 group-title="FILMES • LEGENDADOS" tvg-id="uma.noite.de.crime.a.fronteira.leg.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwOKKFvB7TojwnHA2QsRxXTazhr.jpg" tvg-name="Uma Noite de Crime: A Fronteira LEG (2021)",Uma Noite de Crime: A Fronteira LEG (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="uma.noite.de.crime.a.fronteira.leg.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwOKKFvB7TojwnHA2QsRxXTazhr.jpg" tvg-name="Uma Noite de Crime: A Fronteira LEG (2021)",Uma Noite de Crime: A Fronteira LEG (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/967056.mp4
-#EXTINF:-1 group-title="FILMES • 2026" tvg-id="untold.crime.em.hawthorne.hill.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//xXTvSUjdwxXU096CsnAoxa0uYpW.jpg" tvg-name="Untold: Crime em Hawthorne Hill (2026)",Untold: Crime em Hawthorne Hill (2026)
+#EXTINF:-1 group-title="Crime" tvg-id="untold.crime.em.hawthorne.hill.2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//xXTvSUjdwxXU096CsnAoxa0uYpW.jpg" tvg-name="Untold: Crime em Hawthorne Hill (2026)",Untold: Crime em Hawthorne Hill (2026)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/979237.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="veja.por.mim.2022" tvg-logo="https://image.tmdb.org/t/p/w780/ijxnaxOqWLQPHlwEqUSR9XEXDwG.jpg" tvg-name="Veja por Mim (2022)",Veja por Mim (2022)
+#EXTINF:-1 group-title="Crime" tvg-id="veja.por.mim.2022" tvg-logo="https://image.tmdb.org/t/p/w780/ijxnaxOqWLQPHlwEqUSR9XEXDwG.jpg" tvg-name="Veja por Mim (2022)",Veja por Mim (2022)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/836506.mp4
-#EXTINF:-1 group-title="FILMES • CRIME" tvg-id="vinganca.em.dobro.2021" tvg-logo="https://image.tmdb.org/t/p/w780/e2p9E20sU6uBldcZto7CYS6PzJe.jpg" tvg-name="Vingança em Dobro (2021)",Vingança em Dobro (2021)
+#EXTINF:-1 group-title="Crime" tvg-id="vinganca.em.dobro.2021" tvg-logo="https://image.tmdb.org/t/p/w780/e2p9E20sU6uBldcZto7CYS6PzJe.jpg" tvg-name="Vingança em Dobro (2021)",Vingança em Dobro (2021)
 http://tyzic.xyz:80/movie/IgorBifano/bng6vizn/820851.mp4
