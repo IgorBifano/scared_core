@@ -1,139 +1,139 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="MatchBoets.ru@SD" tvg-logo="" tvg-name="МАТЧ! Боец (576p)",МАТЧ! Боец (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="MatchBoets.ru@SD" tvg-logo="" tvg-name="МАТЧ! Боец (576p)",МАТЧ! Боец (576p)
 http://31.148.48.15/Match_Boec/index.m3u8
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.fhd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 FHD¹",HBO 2 FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.2.fhd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 FHD¹",HBO 2 FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717441
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 FHD²",HBO 2 FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.2.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 FHD²",HBO 2 FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717465
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.hd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 HD¹",HBO 2 HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.2.hd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 HD¹",HBO 2 HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717442
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 HD²",HBO 2 HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.2.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 HD²",HBO 2 HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717466
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.sd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 SD¹",HBO 2 SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.2.sd1" tvg-logo="https://assistatv.me/images/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2 SD¹",HBO 2 SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717443
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.2.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 SD²",HBO 2 SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.2.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" tvg-name="HBO 2 SD²",HBO 2 SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717467
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.fhd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY FHD¹",HBO FAMILY FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.family.fhd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY FHD¹",HBO FAMILY FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717444
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY FHD²",HBO FAMILY FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.family.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY FHD²",HBO FAMILY FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717468
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.hd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY HD¹",HBO FAMILY HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.family.hd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY HD¹",HBO FAMILY HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717445
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY HD²",HBO FAMILY HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.family.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY HD²",HBO FAMILY HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717469
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.sd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY SD¹",HBO FAMILY SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.family.sd1" tvg-logo="https://assistatv.me/images/ece50108e63dc7ec5c30a96084512d3a.png" tvg-name="HBO FAMILY SD¹",HBO FAMILY SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717446
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.family.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY SD²",HBO FAMILY SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.family.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" tvg-name="HBO FAMILY SD²",HBO FAMILY SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717470
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.fhd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO FHD¹",HBO FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.fhd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO FHD¹",HBO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717438
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO FHD²",HBO FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO FHD²",HBO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717462
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.hd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO HD¹",HBO HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.hd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO HD¹",HBO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717439
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO HD²",HBO HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO HD²",HBO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717463
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.11" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 1¹",HBO MAX 1¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.11" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 1¹",HBO MAX 1¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464661
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.21" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 2¹",HBO MAX 2¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.21" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 2¹",HBO MAX 2¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464663
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.31" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 3¹",HBO MAX 3¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.31" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 3¹",HBO MAX 3¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464665
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.41" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 4¹",HBO MAX 4¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.41" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX 4¹",HBO MAX 4¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464667
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.51" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 5¹",HBO MAX 5¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.51" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 5¹",HBO MAX 5¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464669
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.61" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 6¹",HBO MAX 6¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.61" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 6¹",HBO MAX 6¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464670
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.71" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 7¹",HBO MAX 7¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.71" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 7¹",HBO MAX 7¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464671
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.81" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 8¹",HBO MAX 8¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.81" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX 8¹",HBO MAX 8¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464672
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.12" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 1²",HBO MAX EXTRA 1²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.extra.12" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 1²",HBO MAX EXTRA 1²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464662
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.22" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 2²",HBO MAX EXTRA 2²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.extra.22" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 2²",HBO MAX EXTRA 2²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464664
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.32" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 3²",HBO MAX EXTRA 3²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.extra.32" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 3²",HBO MAX EXTRA 3²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464666
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.42" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 4²",HBO MAX EXTRA 4²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.extra.42" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 4²",HBO MAX EXTRA 4²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464668
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.52" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 5²",HBO MAX EXTRA 5²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.extra.52" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 5²",HBO MAX EXTRA 5²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464673
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.62" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 6²",HBO MAX EXTRA 6²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.extra.62" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 6²",HBO MAX EXTRA 6²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464674
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.72" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 7²",HBO MAX EXTRA 7²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.extra.72" tvg-logo="https://od.lk/s/NzdfNTg2NDIwODZf/max.png" tvg-name="HBO MAX EXTRA 7²",HBO MAX EXTRA 7²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464660
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.max.extra.82" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX EXTRA 8²",HBO MAX EXTRA 8²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="hbo.max.extra.82" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="HBO MAX EXTRA 8²",HBO MAX EXTRA 8²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/972048
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.fhd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI FHD¹",HBO MUNDI FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.mundi.fhd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI FHD¹",HBO MUNDI FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717447
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI FHD²",HBO MUNDI FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.mundi.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI FHD²",HBO MUNDI FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717471
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.hd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI HD¹",HBO MUNDI HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.mundi.hd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI HD¹",HBO MUNDI HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717448
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI HD²",HBO MUNDI HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.mundi.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI HD²",HBO MUNDI HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717472
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.sd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI SD¹",HBO MUNDI SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.mundi.sd1" tvg-logo="https://assistatv.me/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" tvg-name="HBO MUNDI SD¹",HBO MUNDI SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717449
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.mundi.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI SD²",HBO MUNDI SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.mundi.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" tvg-name="HBO MUNDI SD²",HBO MUNDI SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717473
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.fhd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS FHD¹",HBO PLUS FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.plus.fhd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS FHD¹",HBO PLUS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717450
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.fhd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS FHD²",HBO PLUS FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.plus.fhd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS FHD²",HBO PLUS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717474
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.hd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS HD¹",HBO PLUS HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.plus.hd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS HD¹",HBO PLUS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717451
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.hd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS HD²",HBO PLUS HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.plus.hd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS HD²",HBO PLUS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717475
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.sd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS SD¹",HBO PLUS SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.plus.sd1" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS SD¹",HBO PLUS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717452
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.plus.sd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS SD²",HBO PLUS SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.plus.sd2" tvg-logo="https://assistatv.me/images/20bf67665416242e54de08f0616b0aec.png" tvg-name="HBO PLUS SD²",HBO PLUS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717476
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.fhd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP FHD¹",HBO POP FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.pop.fhd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP FHD¹",HBO POP FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717453
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP FHD²",HBO POP FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.pop.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP FHD²",HBO POP FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717477
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.hd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP HD¹",HBO POP HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.pop.hd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP HD¹",HBO POP HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717454
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP HD²",HBO POP HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.pop.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP HD²",HBO POP HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717478
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.sd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP SD¹",HBO POP SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.pop.sd1" tvg-logo="https://assistatv.me/images/53f758a55138eb58adedf440c681e94f.png" tvg-name="HBO POP SD¹",HBO POP SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717455
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.pop.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP SD²",HBO POP SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.pop.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" tvg-name="HBO POP SD²",HBO POP SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717479
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.sd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO SD¹",HBO SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.sd1" tvg-logo="https://assistatv.me/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO SD¹",HBO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717440
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO SD²",HBO SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" tvg-name="HBO SD²",HBO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717464
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.fhd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE FHD¹",HBO SIGNATURE FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.signature.fhd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE FHD¹",HBO SIGNATURE FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717456
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE FHD²",HBO SIGNATURE FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.signature.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE FHD²",HBO SIGNATURE FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717480
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.hd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE HD¹",HBO SIGNATURE HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.signature.hd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE HD¹",HBO SIGNATURE HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717457
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE HD²",HBO SIGNATURE HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.signature.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE HD²",HBO SIGNATURE HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717481
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.sd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE SD¹",HBO SIGNATURE SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.signature.sd1" tvg-logo="https://assistatv.me/images/80985160838349605d526c33d42d2ce4.png" tvg-name="HBO SIGNATURE SD¹",HBO SIGNATURE SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717458
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.signature.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE SD²",HBO SIGNATURE SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.signature.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" tvg-name="HBO SIGNATURE SD²",HBO SIGNATURE SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717482
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.fhd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME FHD¹",HBO XTREME FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.xtreme.fhd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME FHD¹",HBO XTREME FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717459
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME FHD²",HBO XTREME FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.xtreme.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME FHD²",HBO XTREME FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717483
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.hd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME HD¹",HBO XTREME HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.xtreme.hd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME HD¹",HBO XTREME HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717460
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME HD²",HBO XTREME HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.xtreme.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME HD²",HBO XTREME HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717484
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.sd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME SD¹",HBO XTREME SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.xtreme.sd1" tvg-logo="https://assistatv.me/images/dfd8cd7272155a55a723969fa4c3c863.png" tvg-name="HBO XTREME SD¹",HBO XTREME SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717461
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="hbo.xtreme.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME SD²",HBO XTREME SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="hbo.xtreme.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" tvg-name="HBO XTREME SD²",HBO XTREME SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717485
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="KhushbooBangla.in@SD" tvg-logo="" tvg-name="Khushboo Bangla (720p)",Khushboo Bangla (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="KhushbooBangla.in@SD" tvg-logo="" tvg-name="Khushboo Bangla (720p)",Khushboo Bangla (720p)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="mister.rogers.neighborhood" tvg-logo="" tvg-name="Mister Rogers' Neighborhood",Mister Rogers' Neighborhood
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="mister.rogers.neighborhood" tvg-logo="" tvg-name="Mister Rogers' Neighborhood",Mister Rogers' Neighborhood
 https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="mosaico.hbo.max" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="MOSAICO HBO MAX",MOSAICO HBO MAX
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO MAX" tvg-id="mosaico.hbo.max" tvg-logo="https://i.imgur.com/H8wd180.png" tvg-name="MOSAICO HBO MAX",MOSAICO HBO MAX
 http://tyzic.xyz:80/IgorBifano/bng6vizn/464659
-#EXTINF:-1 group-title="Entertainment | HBO" tvg-id="wbtv.hbo.boxing.1080p.geo.blocked" tvg-logo="" tvg-name="WBTV HBO Boxing (1080p) [Geo-blocked]",WBTV HBO Boxing (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais HBO" tvg-id="wbtv.hbo.boxing.1080p.geo.blocked" tvg-logo="" tvg-name="WBTV HBO Boxing (1080p) [Geo-blocked]",WBTV HBO Boxing (1080p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8

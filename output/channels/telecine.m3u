@@ -1,73 +1,73 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.action.fhd1" tvg-logo="https://assistatv.me/images/b7ac7dc3145b2be99f99cf133e57b8ab.png" tvg-name="TELECINE ACTION FHD¹",TELECINE ACTION FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.action.fhd1" tvg-logo="https://assistatv.me/images/b7ac7dc3145b2be99f99cf133e57b8ab.png" tvg-name="TELECINE ACTION FHD¹",TELECINE ACTION FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717519
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.action.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Njhf/telecineaction.png" tvg-name="TELECINE ACTION FHD²",TELECINE ACTION FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.action.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Njhf/telecineaction.png" tvg-name="TELECINE ACTION FHD²",TELECINE ACTION FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717520
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.action.hd1" tvg-logo="https://assistatv.me/images/b7ac7dc3145b2be99f99cf133e57b8ab.png" tvg-name="TELECINE ACTION HD¹",TELECINE ACTION HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.action.hd1" tvg-logo="https://assistatv.me/images/b7ac7dc3145b2be99f99cf133e57b8ab.png" tvg-name="TELECINE ACTION HD¹",TELECINE ACTION HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717521
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.action.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Njhf/telecineaction.png" tvg-name="TELECINE ACTION HD²",TELECINE ACTION HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.action.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Njhf/telecineaction.png" tvg-name="TELECINE ACTION HD²",TELECINE ACTION HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717522
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.action.sd1" tvg-logo="https://assistatv.me/images/b7ac7dc3145b2be99f99cf133e57b8ab.png" tvg-name="TELECINE ACTION SD¹",TELECINE ACTION SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.action.sd1" tvg-logo="https://assistatv.me/images/b7ac7dc3145b2be99f99cf133e57b8ab.png" tvg-name="TELECINE ACTION SD¹",TELECINE ACTION SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717524
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.action.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Njhf/telecineaction.png" tvg-name="TELECINE ACTION SD²",TELECINE ACTION SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.action.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Njhf/telecineaction.png" tvg-name="TELECINE ACTION SD²",TELECINE ACTION SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717525
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.cult.fhd1" tvg-logo="https://assistatv.me/images/00384b0952a3b02d833fa17b54fcc80c.png" tvg-name="TELECINE CULT FHD¹",TELECINE CULT FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.cult.fhd1" tvg-logo="https://assistatv.me/images/00384b0952a3b02d833fa17b54fcc80c.png" tvg-name="TELECINE CULT FHD¹",TELECINE CULT FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717526
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.cult.fhd2" tvg-logo="https://od.lk/s/NzdfNTkwMDQ5NDlf/telecinecult.png" tvg-name="TELECINE CULT FHD²",TELECINE CULT FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.cult.fhd2" tvg-logo="https://od.lk/s/NzdfNTkwMDQ5NDlf/telecinecult.png" tvg-name="TELECINE CULT FHD²",TELECINE CULT FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717528
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.cult.hd1" tvg-logo="https://assistatv.me/images/00384b0952a3b02d833fa17b54fcc80c.png" tvg-name="TELECINE CULT HD¹",TELECINE CULT HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.cult.hd1" tvg-logo="https://assistatv.me/images/00384b0952a3b02d833fa17b54fcc80c.png" tvg-name="TELECINE CULT HD¹",TELECINE CULT HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717529
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.cult.hd2" tvg-logo="https://od.lk/s/NzdfNTkwMDQ5NDlf/telecinecult.png" tvg-name="TELECINE CULT HD²",TELECINE CULT HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.cult.hd2" tvg-logo="https://od.lk/s/NzdfNTkwMDQ5NDlf/telecinecult.png" tvg-name="TELECINE CULT HD²",TELECINE CULT HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717530
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.cult.sd1" tvg-logo="https://assistatv.me/images/00384b0952a3b02d833fa17b54fcc80c.png" tvg-name="TELECINE CULT SD¹",TELECINE CULT SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.cult.sd1" tvg-logo="https://assistatv.me/images/00384b0952a3b02d833fa17b54fcc80c.png" tvg-name="TELECINE CULT SD¹",TELECINE CULT SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717531
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.cult.sd2" tvg-logo="https://od.lk/s/NzdfNTkwMDQ5NDlf/telecinecult.png" tvg-name="TELECINE CULT SD²",TELECINE CULT SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.cult.sd2" tvg-logo="https://od.lk/s/NzdfNTkwMDQ5NDlf/telecinecult.png" tvg-name="TELECINE CULT SD²",TELECINE CULT SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717533
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.fun.fhd1" tvg-logo="https://assistatv.me/images/342a5938e1365029bd318632384ee7a6.png" tvg-name="TELECINE FUN FHD¹",TELECINE FUN FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.fun.fhd1" tvg-logo="https://assistatv.me/images/342a5938e1365029bd318632384ee7a6.png" tvg-name="TELECINE FUN FHD¹",TELECINE FUN FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717534
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.fun.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzJf/telecinefun.png" tvg-name="TELECINE FUN FHD²",TELECINE FUN FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.fun.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzJf/telecinefun.png" tvg-name="TELECINE FUN FHD²",TELECINE FUN FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717535
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.fun.hd1" tvg-logo="https://assistatv.me/images/342a5938e1365029bd318632384ee7a6.png" tvg-name="TELECINE FUN HD¹",TELECINE FUN HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.fun.hd1" tvg-logo="https://assistatv.me/images/342a5938e1365029bd318632384ee7a6.png" tvg-name="TELECINE FUN HD¹",TELECINE FUN HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717536
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.fun.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzJf/telecinefun.png" tvg-name="TELECINE FUN HD²",TELECINE FUN HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.fun.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzJf/telecinefun.png" tvg-name="TELECINE FUN HD²",TELECINE FUN HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717537
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.fun.sd1" tvg-logo="https://assistatv.me/images/342a5938e1365029bd318632384ee7a6.png" tvg-name="TELECINE FUN SD¹",TELECINE FUN SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.fun.sd1" tvg-logo="https://assistatv.me/images/342a5938e1365029bd318632384ee7a6.png" tvg-name="TELECINE FUN SD¹",TELECINE FUN SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717539
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.fun.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzJf/telecinefun.png" tvg-name="TELECINE FUN SD²",TELECINE FUN SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.fun.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzJf/telecinefun.png" tvg-name="TELECINE FUN SD²",TELECINE FUN SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717540
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.pipoca.fhd1" tvg-logo="https://assistatv.me/images/f18149a1b63fb8c77ad2cd356be11eb1.png" tvg-name="TELECINE PIPOCA FHD¹",TELECINE PIPOCA FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.pipoca.fhd1" tvg-logo="https://assistatv.me/images/f18149a1b63fb8c77ad2cd356be11eb1.png" tvg-name="TELECINE PIPOCA FHD¹",TELECINE PIPOCA FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717541
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.pipoca.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzRf/telecinepipoca.png" tvg-name="TELECINE PIPOCA FHD²",TELECINE PIPOCA FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.pipoca.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzRf/telecinepipoca.png" tvg-name="TELECINE PIPOCA FHD²",TELECINE PIPOCA FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717542
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.pipoca.hd1" tvg-logo="https://assistatv.me/images/f18149a1b63fb8c77ad2cd356be11eb1.png" tvg-name="TELECINE PIPOCA HD¹",TELECINE PIPOCA HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.pipoca.hd1" tvg-logo="https://assistatv.me/images/f18149a1b63fb8c77ad2cd356be11eb1.png" tvg-name="TELECINE PIPOCA HD¹",TELECINE PIPOCA HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717544
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.pipoca.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzRf/telecinepipoca.png" tvg-name="TELECINE PIPOCA HD²",TELECINE PIPOCA HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.pipoca.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzRf/telecinepipoca.png" tvg-name="TELECINE PIPOCA HD²",TELECINE PIPOCA HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717545
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.pipoca.sd1" tvg-logo="https://assistatv.me/images/f18149a1b63fb8c77ad2cd356be11eb1.png" tvg-name="TELECINE PIPOCA SD¹",TELECINE PIPOCA SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.pipoca.sd1" tvg-logo="https://assistatv.me/images/f18149a1b63fb8c77ad2cd356be11eb1.png" tvg-name="TELECINE PIPOCA SD¹",TELECINE PIPOCA SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717546
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.pipoca.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzRf/telecinepipoca.png" tvg-name="TELECINE PIPOCA SD²",TELECINE PIPOCA SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.pipoca.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzRf/telecinepipoca.png" tvg-name="TELECINE PIPOCA SD²",TELECINE PIPOCA SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717547
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.premium.fhd1" tvg-logo="https://assistatv.me/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png" tvg-name="TELECINE PREMIUM FHD¹",TELECINE PREMIUM FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.premium.fhd1" tvg-logo="https://assistatv.me/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png" tvg-name="TELECINE PREMIUM FHD¹",TELECINE PREMIUM FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717511
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.premium.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzZf/telecinepremium.png" tvg-name="TELECINE PREMIUM FHD²",TELECINE PREMIUM FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.premium.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzZf/telecinepremium.png" tvg-name="TELECINE PREMIUM FHD²",TELECINE PREMIUM FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717512
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.premium.hd1" tvg-logo="https://assistatv.me/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png" tvg-name="TELECINE PREMIUM HD¹",TELECINE PREMIUM HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.premium.hd1" tvg-logo="https://assistatv.me/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png" tvg-name="TELECINE PREMIUM HD¹",TELECINE PREMIUM HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717514
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.premium.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzZf/telecinepremium.png" tvg-name="TELECINE PREMIUM HD²",TELECINE PREMIUM HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.premium.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzZf/telecinepremium.png" tvg-name="TELECINE PREMIUM HD²",TELECINE PREMIUM HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717515
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.premium.sd1" tvg-logo="https://assistatv.me/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png" tvg-name="TELECINE PREMIUM SD¹",TELECINE PREMIUM SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.premium.sd1" tvg-logo="https://assistatv.me/images/9e6dde5623dc3d9a154bc70d94cbfb2a.png" tvg-name="TELECINE PREMIUM SD¹",TELECINE PREMIUM SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717516
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.premium.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzZf/telecinepremium.png" tvg-name="TELECINE PREMIUM SD²",TELECINE PREMIUM SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.premium.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1NzZf/telecinepremium.png" tvg-name="TELECINE PREMIUM SD²",TELECINE PREMIUM SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717517
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.touch.fhd1" tvg-logo="https://assistatv.me/images/a35c66fcd18abd81bfd337fdf2819f64.png" tvg-name="TELECINE TOUCH FHD¹",TELECINE TOUCH FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.touch.fhd1" tvg-logo="https://assistatv.me/images/a35c66fcd18abd81bfd337fdf2819f64.png" tvg-name="TELECINE TOUCH FHD¹",TELECINE TOUCH FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717549
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.touch.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Nzhf/telecinetouch.png" tvg-name="TELECINE TOUCH FHD²",TELECINE TOUCH FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.touch.fhd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Nzhf/telecinetouch.png" tvg-name="TELECINE TOUCH FHD²",TELECINE TOUCH FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717550
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.touch.hd1" tvg-logo="https://assistatv.me/images/a35c66fcd18abd81bfd337fdf2819f64.png" tvg-name="TELECINE TOUCH HD¹",TELECINE TOUCH HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.touch.hd1" tvg-logo="https://assistatv.me/images/a35c66fcd18abd81bfd337fdf2819f64.png" tvg-name="TELECINE TOUCH HD¹",TELECINE TOUCH HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717551
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.touch.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Nzhf/telecinetouch.png" tvg-name="TELECINE TOUCH HD²",TELECINE TOUCH HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.touch.hd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Nzhf/telecinetouch.png" tvg-name="TELECINE TOUCH HD²",TELECINE TOUCH HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717552
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.touch.sd1" tvg-logo="https://assistatv.me/images/a35c66fcd18abd81bfd337fdf2819f64.png" tvg-name="TELECINE TOUCH SD¹",TELECINE TOUCH SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.touch.sd1" tvg-logo="https://assistatv.me/images/a35c66fcd18abd81bfd337fdf2819f64.png" tvg-name="TELECINE TOUCH SD¹",TELECINE TOUCH SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717553
-#EXTINF:-1 group-title="Entertainment | Telecine" tvg-id="telecine.touch.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Nzhf/telecinetouch.png" tvg-name="TELECINE TOUCH SD²",TELECINE TOUCH SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Telecine" tvg-id="telecine.touch.sd2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1Nzhf/telecinetouch.png" tvg-name="TELECINE TOUCH SD²",TELECINE TOUCH SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717555

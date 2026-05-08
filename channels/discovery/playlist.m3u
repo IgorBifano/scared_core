@@ -1,168 +1,168 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Kids | Discovery" tvg-id="24h.karate.kid" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KARATE KID",24H • KARATE KID
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="24h.karate.kid" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • KARATE KID",24H • KARATE KID
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978131
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="" tvg-name="发现之旅 (576p)",发现之旅 (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="" tvg-name="发现之旅 (576p)",发现之旅 (576p)
 http://125.210.152.18:9090/live/FXZL_750.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="amc.cupid.1080p" tvg-logo="" tvg-name="AMC Cupid (1080p)",AMC Cupid (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="amc.cupid.1080p" tvg-logo="" tvg-name="AMC Cupid (1080p)",AMC Cupid (1080p)
 https://a9c2affc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNDdXBpZF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="AmouYazidTV.dz@SD" tvg-logo="" tvg-name="Amou Yazid TV (576p)",Amou Yazid TV (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="AmouYazidTV.dz@SD" tvg-logo="" tvg-name="Amou Yazid TV (576p)",Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.fhd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD¹",ANIMAL PLANET FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="animal.planet.fhd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD¹",ANIMAL PLANET FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717202
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.fhd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD²",ANIMAL PLANET FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="animal.planet.fhd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET FHD²",ANIMAL PLANET FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971854
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.hd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD¹",ANIMAL PLANET HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="animal.planet.hd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD¹",ANIMAL PLANET HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717203
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.hd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD²",ANIMAL PLANET HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="animal.planet.hd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET HD²",ANIMAL PLANET HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971855
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.sd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD¹",ANIMAL PLANET SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="animal.planet.sd1" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD¹",ANIMAL PLANET SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717204
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="animal.planet.sd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD²",ANIMAL PLANET SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="animal.planet.sd2" tvg-logo="https://assistatv.me/images/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="ANIMAL PLANET SD²",ANIMAL PLANET SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971856
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="AsharqDiscovery.sa@SD" tvg-logo="" tvg-name="Asharq Discovery (1080p)",Asharq Discovery (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AsharqDiscovery.sa@SD" tvg-logo="" tvg-name="Asharq Discovery (1080p)",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="Canal33Madrid.es@SD" tvg-logo="" tvg-name="Canal 33 Madrid",Canal 33 Madrid
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Canal33Madrid.es@SD" tvg-logo="" tvg-name="Canal 33 Madrid",Canal 33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.fhd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD¹",DISCOVERY CHANNEL FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.channel.fhd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD¹",DISCOVERY CHANNEL FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717205
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.fhd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD²",DISCOVERY CHANNEL FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.channel.fhd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL FHD²",DISCOVERY CHANNEL FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971857
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.hd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD¹",DISCOVERY CHANNEL HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.channel.hd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD¹",DISCOVERY CHANNEL HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717206
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.hd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD²",DISCOVERY CHANNEL HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.channel.hd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL HD²",DISCOVERY CHANNEL HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971858
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.sd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD¹",DISCOVERY CHANNEL SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.channel.sd1" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD¹",DISCOVERY CHANNEL SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717207
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.channel.sd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD²",DISCOVERY CHANNEL SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.channel.sd2" tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" tvg-name="DISCOVERY CHANNEL SD²",DISCOVERY CHANNEL SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971859
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.fhd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD¹",DISCOVERY HOME & HEALTH FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.home.health.fhd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD¹",DISCOVERY HOME & HEALTH FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717208
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.fhd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD²",DISCOVERY HOME & HEALTH FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.home.health.fhd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH FHD²",DISCOVERY HOME & HEALTH FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971860
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.hd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD¹",DISCOVERY HOME & HEALTH HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.home.health.hd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD¹",DISCOVERY HOME & HEALTH HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717209
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.hd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD²",DISCOVERY HOME & HEALTH HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.home.health.hd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH HD²",DISCOVERY HOME & HEALTH HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971861
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.sd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD¹",DISCOVERY HOME & HEALTH SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.home.health.sd1" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD¹",DISCOVERY HOME & HEALTH SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717210
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.home.health.sd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD²",DISCOVERY HOME & HEALTH SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.home.health.sd2" tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" tvg-name="DISCOVERY HOME & HEALTH SD²",DISCOVERY HOME & HEALTH SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971862
-#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.fhd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD¹",DISCOVERY KIDS FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.kids.fhd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD¹",DISCOVERY KIDS FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721572
-#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.fhd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD²",DISCOVERY KIDS FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.kids.fhd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS FHD²",DISCOVERY KIDS FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721573
-#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.hd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD¹",DISCOVERY KIDS HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.kids.hd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD¹",DISCOVERY KIDS HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721574
-#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.hd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD²",DISCOVERY KIDS HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.kids.hd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS HD²",DISCOVERY KIDS HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721575
-#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.sd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD¹",DISCOVERY KIDS SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.kids.sd1" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD¹",DISCOVERY KIDS SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721576
-#EXTINF:-1 group-title="Kids | Discovery" tvg-id="discovery.kids.sd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD²",DISCOVERY KIDS SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.kids.sd2" tvg-logo="https://assistatv.me/images/7ec7090630903c76f7c4d1771c873b1f.png" tvg-name="DISCOVERY KIDS SD²",DISCOVERY KIDS SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/721577
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.fhd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD¹",DISCOVERY SCIENCE FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.science.fhd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD¹",DISCOVERY SCIENCE FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717211
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.fhd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD²",DISCOVERY SCIENCE FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.science.fhd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE FHD²",DISCOVERY SCIENCE FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971863
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.hd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD¹",DISCOVERY SCIENCE HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.science.hd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD¹",DISCOVERY SCIENCE HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717213
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.hd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD²",DISCOVERY SCIENCE HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.science.hd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE HD²",DISCOVERY SCIENCE HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971864
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.sd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD¹",DISCOVERY SCIENCE SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.science.sd1" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD¹",DISCOVERY SCIENCE SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717214
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.science.sd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD²",DISCOVERY SCIENCE SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.science.sd2" tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" tvg-name="DISCOVERY SCIENCE SD²",DISCOVERY SCIENCE SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971865
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.fhd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD¹",DISCOVERY THEATER FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.theater.fhd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD¹",DISCOVERY THEATER FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717215
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.fhd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD²",DISCOVERY THEATER FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.theater.fhd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER FHD²",DISCOVERY THEATER FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971866
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.hd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD¹",DISCOVERY THEATER HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.theater.hd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD¹",DISCOVERY THEATER HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717216
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.hd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD²",DISCOVERY THEATER HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.theater.hd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER HD²",DISCOVERY THEATER HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971867
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.sd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD¹",DISCOVERY THEATER SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.theater.sd1" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD¹",DISCOVERY THEATER SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717217
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.theater.sd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD²",DISCOVERY THEATER SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.theater.sd2" tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" tvg-name="DISCOVERY THEATER SD²",DISCOVERY THEATER SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971868
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.fhd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD¹",DISCOVERY TLC FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.tlc.fhd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD¹",DISCOVERY TLC FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717218
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.fhd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD²",DISCOVERY TLC FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.tlc.fhd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC FHD²",DISCOVERY TLC FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971869
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.hd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD¹",DISCOVERY TLC HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.tlc.hd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD¹",DISCOVERY TLC HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717219
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.hd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD²",DISCOVERY TLC HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.tlc.hd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC HD²",DISCOVERY TLC HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971870
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.sd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD¹",DISCOVERY TLC SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.tlc.sd1" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD¹",DISCOVERY TLC SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717220
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.tlc.sd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD²",DISCOVERY TLC SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.tlc.sd2" tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" tvg-name="DISCOVERY TLC SD²",DISCOVERY TLC SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971871
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.fhd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD¹",DISCOVERY TURBO FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.turbo.fhd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD¹",DISCOVERY TURBO FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717221
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.fhd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD²",DISCOVERY TURBO FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.turbo.fhd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO FHD²",DISCOVERY TURBO FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971872
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.hd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD¹",DISCOVERY TURBO HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.turbo.hd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD¹",DISCOVERY TURBO HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717222
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.hd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD²",DISCOVERY TURBO HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.turbo.hd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO HD²",DISCOVERY TURBO HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971873
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.sd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD¹",DISCOVERY TURBO SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.turbo.sd1" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD¹",DISCOVERY TURBO SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717223
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.turbo.sd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD²",DISCOVERY TURBO SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.turbo.sd2" tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" tvg-name="DISCOVERY TURBO SD²",DISCOVERY TURBO SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971874
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.fhd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD¹",DISCOVERY WORLD FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.world.fhd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD¹",DISCOVERY WORLD FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717224
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.fhd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD²",DISCOVERY WORLD FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.world.fhd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD FHD²",DISCOVERY WORLD FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971875
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.hd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD¹",DISCOVERY WORLD HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.world.hd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD¹",DISCOVERY WORLD HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717225
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.hd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD²",DISCOVERY WORLD HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.world.hd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD HD²",DISCOVERY WORLD HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971876
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.sd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD¹",DISCOVERY WORLD SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.world.sd1" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD¹",DISCOVERY WORLD SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717226
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="discovery.world.sd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD²",DISCOVERY WORLD SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="discovery.world.sd2" tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" tvg-name="DISCOVERY WORLD SD²",DISCOVERY WORLD SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971877
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.fhd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD¹",ID - INVESTIGAÇÃO DISCOVERY FHD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="id.investigacao.discovery.fhd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD¹",ID - INVESTIGAÇÃO DISCOVERY FHD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717238
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.fhd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD²",ID - INVESTIGAÇÃO DISCOVERY FHD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="id.investigacao.discovery.fhd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD²",ID - INVESTIGAÇÃO DISCOVERY FHD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971887
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.hd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹",ID - INVESTIGAÇÃO DISCOVERY HD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="id.investigacao.discovery.hd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹",ID - INVESTIGAÇÃO DISCOVERY HD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717239
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.hd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²",ID - INVESTIGAÇÃO DISCOVERY HD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="id.investigacao.discovery.hd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²",ID - INVESTIGAÇÃO DISCOVERY HD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971888
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.sd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD¹",ID - INVESTIGAÇÃO DISCOVERY SD¹
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="id.investigacao.discovery.sd1" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD¹",ID - INVESTIGAÇÃO DISCOVERY SD¹
 http://tyzic.xyz:80/IgorBifano/bng6vizn/717240
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="id.investigacao.discovery.sd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD²",ID - INVESTIGAÇÃO DISCOVERY SD²
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="id.investigacao.discovery.sd2" tvg-logo="https://assistatv.me/images/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD²",ID - INVESTIGAÇÃO DISCOVERY SD²
 http://tyzic.xyz:80/IgorBifano/bng6vizn/971889
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="KanalJadid.uk@SD" tvg-logo="" tvg-name="Kanal Jadid",Kanal Jadid
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KanalJadid.uk@SD" tvg-logo="" tvg-name="Kanal Jadid",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="MajidAlMohandis.sa@SD" tvg-logo="" tvg-name="Majid Al Mohandis (1080p)",Majid Al Mohandis (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MajidAlMohandis.sa@SD" tvg-logo="" tvg-name="Majid Al Mohandis (1080p)",Majid Al Mohandis (1080p)
 https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="IRIBOmid.ir@SD" tvg-logo="" tvg-name="Omid",Omid
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="IRIBOmid.ir@SD" tvg-logo="" tvg-name="Omid",Omid
 https://ncdn.telewebion.ir/omid/live/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="OndaMadrid.es@SD" tvg-logo="" tvg-name="Onda Madrid (720p)",Onda Madrid (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="OndaMadrid.es@SD" tvg-logo="" tvg-name="Onda Madrid (720p)",Onda Madrid (720p)
 https://tvradio-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="RashidAlMajed.sa@SD" tvg-logo="" tvg-name="Rashid AlMajed (1080p)",Rashid AlMajed (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RashidAlMajed.sa@SD" tvg-logo="" tvg-name="Rashid AlMajed (1080p)",Rashid AlMajed (1080p)
 https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="realmadrid.tv" tvg-logo="" tvg-name="Realmadrid TV",Realmadrid TV
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="realmadrid.tv" tvg-logo="" tvg-name="Realmadrid TV",Realmadrid TV
 https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="RealMadridTV.es@SD" tvg-logo="" tvg-name="Realmadrid TV (720p)",Realmadrid TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RealMadridTV.es@SD" tvg-logo="" tvg-name="Realmadrid TV (720p)",Realmadrid TV (720p)
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="realmadrid.tv.720p" tvg-logo="" tvg-name="Realmadrid TV (720p)",Realmadrid TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="realmadrid.tv.720p" tvg-logo="" tvg-name="Realmadrid TV (720p)",Realmadrid TV (720p)
 https://jmp2.uk/plu-660d714719ca71000849cc1f.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="rock.solid.wrestling.tv.1080p" tvg-logo="" tvg-name="Rock Solid Wrestling TV (1080p)",Rock Solid Wrestling TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="rock.solid.wrestling.tv.1080p" tvg-logo="" tvg-name="Rock Solid Wrestling TV (1080p)",Rock Solid Wrestling TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0HQB0C0B3JRT3U7C103F/hls3/now,-1m/m.m3u8?ads.vf=HkyN6qE7bvi
-#EXTINF:-1 group-title="Documentary | Discovery" tvg-id="RTLCrime.de@HD" tvg-logo="" tvg-name="RTL Crime HD (1080p)",RTL Crime HD (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="RTLCrime.de@HD" tvg-logo="" tvg-name="RTL Crime HD (1080p)",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
-#EXTINF:-1 group-title="Sports | Discovery" tvg-id="SportsGrid.us@SD" tvg-logo="" tvg-name="SportsGrid (1080p)",SportsGrid (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SportsGrid.us@SD" tvg-logo="" tvg-name="SportsGrid (1080p)",SportsGrid (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8?ads.vf=8ukz5gCI8vu
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="team.liquid.1080p" tvg-logo="" tvg-name="Team Liquid (1080p)",Team Liquid (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="team.liquid.1080p" tvg-logo="" tvg-name="Team Liquid (1080p)",Team Liquid (1080p)
 https://d3qzt5cx2j8lfl.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="TeleVid.co@SD" tvg-logo="" tvg-name="Tele Vid (1080p)",Tele Vid (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TeleVid.co@SD" tvg-logo="" tvg-name="Tele Vid (1080p)",Tele Vid (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="Telemadrid.es@SD" tvg-logo="" tvg-name="Telemadrid (720p)",Telemadrid (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Telemadrid.es@SD" tvg-logo="" tvg-name="Telemadrid (720p)",Telemadrid (720p)
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="TelemadridINT.es@SD" tvg-logo="" tvg-name="Telemadrid Internacional (720p)",Telemadrid Internacional (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TelemadridINT.es@SD" tvg-logo="" tvg-name="Telemadrid Internacional (720p)",Telemadrid Internacional (720p)
 https://new-international-23-secure2.akamaized.net/index.m3u8
-#EXTINF:-1 group-title="Entertainment | Discovery" tvg-id="VolgyhidTV.hu@SD" tvg-logo="" tvg-name="Völgyhíd TV (540p)",Völgyhíd TV (540p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="VolgyhidTV.hu@SD" tvg-logo="" tvg-name="Völgyhíd TV (540p)",Völgyhíd TV (540p)
 https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8

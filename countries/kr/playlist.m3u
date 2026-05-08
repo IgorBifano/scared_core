@@ -1,201 +1,201 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Entertainment" tvg-id="ABN.kr@SD" tvg-logo="" tvg-name="ABN TV (720p)",ABN TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ABN.kr@SD" tvg-logo="" tvg-name="ABN TV (720p)",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ArirangRadio.kr@SD" tvg-logo="" tvg-name="Arirang Radio (720p)",Arirang Radio (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ArirangRadio.kr@SD" tvg-logo="" tvg-name="Arirang Radio (720p)",Arirang Radio (720p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ArirangTV.kr@HD" tvg-logo="" tvg-name="Arirang TV HD",Arirang TV HD
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ArirangTV.kr@HD" tvg-logo="" tvg-name="Arirang TV HD",Arirang TV HD
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ArirangTV.kr@SD" tvg-logo="" tvg-name="Arirang TV (1080p)",Arirang TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ArirangTV.kr@SD" tvg-logo="" tvg-name="Arirang TV (1080p)",Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ArirangUN.kr@SD" tvg-logo="" tvg-name="Arirang TV UN (1080p)",Arirang TV UN (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ArirangUN.kr@SD" tvg-logo="" tvg-name="Arirang TV UN (1080p)",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KBSV231.us@SD" tvg-logo="" tvg-name="AssyriaSat (720p) [Not 24/7]",AssyriaSat (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KBSV231.us@SD" tvg-logo="" tvg-name="AssyriaSat (720p) [Not 24/7]",AssyriaSat (720p) [Not 24/7]
 http://66.242.170.53/hls/live/temp/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBSTV.kr@SD" tvg-logo="" tvg-name="BBS Buddhist Broadcasting (1080p)",BBS Buddhist Broadcasting (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BBSTV.kr@SD" tvg-logo="" tvg-name="BBS Buddhist Broadcasting (1080p)",BBS Buddhist Broadcasting (1080p)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment | Warner" tvg-id="BTNTV.kr@SD" tvg-logo="" tvg-name="BTN TV (1080p)",BTN TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais TNT" tvg-id="BTNTV.kr@SD" tvg-logo="" tvg-name="BTN TV (1080p)",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ChannelA.kr@SD" tvg-logo="" tvg-name="Channel A [Geo-blocked]",Channel A [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ChannelA.kr@SD" tvg-logo="" tvg-name="Channel A [Geo-blocked]",Channel A [Geo-blocked]
 http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="CJOnStyle.kr@SD" tvg-logo="" tvg-name="CJ OnStyle (540p)",CJ OnStyle (540p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="CJOnStyle.kr@SD" tvg-logo="" tvg-name="CJ OnStyle (540p)",CJ OnStyle (540p)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="CJOnStylePlus.kr@SD" tvg-logo="" tvg-name="CJ OnStyle Plus (540p)",CJ OnStyle Plus (540p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="CJOnStylePlus.kr@SD" tvg-logo="" tvg-name="CJ OnStyle Plus (540p)",CJ OnStyle Plus (540p)
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="EBSPlus1.kr@SD" tvg-logo="" tvg-name="EBS+ 1 (400p)",EBS+ 1 (400p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="EBSPlus1.kr@SD" tvg-logo="" tvg-name="EBS+ 1 (400p)",EBS+ 1 (400p)
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="EBS1TV.kr@SD" tvg-logo="" tvg-name="EBS 1 (400p) [Not 24/7]",EBS 1 (400p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="EBS1TV.kr@SD" tvg-logo="" tvg-name="EBS 1 (400p) [Not 24/7]",EBS 1 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="EBSPlus2.kr@SD" tvg-logo="" tvg-name="EBS+ 2 (400p)",EBS+ 2 (400p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="EBSPlus2.kr@SD" tvg-logo="" tvg-name="EBS+ 2 (400p)",EBS+ 2 (400p)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="EBS2TV.kr@SD" tvg-logo="" tvg-name="EBS 2 (400p) [Not 24/7]",EBS 2 (400p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="EBS2TV.kr@SD" tvg-logo="" tvg-name="EBS 2 (400p) [Not 24/7]",EBS 2 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="EBSEnglish.kr@SD" tvg-logo="" tvg-name="EBS E (400p) [Not 24/7]",EBS E (400p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="EBSEnglish.kr@SD" tvg-logo="" tvg-name="EBS E (400p) [Not 24/7]",EBS E (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="EBSKids.kr@SD" tvg-logo="" tvg-name="EBS kids (400p) [Not 24/7]",EBS kids (400p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="EBSKids.kr@SD" tvg-logo="" tvg-name="EBS kids (400p) [Not 24/7]",EBS kids (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FGTV.kr@SD" tvg-logo="" tvg-name="FGTV (720p)",FGTV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FGTV.kr@SD" tvg-logo="" tvg-name="FGTV (720p)",FGTV (720p)
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment | Fox" tvg-id="KBSI231.us@HD" tvg-logo="" tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KBSI231.us@HD" tvg-logo="" tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GCN.kr@SD" tvg-logo="" tvg-name="GCN24 Korean (720p)",GCN24 Korean (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GCN.kr@SD" tvg-logo="" tvg-name="GCN24 Korean (720p)",GCN24 Korean (720p)
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GongyoungHomeShopping.kr@SD" tvg-logo="" tvg-name="Gongyoung Shopping (720p)",Gongyoung Shopping (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GongyoungHomeShopping.kr@SD" tvg-logo="" tvg-name="Gongyoung Shopping (720p)",Gongyoung Shopping (720p)
 https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GoodTV.kr@SD" tvg-logo="" tvg-name="GoodTV (1080p)",GoodTV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GoodTV.kr@SD" tvg-logo="" tvg-name="GoodTV (1080p)",GoodTV (1080p)
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GSMyShop.kr@SD" tvg-logo="" tvg-name="GS My Shop (1080p)",GS My Shop (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GSMyShop.kr@SD" tvg-logo="" tvg-name="GS My Shop (1080p)",GS My Shop (1080p)
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GSShop.kr@SD" tvg-logo="" tvg-name="GS Shop (1080p)",GS Shop (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GSShop.kr@SD" tvg-logo="" tvg-name="GS Shop (1080p)",GS Shop (1080p)
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GugakTV.kr@SD" tvg-logo="" tvg-name="GugakTV 국악방송 (1080p)",GugakTV 국악방송 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GugakTV.kr@SD" tvg-logo="" tvg-name="GugakTV 국악방송 (1080p)",GugakTV 국악방송 (1080p)
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GugbangTV.kr@SD" tvg-logo="" tvg-name="Gugbang TV (1080p) [Not 24/7]",Gugbang TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GugbangTV.kr@SD" tvg-logo="" tvg-name="Gugbang TV (1080p) [Not 24/7]",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HyundaiHomeShopping.kr@SD" tvg-logo="" tvg-name="Hyundai Home Shopping (720p)",Hyundai Home Shopping (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HyundaiHomeShopping.kr@SD" tvg-logo="" tvg-name="Hyundai Home Shopping (720p)",Hyundai Home Shopping (720p)
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HyundaiHomeShoppingPlusShop.kr@SD" tvg-logo="" tvg-name="Hyundai Home Shopping Plus (720p)",Hyundai Home Shopping Plus (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HyundaiHomeShoppingPlusShop.kr@SD" tvg-logo="" tvg-name="Hyundai Home Shopping Plus (720p)",Hyundai Home Shopping Plus (720p)
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="JobplusTV.kr@SD" tvg-logo="" tvg-name="Job Plus TV (한국직업방송) (480p)",Job Plus TV (한국직업방송) (480p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="JobplusTV.kr@SD" tvg-logo="" tvg-name="Job Plus TV (한국직업방송) (480p)",Job Plus TV (한국직업방송) (480p)
 https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KBSWorld.kr@SD" tvg-logo="" tvg-name="KBS World",KBS World
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KBSWorld.kr@SD" tvg-logo="" tvg-name="KBS World",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KCTV.kr@SD" tvg-logo="" tvg-name="KCTV 광주 CH05 (720p) [Not 24/7]",KCTV 광주 CH05 (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KCTV.kr@SD" tvg-logo="" tvg-name="KCTV 광주 CH05 (720p) [Not 24/7]",KCTV 광주 CH05 (720p) [Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KMBCTV91.us@HD" tvg-logo="" tvg-name="KMBC-DT1 (720p)",KMBC-DT1 (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KMBCTV91.us@HD" tvg-logo="" tvg-name="KMBC-DT1 (720p)",KMBC-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KMBCTV92.us@SD" tvg-logo="" tvg-name="KMBC-DT2 (720p)",KMBC-DT2 (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KMBCTV92.us@SD" tvg-logo="" tvg-name="KMBC-DT2 (720p)",KMBC-DT2 (720p)
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KTV.kr@SD" tvg-logo="" tvg-name="Korea TV (1080p)",Korea TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KTV.kr@SD" tvg-logo="" tvg-name="Korea TV (1080p)",Korea TV (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KoreanCentralTelevision.kp@HD" tvg-logo="" tvg-name="Korean Central Television (KCTV) (1080i) [Not 24/7]",Korean Central Television (KCTV) (1080i) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KoreanCentralTelevision.kp@HD" tvg-logo="" tvg-name="Korean Central Television (KCTV) (1080i) [Not 24/7]",Korean Central Television (KCTV) (1080i) [Not 24/7]
 https://tv.intchoson.com/kctv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KoreanCentralTelevision.kp@SD" tvg-logo="" tvg-name="Korean Central Television (KCTV) (576p)",Korean Central Television (KCTV) (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KoreanCentralTelevision.kp@SD" tvg-logo="" tvg-name="Korean Central Television (KCTV) (576p)",Korean Central Television (KCTV) (576p)
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://streamer.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 group-title="Entertainment" tvg-id="KShopping.kr@SD" tvg-logo="" tvg-name="KShopping (1080p)",KShopping (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KShopping.kr@SD" tvg-logo="" tvg-name="KShopping (1080p)",KShopping (1080p)
 https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="LLBNTVKorean.us@SD" tvg-logo="" tvg-name="Lighting Lives Blessing Nations TV Korean (LLBN) (480p)",Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="LLBNTVKorean.us@SD" tvg-logo="" tvg-name="Lighting Lives Blessing Nations TV Korean (LLBN) (480p)",Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
 https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="LotteHomeShopping.kr@SD" tvg-logo="" tvg-name="Lotte Home Shopping (720p)",Lotte Home Shopping (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="LotteHomeShopping.kr@SD" tvg-logo="" tvg-name="Lotte Home Shopping (720p)",Lotte Home Shopping (720p)
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="LotteOneTV.kr@SD" tvg-logo="" tvg-name="Lotte OneTV (720p)",Lotte OneTV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="LotteOneTV.kr@SD" tvg-logo="" tvg-name="Lotte OneTV (720p)",Lotte OneTV (720p)
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBC1.ae@SD" tvg-logo="" tvg-name="MBC 1 (1080p)",MBC 1 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBC1.ae@SD" tvg-logo="" tvg-name="MBC 1 (1080p)",MBC 1 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBC1Egypt.eg@HD" tvg-logo="" tvg-name="MBC 1 Egypt (1080p)",MBC 1 Egypt (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBC1Egypt.eg@HD" tvg-logo="" tvg-name="MBC 1 Egypt (1080p)",MBC 1 Egypt (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBC4.ae@SD" tvg-logo="" tvg-name="MBC 4 (1080p)",MBC 4 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBC4.ae@SD" tvg-logo="" tvg-name="MBC 4 (1080p)",MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBC5.ae@SD" tvg-logo="" tvg-name="MBC 5 (1080p)",MBC 5 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBC5.ae@SD" tvg-logo="" tvg-name="MBC 5 (1080p)",MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCAmerica.us@SD" tvg-logo="" tvg-name="MBC America (1080p)",MBC America (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCAmerica.us@SD" tvg-logo="" tvg-name="MBC America (1080p)",MBC America (1080p)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLAWDTV.kr@SD" tvg-logo="" tvg-name="MBC Andong (안동 MBC) (360p) [Not 24/7]",MBC Andong (안동 MBC) (360p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLAWDTV.kr@SD" tvg-logo="" tvg-name="MBC Andong (안동 MBC) (360p) [Not 24/7]",MBC Andong (안동 MBC) (360p) [Not 24/7]
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCBollywood.ae@SD" tvg-logo="" tvg-name="MBC Bollywood (1080p) [Geo-blocked]",MBC Bollywood (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCBollywood.ae@SD" tvg-logo="" tvg-name="MBC Bollywood (1080p) [Geo-blocked]",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLANDTV.kr@SD" tvg-logo="" tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLANDTV.kr@SD" tvg-logo="" tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLCTDTV.kr@SD" tvg-logo="" tvg-name="MBC Daegu (대구 MBC) (480p) [Not 24/7]",MBC Daegu (대구 MBC) (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLCTDTV.kr@SD" tvg-logo="" tvg-name="MBC Daegu (대구 MBC) (480p) [Not 24/7]",MBC Daegu (대구 MBC) (480p) [Not 24/7]
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLCQDTV.kr@SD" tvg-logo="" tvg-name="MBC Daejeon (대전 MBC) (720p) [Not 24/7]",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLCQDTV.kr@SD" tvg-logo="" tvg-name="MBC Daejeon (대전 MBC) (720p) [Not 24/7]",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCDrama.ae@SD" tvg-logo="" tvg-name="MBC Drama (1080p)",MBC Drama (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCDrama.ae@SD" tvg-logo="" tvg-name="MBC Drama (1080p)",MBC Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCPlusDrama.sa@SD" tvg-logo="" tvg-name="MBC+ Drama (1080p)",MBC+ Drama (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCPlusDrama.sa@SD" tvg-logo="" tvg-name="MBC+ Drama (1080p)",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCDrama.kr@SD" tvg-logo="" tvg-name="MBC Drama (480p) [Geo-blocked]",MBC Drama (480p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCDrama.kr@SD" tvg-logo="" tvg-name="MBC Drama (480p) [Geo-blocked]",MBC Drama (480p) [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/26.php
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCFM.ae@SD" tvg-logo="" tvg-name="MBC FM (1080p)",MBC FM (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCFM.ae@SD" tvg-logo="" tvg-name="MBC FM (1080p)",MBC FM (1080p)
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLAQDTV.kr@SD" tvg-logo="" tvg-name="MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLAQDTV.kr@SD" tvg-logo="" tvg-name="MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLCNDTV.kr@SD" tvg-logo="" tvg-name="MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLCNDTV.kr@SD" tvg-logo="" tvg-name="MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCGyeongnamTV.kr@SD" tvg-logo="" tvg-name="MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCGyeongnamTV.kr@SD" tvg-logo="" tvg-name="MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCIraq.iq@SD" tvg-logo="" tvg-name="MBC Iraq (1080p)",MBC Iraq (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCIraq.iq@SD" tvg-logo="" tvg-name="MBC Iraq (1080p)",MBC Iraq (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLAJDTV.kr@SD" tvg-logo="" tvg-name="MBC Jeju (제주 MBC) (352p) [Not 24/7]",MBC Jeju (제주 MBC) (352p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLAJDTV.kr@SD" tvg-logo="" tvg-name="MBC Jeju (제주 MBC) (352p) [Not 24/7]",MBC Jeju (제주 MBC) (352p) [Not 24/7]
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLCXDTV.kr@SD" tvg-logo="" tvg-name="MBC Jeonju (450p)",MBC Jeonju (450p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLCXDTV.kr@SD" tvg-logo="" tvg-name="MBC Jeonju (450p)",MBC Jeonju (450p)
 https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCLoud.sa@SD" tvg-logo="" tvg-name="MBC Loud (1080p)",MBC Loud (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCLoud.sa@SD" tvg-logo="" tvg-name="MBC Loud (1080p)",MBC Loud (1080p)
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCMasr.eg@SD" tvg-logo="" tvg-name="MBC Masr (1080p)",MBC Masr (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCMasr.eg@SD" tvg-logo="" tvg-name="MBC Masr (1080p)",MBC Masr (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCMasr2.eg@SD" tvg-logo="" tvg-name="MBC Masr 2 (1080p)",MBC Masr 2 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCMasr2.eg@SD" tvg-logo="" tvg-name="MBC Masr 2 (1080p)",MBC Masr 2 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCMasrDrama.sa@SD" tvg-logo="" tvg-name="MBC Masr Drama (1080p)",MBC Masr Drama (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCMasrDrama.sa@SD" tvg-logo="" tvg-name="MBC Masr Drama (1080p)",MBC Masr Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLAMDTV.kr@SD" tvg-logo="" tvg-name="MBC Mokpo (목포 MBC) (720p) [Not 24/7]",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLAMDTV.kr@SD" tvg-logo="" tvg-name="MBC Mokpo (목포 MBC) (720p) [Not 24/7]",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCNet.kr@SD" tvg-logo="" tvg-name="MBC Net (480p) [Geo-blocked]",MBC Net (480p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCNet.kr@SD" tvg-logo="" tvg-name="MBC Net (480p) [Geo-blocked]",MBC Net (480p) [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/28.php
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCPersia.ae@SD" tvg-logo="" tvg-name="MBC Persia (1080p)",MBC Persia (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCPersia.ae@SD" tvg-logo="" tvg-name="MBC Persia (1080p)",MBC Persia (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCTV.in@SD" tvg-logo="" tvg-name="MBC TV (576p)",MBC TV (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MBCTV.in@SD" tvg-logo="" tvg-name="MBC TV (576p)",MBC TV (576p)
 https://mumt03.tangotv.in/MBCTV/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLATDTV.kr@SD" tvg-logo="" tvg-name="MBC Yeosu (여수 MBC) (1080p) [Not 24/7]",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLATDTV.kr@SD" tvg-logo="" tvg-name="MBC Yeosu (여수 MBC) (1080p) [Not 24/7]",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MTN.kr@SD" tvg-logo="" tvg-name="MTN (720p)",MTN (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MTN.kr@SD" tvg-logo="" tvg-name="MTN (720p)",MTN (720p)
 http://183.110.27.87/mtnlive/720/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NationalAssemblyTV.kr@SD" tvg-logo="" tvg-name="National Assembly TV (720p)",National Assembly TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="NationalAssemblyTV.kr@SD" tvg-logo="" tvg-name="National Assembly TV (720p)",National Assembly TV (720p)
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NBS.kr@SD" tvg-logo="" tvg-name="NBS Korea Agricultural Broadcasting (720p)",NBS Korea Agricultural Broadcasting (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="NBS.kr@SD" tvg-logo="" tvg-name="NBS Korea Agricultural Broadcasting (720p)",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NHTV.kr@SD" tvg-logo="" tvg-name="NHTV (720p)",NHTV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="NHTV.kr@SD" tvg-logo="" tvg-name="NHTV (720p)",NHTV (720p)
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NSHomeShopping.kr@SD" tvg-logo="" tvg-name="NS Home Shopping (720p)",NS Home Shopping (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="NSHomeShopping.kr@SD" tvg-logo="" tvg-name="NS Home Shopping (720p)",NS Home Shopping (720p)
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NSShopPlus.kr@SD" tvg-logo="" tvg-name="NS Shop Plus (720p)",NS Shop Plus (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="NSShopPlus.kr@SD" tvg-logo="" tvg-name="NS Shop Plus (720p)",NS Shop Plus (720p)
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLQSDTV.kr@SD" tvg-logo="" tvg-name="OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLQSDTV.kr@SD" tvg-logo="" tvg-name="OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="OUN.kr@SD" tvg-logo="" tvg-name="OUN (1080p)",OUN (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="OUN.kr@SD" tvg-logo="" tvg-name="OUN (1080p)",OUN (1080p)
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PersianaKorea.fr@SD" tvg-logo="" tvg-name="Persiana Korea",Persiana Korea
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PersianaKorea.fr@SD" tvg-logo="" tvg-name="Persiana Korea",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTV.kr@SD" tvg-logo="" tvg-name="RTV (720p)",RTV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTV.kr@SD" tvg-logo="" tvg-name="RTV (720p)",RTV (720p)
 https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RUTCTV.kr@SD" tvg-logo="" tvg-name="RUTC TV (720p)",RUTC TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RUTCTV.kr@SD" tvg-logo="" tvg-name="RUTC TV (720p)",RUTC TV (720p)
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLDRDTV.kr@SD" tvg-logo="" tvg-name="SBS CJB (540p) [Not 24/7]",SBS CJB (540p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLDRDTV.kr@SD" tvg-logo="" tvg-name="SBS CJB (540p) [Not 24/7]",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLCGDTV.kr@SD" tvg-logo="" tvg-name="SBS G1 (360p) [Not 24/7]",SBS G1 (360p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLCGDTV.kr@SD" tvg-logo="" tvg-name="SBS G1 (360p) [Not 24/7]",SBS G1 (360p) [Not 24/7]
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLKJDTV.kr@SD" tvg-logo="" tvg-name="SBS JIBS (720p) [Not 24/7]",SBS JIBS (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLKJDTV.kr@SD" tvg-logo="" tvg-name="SBS JIBS (720p) [Not 24/7]",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLDQDTV.kr@SD" tvg-logo="" tvg-name="SBS JTV (406p) [Not 24/7]",SBS JTV (406p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLDQDTV.kr@SD" tvg-logo="" tvg-name="SBS JTV (406p) [Not 24/7]",SBS JTV (406p) [Not 24/7]
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLDHDTV.kr@SD" tvg-logo="" tvg-name="SBS KBC (1080p) [Not 24/7]",SBS KBC (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLDHDTV.kr@SD" tvg-logo="" tvg-name="SBS KBC (1080p) [Not 24/7]",SBS KBC (1080p) [Not 24/7]
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLDGDTV.kr@SD" tvg-logo="" tvg-name="SBS KNN (1080p) [Not 24/7]",SBS KNN (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLDGDTV.kr@SD" tvg-logo="" tvg-name="SBS KNN (1080p) [Not 24/7]",SBS KNN (1080p) [Not 24/7]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLDEDTV.kr@SD" tvg-logo="" tvg-name="SBS TBC (540p) [Geo-blocked] [Not 24/7]",SBS TBC (540p) [Geo-blocked] [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLDEDTV.kr@SD" tvg-logo="" tvg-name="SBS TBC (540p) [Geo-blocked] [Not 24/7]",SBS TBC (540p) [Geo-blocked] [Not 24/7]
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HLDPDTV.kr@SD" tvg-logo="" tvg-name="SBS UBC (540p) [Not 24/7]",SBS UBC (540p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HLDPDTV.kr@SD" tvg-logo="" tvg-name="SBS UBC (540p) [Not 24/7]",SBS UBC (540p) [Not 24/7]
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ShinsegaeTVShopping.kr@SD" tvg-logo="" tvg-name="Shinsegae Shopping TV (720p)",Shinsegae Shopping TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ShinsegaeTVShopping.kr@SD" tvg-logo="" tvg-name="Shinsegae Shopping TV (720p)",Shinsegae Shopping TV (720p)
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SwarajExpressSMBC.in@SD" tvg-logo="" tvg-name="Swaraj Express SMBC (720p) [Not 24/7]",Swaraj Express SMBC (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SwarajExpressSMBC.in@SD" tvg-logo="" tvg-name="Swaraj Express SMBC (720p) [Not 24/7]",Swaraj Express SMBC (720p) [Not 24/7]
 https://cdn-2.pishow.tv/live/477/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TBSTV.kr@SD" tvg-logo="" tvg-name="TBS Seoul (720p)",TBS Seoul (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TBSTV.kr@SD" tvg-logo="" tvg-name="TBS Seoul (720p)",TBS Seoul (720p)
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVChosun2.kr@SD" tvg-logo="" tvg-name="TV Chosun 2 (720p)",TV Chosun 2 (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVChosun2.kr@SD" tvg-logo="" tvg-name="TV Chosun 2 (720p)",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVChosun.kr@SD" tvg-logo="" tvg-name="TV Chosun (720p)",TV Chosun (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVChosun.kr@SD" tvg-logo="" tvg-name="TV Chosun (720p)",TV Chosun (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="WShopping.kr@SD" tvg-logo="" tvg-name="W Shopping (720p)",W Shopping (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="WShopping.kr@SD" tvg-logo="" tvg-name="W Shopping (720p)",W Shopping (720p)
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="WBSTV.kr@SD" tvg-logo="" tvg-name="WBS TV (720p)",WBS TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="WBSTV.kr@SD" tvg-logo="" tvg-name="WBS TV (720p)",WBS TV (720p)
 http://157.245.196.186/live/livestream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="WMBCTV631.us@HD" tvg-logo="" tvg-name="WMBC-DT1 (720p)",WMBC-DT1 (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="WMBCTV631.us@HD" tvg-logo="" tvg-name="WMBC-DT1 (720p)",WMBC-DT1 (720p)
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="WSBSTV221.us@HD" tvg-logo="" tvg-name="WSBS-DT1 (1080p)",WSBS-DT1 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="WSBSTV221.us@HD" tvg-logo="" tvg-name="WSBS-DT1 (1080p)",WSBS-DT1 (1080p)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="YTN.kr@SD" tvg-logo="" tvg-name="YTN (720p)",YTN (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="YTN.kr@SD" tvg-logo="" tvg-name="YTN (720p)",YTN (720p)
 http://202.60.106.14:8080/214/playlist.m3u8

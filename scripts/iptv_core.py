@@ -30,47 +30,130 @@ CATEGORY_KEYWORDS = {
     "live": ["ao vivo", "live", "eventos", "event"]
 }
 
+# TV AO VIVO - Categorias conforme task.md
 LIVE_GROUP_TITLES = {
-    "sports": "Sports",
-    "news": "News",
-    "kids": "Kids",
-    "open_tv": "Open TV",
-    "entertainment": "Entertainment",
-    "documentary": "Documentary",
-    "regional": "Regional",
+    "todos": "TV AO VIVO | Todos",
+    "abertos": "TV AO VIVO | Canais Abertos",
+    "internacionais": "TV AO VIVO | Canais Internacionais",
+    "documentarios": "TV AO VIVO | Canais Documentarios",
+    "filmes_series": "TV AO VIVO | Canais Filmes e Series",
+    "hbo": "TV AO VIVO | Canais HBO",
+    "telecine": "TV AO VIVO | Canais Telecine",
+    "infantil": "TV AO VIVO | Canais Infantis",
+    "noticias": "TV AO VIVO | Canais Noticias",
+    "variedades": "TV AO VIVO | Canais Variedades",
+    "religiosos": "TV AO VIVO | Canais Religiosos",
+    "premiere": "TV AO VIVO | Canais Premiere Clubes",
+    "sportv": "TV AO VIVO | Canais Sportv",
+    "espn": "TV AO VIVO | Canais ESPN",
+    "prime_video": "TV AO VIVO | Canais Amazon Prime",
+    "disney": "TV AO VIVO | Canais Disney",
+    "paramount": "TV AO VIVO | Canais Paramount",
+    "hbo_max": "TV AO VIVO | Canais HBO MAX",
+    "tnt": "TV AO VIVO | Canais TNT",
+    "combate": "TV AO VIVO | Canais Combate/UFC Fight",
+    "nba": "TV AO VIVO | Canais Nba League Pass",
+    "apple_tv": "TV AO VIVO | Canais Apple TV",
+    "caze_tv": "TV AO VIVO | Canais Cazé TV",
+    "dazn": "TV AO VIVO | Canais DAZN",
+    "ge_tv": "TV AO VIVO | Canais GE TV",
+    "goat": "TV AO VIVO | Canais GOAT",
+    "nosso_futebol": "TV AO VIVO | Canais Nosso Futebol",
+    "nsports": "TV AO VIVO | Canais NSPORTS",
+    "xsports": "TV AO VIVO | Canais XSPORTS",
+    "anime_24h": "TV AO VIVO | Canais 24h Animes",
+    "discovery_24h": "TV AO VIVO | Canais 24h Discovery",
+    "novelas_24h": "TV AO VIVO | Canais 24h Novelas",
+    "infantil_24h": "TV AO VIVO | Canais 24h Infantis",
+    "series_24h": "TV AO VIVO | Canais 24h Series de TV",
+    "adultos": "TV AO VIVO | Canais Adultos",
 }
 
+# FILMES - Categorias conforme task.md
 MOVIE_GROUP_TITLES = {
-    "action": "Action",
-    "comedy": "Comedy",
-    "drama": "Drama",
-    "horror": "Horror",
-    "thriller": "Thriller",
-    "romance": "Romance",
-    "documentary": "Documentary",
-    "animation": "Anime",
-    "family": "Family",
-    "kids": "Kids",
-    "launches": "Launches",
-    "crime": "Crime",
-    "scifi": "Sci-Fi",
-    "general": "Movies",
+    "todos": "FILMES | Todos",
+    "cinema": "FILMES | Cinema",
+    "lancamentos": "FILMES | Lançamentos",
+    "4k": "FILMES | 4K",
+    "acao": "FILMES | Ação",
+    "animacao": "FILMES | Animação",
+    "anime_filmes": "FILMES | Animes Filmes",
+    "aventura": "FILMES | Aventura",
+    "classicos": "FILMES | Clássicos",
+    "007": "FILMES | Coletânea 007",
+    "batman": "FILMES | Coletânea Batman",
+    "bourne": "FILMES | Coletânea Bourne",
+    "jornada_estrelas": "FILMES | Coletânea Jornada nas Estrelas",
+    "trapalhoes": "FILMES | Coletânea Os Trapalhões",
+    "resident_evil": "FILMES | Coletânea Resident Evil",
+    "rocky": "FILMES | Coletânea Rocky",
+    "star_wars": "FILMES | Coletânea Star Wars",
+    "standup": "FILMES | Comédia Stand-up",
+    "comedia": "FILMES | Comédia",
+    "comedia_romantica": "FILMES | Comédia Romântica",
+    "crime": "FILMES | Crime",
+    "drama": "FILMES | Drama",
+    "documentarios": "FILMES | Documentários Filmes",
+    "faroeste": "FILMES | Faroeste",
+    "ficcao": "FILMES | Ficção",
+    "guerra": "FILMES | Guerra",
+    "infantil": "FILMES | Infantil",
+    "karaoke": "FILMES | Karaoke",
+    "legendados": "FILMES | Legendados",
+    "musical": "FILMES | Musical",
+    "nacional": "FILMES | Nacional",
+    "religiosos": "FILMES | Religiosos",
+    "romance": "FILMES | Romance",
+    "suspense": "FILMES | Suspense",
+    "terror": "FILMES | Terror",
+    "natal": "FILMES | Especiais de Natal",
 }
 
+# SÉRIES - Categorias conforme task.md
 SERIES_GROUP_TITLES = {
-    "netflix": "Netflix",
-    "prime_video": "Prime Video",
-    "hbo": "HBO",
-    "apple_tv": "Apple TV+",
-    "disney_plus": "Disney+",
-    "paramount_plus": "Paramount+",
-    "crunchyroll": "Crunchyroll",
-    "anime": "Anime",
-    "sitcom": "Sitcom",
-    "drama": "Drama",
-    "documentary": "Documentary",
-    "crime": "Crime",
-    "general": "Series",
+    "todos": "SERIES | Todos",
+    "abc": "SERIES | ABC",
+    "amc": "SERIES | AMC+",
+    "apple_tv": "SERIES | Apple TV",
+    "bbc_one": "SERIES | BBC ONE",
+    "brasil_paralelo": "SERIES | Brasil Paralelo",
+    "cw": "SERIES | CW",
+    "discovery": "SERIES | Discovery +",
+    "disney": "SERIES | Disney +",
+    "globoplay": "SERIES | GloboPlay",
+    "hbo_max": "SERIES | HBO Max",
+    "hulu": "SERIES | Hulu",
+    "lionsgate": "SERIES | Lionsgate +",
+    "looke": "SERIES | Looke",
+    "netflix": "SERIES | Netflix",
+    "paramount": "SERIES | Paramount +",
+    "playplus": "SERIES | PlayPlus",
+    "prime_video": "SERIES | Amazon Prime Video",
+    "starz": "SERIES | Starz",
+    "viaplay": "SERIES | Via Play",
+    "acao": "SERIES | Ação",
+    "animacao": "SERIES | Animação/Infantil",
+    "anime": "SERIES | Animes",
+    "aventura": "SERIES | Aventura",
+    "chicago": "SERIES | Chicago Universe",
+    "comedia": "SERIES | Comedia",
+    "crime": "SERIES | Crime",
+    "documentarios": "SERIES | Documentários",
+    "dorama": "SERIES | Dorama",
+    "drama": "SERIES | Drama",
+    "ficcao_fantasia": "SERIES | Ficção e Fantasia",
+    "faroeste": "SERIES | Faroeste",
+    "guerra": "SERIES | Guerra",
+    "marvel": "SERIES | Marvel",
+    "miniseries": "SERIES | Mini Séries",
+    "nacional": "SERIES | Nacional",
+    "novelas": "SERIES | Novelas",
+    "reality": "SERIES | Reality Shows",
+    "romance": "SERIES | Romance",
+    "suspense": "SERIES | Suspense",
+    "terror": "SERIES | Terror",
+    "turcas": "SERIES | Turcas",
+    "tv_show": "SERIES | Tv Show",
 }
 
 LIVE_CATEGORY_KEYWORDS = {
@@ -565,13 +648,12 @@ def squeeze_spaces(value: str) -> str:
 
 def canonical_group_title(entry: PlaylistEntry) -> str:
     if entry.content_type == "live":
-        base_group = LIVE_GROUP_TITLES.get(entry.live_category, "Entertainment")
-        if entry.channel_group:
-            return f"{base_group} | {format_slug_label(entry.channel_group)}"
-        return base_group
+        return LIVE_GROUP_TITLES.get(entry.live_category, "TV AO VIVO | Variedades")
     if entry.content_type == "movies":
-        return f'Movies | {MOVIE_GROUP_TITLES.get(entry.vod_genre, "Movies")}'
-    return f'Series | {SERIES_GROUP_TITLES.get(entry.series_genre, "Series")}'
+        return MOVIE_GROUP_TITLES.get(entry.vod_genre, "FILMES | Cinema")
+    if entry.content_type == "series":
+        return SERIES_GROUP_TITLES.get(entry.series_genre, "SERIES | Drama")
+    return "Sem Categoria"
 
 
 def format_slug_label(value: str) -> str:
@@ -644,34 +726,182 @@ def is_probable_movie(entry: PlaylistEntry) -> bool:
 
 def detect_live_category(entry: PlaylistEntry) -> str:
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.tvg_id]))
-    if detect_channel_group(entry) in {"globo", "sbt", "record", "band", "redetv"}:
-        if any(token in haystack for token in ["regional", "rede amazonica", "capital", "interior"]):
-            return "regional"
-        return "open_tv"
-    for category, keywords in LIVE_CATEGORY_KEYWORDS.items():
-        if any(keyword in haystack for keyword in keywords):
-            return category
-    return "entertainment"
+    
+    # Detectar por canal específico primeiro
+    if any(keyword in haystack for keyword in ["espn"]):
+        return "espn"
+    if any(keyword in haystack for keyword in ["sportv", "sport tv"]):
+        return "sportv"
+    if any(keyword in haystack for keyword in ["premiere"]):
+        return "premiere"
+    if any(keyword in haystack for keyword in ["globo", "sbt", "record", "band", "redetv"]):
+        return "abertos"
+    if any(keyword in haystack for keyword in ["hbo"]):
+        if any(word in haystack for word in ["max", "hbo max"]):
+            return "hbo_max"
+        return "hbo"
+    if any(keyword in haystack for keyword in ["telecine"]):
+        return "telecine"
+    if any(keyword in haystack for keyword in ["discovery", "tlc", "animal planet", "history", "nat geo"]):
+        return "documentarios"
+    if any(keyword in haystack for keyword in ["disney", "disney channel", "disney junior"]):
+        return "disney"
+    if any(keyword in haystack for keyword in ["nick", "nickelodeon"]):
+        return "infantil"
+    if any(keyword in haystack for keyword in ["cartoon", "boomerang", "tooncast"]):
+        return "infantil"
+    if any(keyword in haystack for keyword in ["cnn", "bbc news", "record news", "globonews", "band news", "news"]):
+        return "noticias"
+    if any(keyword in haystack for keyword in ["combate", "ufc", "fight"]):
+        return "combate"
+    if any(keyword in haystack for keyword in ["nba", "league pass"]):
+        return "nba"
+    if any(keyword in haystack for keyword in ["tnt", "warner", "space"]):
+        return "tnt"
+    if any(keyword in haystack for keyword in ["apple", "apple tv"]):
+        return "apple_tv"
+    if any(keyword in haystack for keyword in ["prime video", "amazon prime"]):
+        return "prime_video"
+    if any(keyword in haystack for keyword in ["paramount"]):
+        return "paramount"
+    if any(keyword in haystack for keyword in ["anime", "animacao"]):
+        return "anime_24h"
+    if any(keyword in haystack for keyword in ["novela", "telenovela"]):
+        return "novelas_24h"
+    if any(keyword in haystack for keyword in ["international", "internacional"]):
+        return "internacionais"
+    
+    return "variedades"
 
 
 def detect_movie_genre(entry: PlaylistEntry) -> str:
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
     release_year = detect_release_year(entry)
     current_year = datetime.now().year
+    
+    # Detectar lançamentos
     if release_year and release_year >= current_year - 1:
-        return "launches"
-    for genre, keywords in MOVIE_GENRE_KEYWORDS.items():
-        if keywords and any(keyword in haystack for keyword in keywords):
-            return genre
-    return "general"
+        return "lancamentos"
+    
+    # Detectar 4K
+    if any(keyword in haystack for keyword in ["4k", "uhd", "2160p"]):
+        return "4k"
+    
+    # Detectar coleções especiais
+    if any(keyword in haystack for keyword in ["007", "james bond"]):
+        return "007"
+    if any(keyword in haystack for keyword in ["batman"]):
+        return "batman"
+    if any(keyword in haystack for keyword in ["bourne"]):
+        return "bourne"
+    if any(keyword in haystack for keyword in ["jornada", "star trek"]):
+        return "jornada_estrelas"
+    if any(keyword in haystack for keyword in ["trapalhao"]):
+        return "trapalhoes"
+    if any(keyword in haystack for keyword in ["resident evil"]):
+        return "resident_evil"
+    if any(keyword in haystack for keyword in ["rocky"]):
+        return "rocky"
+    if any(keyword in haystack for keyword in ["star wars"]):
+        return "star_wars"
+    
+    # Detectar por gênero
+    if any(keyword in haystack for keyword in ["acao", "action", "aventura", "adventure"]):
+        return "acao"
+    if any(keyword in haystack for keyword in ["comedia", "comedy", "humor"]):
+        return "comedia"
+    if any(keyword in haystack for keyword in ["romantique", "romance", "romantica"]):
+        return "comedia_romantica"
+    if any(keyword in haystack for keyword in ["drama", "dramatico"]):
+        return "drama"
+    if any(keyword in haystack for keyword in ["crime", "policial", "investigacao"]):
+        return "crime"
+    if any(keyword in haystack for keyword in ["documentario", "documentary"]):
+        return "documentarios"
+    if any(keyword in haystack for keyword in ["animacao", "animation", "anime"]):
+        return "animacao"
+    if any(keyword in haystack for keyword in ["anime"]):
+        return "anime_filmes"
+    if any(keyword in haystack for keyword in ["infantil", "kids", "children"]):
+        return "infantil"
+    if any(keyword in haystack for keyword in ["terror", "horror", "slasher", "sobrenatural"]):
+        return "terror"
+    if any(keyword in haystack for keyword in ["suspense", "thriller", "misterio"]):
+        return "suspense"
+    if any(keyword in haystack for keyword in ["musical"]):
+        return "musical"
+    if any(keyword in haystack for keyword in ["faroeste", "western", "western"]):
+        return "faroeste"
+    if any(keyword in haystack for keyword in ["ficcao", "sci-fi", "ficcion cientifica"]):
+        return "ficcao"
+    if any(keyword in haystack for keyword in ["classico", "clássico"]):
+        return "classicos"
+    if any(keyword in haystack for keyword in ["guerra", "war"]):
+        return "guerra"
+    if any(keyword in haystack for keyword in ["nacional", "brasileiro"]):
+        return "nacional"
+    if any(keyword in haystack for keyword in ["religioso", "religious", "espiritual"]):
+        return "religiosos"
+    if any(keyword in haystack for keyword in ["stand.up", "stand up", "standup"]):
+        return "standup"
+    if any(keyword in haystack for keyword in ["natal", "christmas"]):
+        return "natal"
+    
+    return "cinema"
 
 
 def detect_series_genre(entry: PlaylistEntry) -> str:
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
-    for genre, keywords in SERIES_GENRE_KEYWORDS.items():
-        if keywords and any(keyword in haystack for keyword in keywords):
-            return genre
-    return "general"
+    
+    # Detectar por plataforma primeiro
+    if any(keyword in haystack for keyword in ["netflix"]):
+        return "netflix"
+    if any(keyword in haystack for keyword in ["prime video", "amazon prime"]):
+        return "prime_video"
+    if any(keyword in haystack for keyword in ["hbo", "hbo max", "max"]):
+        return "hbo_max"
+    if any(keyword in haystack for keyword in ["apple", "apple tv"]):
+        return "apple_tv"
+    if any(keyword in haystack for keyword in ["disney+", "disney plus"]):
+        return "disney"
+    if any(keyword in haystack for keyword in ["paramount+", "paramount plus"]):
+        return "paramount"
+    if any(keyword in haystack for keyword in ["globoplay"]):
+        return "globoplay"
+    if any(keyword in haystack for keyword in ["crunchyroll"]):
+        return "anime"
+    
+    # Detectar por gênero
+    if any(keyword in haystack for keyword in ["acao", "action", "aventura", "adventure"]):
+        return "acao"
+    if any(keyword in haystack for keyword in ["comedia", "comedy", "sitcom"]):
+        return "comedia"
+    if any(keyword in haystack for keyword in ["drama", "dramatico"]):
+        return "drama"
+    if any(keyword in haystack for keyword in ["crime", "policial", "investigacao"]):
+        return "crime"
+    if any(keyword in haystack for keyword in ["documentario", "documentary"]):
+        return "documentarios"
+    if any(keyword in haystack for keyword in ["anime", "animacao"]):
+        return "anime"
+    if any(keyword in haystack for keyword in ["dorama", "drama asiatico"]):
+        return "dorama"
+    if any(keyword in haystack for keyword in ["marvel"]):
+        return "marvel"
+    if any(keyword in haystack for keyword in ["romance", "romantica"]):
+        return "romance"
+    if any(keyword in haystack for keyword in ["suspense", "thriller", "misterio"]):
+        return "suspense"
+    if any(keyword in haystack for keyword in ["terror", "horror", "sobrenatural"]):
+        return "terror"
+    if any(keyword in haystack for keyword in ["turca", "turco"]):
+        return "turcas"
+    if any(keyword in haystack for keyword in ["infantil", "kids", "children"]):
+        return "animacao"
+    if any(keyword in haystack for keyword in ["reality"]):
+        return "reality"
+    
+    return "drama"
 
 
 def detect_quality(entry: PlaylistEntry) -> str:

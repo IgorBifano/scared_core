@@ -1,554 +1,554 @@
 #EXTM3U name="Family Media"
-#EXTINF:-1 group-title="Entertainment" tvg-id="FirstMusicChannel.by@SD" tvg-logo="" tvg-name="Первый Музыкальный Канал HD (1080p)",Первый Музыкальный Канал HD (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FirstMusicChannel.by@SD" tvg-logo="" tvg-name="Первый Музыкальный Канал HD (1080p)",Первый Музыкальный Канал HD (1080p)
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Entertainment" tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="" tvg-name="Первый Музыкальный Канал Россия HD (1080p)",Первый Музыкальный Канал Россия HD (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="" tvg-name="Первый Музыкальный Канал Россия HD (1080p)",Первый Музыкальный Канал Россия HD (1080p)
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="Entertainment" tvg-id="ChongqingTVInternational.cn@SD" tvg-logo="" tvg-name="重庆卫视 (1080p)",重庆卫视 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="ChongqingTVInternational.cn@SD" tvg-logo="" tvg-name="重庆卫视 (1080p)",重庆卫视 (1080p)
 http://118.81.195.79:9003/hls/22/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="15PlusMusic.ru@HD" tvg-logo="" tvg-name="15+ Music (1080p)",15+ Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="15PlusMusic.ru@HD" tvg-logo="" tvg-name="15+ Music (1080p)",15+ Music (1080p)
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="24h.escolhinha.do.professor.raimundo.classico" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ESCOLHINHA DO PROFESSOR RAIMUNDO CLASSICO",24H • ESCOLHINHA DO PROFESSOR RAIMUNDO CLASSICO
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="24h.escolhinha.do.professor.raimundo.classico" tvg-logo="https://i.imgur.com/qh7dG5S.png" tvg-name="24H • ESCOLHINHA DO PROFESSOR RAIMUNDO CLASSICO",24H • ESCOLHINHA DO PROFESSOR RAIMUNDO CLASSICO
 http://tyzic.xyz:80/IgorBifano/bng6vizn/978230
-#EXTINF:-1 group-title="Entertainment" tvg-id="30AMusic.us@SD" tvg-logo="" tvg-name="30A Music (720p)",30A Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="30AMusic.us@SD" tvg-logo="" tvg-name="30A Music (720p)",30A Music (720p)
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="30ATVClassicMovies.us@SD" tvg-logo="" tvg-name="30A TV Classic Movies (720p)",30A TV Classic Movies (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="30ATVClassicMovies.us@SD" tvg-logo="" tvg-name="30A TV Classic Movies (720p)",30A TV Classic Movies (720p)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="3ABNPraiseHimMusicNetwork.us@SD" tvg-logo="" tvg-name="3ABN Praise Him Music Network",3ABN Praise Him Music Network
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="3ABNPraiseHimMusicNetwork.us@SD" tvg-logo="" tvg-name="3ABN Praise Him Music Network",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Music.kg@SD" tvg-logo="" tvg-name="УТРК Музыка (480p) [Not 24/7]",УТРК Музыка (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Music.kg@SD" tvg-logo="" tvg-name="УТРК Музыка (480p) [Not 24/7]",УТРК Музыка (480p) [Not 24/7]
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="4acetv.classic.hits.1080p" tvg-logo="" tvg-name="4ACETV CLASSIC HITS (1080p)",4ACETV CLASSIC HITS (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="4acetv.classic.hits.1080p" tvg-logo="" tvg-name="4ACETV CLASSIC HITS (1080p)",4ACETV CLASSIC HITS (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8?ads.vf=TGt7I6yRWZC
-#EXTINF:-1 group-title="Entertainment" tvg-id="Teleputeshestviya.ru@SD" tvg-logo="" tvg-name="Телепутешествия (576p)",Телепутешествия (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Teleputeshestviya.ru@SD" tvg-logo="" tvg-name="Телепутешествия (576p)",Телепутешествия (576p)
 http://31.148.48.15/Teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SichuanSatelliteTV.cn@SD" tvg-logo="" tvg-name="四川卫视 (576p)",四川卫视 (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SichuanSatelliteTV.cn@SD" tvg-logo="" tvg-name="四川卫视 (576p)",四川卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" tvg-logo="" tvg-name="四川妇女儿童 (720p) [Not 24/7]",四川妇女儿童 (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" tvg-logo="" tvg-name="四川妇女儿童 (720p) [Not 24/7]",四川妇女儿童 (720p) [Not 24/7]
 http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="7SMusic.in@SD" tvg-logo="" tvg-name="7S Music (576p)",7S Music (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="7SMusic.in@SD" tvg-logo="" tvg-name="7S Music (576p)",7S Music (576p)
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="a.z.best.classic.tv.1080p" tvg-logo="" tvg-name="a-z Best Classic TV (1080p)",a-z Best Classic TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="a.z.best.classic.tv.1080p" tvg-logo="" tvg-name="a-z Best Classic TV (1080p)",a-z Best Classic TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8?ads.vf=0RN164SO2bG
-#EXTINF:-1 group-title="Entertainment" tvg-id="a.z.classic.flix.1080p" tvg-logo="" tvg-name="a-z Classic Flix (1080p)",a-z Classic Flix (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="a.z.classic.flix.1080p" tvg-logo="" tvg-name="a-z Classic Flix (1080p)",a-z Classic Flix (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/8WOSAE6HHWJY8KP8BW2C/hls3/now,-1m/m.m3u8?ads.vf=7-VUi572FgK
-#EXTINF:-1 group-title="Entertainment" tvg-id="A2iMusic.sn@SD" tvg-logo="" tvg-name="A2i Music (720p) [Not 24/7]",A2i Music (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="A2iMusic.sn@SD" tvg-logo="" tvg-name="A2i Music (720p) [Not 24/7]",A2i Music (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ABNTVIndia.us@SD" tvg-logo="" tvg-name="ABN TV India (540p)",ABN TV India (540p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ABNTVIndia.us@SD" tvg-logo="" tvg-name="ABN TV India (540p)",ABN TV India (540p)
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ADBTV.pt@SD" tvg-logo="" tvg-name="ADB TV (1080p)",ADB TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ADBTV.pt@SD" tvg-logo="" tvg-name="ADB TV (1080p)",ADB TV (1080p)
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="AlbKanaleMusicTV.al@SD" tvg-logo="" tvg-name="AlbKanale Music TV (720p)",AlbKanale Music TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="AlbKanaleMusicTV.al@SD" tvg-logo="" tvg-name="AlbKanale Music TV (720p)",AlbKanale Music TV (720p)
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="AMusicChannel.ng@SD" tvg-logo="" tvg-name="AMusic Channel (1080p)",AMusic Channel (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="AMusicChannel.ng@SD" tvg-logo="" tvg-name="AMusic Channel (1080p)",AMusic Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe
-#EXTINF:-1 group-title="Entertainment" tvg-id="AnimeVisionClassics.es@SD" tvg-logo="" tvg-name="Anime Vision Classics (1080p)",Anime Vision Classics (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Animes" tvg-id="AnimeVisionClassics.es@SD" tvg-logo="" tvg-name="Anime Vision Classics (1080p)",Anime Vision Classics (1080p)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="AragonTVInternacional.es@SD" tvg-logo="" tvg-name="Aragon TV Internacional (720p) [Not 24/7]",Aragon TV Internacional (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="AragonTVInternacional.es@SD" tvg-logo="" tvg-name="Aragon TV Internacional (720p) [Not 24/7]",Aragon TV Internacional (720p) [Not 24/7]
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="" tvg-name="Artflix Movie Classics (720p)",Artflix Movie Classics (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="" tvg-name="Artflix Movie Classics (720p)",Artflix Movie Classics (720p)
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ARTV.pt@SD" tvg-logo="" tvg-name="ARTV Canal Parlamento (720p) [Not 24/7]",ARTV Canal Parlamento (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ARTV.pt@SD" tvg-logo="" tvg-name="ARTV Canal Parlamento (720p) [Not 24/7]",ARTV Canal Parlamento (720p) [Not 24/7]
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ATNMusic.bd@SD" tvg-logo="" tvg-name="ATN Music (360p)",ATN Music (360p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ATNMusic.bd@SD" tvg-logo="" tvg-name="ATN Music (360p)",ATN Music (360p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="B4UMusic.in@India" tvg-logo="" tvg-name="B4U Music (576p)",B4U Music (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="B4UMusic.in@India" tvg-logo="" tvg-name="B4U Music (576p)",B4U Music (576p)
 http://103.213.31.109:90/B4UMusic/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BarbudMusic.af@SD" tvg-logo="" tvg-name="Barbud Music (720p)",Barbud Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BarbudMusic.af@SD" tvg-logo="" tvg-name="Barbud Music (720p)",Barbud Music (720p)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BestClasicosTV.cr@SD" tvg-logo="" tvg-name="BestClasicosTV (720p) [Not 24/7]",BestClasicosTV (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BestClasicosTV.cr@SD" tvg-logo="" tvg-name="BestClasicosTV (720p) [Not 24/7]",BestClasicosTV (720p) [Not 24/7]
 https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BETClassicsPlutoTV.us@France" tvg-logo="" tvg-name="BET Classics",BET Classics
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BETClassicsPlutoTV.us@France" tvg-logo="" tvg-name="BET Classics",BET Classics
 https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BibelTVImpuls.de@SD" tvg-logo="" tvg-name="Bibel TV Impuls (720p)",Bibel TV Impuls (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BibelTVImpuls.de@SD" tvg-logo="" tvg-name="Bibel TV Impuls (720p)",Bibel TV Impuls (720p)
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="big.brother.classic" tvg-logo="" tvg-name="BIG BROTHER CLASSIC",BIG BROTHER CLASSIC
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="big.brother.classic" tvg-logo="" tvg-name="BIG BROTHER CLASSIC",BIG BROTHER CLASSIC
 https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BIZMusic.uz@SD" tvg-logo="" tvg-name="BIZ Music (1080p)",BIZ Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BIZMusic.uz@SD" tvg-logo="" tvg-name="BIZ Music (1080p)",BIZ Music (1080p)
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BollywoodClassic.ro@SD" tvg-logo="" tvg-name="Bollywood Classic (1080p)",Bollywood Classic (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BollywoodClassic.ro@SD" tvg-logo="" tvg-name="Bollywood Classic (1080p)",Bollywood Classic (1080p)
 http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BRIDGEClassic.ru@SD" tvg-logo="" tvg-name="BRIDGE Classic (576p)",BRIDGE Classic (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BRIDGEClassic.ru@SD" tvg-logo="" tvg-name="BRIDGE Classic (576p)",BRIDGE Classic (576p)
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="BTBMusic.pl@HD" tvg-logo="" tvg-name="BTB Music (1080p)",BTB Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="BTBMusic.pl@HD" tvg-logo="" tvg-name="BTB Music (1080p)",BTB Music (1080p)
 https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Canal26TVIAP.sv@SD" tvg-logo="" tvg-name="Canal 26 TV IAP (1080p)",Canal 26 TV IAP (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Canal26TVIAP.sv@SD" tvg-logo="" tvg-name="Canal 26 TV IAP (1080p)",Canal 26 TV IAP (1080p)
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="canela.clasicos" tvg-logo="" tvg-name="Canela Clasicos",Canela Clasicos
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="canela.clasicos" tvg-logo="" tvg-name="Canela Clasicos",Canela Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 group-title="Entertainment" tvg-id="canela.music.presents" tvg-logo="" tvg-name="Canela Music Presents",Canela Music Presents
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="canela.music.presents" tvg-logo="" tvg-name="Canela Music Presents",Canela Music Presents
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="CartoonClassics.pl@FAST" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="CartoonClassics.pl@FAST" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
-#EXTINF:-1 group-title="Kids | Cartoon" tvg-id="cartoon.classics.1080p" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="cartoon.classics.1080p" tvg-logo="" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ChivacoaTVInternacional.ve@SD" tvg-logo="" tvg-name="Chivacoa TV Internacional (720p)",Chivacoa TV Internacional (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="ChivacoaTVInternacional.ve@SD" tvg-logo="" tvg-name="Chivacoa TV Internacional (720p)",Chivacoa TV Internacional (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PlutoTVCineClasico.us@US" tvg-logo="" tvg-name="Cine Clásico",Cine Clásico
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PlutoTVCineClasico.us@US" tvg-logo="" tvg-name="Cine Clásico",Cine Clásico
 https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="cinevault.classics.540p" tvg-logo="" tvg-name="Cinevault Classics (540p)",Cinevault Classics (540p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cinevault.classics.540p" tvg-logo="" tvg-name="Cinevault Classics (540p)",Cinevault Classics (540p)
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="cinevault.classics.720p" tvg-logo="" tvg-name="Cinevault Classics (720p)",Cinevault Classics (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cinevault.classics.720p" tvg-logo="" tvg-name="Cinevault Classics (720p)",Cinevault Classics (720p)
 https://aegis-cloudfront-1.tubi.video/9ab6d1a7-9ab7-4281-8fde-e067ca002830/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ClassicArtsShowcase.us@SD" tvg-logo="" tvg-name="Classic Arts Showcase (720p)",Classic Arts Showcase (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ClassicArtsShowcase.us@SD" tvg-logo="" tvg-name="Classic Arts Showcase (720p)",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ClassicCinema.us@SD" tvg-logo="" tvg-name="Classic Cinema (240p) [Not 24/7]",Classic Cinema (240p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ClassicCinema.us@SD" tvg-logo="" tvg-name="Classic Cinema (240p) [Not 24/7]",Classic Cinema (240p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="classic.hits" tvg-logo="" tvg-name="Classic Hits",Classic Hits
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="classic.hits" tvg-logo="" tvg-name="Classic Hits",Classic Hits
 https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="classic.movie.westerns" tvg-logo="" tvg-name="Classic Movie Westerns",Classic Movie Westerns
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="classic.movie.westerns" tvg-logo="" tvg-name="Classic Movie Westerns",Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ClassicMoviesChannel.us@SD" tvg-logo="" tvg-name="Classic Movies Channel",Classic Movies Channel
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ClassicMoviesChannel.us@SD" tvg-logo="" tvg-name="Classic Movies Channel",Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ClassicTV.ir@SD" tvg-logo="" tvg-name="Classic TV",Classic TV
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ClassicTV.ir@SD" tvg-logo="" tvg-name="Classic TV",Classic TV
 https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ClassicTVComedy.us@SD" tvg-logo="" tvg-name="Classic TV Comedy",Classic TV Comedy
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ClassicTVComedy.us@SD" tvg-logo="" tvg-name="Classic TV Comedy",Classic TV Comedy
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="classic.tv.crime.drama" tvg-logo="" tvg-name="Classic TV Crime Drama",Classic TV Crime Drama
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="classic.tv.crime.drama" tvg-logo="" tvg-name="Classic TV Crime Drama",Classic TV Crime Drama
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ClassicTVDrama.us@SD" tvg-logo="" tvg-name="Classic TV Drama",Classic TV Drama
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ClassicTVDrama.us@SD" tvg-logo="" tvg-name="Classic TV Drama",Classic TV Drama
 https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ClassicTVFamilies.us@SD" tvg-logo="" tvg-name="Classic TV: Families",Classic TV: Families
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ClassicTVFamilies.us@SD" tvg-logo="" tvg-name="Classic TV: Families",Classic TV: Families
 https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Classica.us@SD" tvg-logo="" tvg-name="Classica (720p)",Classica (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Classica.us@SD" tvg-logo="" tvg-name="Classica (720p)",Classica (720p)
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="CaliforniaMusicChannel.us@SD" tvg-logo="" tvg-name="CMC (California Music Channel) (1080p)",CMC (California Music Channel) (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="CaliforniaMusicChannel.us@SD" tvg-logo="" tvg-name="CMC (California Music Channel) (1080p)",CMC (California Music Channel) (1080p)
 https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="comedy.classics.1080p" tvg-logo="" tvg-name="Comedy Classics (1080p)",Comedy Classics (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="comedy.classics.1080p" tvg-logo="" tvg-name="Comedy Classics (1080p)",Comedy Classics (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8?ads.vf=ihIlkNrNKSy
-#EXTINF:-1 group-title="Entertainment" tvg-id="cowboy.classics.1080p" tvg-logo="" tvg-name="Cowboy Classics (1080p)",Cowboy Classics (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cowboy.classics.1080p" tvg-logo="" tvg-name="Cowboy Classics (1080p)",Cowboy Classics (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QLP91NA9J4KHFS0Q08LB/hls3/now,-1m/m.m3u8?ads.vf=fhMjsKtt-wG
-#EXTINF:-1 group-title="Entertainment" tvg-id="DMusic.kh@SD" tvg-logo="" tvg-name="D Music (1280p) [Not 24/7]",D Music (1280p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="DMusic.kh@SD" tvg-logo="" tvg-name="D Music (1280p) [Not 24/7]",D Music (1280p) [Not 24/7]
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DeluxeMusic.de@SD" tvg-logo="" tvg-name="Deluxe Music (720p)",Deluxe Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="DeluxeMusic.de@SD" tvg-logo="" tvg-name="Deluxe Music (720p)",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DesiChannel.in@SD" tvg-logo="" tvg-name="Desi Channel (720p)",Desi Channel (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="DesiChannel.in@SD" tvg-logo="" tvg-name="Desi Channel (720p)",Desi Channel (720p)
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DhoomMusic.in@SD" tvg-logo="" tvg-name="Dhoom Music (720p)",Dhoom Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="DhoomMusic.in@SD" tvg-logo="" tvg-name="Dhoom Music (720p)",Dhoom Music (720p)
 https://cdn-1.pishow.tv/live/1456/master.m3u8
-#EXTINF:-1 group-title="Kids | Disney" tvg-id="DisneyChannel.pt@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannel.pt@SD" tvg-logo="" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="doctor.who.classic.720p" tvg-logo="" tvg-name="Doctor Who Classic (720p)",Doctor Who Classic (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="doctor.who.classic.720p" tvg-logo="" tvg-name="Doctor Who Classic (720p)",Doctor Who Classic (720p)
 https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="DTRMusic1.ru@HD" tvg-logo="" tvg-name="DTR Music 1 (720p)",DTR Music 1 (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="DTRMusic1.ru@HD" tvg-logo="" tvg-name="DTR Music 1 (720p)",DTR Music 1 (720p)
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="EpicMusic.in@SD" tvg-logo="" tvg-name="Epic Music (720p)",Epic Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="EpicMusic.in@SD" tvg-logo="" tvg-name="Epic Music (720p)",Epic Music (720p)
 http://103.213.31.109:90/ShowBox/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ETVMusic.in@HD" tvg-logo="" tvg-name="ETV Music (1080p)",ETV Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ETVMusic.in@HD" tvg-logo="" tvg-name="ETV Music (1080p)",ETV Music (1080p)
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="EuroIndieMusicChartTV.it@SD" tvg-logo="" tvg-name="Euro Indie Music Chart TV (360p)",Euro Indie Music Chart TV (360p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="EuroIndieMusicChartTV.it@SD" tvg-logo="" tvg-name="Euro Indie Music Chart TV (360p)",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Famatv.pt@SD" tvg-logo="" tvg-name="Famatv (1080p) [Not 24/7]",Famatv (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Famatv.pt@SD" tvg-logo="" tvg-name="Famatv (1080p) [Not 24/7]",Famatv (1080p) [Not 24/7]
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="family.feud.classic.1080p" tvg-logo="" tvg-name="Family Feud Classic (1080p)",Family Feud Classic (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="family.feud.classic.1080p" tvg-logo="" tvg-name="Family Feud Classic (1080p)",Family Feud Classic (1080p)
 https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="family.feud.classic.720p" tvg-logo="" tvg-name="Family Feud Classic (720p)",Family Feud Classic (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="family.feud.classic.720p" tvg-logo="" tvg-name="Family Feud Classic (720p)",Family Feud Classic (720p)
 https://jmp2.uk/plu-64c2222fb0cf5c0008288c4f.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="feva.music.1080p" tvg-logo="" tvg-name="FEVA MUSIC (1080p)",FEVA MUSIC (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="feva.music.1080p" tvg-logo="" tvg-name="FEVA MUSIC (1080p)",FEVA MUSIC (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8?ads.vf=tnxM2v6NH4m
-#EXTINF:-1 group-title="Entertainment" tvg-id="FilmexClasico.mx@SD" tvg-logo="" tvg-name="Filmex Clásico (1080p) [Geo-blocked]",Filmex Clásico (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FilmexClasico.mx@SD" tvg-logo="" tvg-name="Filmex Clásico (1080p) [Geo-blocked]",Filmex Clásico (1080p) [Geo-blocked]
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FilmRiseClassicTV.us@SD" tvg-logo="" tvg-name="FilmRise Classic TV (720p)",FilmRise Classic TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FilmRiseClassicTV.us@SD" tvg-logo="" tvg-name="FilmRise Classic TV (720p)",FilmRise Classic TV (720p)
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FolxMusicTelevision.de@SD" tvg-logo="" tvg-name="FOLX Music (1080p)",FOLX Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FolxMusicTelevision.de@SD" tvg-logo="" tvg-name="FOLX Music (1080p)",FOLX Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FonMusic.ru@SD" tvg-logo="" tvg-name="FON Music (1080p)",FON Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FonMusic.ru@SD" tvg-logo="" tvg-name="FON Music (1080p)",FON Music (1080p)
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ForensicFiles.us@SD" tvg-logo="" tvg-name="Forensic Files",Forensic Files
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ForensicFiles.us@SD" tvg-logo="" tvg-name="Forensic Files",Forensic Files
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="forensic.files" tvg-logo="" tvg-name="Forensic Files",Forensic Files
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="forensic.files" tvg-logo="" tvg-name="Forensic Files",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FilmRiseForensicFiles.us@SD" tvg-logo="" tvg-name="Forensic Files (720p) [Geo-blocked]",Forensic Files (720p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FilmRiseForensicFiles.us@SD" tvg-logo="" tvg-name="Forensic Files (720p) [Geo-blocked]",Forensic Files (720p) [Geo-blocked]
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="CityofFortPierce.us@SD" tvg-logo="" tvg-name="Fort Pierce Live Stream (Fort Pierce FL) (720p)",Fort Pierce Live Stream (Fort Pierce FL) (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="CityofFortPierce.us@SD" tvg-logo="" tvg-name="Fort Pierce Live Stream (Fort Pierce FL) (720p)",Fort Pierce Live Stream (Fort Pierce FL) (720p)
 https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FUELTV.pt@EMEA" tvg-logo="" tvg-name="FUEL TV (1080p)",FUEL TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FUELTV.pt@EMEA" tvg-logo="" tvg-name="FUEL TV (1080p)",FUEL TV (1080p)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FUELTV.pt@US" tvg-logo="" tvg-name="FUEL TV (1080p)",FUEL TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FUELTV.pt@US" tvg-logo="" tvg-name="FUEL TV (1080p)",FUEL TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/playlist.m3u8?ads.vf=gbdyvfXODOK
-#EXTINF:-1 group-title="Entertainment" tvg-id="FUELTV.pt@SD" tvg-logo="" tvg-name="Fuel TV (1080p)",Fuel TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FUELTV.pt@SD" tvg-logo="" tvg-name="Fuel TV (1080p)",Fuel TV (1080p)
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="FUELTV.pt@AU" tvg-logo="" tvg-name="Fuel TV (1080p)",Fuel TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FUELTV.pt@AU" tvg-logo="" tvg-name="Fuel TV (1080p)",Fuel TV (1080p)
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GEMClassic.tr@SD" tvg-logo="" tvg-name="GEM Classic",GEM Classic
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GEMClassic.tr@SD" tvg-logo="" tvg-name="GEM Classic",GEM Classic
 https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
-#EXTINF:-1 group-title="Entertainment" tvg-id="gol.classics" tvg-logo="" tvg-name="Gol Classics",Gol Classics
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="gol.classics" tvg-logo="" tvg-name="Gol Classics",Gol Classics
 https://jmp2.uk/plu-66fd36ca9269330008412b6c.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GolClassics.es@SD" tvg-logo="" tvg-name="Gol Classics (1080p)",Gol Classics (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GolClassics.es@SD" tvg-logo="" tvg-name="Gol Classics (1080p)",Gol Classics (1080p)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="GospelTVIndia.in@SD" tvg-logo="" tvg-name="Gospel TV India (720p)",Gospel TV India (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GospelTVIndia.in@SD" tvg-logo="" tvg-name="Gospel TV India (720p)",Gospel TV India (720p)
 https://server.livelegitpro.in:9899/gospeltv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HtMusicChannel.hu@SD" tvg-logo="" tvg-name="H!T Music Channel (480p)",H!T Music Channel (480p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HtMusicChannel.hu@SD" tvg-logo="" tvg-name="H!T Music Channel (480p)",H!T Music Channel (480p)
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="HayatMusic.ba@SD" tvg-logo="" tvg-name="Hayat Music (1080p)",Hayat Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HayatMusic.ba@SD" tvg-logo="" tvg-name="Hayat Music (1080p)",Hayat Music (1080p)
 http://158.180.39.89:5033/music.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="hollywood.classic.movies.1080p" tvg-logo="" tvg-name="Hollywood Classic Movies (1080p)",Hollywood Classic Movies (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="hollywood.classic.movies.1080p" tvg-logo="" tvg-name="Hollywood Classic Movies (1080p)",Hollywood Classic Movies (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/91CAL7N2DJN9J22UJVE1/hls3/now,-1m/m.m3u8?ads.vf=6J4oygHpO6S
-#EXTINF:-1 group-title="Entertainment" tvg-id="RENTVInternational.ru@SD" tvg-logo="" tvg-name="РЕН ТВ International (720p)",РЕН ТВ International (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="RENTVInternational.ru@SD" tvg-logo="" tvg-name="РЕН ТВ International (720p)",РЕН ТВ International (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="JMusicTV.np@SD" tvg-logo="" tvg-name="J Music TV (480p)",J Music TV (480p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="JMusicTV.np@SD" tvg-logo="" tvg-name="J Music TV (480p)",J Music TV (480p)
 http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="JooMusic.pk@SD" tvg-logo="" tvg-name="JooMusic (720p)",JooMusic (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="JooMusic.pk@SD" tvg-logo="" tvg-name="JooMusic (720p)",JooMusic (720p)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="KTVSportPlus.kw@SD" tvg-logo="" tvg-name="KTV Sport Plus (1080p)",KTV Sport Plus (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KTVSportPlus.kw@SD" tvg-logo="" tvg-name="KTV Sport Plus (1080p)",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KurdMaxMusic.iq@SD" tvg-logo="" tvg-name="KurdMax Music (720p)",KurdMax Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KurdMaxMusic.iq@SD" tvg-logo="" tvg-name="KurdMax Music (720p)",KurdMax Music (720p)
 https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KuriakosCine.pt@SD" tvg-logo="" tvg-name="Kuriakos Cine (1080p)",Kuriakos Cine (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KuriakosCine.pt@SD" tvg-logo="" tvg-name="Kuriakos Cine (1080p)",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="KuriakosKids.pt@SD" tvg-logo="" tvg-name="Kuriakos Kids (1080p)",Kuriakos Kids (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KuriakosKids.pt@SD" tvg-logo="" tvg-name="Kuriakos Kids (1080p)",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KuriakosMusic.pt@SD" tvg-logo="" tvg-name="Kuriakos Music (1080p)",Kuriakos Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KuriakosMusic.pt@SD" tvg-logo="" tvg-name="Kuriakos Music (1080p)",Kuriakos Music (1080p)
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KuriakosTV.pt@SD" tvg-logo="" tvg-name="Kuriakos TV (1080p)",Kuriakos TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="KuriakosTV.pt@SD" tvg-logo="" tvg-name="Kuriakos TV (1080p)",Kuriakos TV (1080p)
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="LatinaClasicos.pe@SD" tvg-logo="" tvg-name="Latina Clasicos",Latina Clasicos
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="LatinaClasicos.pe@SD" tvg-logo="" tvg-name="Latina Clasicos",Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="LatinaTVInternacional.do@SD" tvg-logo="" tvg-name="Latina TV Internacional (720p)",Latina TV Internacional (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="LatinaTVInternacional.do@SD" tvg-logo="" tvg-name="Latina TV Internacional (720p)",Latina TV Internacional (720p)
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="latino.classic.tv.1080p" tvg-logo="" tvg-name="Latino Classic TV (1080p)",Latino Classic TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="latino.classic.tv.1080p" tvg-logo="" tvg-name="Latino Classic TV (1080p)",Latino Classic TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="latvijas.radio.3.klasika.240p" tvg-logo="" tvg-name="Latvijas Radio 3 Klasika (240p)",Latvijas Radio 3 Klasika (240p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="latvijas.radio.3.klasika.240p" tvg-logo="" tvg-name="Latvijas Radio 3 Klasika (240p)",Latvijas Radio 3 Klasika (240p)
 https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="LeFigaroTVIledeFrance.fr@SD" tvg-logo="" tvg-name="Le Figaro IDF (1080p)",Le Figaro IDF (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="LeFigaroTVIledeFrance.fr@SD" tvg-logo="" tvg-name="Le Figaro IDF (1080p)",Le Figaro IDF (1080p)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="let.s.make.a.deal.classic.1080p" tvg-logo="" tvg-name="Let's Make A Deal Classic (1080p)",Let's Make A Deal Classic (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="let.s.make.a.deal.classic.1080p" tvg-logo="" tvg-name="Let's Make A Deal Classic (1080p)",Let's Make A Deal Classic (1080p)
 https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="live.music" tvg-logo="" tvg-name="Live Music",Live Music
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="live.music" tvg-logo="" tvg-name="Live Music",Live Music
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="LRTPlius.lt@SD" tvg-logo="" tvg-name="LRT Plius (1080p) [Geo-blocked]",LRT Plius (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="LRTPlius.lt@SD" tvg-logo="" tvg-name="LRT Plius (1080p) [Geo-blocked]",LRT Plius (1080p) [Geo-blocked]
 https://stream-live.lrt.lt/plius/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ManaChurchOnline.pt@SD" tvg-logo="" tvg-name="Maná Church Online (1080p) [Not 24/7]",Maná Church Online (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ManaChurchOnline.pt@SD" tvg-logo="" tvg-name="Maná Church Online (1080p) [Not 24/7]",Maná Church Online (1080p) [Not 24/7]
 https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ManaCirkevOnline.pt@SD" tvg-logo="" tvg-name="Maná Cirkev Online (1080p) [Not 24/7]",Maná Cirkev Online (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ManaCirkevOnline.pt@SD" tvg-logo="" tvg-name="Maná Cirkev Online (1080p) [Not 24/7]",Maná Cirkev Online (1080p) [Not 24/7]
 https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ManaEgliseOnline.pt@SD" tvg-logo="" tvg-name="Maná Église Online (1080p) [Not 24/7]",Maná Église Online (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ManaEgliseOnline.pt@SD" tvg-logo="" tvg-name="Maná Église Online (1080p) [Not 24/7]",Maná Église Online (1080p) [Not 24/7]
 https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ManaIglesiaOnline.pt@SD" tvg-logo="" tvg-name="Maná Iglesia Online (1080p) [Not 24/7]",Maná Iglesia Online (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ManaIglesiaOnline.pt@SD" tvg-logo="" tvg-name="Maná Iglesia Online (1080p) [Not 24/7]",Maná Iglesia Online (1080p) [Not 24/7]
 https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ManaIgrejaOnline.pt@SD" tvg-logo="" tvg-name="Maná Igreja Online (1080p) [Not 24/7]",Maná Igreja Online (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ManaIgrejaOnline.pt@SD" tvg-logo="" tvg-name="Maná Igreja Online (1080p) [Not 24/7]",Maná Igreja Online (1080p) [Not 24/7]
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ManaTserkovOnlayn.pt@SD" tvg-logo="" tvg-name="Maná Tserkov' Onlayn (1080p) [Not 24/7]",Maná Tserkov' Onlayn (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ManaTserkovOnlayn.pt@SD" tvg-logo="" tvg-name="Maná Tserkov' Onlayn (1080p) [Not 24/7]",Maná Tserkov' Onlayn (1080p) [Not 24/7]
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MasMusicaFM.co@SD" tvg-logo="" tvg-name="MasMusica FM (720p)",MasMusica FM (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MasMusicaFM.co@SD" tvg-logo="" tvg-name="MasMusica FM (720p)",MasMusica FM (720p)
 https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MaxMusic.in@HD" tvg-logo="" tvg-name="Max Music (1080p)",Max Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MaxMusic.in@HD" tvg-logo="" tvg-name="Max Music (1080p)",Max Music (1080p)
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MCN6MusicChannel.us@SD" tvg-logo="" tvg-name="MCN6 Music Channel (1080p) [Not 24/7]",MCN6 Music Channel (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MCN6MusicChannel.us@SD" tvg-logo="" tvg-name="MCN6 Music Channel (1080p) [Not 24/7]",MCN6 Music Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="CityEdenMeditationMusic.ru@HD" tvg-logo="" tvg-name="Сити Эдем Meditation Music [Not 24/7]",Сити Эдем Meditation Music [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="CityEdenMeditationMusic.ru@HD" tvg-logo="" tvg-name="Сити Эдем Meditation Music [Not 24/7]",Сити Эдем Meditation Music [Not 24/7]
 https://cityeden.catcast.tv/content/47410/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MemoriasTVClassic.co@SD" tvg-logo="" tvg-name="Memorias TV Classic (480p) [Geo-blocked]",Memorias TV Classic (480p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MemoriasTVClassic.co@SD" tvg-logo="" tvg-name="Memorias TV Classic (480p) [Geo-blocked]",Memorias TV Classic (480p) [Geo-blocked]
 https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Mh1Music.in@SD" tvg-logo="" tvg-name="Mh 1 Music (576p)",Mh 1 Music (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Mh1Music.in@SD" tvg-logo="" tvg-name="Mh 1 Music (576p)",Mh 1 Music (576p)
 https://mumt04.tangotv.in/MHONE/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="mi.coche.clasico" tvg-logo="" tvg-name="Mi Coche Clásico",Mi Coche Clásico
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="mi.coche.clasico" tvg-logo="" tvg-name="Mi Coche Clásico",Mi Coche Clásico
 https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="mtv.classic" tvg-logo="" tvg-name="MTV Classic",MTV Classic
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="mtv.classic" tvg-logo="" tvg-name="MTV Classic",MTV Classic
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="mtv.classic.720p" tvg-logo="" tvg-name="MTV Classic (720p)",MTV Classic (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="mtv.classic.720p" tvg-logo="" tvg-name="MTV Classic (720p)",MTV Classic (720p)
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="mtv.classics" tvg-logo="" tvg-name="MTV CLASSICS",MTV CLASSICS
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="mtv.classics" tvg-logo="" tvg-name="MTV CLASSICS",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Multimania.lv@SD" tvg-logo="" tvg-name="Multimania (Latvia) (576p)",Multimania (Latvia) (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Multimania.lv@SD" tvg-logo="" tvg-name="Multimania (Latvia) (576p)",Multimania (Latvia) (576p)
 https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MusicIndia.in@SD" tvg-logo="" tvg-name="Music India (720p) [Not 24/7]",Music India (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MusicIndia.in@SD" tvg-logo="" tvg-name="Music India (720p) [Not 24/7]",Music India (720p) [Not 24/7]
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MusicInformationChannel.id@SD" tvg-logo="" tvg-name="Music Information Channel (720p)",Music Information Channel (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MusicInformationChannel.id@SD" tvg-logo="" tvg-name="Music Information Channel (720p)",Music Information Channel (720p)
 #EXTVLCOPT:http-referrer=https://mic-indo.com/live
 https://mic.siar.us/mic/live/mic.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MusicJapanTV.jp@SD" tvg-logo="" tvg-name="Music Japan TV (544p)",Music Japan TV (544p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MusicJapanTV.jp@SD" tvg-logo="" tvg-name="Music Japan TV (544p)",Music Japan TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 group-title="Entertainment" tvg-id="MusicTVGranada.es@SD" tvg-logo="" tvg-name="Music TV Granada (1080p) [Not 24/7]",Music TV Granada (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MusicTVGranada.es@SD" tvg-logo="" tvg-name="Music TV Granada (1080p) [Not 24/7]",Music TV Granada (1080p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="MusicTop.ar@SD" tvg-logo="" tvg-name="MusicTop (1080p)",MusicTop (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="MusicTop.ar@SD" tvg-logo="" tvg-name="MusicTop (1080p)",MusicTop (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NDTVIndia.in@SD" tvg-logo="" tvg-name="NDTV India (720p)",NDTV India (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="NDTVIndia.in@SD" tvg-logo="" tvg-name="NDTV India (720p)",NDTV India (720p)
 http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
-#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.clasico.720p" tvg-logo="" tvg-name="Nickelodeon Clásico (720p)",Nickelodeon Clásico (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.clasico.720p" tvg-logo="" tvg-name="Nickelodeon Clásico (720p)",Nickelodeon Clásico (720p)
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 group-title="Kids | Nick" tvg-id="nickelodeon.classics.720p" tvg-logo="" tvg-name="Nickelodeon Classics (720p)",Nickelodeon Classics (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.classics.720p" tvg-logo="" tvg-name="Nickelodeon Classics (720p)",Nickelodeon Classics (720p)
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Nortvision.ec@SD" tvg-logo="" tvg-name="Nortvisión (720p)",Nortvisión (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Nortvision.ec@SD" tvg-logo="" tvg-name="Nortvisión (720p)",Nortvisión (720p)
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="" tvg-name="Сити Эдем Классическая Музыка [Not 24/7]",Сити Эдем Классическая Музыка [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="" tvg-name="Сити Эдем Классическая Музыка [Not 24/7]",Сити Эдем Классическая Музыка [Not 24/7]
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NPCRadioeTV.pt@SD" tvg-logo="" tvg-name="NPC Rádio e TV (720p)",NPC Rádio e TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="NPCRadioeTV.pt@SD" tvg-logo="" tvg-name="NPC Rádio e TV (720p)",NPC Rádio e TV (720p)
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NTVICKakanj.ba@SD" tvg-logo="" tvg-name="NTV IC Kakanj (720p)",NTV IC Kakanj (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="NTVICKakanj.ba@SD" tvg-logo="" tvg-name="NTV IC Kakanj (720p)",NTV IC Kakanj (720p)
 https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ONFM.pt@SD" tvg-logo="" tvg-name="ON FM (720p)",ON FM (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ONFM.pt@SD" tvg-logo="" tvg-name="ON FM (720p)",ON FM (720p)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="OneMusicTelevision.de@SD" tvg-logo="" tvg-name="ONE1 Music (1080p)",ONE1 Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="OneMusicTelevision.de@SD" tvg-logo="" tvg-name="ONE1 Music (1080p)",ONE1 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="oxygen.music.1080p" tvg-logo="" tvg-name="Oxygen Music (1080p)",Oxygen Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="oxygen.music.1080p" tvg-logo="" tvg-name="Oxygen Music (1080p)",Oxygen Music (1080p)
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PantallaClasicaEC.ec@SD" tvg-logo="" tvg-name="Pantalla Clásica EC (512p) [Not 24/7]",Pantalla Clásica EC (512p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PantallaClasicaEC.ec@SD" tvg-logo="" tvg-name="Pantalla Clásica EC (512p) [Not 24/7]",Pantalla Clásica EC (512p) [Not 24/7]
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PenielMusical.gt@SD" tvg-logo="" tvg-name="Peniel Musical (480p)",Peniel Musical (480p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PenielMusical.gt@SD" tvg-logo="" tvg-name="Peniel Musical (480p)",Peniel Musical (480p)
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="4Music.fr@SD" tvg-logo="" tvg-name="Persiana Music",Persiana Music
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="4Music.fr@SD" tvg-logo="" tvg-name="Persiana Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.classic.movie.westerns" tvg-logo="" tvg-name="Pluto Classic Movie Westerns",Pluto Classic Movie Westerns
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.classic.movie.westerns" tvg-logo="" tvg-name="Pluto Classic Movie Westerns",Pluto Classic Movie Westerns
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.2010.s.classics" tvg-logo="" tvg-name="Pluto TV 2010's Classics",Pluto TV 2010's Classics
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.2010.s.classics" tvg-logo="" tvg-name="Pluto TV 2010's Classics",Pluto TV 2010's Classics
 https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.90.s.classics" tvg-logo="" tvg-name="Pluto TV 90's Classics",Pluto TV 90's Classics
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.90.s.classics" tvg-logo="" tvg-name="Pluto TV 90's Classics",Pluto TV 90's Classics
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.cine.clasico" tvg-logo="" tvg-name="Pluto TV Cine Clásico",Pluto TV Cine Clásico
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.cine.clasico" tvg-logo="" tvg-name="Pluto TV Cine Clásico",Pluto TV Cine Clásico
 https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.classic.tv.families" tvg-logo="" tvg-name="Pluto TV Classic TV Families",Pluto TV Classic TV Families
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.classic.tv.families" tvg-logo="" tvg-name="Pluto TV Classic TV Families",Pluto TV Classic TV Families
 https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.classic.tv.fr" tvg-logo="" tvg-name="Pluto TV Classic TV FR",Pluto TV Classic TV FR
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.classic.tv.fr" tvg-logo="" tvg-name="Pluto TV Classic TV FR",Pluto TV Classic TV FR
 https://jmp2.uk/plu-5e46ae801f347500099d461a.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.classic.tv.variety" tvg-logo="" tvg-name="Pluto TV Classic TV Variety",Pluto TV Classic TV Variety
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.classic.tv.variety" tvg-logo="" tvg-name="Pluto TV Classic TV Variety",Pluto TV Classic TV Variety
 https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.desenhos.classicos" tvg-logo="" tvg-name="Pluto TV Desenhos Clássicos",Pluto TV Desenhos Clássicos
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.desenhos.classicos" tvg-logo="" tvg-name="Pluto TV Desenhos Clássicos",Pluto TV Desenhos Clássicos
 https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="PlutoTVInvestigation.us@France" tvg-logo="" tvg-name="Pluto TV Investigation",Pluto TV Investigation
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PlutoTVInvestigation.us@France" tvg-logo="" tvg-name="Pluto TV Investigation",Pluto TV Investigation
 https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="pluto.tv.kids.classics.720p" tvg-logo="" tvg-name="Pluto TV Kids Classics (720p)",Pluto TV Kids Classics (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.kids.classics.720p" tvg-logo="" tvg-name="Pluto TV Kids Classics (720p)",Pluto TV Kids Classics (720p)
 https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="pluto.tv.telenovelas.clasicas" tvg-logo="" tvg-name="Pluto TV Telenovelas Clásicas",Pluto TV Telenovelas Clásicas
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="pluto.tv.telenovelas.clasicas" tvg-logo="" tvg-name="Pluto TV Telenovelas Clásicas",Pluto TV Telenovelas Clásicas
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="" tvg-name="Polsat Sport Premium 2 (1080p)",Polsat Sport Premium 2 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="" tvg-name="Polsat Sport Premium 2 (1080p)",Polsat Sport Premium 2 (1080p)
 http://78.130.250.2:8023/play/a05r/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PortoCanal.pt@SD" tvg-logo="" tvg-name="Porto Canal (720p)",Porto Canal (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PortoCanal.pt@SD" tvg-logo="" tvg-name="Porto Canal (720p)",Porto Canal (720p)
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PravasiChannel.in@SD" tvg-logo="" tvg-name="Pravasi Channel (1080p)",Pravasi Channel (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PravasiChannel.in@SD" tvg-logo="" tvg-name="Pravasi Channel (1080p)",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PrimaTV.it@SD" tvg-logo="" tvg-name="Prima TV Sicilia (720p)",Prima TV Sicilia (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PrimaTV.it@SD" tvg-logo="" tvg-name="Prima TV Sicilia (720p)",Prima TV Sicilia (720p)
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PTCMusic.in@SD" tvg-logo="" tvg-name="PTC Music (720p)",PTC Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PTCMusic.in@SD" tvg-logo="" tvg-name="PTC Music (720p)",PTC Music (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PublicMusic.in@SD" tvg-logo="" tvg-name="Public Music (720p) [Not 24/7]",Public Music (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="PublicMusic.in@SD" tvg-logo="" tvg-name="Public Music (720p) [Not 24/7]",Public Music (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/441/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="punjabi.music.720p" tvg-logo="" tvg-name="Punjabi Music HD (720p)",Punjabi Music HD (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="punjabi.music.720p" tvg-logo="" tvg-name="Punjabi Music HD (720p)",Punjabi Music HD (720p)
 https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="puto.tv.classic.tv.crime.drama" tvg-logo="" tvg-name="Puto TV Classic TV Crime Drama",Puto TV Classic TV Crime Drama
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="puto.tv.classic.tv.crime.drama" tvg-logo="" tvg-name="Puto TV Classic TV Crime Drama",Puto TV Classic TV Crime Drama
 https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="QMusic.be@SD" tvg-logo="" tvg-name="Q-Music (Belgium) (1080p)",Q-Music (Belgium) (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="QMusic.be@SD" tvg-logo="" tvg-name="Q-Music (Belgium) (1080p)",Q-Music (Belgium) (1080p)
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Qmusic.nl@SD" tvg-logo="" tvg-name="Qmusic (720p)",Qmusic (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Qmusic.nl@SD" tvg-logo="" tvg-name="Qmusic (720p)",Qmusic (720p)
 https://stream.qmusic.nl/qmusic/videohls.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-logo="" tvg-name="Quiero Musica en mi Idioma (1080p)",Quiero Musica en mi Idioma (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-logo="" tvg-name="Quiero Musica en mi Idioma (1080p)",Quiero Musica en mi Idioma (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RadioSines.pt@SD" tvg-logo="" tvg-name="Rádio Sines (720p) [Geo-blocked]",Rádio Sines (720p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RadioSines.pt@SD" tvg-logo="" tvg-name="Rádio Sines (720p) [Geo-blocked]",Rádio Sines (720p) [Geo-blocked]
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RadioTaorminaSicilia.it@SD" tvg-logo="" tvg-name="Radio Taormina Sicilia (720p) [Not 24/7]",Radio Taormina Sicilia (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RadioTaorminaSicilia.it@SD" tvg-logo="" tvg-name="Radio Taormina Sicilia (720p) [Not 24/7]",Radio Taormina Sicilia (720p) [Not 24/7]
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RedCarpetTVInternational.pl@SD" tvg-logo="" tvg-name="Red Carpet TV International (1080p)",Red Carpet TV International (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="RedCarpetTVInternational.pl@SD" tvg-logo="" tvg-name="Red Carpet TV International (1080p)",Red Carpet TV International (1080p)
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RedMusic.gr@SD" tvg-logo="" tvg-name="RedMusic (1080p)",RedMusic (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RedMusic.gr@SD" tvg-logo="" tvg-name="RedMusic (1080p)",RedMusic (1080p)
 https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ReteTVItalia.it@SD" tvg-logo="" tvg-name="Rete TV Italia (1080p)",Rete TV Italia (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ReteTVItalia.it@SD" tvg-logo="" tvg-name="Rete TV Italia (1080p)",Rete TV Italia (1080p)
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RetroMusicTV.cz@SD" tvg-logo="" tvg-name="Retro Music Television (360p)",Retro Music Television (360p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RetroMusicTV.cz@SD" tvg-logo="" tvg-name="Retro Music Television (360p)",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RFPtv.pt@SD" tvg-logo="" tvg-name="RFPtv (360p)",RFPtv (360p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RFPtv.pt@SD" tvg-logo="" tvg-name="RFPtv (360p)",RFPtv (360p)
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="rock.classics.radio.geo.blocked" tvg-logo="" tvg-name="Rock Classics (Radio) [Geo-blocked]",Rock Classics (Radio) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="rock.classics.radio.geo.blocked" tvg-logo="" tvg-name="Rock Classics (Radio) [Geo-blocked]",Rock Classics (Radio) [Geo-blocked]
 http://80.79.6.221:25461/smash/public/24
-#EXTINF:-1 group-title="Entertainment" tvg-id="RotanaClassic.sa@SD" tvg-logo="" tvg-name="Rotana Classic (1080p) [Geo-blocked]",Rotana Classic (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RotanaClassic.sa@SD" tvg-logo="" tvg-name="Rotana Classic (1080p) [Geo-blocked]",Rotana Classic (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RotanaMusic.sa@SD" tvg-logo="" tvg-name="Rotana Music (1080p) [Geo-blocked]",Rotana Music (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RotanaMusic.sa@SD" tvg-logo="" tvg-name="Rotana Music (1080p) [Geo-blocked]",Rotana Music (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTLTVI.be@SD" tvg-logo="" tvg-name="RTL-TVI (1080p) [Not 24/7]",RTL-TVI (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTLTVI.be@SD" tvg-logo="" tvg-name="RTL-TVI (1080p) [Not 24/7]",RTL-TVI (1080p) [Not 24/7]
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTP.bo@SD" tvg-logo="" tvg-name="RTP",RTP
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTP.bo@SD" tvg-logo="" tvg-name="RTP",RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTP1.pt@HD" tvg-logo="" tvg-name="RTP 1 (720p) [Not 24/7]",RTP 1 (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTP1.pt@HD" tvg-logo="" tvg-name="RTP 1 (720p) [Not 24/7]",RTP 1 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTP2.pt@HD" tvg-logo="" tvg-name="RTP 2 (720p) [Not 24/7]",RTP 2 (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTP2.pt@HD" tvg-logo="" tvg-name="RTP 2 (720p) [Not 24/7]",RTP 2 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTP.it@SD" tvg-logo="" tvg-name="RTP (404p)",RTP (404p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTP.it@SD" tvg-logo="" tvg-name="RTP (404p)",RTP (404p)
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTPAcores.pt@SD" tvg-logo="" tvg-name="RTP Açores (504p) [Not 24/7]",RTP Açores (504p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTPAcores.pt@SD" tvg-logo="" tvg-name="RTP Açores (504p) [Not 24/7]",RTP Açores (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTPAcores.pt@HD" tvg-logo="" tvg-name="RTP Açores (720p) [Not 24/7]",RTP Açores (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTPAcores.pt@HD" tvg-logo="" tvg-name="RTP Açores (720p) [Not 24/7]",RTP Açores (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTPAfrica.pt@SD" tvg-logo="" tvg-name="RTP África (504p) [Not 24/7]",RTP África (504p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTPAfrica.pt@SD" tvg-logo="" tvg-name="RTP África (504p) [Not 24/7]",RTP África (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTPInternacional.pt@SD" tvg-logo="" tvg-name="RTP Internacional (1080p) [Geo-Blocked]",RTP Internacional (1080p) [Geo-Blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="RTPInternacional.pt@SD" tvg-logo="" tvg-name="RTP Internacional (1080p) [Geo-Blocked]",RTP Internacional (1080p) [Geo-Blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTPMadeira.pt@SD" tvg-logo="" tvg-name="RTP Madeira (504p) [Not 24/7]",RTP Madeira (504p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTPMadeira.pt@SD" tvg-logo="" tvg-name="RTP Madeira (504p) [Not 24/7]",RTP Madeira (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTPMemoria.pt@SD" tvg-logo="" tvg-name="RTP Memória (504p) [Not 24/7]",RTP Memória (504p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTPMemoria.pt@SD" tvg-logo="" tvg-name="RTP Memória (504p) [Not 24/7]",RTP Memória (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTPMundo.pt@SD" tvg-logo="" tvg-name="RTP Mundo (504p) [Not 24/7]",RTP Mundo (504p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTPMundo.pt@SD" tvg-logo="" tvg-name="RTP Mundo (504p) [Not 24/7]",RTP Mundo (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="RTPNoticias.pt@SD" tvg-logo="" tvg-name="RTP Noticias (504p) [Not 24/7]",RTP Noticias (504p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTPNoticias.pt@SD" tvg-logo="" tvg-name="RTP Noticias (504p) [Not 24/7]",RTP Noticias (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="RTPNoticias.pt@HD" tvg-logo="" tvg-name="RTP Noticias (720p) [Not 24/7]",RTP Noticias (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTPNoticias.pt@HD" tvg-logo="" tvg-name="RTP Noticias (720p) [Not 24/7]",RTP Noticias (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="RTVIslam.ch@SD" tvg-logo="" tvg-name="RTV Islam (1080p)",RTV Islam (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="RTVIslam.ch@SD" tvg-logo="" tvg-name="RTV Islam (1080p)",RTV Islam (1080p)
 https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="saga.music.1080p" tvg-logo="" tvg-name="Saga Music (1080p)",Saga Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="saga.music.1080p" tvg-logo="" tvg-name="Saga Music (1080p)",Saga Music (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8?ads.vf=Qu3rnC7fGUG
-#EXTINF:-1 group-title="Entertainment" tvg-id="SaltoBrasaMusic.nl@SD" tvg-logo="" tvg-name="Salto Brasa Music (1080p)",Salto Brasa Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SaltoBrasaMusic.nl@SD" tvg-logo="" tvg-name="Salto Brasa Music (1080p)",Salto Brasa Music (1080p)
 https://salto-streams.nl/hls/sotv1.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SamuelGoldwynClassics.us@SD" tvg-logo="" tvg-name="Samuel Goldwyn Classics (1080p)",Samuel Goldwyn Classics (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SamuelGoldwynClassics.us@SD" tvg-logo="" tvg-name="Samuel Goldwyn Classics (1080p)",Samuel Goldwyn Classics (1080p)
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SBNTVInternational.us@SD" tvg-logo="" tvg-name="SBN TV International",SBN TV International
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="SBNTVInternational.us@SD" tvg-logo="" tvg-name="SBN TV International",SBN TV International
 http://trn03.bozztv.com/gin-sbntv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SBS6Classics.nl@HD" tvg-logo="" tvg-name="SBS6 Classics (1080p) [Geo-blocked]",SBS6 Classics (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SBS6Classics.nl@HD" tvg-logo="" tvg-name="SBS6 Classics (1080p) [Geo-blocked]",SBS6 Classics (1080p) [Geo-blocked]
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="sensical.jr.1080p" tvg-logo="" tvg-name="Sensical Jr (1080p)",Sensical Jr (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="sensical.jr.1080p" tvg-logo="" tvg-name="Sensical Jr (1080p)",Sensical Jr (1080p)
 https://d1p10fe1a9f857.cloudfront.net/Sensical_Jr.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="sensical.makers.1080p" tvg-logo="" tvg-name="Sensical Makers (1080p)",Sensical Makers (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="sensical.makers.1080p" tvg-logo="" tvg-name="Sensical Makers (1080p)",Sensical Makers (1080p)
 https://d2dxg18pxtlgy0.cloudfront.net/Sensical_Makers.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SIC.pt@SD" tvg-logo="" tvg-name="SIC (1080p) [Geo-blocked]",SIC (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SIC.pt@SD" tvg-logo="" tvg-name="SIC (1080p) [Geo-blocked]",SIC (1080p) [Geo-blocked]
 https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SICAltaDefinicao.pt@SD" tvg-logo="" tvg-name="SIC Alta Definição (1080p)",SIC Alta Definição (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SICAltaDefinicao.pt@SD" tvg-logo="" tvg-name="SIC Alta Definição (1080p)",SIC Alta Definição (1080p)
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 group-title="News" tvg-id="SICNoticias.pt@SD" tvg-logo="" tvg-name="SIC Notícias (1080p) [Geo-blocked]",SIC Notícias (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SICNoticias.pt@SD" tvg-logo="" tvg-name="SIC Notícias (1080p) [Geo-blocked]",SIC Notícias (1080p) [Geo-blocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SICReplay.pt@SD" tvg-logo="" tvg-name="SIC Replay (1080p)",SIC Replay (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SICReplay.pt@SD" tvg-logo="" tvg-name="SIC Replay (1080p)",SIC Replay (1080p)
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SICTV.br@SD" tvg-logo="" tvg-name="SIC TV (720p)",SIC TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SICTV.br@SD" tvg-logo="" tvg-name="SIC TV (720p)",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="smash.music.geo.blocked" tvg-logo="" tvg-name="Smash Music [Geo-blocked]",Smash Music [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="smash.music.geo.blocked" tvg-logo="" tvg-name="Smash Music [Geo-blocked]",Smash Music [Geo-blocked]
 http://80.79.6.221:25461/smash/public/10
-#EXTINF:-1 group-title="Entertainment" tvg-id="SolMusica.es@SD" tvg-logo="" tvg-name="Sol Música (720p)",Sol Música (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SolMusica.es@SD" tvg-logo="" tvg-name="Sol Música (720p)",Sol Música (720p)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StarPlusTelevizija.mk@SD" tvg-logo="" tvg-name="Star Plus Music (1080p) [Not 24/7]",Star Plus Music (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="StarPlusTelevizija.mk@SD" tvg-logo="" tvg-name="Star Plus Music (1080p) [Not 24/7]",Star Plus Music (1080p) [Not 24/7]
 https://live.muzickatv.mk/live/StarMusic2.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="stashtv.the.classics.720p.geo.blocked" tvg-logo="" tvg-name="StashTV The Classics (720p) [Geo-blocked]",StashTV The Classics (720p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="stashtv.the.classics.720p.geo.blocked" tvg-logo="" tvg-name="StashTV The Classics (720p) [Geo-blocked]",StashTV The Classics (720p) [Geo-blocked]
 https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SteelbirdMusic.in@SD" tvg-logo="" tvg-name="Steelbird Music (720p) [Not 24/7]",Steelbird Music (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SteelbirdMusic.in@SD" tvg-logo="" tvg-name="Steelbird Music (720p) [Not 24/7]",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StingrayClassicRock.ca@SD" tvg-logo="" tvg-name="Stingray Classic Rock (1080p)",Stingray Classic Rock (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="StingrayClassicRock.ca@SD" tvg-logo="" tvg-name="Stingray Classic Rock (1080p)",Stingray Classic Rock (1080p)
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StingrayClassica.ca@SD" tvg-logo="" tvg-name="Stingray Classica (1080p)",Stingray Classica (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="StingrayClassica.ca@SD" tvg-logo="" tvg-name="Stingray Classica (1080p)",Stingray Classica (1080p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StingrayCMusic.ca@SD" tvg-logo="" tvg-name="Stingray CMusic (1080p)",Stingray CMusic (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="StingrayCMusic.ca@SD" tvg-logo="" tvg-name="Stingray CMusic (1080p)",Stingray CMusic (1080p)
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="super.kids.classics.720p" tvg-logo="" tvg-name="Super! Kids Classics (720p)",Super! Kids Classics (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="super.kids.classics.720p" tvg-logo="" tvg-name="Super! Kids Classics (720p)",Super! Kids Classics (720p)
 https://jmp2.uk/plu-67f4f99729b03f18cb36647e.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SupermusicaTV.co@SD" tvg-logo="" tvg-name="Supermúsica TV (720p)",Supermúsica TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SupermusicaTV.co@SD" tvg-logo="" tvg-name="Supermúsica TV (720p)",Supermúsica TV (720p)
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="SURTVItapua.py@SD" tvg-logo="" tvg-name="SUR TV Itapua",SUR TV Itapua
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SURTVItapua.py@SD" tvg-logo="" tvg-name="SUR TV Itapua",SUR TV Itapua
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVinet.cl@SD" tvg-logo="" tvg-name="T-Vinet (480p)",T-Vinet (480p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVinet.cl@SD" tvg-logo="" tvg-name="T-Vinet (480p)",T-Vinet (480p)
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TalkinLiveClassicsTV.us@SD" tvg-logo="" tvg-name="Talkin Live Classics TV (480p)",Talkin Live Classics TV (480p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TalkinLiveClassicsTV.us@SD" tvg-logo="" tvg-name="Talkin Live Classics TV (480p)",Talkin Live Classics TV (480p)
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TarangMusic.in@SD" tvg-logo="" tvg-name="Tarang Music (720p)",Tarang Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TarangMusic.in@SD" tvg-logo="" tvg-name="Tarang Music (720p)",Tarang Music (720p)
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Tele7music.ro@SD" tvg-logo="" tvg-name="Tele7music",Tele7music
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Tele7music.ro@SD" tvg-logo="" tvg-name="Tele7music",Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TelehitMusica.mx@SD" tvg-logo="" tvg-name="Telehit Musica",Telehit Musica
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TelehitMusica.mx@SD" tvg-logo="" tvg-name="Telehit Musica",Telehit Musica
 http://190.61.55.34:2401/play/a06t/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="" tvg-name="Telemundo telenovelas clásicas",Telemundo telenovelas clásicas
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="" tvg-name="Telemundo telenovelas clásicas",Telemundo telenovelas clásicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="top.gear.classics" tvg-logo="" tvg-name="Top Gear Classics",Top Gear Classics
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="top.gear.classics" tvg-logo="" tvg-name="Top Gear Classics",Top Gear Classics
 https://jmp2.uk/plu-660d6360c8311c0008b8a7c6.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="top.rank.classics" tvg-logo="" tvg-name="Top Rank Classics",Top Rank Classics
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="top.rank.classics" tvg-logo="" tvg-name="Top Rank Classics",Top Rank Classics
 https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="top.rank.classics.1080p" tvg-logo="" tvg-name="Top Rank Classics (1080p)",Top Rank Classics (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="top.rank.classics.1080p" tvg-logo="" tvg-name="Top Rank Classics (1080p)",Top Rank Classics (1080p)
 https://aegis-cloudfront-1.tubi.video/0b971699-b91c-4cad-8a17-4a4c0110665a/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TropicalMusicTV.us@SD" tvg-logo="" tvg-name="Tropical Music TV (720p)",Tropical Music TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TropicalMusicTV.us@SD" tvg-logo="" tvg-name="Tropical Music TV (720p)",Tropical Music TV (720p)
 https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TuMusicaHD.do@SD" tvg-logo="" tvg-name="Tu Musica HD (1080p) [Not 24/7]",Tu Musica HD (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TuMusicaHD.do@SD" tvg-logo="" tvg-name="Tu Musica HD (1080p) [Not 24/7]",Tu Musica HD (1080p) [Not 24/7]
 https://edge.essastream.com/tumusicahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVIndependencia.mx@SD" tvg-logo="" tvg-name="TV Independencia (1080p)",TV Independencia (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVIndependencia.mx@SD" tvg-logo="" tvg-name="TV Independencia (1080p)",TV Independencia (1080p)
 https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVIngolstadt.de@SD" tvg-logo="" tvg-name="TV Ingolstadt (1080p)",TV Ingolstadt (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVIngolstadt.de@SD" tvg-logo="" tvg-name="TV Ingolstadt (1080p)",TV Ingolstadt (1080p)
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVInterlagos.br@SD" tvg-logo="" tvg-name="TV Interlagos (360p)",TV Interlagos (360p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVInterlagos.br@SD" tvg-logo="" tvg-name="TV Interlagos (360p)",TV Interlagos (360p)
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVITN.ir@SD" tvg-logo="" tvg-name="TV ITN",TV ITN
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVITN.ir@SD" tvg-logo="" tvg-name="TV ITN",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVMana1.pt@SD" tvg-logo="" tvg-name="TV Maná 1 (1080p)",TV Maná 1 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVMana1.pt@SD" tvg-logo="" tvg-name="TV Maná 1 (1080p)",TV Maná 1 (1080p)
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVMana2.pt@SD" tvg-logo="" tvg-name="TV Maná 2 (1080p)",TV Maná 2 (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVMana2.pt@SD" tvg-logo="" tvg-name="TV Maná 2 (1080p)",TV Maná 2 (1080p)
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVManaEnglish.pt@SD" tvg-logo="" tvg-name="TV Maná English (1080p)",TV Maná English (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVManaEnglish.pt@SD" tvg-logo="" tvg-name="TV Maná English (1080p)",TV Maná English (1080p)
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVManaEspanhol.pt@SD" tvg-logo="" tvg-name="TV Maná Español (1080p)",TV Maná Español (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVManaEspanhol.pt@SD" tvg-logo="" tvg-name="TV Maná Español (1080p)",TV Maná Español (1080p)
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVManaRusskiy.pt@SD" tvg-logo="" tvg-name="TV Maná Russkiy (1080p)",TV Maná Russkiy (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVManaRusskiy.pt@SD" tvg-logo="" tvg-name="TV Maná Russkiy (1080p)",TV Maná Russkiy (1080p)
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVNiksic.me@SD" tvg-logo="" tvg-name="TV Niksic (720p)",TV Niksic (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVNiksic.me@SD" tvg-logo="" tvg-name="TV Niksic (720p)",TV Niksic (720p)
 https://tv.rtv-niksic.me/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVI.pt@SD" tvg-logo="" tvg-name="TVI (720p)",TVI (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVI.pt@SD" tvg-logo="" tvg-name="TVI (720p)",TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVIFiccao.pt@SD" tvg-logo="" tvg-name="TVI Ficção (720p)",TVI Ficção (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVIFiccao.pt@SD" tvg-logo="" tvg-name="TVI Ficção (720p)",TVI Ficção (720p)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVIReality.pt@SD" tvg-logo="" tvg-name="TVI Reality (720p) [Not 24/7]",TVI Reality (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVIReality.pt@SD" tvg-logo="" tvg-name="TVI Reality (720p) [Not 24/7]",TVI Reality (720p) [Not 24/7]
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="TVideoNews.br@SD" tvg-logo="" tvg-name="TVídeoNews (720p) [Not 24/7]",TVídeoNews (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="TVideoNews.br@SD" tvg-logo="" tvg-name="TVídeoNews (720p) [Not 24/7]",TVídeoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVIKIM.my@SD" tvg-logo="" tvg-name="TVIKIM (1080p)",TVIKIM (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVIKIM.my@SD" tvg-logo="" tvg-name="TVIKIM (1080p)",TVIKIM (1080p)
 https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVitape.br@SD" tvg-logo="" tvg-name="TVitapé (720p)",TVitapé (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVitape.br@SD" tvg-logo="" tvg-name="TVitapé (720p)",TVitapé (720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="TVMsportPlus.mt@SD" tvg-logo="" tvg-name="TVMsport+ (1080p)",TVMsport+ (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVMsportPlus.mt@SD" tvg-logo="" tvg-name="TVMsport+ (1080p)",TVMsport+ (1080p)
 https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="tvr.sicilia.1080p.not.24.7" tvg-logo="" tvg-name="TVR Sicilia HD (1080p) [Not 24/7]",TVR Sicilia HD (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="tvr.sicilia.1080p.not.24.7" tvg-logo="" tvg-name="TVR Sicilia HD (1080p) [Not 24/7]",TVR Sicilia HD (1080p) [Not 24/7]
 https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVSClassicMovies.us@SD" tvg-logo="" tvg-name="TVS Classic Movies (288p)",TVS Classic Movies (288p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVSClassicMovies.us@SD" tvg-logo="" tvg-name="TVS Classic Movies (288p)",TVS Classic Movies (288p)
 https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="TVSClassicSports.us@SD" tvg-logo="" tvg-name="TVS Classic Sports (360p)",TVS Classic Sports (360p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVSClassicSports.us@SD" tvg-logo="" tvg-name="TVS Classic Sports (360p)",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVSMusicNetwork.us@SD" tvg-logo="" tvg-name="TVS Music Network (720p)",TVS Music Network (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVSMusicNetwork.us@SD" tvg-logo="" tvg-name="TVS Music Network (720p)",TVS Music Network (720p)
 https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="VClassicTV.cl@SD" tvg-logo="" tvg-name="V Classic TV (720p)",V Classic TV (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="VClassicTV.cl@SD" tvg-logo="" tvg-name="V Classic TV (720p)",V Classic TV (720p)
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="VPlusTVI.pt@SD" tvg-logo="" tvg-name="V+ TVI (720p)",V+ TVI (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="VPlusTVI.pt@SD" tvg-logo="" tvg-name="V+ TVI (720p)",V+ TVI (720p)
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="VantageMusic.ee@HD" tvg-logo="" tvg-name="Vantage Music (720p) [Geo-blocked]",Vantage Music (720p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="VantageMusic.ee@HD" tvg-logo="" tvg-name="Vantage Music (720p) [Geo-blocked]",Vantage Music (720p) [Geo-blocked]
 https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ViasatExploreClassic.pl@SD" tvg-logo="" tvg-name="Viasat Explore Classic (720p)",Viasat Explore Classic (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ViasatExploreClassic.pl@SD" tvg-logo="" tvg-name="Viasat Explore Classic (720p)",Viasat Explore Classic (720p)
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="VintageMusic.cr@SD" tvg-logo="" tvg-name="Vintage Music (720p)",Vintage Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="VintageMusic.cr@SD" tvg-logo="" tvg-name="Vintage Music (720p)",Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="WayTV.pt@SD" tvg-logo="" tvg-name="Way TV",Way TV
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="WayTV.pt@SD" tvg-logo="" tvg-name="Way TV",Way TV
 https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="wbtv.classic.cinema.720p.geo.blocked" tvg-logo="" tvg-name="WBTV Classic Cinema (720p) [Geo-blocked]",WBTV Classic Cinema (720p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="wbtv.classic.cinema.720p.geo.blocked" tvg-logo="" tvg-name="WBTV Classic Cinema (720p) [Geo-blocked]",WBTV Classic Cinema (720p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="XITEClassicCountry.nl@SD" tvg-logo="" tvg-name="XITE Classic Country (1080p) [Geo-blocked]",XITE Classic Country (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="XITEClassicCountry.nl@SD" tvg-logo="" tvg-name="XITE Classic Country (1080p) [Geo-blocked]",XITE Classic Country (1080p) [Geo-blocked]
 https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="xite.classic.country.720p" tvg-logo="" tvg-name="XITE Classic Country (720p)",XITE Classic Country (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="xite.classic.country.720p" tvg-logo="" tvg-name="XITE Classic Country (720p)",XITE Classic Country (720p)
 https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="xite.r.b.classic.jams.1080p.geo.blocked" tvg-logo="" tvg-name="XITE R&B Classic Jams (1080p) [Geo-blocked]",XITE R&B Classic Jams (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="xite.r.b.classic.jams.1080p.geo.blocked" tvg-logo="" tvg-name="XITE R&B Classic Jams (1080p) [Geo-blocked]",XITE R&B Classic Jams (1080p) [Geo-blocked]
 https://pb-bakywpoa0kn1n.akamaized.net/XITE_RnB_Classic_Jams.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="XtremaCineClasico.ar@SD" tvg-logo="" tvg-name="Xtrema Cine Clasico",Xtrema Cine Clasico
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="XtremaCineClasico.ar@SD" tvg-logo="" tvg-name="Xtrema Cine Clasico",Xtrema Cine Clasico
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="YRFMusic.in@SD" tvg-logo="" tvg-name="YRF Music (1080p)",YRF Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="YRFMusic.in@SD" tvg-logo="" tvg-name="YRF Music (1080p)",YRF Music (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ZBMusic.in@HD" tvg-logo="" tvg-name="ZB Music (720p)",ZB Music (720p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ZBMusic.in@HD" tvg-logo="" tvg-name="ZB Music (720p)",ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ZeeCineClassic.in@SD" tvg-logo="" tvg-name="Zee Cine Classic (1080p)",Zee Cine Classic (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ZeeCineClassic.in@SD" tvg-logo="" tvg-name="Zee Cine Classic (1080p)",Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ZeeClassic.in@SD" tvg-logo="" tvg-name="Zee Classic (576p)",Zee Classic (576p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ZeeClassic.in@SD" tvg-logo="" tvg-name="Zee Classic (576p)",Zee Classic (576p)
 http://103.229.254.25:7001/play/a09w/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ZonaMusicTV.cr@SD" tvg-logo="" tvg-name="Zona Music TV (1080p)",Zona Music TV (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ZonaMusicTV.cr@SD" tvg-logo="" tvg-name="Zona Music TV (1080p)",Zona Music TV (1080p)
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ZweiMusicTelevision.de@SD" tvg-logo="" tvg-name="ZWEI2 Music (1080p)",ZWEI2 Music (1080p)
+#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ZweiMusicTelevision.de@SD" tvg-logo="" tvg-name="ZWEI2 Music (1080p)",ZWEI2 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
