@@ -564,13 +564,13 @@ def enrich_entries(entries: Iterable[PlaylistEntry]) -> list[PlaylistEntry]:
     for entry in entries:
         entry.content_type = detect_content_type(entry)
         entry.country = detect_country(entry)
-        entry.category = detect_category(entry)
         entry.live_category = detect_live_category(entry) if entry.content_type == "live" else ""
         entry.vod_genre = detect_movie_genre(entry) if entry.content_type == "movies" else ""
         entry.series_genre = detect_series_genre(entry) if entry.content_type == "series" else ""
         entry.channel_group = detect_channel_group(entry)
         entry.quality = detect_quality(entry)
         standardize_entry(entry)
+        entry.category = detect_category(entry)
         enriched.append(entry)
     return enriched
 
@@ -612,7 +612,16 @@ def detect_category(entry: PlaylistEntry) -> str:
         return "movies"
 
     haystack = normalized_text(" ".join([entry.name, entry.group_title]))
+    if entry.content_type == "live":
+        for category in ["sports", "kids", "news", "live"]:
+            for keyword in CATEGORY_KEYWORDS.get(category, []):
+                if keyword in haystack:
+                    return category
+        return "live"
+
     for category, keywords in CATEGORY_KEYWORDS.items():
+        if category in {"series", "movies"}:
+            continue
         if any(keyword in haystack for keyword in keywords):
             return category
     return "live"
