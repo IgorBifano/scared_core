@@ -65,7 +65,6 @@ LIVE_GROUP_TITLES = {
     "discovery_24h": "TV AO VIVO | Canais 24h Discovery",
     "novelas_24h": "TV AO VIVO | Canais 24h Novelas",
     "infantil_24h": "TV AO VIVO | Canais 24h Infantis",
-    "series_24h": "TV AO VIVO | Canais 24h Series de TV",
     "adultos": "TV AO VIVO | Canais Adultos",
 }
 
@@ -155,6 +154,8 @@ SERIES_GROUP_TITLES = {
     "turcas": "SERIES | Turcas",
     "tv_show": "SERIES | Tv Show",
 }
+
+SERIES_LABEL_TO_SLUG = {v: k for k, v in SERIES_GROUP_TITLES.items()}
 
 LIVE_CATEGORY_KEYWORDS = {
     "sports": ["sport", "sports", "premiere", "espn", "fox sports", "sportv", "combate", "ufc", "nba", "nfl"],
@@ -851,6 +852,12 @@ def detect_movie_genre(entry: PlaylistEntry) -> str:
 
 
 def detect_series_genre(entry: PlaylistEntry) -> str:
+    # Use existing group-title if it matches SERIES | label
+    if entry.group_title.startswith("SERIES | "):
+        slug = SERIES_LABEL_TO_SLUG.get(entry.group_title)
+        if slug:
+            return slug
+    
     haystack = normalized_text(" ".join([entry.name, entry.group_title, entry.url]))
     
     # Detectar por plataforma primeiro
@@ -1105,7 +1112,7 @@ def write_outputs(
     save_playlist(project_root / "output" / "movies" / "all.m3u", movie_entries)
 
     series_groups = group_entries_by_attr(series_entries, "series_genre")
-    for slug in sorted(SERIES_GENRE_KEYWORDS):
+    for slug in sorted(series_groups):
         save_playlist(project_root / "output" / "series" / f"{slug}.m3u", series_groups.get(slug, []))
     save_playlist(project_root / "output" / "series" / "all.m3u", series_entries)
 
