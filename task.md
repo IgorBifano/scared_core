@@ -1,266 +1,126 @@
-Precisamos corrigir definitivamente a estrutura e classificação da playlist IPTV.
+PARE de gerar categorias separadas como solução principal.
 
-O app/player já lê corretamente categorias M3U usando group-title.
-O problema atual é que muitas categorias são criadas vazias.
+O player IPTV NÃO usa os arquivos separados para navegação.
+Ele usa SOMENTE os group-title da playlist principal.
 
-EXEMPLO DO BUG:
-- "SERIES | Todos" mostra séries normalmente
-- "SERIES | Animes" aparece vazio
-- Categorias de TV ao Vivo aparecem misturadas com SERIES
+O problema atual NÃO é existência dos arquivos.
+O problema é que os itens dentro da playlist principal continuam classificados errado.
 
 OBJETIVO:
-Corrigir parser, classificação e geração das playlists para que TODAS AS CATEGORIAS contenham os itens corretos.
+Gerar UMA playlist principal totalmente organizada via group-title.
 
---------------------------------------------------
-REGRAS OBRIGATÓRIAS
---------------------------------------------------
-
-1. PADRONIZAÇÃO DE GROUP-TITLE
-
-TV ao vivo:
-group-title="TV AO VIVO | Nome Categoria"
-
-Séries:
-group-title="SERIES | Nome Categoria"
-
-Filmes:
-group-title="FILMES | Nome Categoria"
-
-NUNCA misturar:
-- SERIES dentro de TV AO VIVO
-- FILMES dentro de SERIES
-- etc
-
---------------------------------------------------
-2. GERAR PLAYLISTS FUNCIONAIS
---------------------------------------------------
-
-Cada categoria precisa gerar:
-- playlist individual válida
-- contendo os itens reais
-
-Exemplo:
-output/series/animes.m3u
-
-Esse arquivo PRECISA conter:
-- todas as séries/animes
-- links válidos
-- EXTINF completos
-
-Não pode gerar categoria vazia.
-
---------------------------------------------------
-3. CLASSIFICAÇÃO AUTOMÁTICA
---------------------------------------------------
-
-Implementar classificação inteligente baseada em:
-- group-title original
-- tvg-name
-- nome do conteúdo
-- keywords
-
-EXEMPLOS:
-
-Se nome contém:
-- Naruto
-- One Piece
-- Bleach
-- Attack on Titan
-
-=> SERIES | Animes
-
-Se contém:
-- ESPN
-- ESPN 2
-- ESPN HD
-
-=> TV AO VIVO | Canais ESPN
-
-Se contém:
-- SporTV
-=> TV AO VIVO | Canais Sportv
-
-Se contém:
-- HBO
-=> TV AO VIVO | Canais HBO
-
-Se contém:
-- Premiere
-=> TV AO VIVO | Canais Premiere Clubes
-
-Se contém:
-- Netflix
-=> SERIES | Netflix
-
-Se contém:
-- Prime Video
-=> SERIES | Amazon Prime Video
-
---------------------------------------------------
-4. CATEGORIAS OBRIGATÓRIAS
---------------------------------------------------
-
-TV AO VIVO:
-- Todos
-- Canais Abertos
-- Canais Internacionais
-- Canais Documentarios
-- Canais Filmes e Series
-- Canais HBO
-- Canais Telecine
-- Canais Infantis
-- Canais Noticias
-- Canais Variedades
-- Canais Religiosos
-- Canais Premiere Clubes
-- Canais Sportv
-- Canais ESPN
-- Canais Amazon Prime
-- Canais Disney
-- Canais Paramount
-- Canais HBO MAX
-- Canais TNT
-- Canais Combate/UFC Fight
-- Canais Nba League Pass
-- Canais Apple TV
-- Canais Cazé TV
-- Canais DAZN
-- Canais GE TV
-- Canais GOAT
-- Canais Nosso Futebol
-- Canais NSPORTS
-- Canais XSPORTS
-- Canais 24h Animes
-- Canais 24h Discovery
-- Canais 24h Novelas
-- Canais 24h Infantis
-- Canais 24h Series de TV
-- Canais Adultos
-
-SERIES:
-- Todos
-- ABC
-- AMC+
-- Apple TV
-- BBC ONE
-- Brasil Paralelo
-- CW
-- Discovery +
-- Disney +
-- GloboPlay
-- HBO Max
-- Hulu
-- Lionsgate +
-- Looke
-- Netflix
-- Paramount +
-- PlayPlus
-- Amazon Prime Video
-- Starz
-- Via Play
-- Ação
-- Animação/Infantil
-- Animes
-- Aventura
-- Chicago Universe
-- Comedia
-- Crime
-- Documentários
-- Dorama
-- Drama
-- Ficção e Fantasia
-- Faroeste
-- Guerra
-- Marvel
-- Mini Séries
-- Nacional
-- Novelas
-- Reality Shows
-- Romance
-- Suspense
-- Terror
-- Turcas
-- Tv Show
-
-FILMES:
-- Todos
-- Cinema
-- Lançamentos
-- 4K
-- Ação
-- Animação
-- Animes Filmes
-- Aventura
-- Clássicos
-- Coletânea 007
-- Coletânea Batman
-- Coletânea Bourne
-- Coletânea Jornada nas Estrelas
-- Coletânea Os Trapalhões
-- Coletânea Resident Evil
-- Coletânea Rocky
-- Coletânea Star Wars
-- Comédia Stand-up
-- Comédia
-- Crime
-- Drama
-- Documentários Filmes
-- Faroeste
-- Ficção
-- Guerra
-- Infantil
-- Karaoke
-- Legendados
-- Musical
-- Nacional
-- Religiosos
-- Romance
-- Suspense
-- Terror
-- Especiais de Natal
-
---------------------------------------------------
-5. REMOVER DADOS PESSOAIS
---------------------------------------------------
-
-REMOVER completamente:
-- IgorBifano
-- usuários/senhas embutidos
-- tokens pessoais
-- URLs privadas
-
-EXEMPLO:
-
-ANTES:
-http://server.xyz/IgorBifano/token/123
-
-DEPOIS:
-substituir por stream limpa ou remover entrada.
-
-NÃO expor credenciais em nenhuma playlist gerada.
-
---------------------------------------------------
-6. SAÍDA FINAL
---------------------------------------------------
-
-Gerar:
+ARQUITETURA CORRETA:
 
 output/index.m3u
-output/tv/
-output/series/
-output/movies/
 
-Cada categoria deve funcionar corretamente no player.
+TODOS os conteúdos devem existir nessa playlist única.
+
+O player automaticamente cria:
+- TV AO VIVO
+- SERIES
+- FILMES
+
+baseado no group-title.
 
 --------------------------------------------------
-7. FINALIZAÇÃO
+FORMATO OBRIGATÓRIO
 --------------------------------------------------
 
-Ao terminar:
-- executar regeneração completa
-- validar categorias
-- fazer commit
-- fazer push no GitHub
+EXEMPLO CORRETO:
 
-Formato commit:
-[v1.x.x] [adjustment] IPTV category classification fix
+#EXTINF:-1 tvg-id="naruto" tvg-name="Naruto" group-title="SERIES | Animes",Naruto
+http://stream.com/video.m3u8
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" group-title="TV AO VIVO | Canais ESPN",ESPN HD
+http://stream.com/live.m3u8
+
+#EXTINF:-1 tvg-id="batman" tvg-name="Batman Begins" group-title="FILMES | Ação",Batman Begins
+http://stream.com/movie.m3u8
+
+--------------------------------------------------
+PROBLEMA ATUAL
+--------------------------------------------------
+
+O menu de categorias aparece.
+Mas quando clico:
+- SERIES | Animes
+- SERIES | Netflix
+- etc
+
+fica vazio.
+
+Isso significa:
+os itens NÃO estão com group-title correto dentro da playlist principal.
+
+--------------------------------------------------
+CORRIGIR DEFINITIVAMENTE
+--------------------------------------------------
+
+1. NÃO gerar apenas arquivos separados
+2. Atualizar TODOS os EXTINF da playlist principal
+3. Garantir group-title correto item por item
+4. Garantir que:
+   - animes => SERIES | Animes
+   - Netflix => SERIES | Netflix
+   - ESPN => TV AO VIVO | Canais ESPN
+   - HBO => TV AO VIVO | Canais HBO
+   - filmes ação => FILMES | Ação
+
+--------------------------------------------------
+VALIDAÇÃO OBRIGATÓRIA
+--------------------------------------------------
+
+Após gerar output/index.m3u:
+
+FAZER TESTE REAL:
+
+- contar quantos itens possuem:
+group-title="SERIES | Animes"
+
+- contar quantos itens possuem:
+group-title="SERIES | Netflix"
+
+- contar quantos itens possuem:
+group-title="TV AO VIVO | Canais ESPN"
+
+Exibir os totais no terminal.
+
+Se estiver 0:
+a classificação FALHOU.
+
+--------------------------------------------------
+REMOVER BUGS
+--------------------------------------------------
+
+NUNCA permitir:
+- SERIES dentro de TV AO VIVO
+- FILMES dentro de SERIES
+- categorias vazias
+- categorias órfãs
+- títulos sem group-title
+
+--------------------------------------------------
+IMPORTANTE
+--------------------------------------------------
+
+O app IPTV lê:
+- group-title
+- tvg-name
+- tvg-logo
+- tvg-id
+
+Ele NÃO usa a estrutura de pastas do GitHub para categorizar.
+
+A categorização inteira precisa existir DENTRO do output/index.m3u.
+
+--------------------------------------------------
+FINALIZAÇÃO
+--------------------------------------------------
+
+Após corrigir:
+- regenerar playlist
+- commit
+- push
+
+Commit:
+[v1.x.x] [adjustment] Fix IPTV group-title architecture
