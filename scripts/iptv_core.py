@@ -887,6 +887,16 @@ def detect_series_genre(entry: PlaylistEntry) -> str:
     if any(keyword in haystack for keyword in ["crunchyroll"]):
         return "anime"
     
+    # Detectar animes específicos
+    anime_names = [
+        "naruto", "one piece", "bleach", "attack on titan", "dragon ball", "pokemon", "digimon",
+        "yu-gi-oh", "hunter x hunter", "death note", "fullmetal alchemist", "sword art online",
+        "my hero academia", "demon slayer", "jujutsu kaisen", "chainsaw man", "spy x family",
+        "tokyo ghoul", "one punch man", "black clover", "fairy tail", "boruto", "naruto shippuden"
+    ]
+    if any(anime in haystack for anime in anime_names):
+        return "anime"
+    
     # Detectar por gênero
     if any(keyword in haystack for keyword in ["acao", "action", "aventura", "adventure"]):
         return "acao"

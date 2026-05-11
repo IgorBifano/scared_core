@@ -3,6 +3,8 @@
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Adjarasport1.ge@SD" tvg-logo="" tvg-name="Adjarasport 1",Adjarasport 1
 https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="AfarinBaxcha.iq@SD" tvg-logo="" tvg-name="Afarin Baxcha (1080p)",Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Africa24Sport.fr@SD" tvg-logo="" tvg-name="Africa 24 Sport (1080p)",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="agenda.ufc1" tvg-logo="https://i.imgur.com/TYLXk9v.png" tvg-name="AGENDA UFC¹",AGENDA UFC¹
@@ -13,6 +15,8 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 group-title="TV AO VIVO | Canais Sportv" tvg-id="AS3SportTV.ve@SD" tvg-logo="" tvg-name="AS3 Sport TV (1080p)",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="ATNBanglaUK.uk@SD" tvg-logo="" tvg-name="ATN Bangla UK (576p)",ATN Bangla UK (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="auto.motor.sport" tvg-logo="" tvg-name="Auto Motor Sport",Auto Motor Sport
 https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="AwapaSportsTV.sv@SD" tvg-logo="" tvg-name="Awapa Sports TV (1080p) [Not 24/7]",Awapa Sports TV (1080p) [Not 24/7]
@@ -48,6 +52,9 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="CBSSportsHQ.us@SD" tvg-logo="" tvg-name="CBS Sports HQ (1080p) [Geo-blocked]",CBS Sports HQ (1080p) [Geo-blocked]
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="channel.fight.1080p" tvg-logo="" tvg-name="Channel Fight (1080p)",Channel Fight (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8?ads.vf=KqVbYyU2qD8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Premiere Clubes" tvg-id="CinePremiere.us@SD" tvg-logo="" tvg-name="Cine Premiere",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="claro.sports.mexico" tvg-logo="" tvg-name="Claro Sports Mexico",Claro Sports Mexico
@@ -110,6 +117,10 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="Esport3.es@Originals" tvg-logo="" tvg-name="Esport3 (1080p) [Not 24/7]",Esport3 (1080p) [Not 24/7]
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="FightNetwork.ca@SD" tvg-logo="" tvg-name="Fight Network (1080p)",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="fight.tv.1080p" tvg-logo="" tvg-name="Fight TV (1080p)",Fight TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="FoxSports1.us@HD" tvg-logo="" tvg-name="Fox Sports 1 (1280p)",Fox Sports 1 (1280p)
 https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="fox.sports.1080p" tvg-logo="" tvg-name="FOX Sports (1080p)",FOX Sports (1080p)
@@ -135,9 +146,13 @@ https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="GEMSport.tr@SD" tvg-logo="" tvg-name="GEM Sport",GEM Sport
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="HardKnocksFightingChampionship.pl@SD" tvg-logo="" tvg-name="Hard Knocks Fighting Championship",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="HorizonSports.us@SD" tvg-logo="" tvg-name="Horizon Sports (720p)",Horizon Sports (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254
+#EXTINF:-1 group-title="TV AO VIVO | Canais Sportv" tvg-id="HTSporTV.tr@SD" tvg-logo="" tvg-name="HTSpor TV (1080p)",HTSpor TV (1080p)
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="JSPORTS1.jp@SD" tvg-logo="" tvg-name="J Sports 1 (544p)",J Sports 1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="JSPORTS2.jp@SD" tvg-logo="" tvg-name="J Sports 2 (544p)",J Sports 2 (544p)
@@ -202,6 +217,10 @@ https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="OmanSportsTV.om@SD" tvg-logo="" tvg-name="Oman Sports TV (1080p) [Not 24/7]",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="DonbassOnline.ua@SD" tvg-logo="" tvg-name="Донбас Online (1080p) [Not 24/7]",Донбас Online (1080p) [Not 24/7]
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="PersianaFight.fr@HD" tvg-logo="" tvg-name="Persiana Fight",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.e.sports" tvg-logo="" tvg-name="Pluto TV E-Sports",Pluto TV E-Sports
 https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="pluto.tv.esportes" tvg-logo="" tvg-name="Pluto TV Esportes",Pluto TV Esportes
@@ -490,10 +509,14 @@ http://103.253.18.58:8000/play/a03o
 http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="SuspilneSport.ua@SD" tvg-logo="" tvg-name="Suspilne. Sport (1080p) [Geo-blocked]",Suspilne. Sport (1080p) [Geo-blocked]
 https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="SWRFernsehenBadenWurttemberg.de@SD" tvg-logo="" tvg-name="SWR Fernsehen Baden-Wurttemberg (720p) [Geo-Blocked]",SWR Fernsehen Baden-Wurttemberg (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TSports.bd@SD" tvg-logo="" tvg-name="T Sports (720p)",T Sports (720p)
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="talkSPORT.uk@SD" tvg-logo="" tvg-name="talkSPORT (1080p)",talkSPORT (1080p)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="TBNBaltia.ee@SD" tvg-logo="" tvg-name="TBN Baltia (1080p)",TBN Baltia (1080p)
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TDMSports.mo@SD" tvg-logo="" tvg-name="TDM Sports Ch. 93 (720p)",TDM Sports Ch. 93 (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TenSportsPakistan.pk@SD" tvg-logo="" tvg-name="Ten Sports Pakistan",Ten Sports Pakistan
@@ -516,6 +539,8 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TurkmenistanSport.tm@SD" tvg-logo="" tvg-name="Türkmenistan Sport (406p) [Not 24/7]",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="TVMaticFight.br@SD" tvg-logo="" tvg-name="TVMatic Fight (720p)",TVMatic Fight (720p)
+http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVMsportPlus.mt@SD" tvg-logo="" tvg-name="TVMsport+ (1080p)",TVMsport+ (1080p)
 https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="TVPSport.pl@SD" tvg-logo="" tvg-name="TVP Sport (1080p)",TVP Sport (1080p)
@@ -634,6 +659,8 @@ http://tyzic.xyz:80/IgorBifano/bng6vizn/901865
 http://tyzic.xyz:80/IgorBifano/bng6vizn/901864
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="xtrem.sports.1080p" tvg-logo="" tvg-name="Xtrem Sports (1080p)",Xtrem Sports (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="xxx.evolved.fights1" tvg-logo="https://imgur.com/gad3Evt.png" tvg-name="XXX: EVOLVED FIGHTS¹",XXX: EVOLVED FIGHTS¹
+http://tyzic.xyz:80/IgorBifano/bng6vizn/721067
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="yahoo.sports.network.1080p" tvg-logo="" tvg-name="Yahoo! Sports Network (1080p)",Yahoo! Sports Network (1080p)
 https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ZoyTVSports1.bo@SD" tvg-logo="" tvg-name="Zoy TV Sports 1 (1080p) [Not 24/7]",Zoy TV Sports 1 (1080p) [Not 24/7]

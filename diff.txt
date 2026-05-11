@@ -1,0 +1,548 @@
+diff --git a/task.md b/task.md
+index 5f41bd597c..a5ec90113e 100644
+--- a/task.md
++++ b/task.md
+@@ -1,342 +1,252 @@
+-Analise completamente o sistema IPTV atual antes de alterar qualquer arquivo.
++Corrigir completamente a arquitetura e classifica├º├úo das playlists M3U do projeto IPTV.
+ 
+-O objetivo agora ├® reorganizar TODA a estrutura IPTV para funcionar como um cat├ílogo IPTV profissional real, compat├¡vel com:
++PROBLEMAS ATUAIS:
+ 
+-* IPTV Smarters
+-* TiviMate
+-* OTT Navigator
+-* Kodi
+-* VLC
++1. As categorias aparecem no app IPTV, mas os conte├║dos n├úo aparecem dentro delas.
++2. S├®ries est├úo sendo exibidas como TV ao vivo.
++3. Filmes e s├®ries n├úo est├úo sendo classificados corretamente como VOD.
++4. O group-title est├í inconsistente.
++5. Algumas categorias aparecem vazias mesmo havendo conte├║do.
++6. O cabe├ºalho das categorias est├í incorreto (ex.: SERIES aparecendo em TV AO VIVO).
++7. O sistema atual cria pastas corretamente, mas o player IPTV n├úo interpreta os conte├║dos.
+ 
+-IMPORTANTE:
+-Atualmente as categorias existem fisicamente, mas os conte├║dos n├úo aparecem corretamente dentro dos players IPTV.
++OBJETIVO:
+ 
+-O sistema precisa:
++Reestruturar TODA a gera├º├úo dos arquivos M3U para funcionar corretamente em IPTV Smarters, TiviMate, OTT Navigator e apps similares.
+ 
+-* usar corretamente group-title
+-* classificar streams reais
+-* gerar playlists funcionais
+-* separar TV ao vivo, s├®ries e filmes corretamente
+-* garantir que os conte├║dos apare├ºam dentro das categorias dos players
+-
+-O sistema N├âO deve depender de navega├º├úo de diret├│rios GitHub.
+-
+-==================================================
+-ESTRUTURA PRINCIPAL
+-===================
+-
+-Corrigir:
+-
+-* index.m3u
+-* output/index.m3u
+-
+-Esses arquivos DEVEM conter:
+-
+-* streams reais
+-* URLs reais
+-* metadata correta
+-* group-title correto
+-
+-N├âO usar:
+-
+-* playlists internas como stream
+-* caminhos relativos como:
+-  channels/espn.m3u
+-
+-Formato correto:
+-
+-#EXTINF:-1 tvg-id="espn.br" tvg-logo="..." group-title="TV AO VIVO | Canais ESPN",ESPN HD
+-https://stream.m3u8
++REQUISITOS OBRIGAT├ôRIOS:
+ 
+ ==================================================
+-TV AO VIVO ÔÇö CATEGORIAS OBRIGAT├ôRIAS
+-====================================
+-
+-Separar os canais EXATAMENTE nessas categorias:
+-
+-* Todos
+-* Canais Abertos
+-* Canais Internacionais
+-* Canais Documentarios
+-* Canais Filmes e Series
+-* Canais HBO
+-* Canais Telecine
+-* Canais Infantis
+-* Canais Noticias
+-* Canais Variedades
+-* Canais Religiosos
+-* Canais Premiere Clubes
+-* Canais Sportv
+-* Canais ESPN
+-* Canais Amazon Prime
+-* Canais Disney
+-* Canais Paramount
+-* Canais HBO MAX
+-* Canais TNT
+-* Canais Combate/UFC Fight
+-* Canais Nba League Pass
+-* Canais Apple TV
+-* Canais Caz├® TV
+-* Canais DAZN
+-* Canais GE TV
+-* Canais GOAT
+-* Canais Nosso Futebol
+-* Canais NSPORTS
+-* Canais XSPORTS
+-* Canais 24h Animes
+-* Canais 24h Discovery
+-* Canais 24h Novelas
+-* Canais 24h Infantis
+-* Canais 24h Series de TV
+-* Canais Adultos
+-
++TV AO VIVO
+ ==================================================
+-REGRAS PARA TV AO VIVO
+-======================
+ 
+-Agrupar automaticamente:
++Todos os canais ao vivo DEVEM:
+ 
+-* SD
+-* HD
+-* FHD
+-* 4K
++- permanecer como streams LIVE
++- usar:
++  group-title="TV AO VIVO | Nome da Categoria"
+ 
+ Exemplo:
+ 
+-ESPN SD
+-ESPN HD
+-ESPN FHD
+-ESPN 2
+-ESPN 3
+-ESPN 4
+-
+-SporTV HD
+-SporTV 2
+-SporTV 3
+-
+-Globo SP
+-Globo RJ
+-Globo MG
+-
+-Usar:
+ group-title="TV AO VIVO | Canais ESPN"
+ 
+-==================================================
+-S├ëRIES ÔÇö CATEGORIAS OBRIGAT├ôRIAS
+-================================
+-
+-Separar EXATAMENTE nessas categorias:
+-
+-* Todos
+-* ABC
+-* AMC+
+-* Apple TV
+-* BBC ONE
+-* Brasil Paralelo
+-* CW
+-* Discovery +
+-* Disney +
+-* GloboPlay
+-* HBO Max
+-* Hulu
+-* Lionsgate +
+-* Looke
+-* Netflix
+-* Paramount +
+-* PlayPlus
+-* Amazon Prime Video
+-* Starz
+-* Via Play
+-* A├º├úo
+-* Anima├º├úo/Infantil
+-* Animes
+-* Aventura
+-* Chicago Universe
+-* Comedia
+-* Crime
+-* Document├írios
+-* Dorama
+-* Drama
+-* Fic├º├úo e Fantasia
+-* Faroeste
+-* Guerra
+-* Marvel
+-* Mini S├®ries
+-* Nacional
+-* Novelas
+-* Reality Shows
+-* Romance
+-* Suspense
+-* Terror
+-* Turcas
+-* Tv Show
++As categorias obrigat├│rias:
++
++- Todos
++- Canais Abertos
++- Canais Internacionais
++- Canais Documentarios
++- Canais Filmes e Series
++- Canais HBO
++- Canais Telecine
++- Canais Infantis
++- Canais Noticias
++- Canais Variedades
++- Canais Religiosos
++- Canais Premiere Clubes
++- Canais Sportv
++- Canais ESPN
++- Canais Amazon Prime
++- Canais Disney
++- Canais Paramount
++- Canais HBO MAX
++- Canais TNT
++- Canais Combate/UFC Fight
++- Canais Nba League Pass
++- Canais Apple TV
++- Canais Caz├® TV
++- Canais DAZN
++- Canais GE TV
++- Canais GOAT
++- Canais Nosso Futebol
++- Canais NSPORTS
++- Canais XSPORTS
++- Canais 24h Animes
++- Canais 24h Discovery
++- Canais 24h Novelas
++- Canais 24h Infantis
++- Canais 24h Series de TV
++- Canais Adultos
++
++Tamb├®m separar canais SD/HD/FHD/4K quando poss├¡vel.
+ 
+ ==================================================
+-REGRAS PARA S├ëRIES
+-==================
++S├ëRIES
++==================================================
+ 
+-Detectar automaticamente:
++S├®ries DEVEM ser exportadas como VOD/SERIES.
+ 
+-* S01E01
+-* Season
+-* Episode
+-* Temporada
+-* Cap├¡tulo
++N├âO podem aparecer em TV AO VIVO.
+ 
+-Separar:
++Cada s├®rie deve conter atributos compat├¡veis com players IPTV:
+ 
+-* plataforma
+-* g├¬nero
+-* cole├º├úo
++- tvg-name
++- tvg-logo
++- group-title
++- t├¡tulo correto
++- URL final
+ 
+-Exemplo:
++group-title deve seguir:
+ 
+ group-title="SERIES | Netflix"
+-group-title="SERIES | Dorama"
+-group-title="SERIES | Marvel"
+ 
+-IMPORTANTE:
+-Hoje as s├®ries existem no sistema mas n├úo aparecem corretamente nas categorias.
+-
+-Corrigir isso.
++ou
++
++group-title="SERIES | A├º├úo"
++
++Categorias obrigat├│rias:
++
++- ABC
++- AMC+
++- Apple TV
++- BBC ONE
++- Brasil Paralelo
++- CW
++- Discovery +
++- Disney +
++- GloboPlay
++- HBO Max
++- Hulu
++- Lionsgate +
++- Looke
++- Netflix
++- Paramount +
++- PlayPlus
++- Amazon Prime Video
++- Starz
++- Via Play
++- A├º├úo
++- Anima├º├úo/Infantil
++- Animes
++- Aventura
++- Chicago Universe
++- Comedia
++- Crime
++- Document├írios
++- Dorama
++- Drama
++- Fic├º├úo e Fantasia
++- Faroeste
++- Guerra
++- Marvel
++- Mini S├®ries
++- Nacional
++- Novelas
++- Reality Shows
++- Romance
++- Suspense
++- Terror
++- Turcas
++- Tv Show
++
++Corrigir problema atual onde as categorias aparecem vazias.
++
++O conte├║do realmente precisa ser atribu├¡do aos grupos.
+ 
+ ==================================================
+-FILMES ÔÇö CATEGORIAS OBRIGAT├ôRIAS
+-================================
+-
+-Separar EXATAMENTE nessas categorias:
+-
+-* Todos
+-* Cinema
+-* Lan├ºamentos
+-* 4K
+-* A├º├úo
+-* Anima├º├úo
+-* Animes Filmes
+-* Aventura
+-* Cl├íssicos
+-* Colet├ónea 007
+-* Colet├ónea Batman
+-* Colet├ónea Bourne
+-* Colet├ónea Jornada nas Estrelas
+-* Colet├ónea Os Trapalh├Áes
+-* Colet├ónea Resident Evil
+-* Colet├ónea Rocky
+-* Colet├ónea Star Wars
+-* Com├®dia Stand-up
+-* Com├®dia
+-* Com├®dia Rom├óntica
+-* Crime
+-* Drama
+-* Document├írios Filmes
+-* Faroeste
+-* Fic├º├úo
+-* Guerra
+-* Infantil
+-* Karaoke
+-* Legendados
+-* Musical
+-* Nacional
+-* Religiosos
+-* Romance
+-* Suspense
+-* Terror
+-* Especiais de Natal
+-
++FILMES
+ ==================================================
+-REGRAS PARA FILMES
+-==================
+-
+-Detectar automaticamente:
+ 
+-* Movie
+-* BluRay
+-* WEB-DL
+-* 1080p
+-* 4K
+-* MKV
+-* MP4
++Filmes DEVEM ser exportados como VOD.
+ 
+-Separar corretamente:
+-
+-* filmes
+-* s├®ries
+-* canais live
+-
+-Usar:
++group-title:
+ 
+ group-title="FILMES | A├º├úo"
+-group-title="FILMES | Lan├ºamentos"
+-group-title="FILMES | 4K"
+ 
+-==================================================
+-METADATA
+-========
++Categorias obrigat├│rias:
++
++- Cinema
++- Lan├ºamentos
++- 4K
++- A├º├úo
++- Anima├º├úo
++- Animes Filmes
++- Aventura
++- Cl├íssicos
++- Colet├ónea 007
++- Colet├ónea Batman
++- Colet├ónea Bourne
++- Colet├ónea Jornada nas Estrelas
++- Colet├ónea Os Trapalh├Áes
++- Colet├ónea Resident Evil
++- Colet├ónea Rocky
++- Colet├ónea Star Wars
++- Com├®dia Stand-up
++- Com├®dia
++- Com├®dia Rom├óntica
++- Crime
++- Drama
++- Document├írios Filmes
++- Faroeste
++- Fic├º├úo
++- Guerra
++- Infantil
++- Karaoke
++- Legendados
++- Musical
++- Nacional
++- Religiosos
++- Romance
++- Suspense
++- Terror
++- Especiais de Natal
+ 
+-Adicionar quando poss├¡vel:
++==================================================
++ESTRUTURA
++==================================================
+ 
+-* tvg-id
+-* tvg-logo
+-* tvg-name
+-* group-title
++Gerar:
+ 
+-Remover completamente:
++/output/index.m3u
++/output/live/
++/output/series/
++/output/movies/
++/output/categories/
++/output/channels/
+ 
+-* IgorBifano
+-* scared_core
++==================================================
++INDEX PRINCIPAL
++==================================================
+ 
+-Substituir por:
++index.m3u deve funcionar corretamente em players IPTV.
+ 
+-* Private IPTV
+-  ou
+-* Family Media
++As categorias precisam abrir com conte├║do real.
+ 
+ ==================================================
+-PARSER
+-======
+-
+-Revisar:
+-
+-* scripts/merge_lists.py
+-* scripts/iptv_core.py
++CORRE├ç├âO CR├ìTICA
++==================================================
+ 
+-Melhorar:
++Atualmente os grupos aparecem mas n├úo exibem itens.
+ 
+-* heur├¡sticas
+-* classifica├º├úo
+-* detec├º├úo de categorias
+-* detec├º├úo de qualidade
+-* detec├º├úo de plataforma
+-* separa├º├úo de conte├║do
++Corrigir a l├│gica que associa entries aos arquivos M3U finais.
+ 
+ ==================================================
+-OUTPUT FINAL
+-============
+-
+-Gerar:
++REMOVER IDENTIDADE PESSOAL
++==================================================
+ 
+-/index.m3u
+-/output/index.m3u
++N├úo exibir:
++- IgorBifano
++- tokens pessoais
++- usernames
++- senhas
++- credenciais
+ 
+-/output/live/
+-/output/series/
+-/output/movies/
++nos nomes dos canais ou metadados.
+ 
+-/output/channels/
+-/output/categories/
+-/output/countries/
++N├âO alterar URLs de stream automaticamente ainda.
+ 
+-Todos os arquivos devem conter streams reais funcionais.
++Apenas limpar metadados e nomes vis├¡veis.
+ 
+ ==================================================
+-VALIDA├ç├âO FINAL
+-===============
++RESULTADO ESPERADO
++==================================================
+ 
+-Explicar:
++Ao abrir no IPTV Smarters:
+ 
+-* por que as categorias n├úo apareciam antes
+-* como os players IPTV interpretam group-title
+-* como o parser agora classifica conte├║dos
+-* como live TV, s├®ries e filmes foram separados
+-* como SD/HD/FHD/4K foram agrupados
+-* como as plataformas foram identificadas
++- TV AO VIVO mostra canais reais
++- SERIES mostra s├®ries reais
++- FILMES mostra filmes reais
++- categorias funcionam
++- itens aparecem dentro das categorias
++- nada vazio
++- sem credenciais vis├¡veis
+\ No newline at end of file
+

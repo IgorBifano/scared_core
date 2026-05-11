@@ -1,37 +1,106 @@
-Corrigir completamente a arquitetura e classificação das playlists M3U do projeto IPTV.
+Precisamos corrigir definitivamente a estrutura e classificação da playlist IPTV.
 
-PROBLEMAS ATUAIS:
+O app/player já lê corretamente categorias M3U usando group-title.
+O problema atual é que muitas categorias são criadas vazias.
 
-1. As categorias aparecem no app IPTV, mas os conteúdos não aparecem dentro delas.
-2. Séries estão sendo exibidas como TV ao vivo.
-3. Filmes e séries não estão sendo classificados corretamente como VOD.
-4. O group-title está inconsistente.
-5. Algumas categorias aparecem vazias mesmo havendo conteúdo.
-6. O cabeçalho das categorias está incorreto (ex.: SERIES aparecendo em TV AO VIVO).
-7. O sistema atual cria pastas corretamente, mas o player IPTV não interpreta os conteúdos.
+EXEMPLO DO BUG:
+- "SERIES | Todos" mostra séries normalmente
+- "SERIES | Animes" aparece vazio
+- Categorias de TV ao Vivo aparecem misturadas com SERIES
 
 OBJETIVO:
+Corrigir parser, classificação e geração das playlists para que TODAS AS CATEGORIAS contenham os itens corretos.
 
-Reestruturar TODA a geração dos arquivos M3U para funcionar corretamente em IPTV Smarters, TiviMate, OTT Navigator e apps similares.
+--------------------------------------------------
+REGRAS OBRIGATÓRIAS
+--------------------------------------------------
 
-REQUISITOS OBRIGATÓRIOS:
+1. PADRONIZAÇÃO DE GROUP-TITLE
 
-==================================================
-TV AO VIVO
-==================================================
+TV ao vivo:
+group-title="TV AO VIVO | Nome Categoria"
 
-Todos os canais ao vivo DEVEM:
+Séries:
+group-title="SERIES | Nome Categoria"
 
-- permanecer como streams LIVE
-- usar:
-  group-title="TV AO VIVO | Nome da Categoria"
+Filmes:
+group-title="FILMES | Nome Categoria"
+
+NUNCA misturar:
+- SERIES dentro de TV AO VIVO
+- FILMES dentro de SERIES
+- etc
+
+--------------------------------------------------
+2. GERAR PLAYLISTS FUNCIONAIS
+--------------------------------------------------
+
+Cada categoria precisa gerar:
+- playlist individual válida
+- contendo os itens reais
 
 Exemplo:
+output/series/animes.m3u
 
-group-title="TV AO VIVO | Canais ESPN"
+Esse arquivo PRECISA conter:
+- todas as séries/animes
+- links válidos
+- EXTINF completos
 
-As categorias obrigatórias:
+Não pode gerar categoria vazia.
 
+--------------------------------------------------
+3. CLASSIFICAÇÃO AUTOMÁTICA
+--------------------------------------------------
+
+Implementar classificação inteligente baseada em:
+- group-title original
+- tvg-name
+- nome do conteúdo
+- keywords
+
+EXEMPLOS:
+
+Se nome contém:
+- Naruto
+- One Piece
+- Bleach
+- Attack on Titan
+
+=> SERIES | Animes
+
+Se contém:
+- ESPN
+- ESPN 2
+- ESPN HD
+
+=> TV AO VIVO | Canais ESPN
+
+Se contém:
+- SporTV
+=> TV AO VIVO | Canais Sportv
+
+Se contém:
+- HBO
+=> TV AO VIVO | Canais HBO
+
+Se contém:
+- Premiere
+=> TV AO VIVO | Canais Premiere Clubes
+
+Se contém:
+- Netflix
+=> SERIES | Netflix
+
+Se contém:
+- Prime Video
+=> SERIES | Amazon Prime Video
+
+--------------------------------------------------
+4. CATEGORIAS OBRIGATÓRIAS
+--------------------------------------------------
+
+TV AO VIVO:
 - Todos
 - Canais Abertos
 - Canais Internacionais
@@ -68,34 +137,8 @@ As categorias obrigatórias:
 - Canais 24h Series de TV
 - Canais Adultos
 
-Também separar canais SD/HD/FHD/4K quando possível.
-
-==================================================
-SÉRIES
-==================================================
-
-Séries DEVEM ser exportadas como VOD/SERIES.
-
-NÃO podem aparecer em TV AO VIVO.
-
-Cada série deve conter atributos compatíveis com players IPTV:
-
-- tvg-name
-- tvg-logo
-- group-title
-- título correto
-- URL final
-
-group-title deve seguir:
-
-group-title="SERIES | Netflix"
-
-ou
-
-group-title="SERIES | Ação"
-
-Categorias obrigatórias:
-
+SERIES:
+- Todos
 - ABC
 - AMC+
 - Apple TV
@@ -139,22 +182,8 @@ Categorias obrigatórias:
 - Turcas
 - Tv Show
 
-Corrigir problema atual onde as categorias aparecem vazias.
-
-O conteúdo realmente precisa ser atribuído aos grupos.
-
-==================================================
-FILMES
-==================================================
-
-Filmes DEVEM ser exportados como VOD.
-
-group-title:
-
-group-title="FILMES | Ação"
-
-Categorias obrigatórias:
-
+FILMES:
+- Todos
 - Cinema
 - Lançamentos
 - 4K
@@ -173,7 +202,6 @@ Categorias obrigatórias:
 - Coletânea Star Wars
 - Comédia Stand-up
 - Comédia
-- Comédia Romântica
 - Crime
 - Drama
 - Documentários Filmes
@@ -191,62 +219,48 @@ Categorias obrigatórias:
 - Terror
 - Especiais de Natal
 
-==================================================
-ESTRUTURA
-==================================================
+--------------------------------------------------
+5. REMOVER DADOS PESSOAIS
+--------------------------------------------------
+
+REMOVER completamente:
+- IgorBifano
+- usuários/senhas embutidos
+- tokens pessoais
+- URLs privadas
+
+EXEMPLO:
+
+ANTES:
+http://server.xyz/IgorBifano/token/123
+
+DEPOIS:
+substituir por stream limpa ou remover entrada.
+
+NÃO expor credenciais em nenhuma playlist gerada.
+
+--------------------------------------------------
+6. SAÍDA FINAL
+--------------------------------------------------
 
 Gerar:
 
-/output/index.m3u
-/output/live/
-/output/series/
-/output/movies/
-/output/categories/
-/output/channels/
+output/index.m3u
+output/tv/
+output/series/
+output/movies/
 
-==================================================
-INDEX PRINCIPAL
-==================================================
+Cada categoria deve funcionar corretamente no player.
 
-index.m3u deve funcionar corretamente em players IPTV.
+--------------------------------------------------
+7. FINALIZAÇÃO
+--------------------------------------------------
 
-As categorias precisam abrir com conteúdo real.
+Ao terminar:
+- executar regeneração completa
+- validar categorias
+- fazer commit
+- fazer push no GitHub
 
-==================================================
-CORREÇÃO CRÍTICA
-==================================================
-
-Atualmente os grupos aparecem mas não exibem itens.
-
-Corrigir a lógica que associa entries aos arquivos M3U finais.
-
-==================================================
-REMOVER IDENTIDADE PESSOAL
-==================================================
-
-Não exibir:
-- IgorBifano
-- tokens pessoais
-- usernames
-- senhas
-- credenciais
-
-nos nomes dos canais ou metadados.
-
-NÃO alterar URLs de stream automaticamente ainda.
-
-Apenas limpar metadados e nomes visíveis.
-
-==================================================
-RESULTADO ESPERADO
-==================================================
-
-Ao abrir no IPTV Smarters:
-
-- TV AO VIVO mostra canais reais
-- SERIES mostra séries reais
-- FILMES mostra filmes reais
-- categorias funcionam
-- itens aparecem dentro das categorias
-- nada vazio
-- sem credenciais visíveis
+Formato commit:
+[v1.x.x] [adjustment] IPTV category classification fix

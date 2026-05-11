@@ -1,6 +1,8 @@
 #EXTM3U name="Family Media"
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="100NEWS.ua@SD" tvg-logo="" tvg-name="100% News (576p)",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="ChuzhouNewsChannel.cn@SD" tvg-logo="" tvg-name="滁州市广播电视台 新闻综合频道 (1080p)",滁州市广播电视台 新闻综合频道 (1080p)
+http://live.cztv.cc:85/live/xwpd.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="1s.news.576p" tvg-logo="" tvg-name="1S News (576p)",1S News (576p)
 https://mumt03.tangotv.in/1SNEWS/index.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="22ScopeNews.in@SD" tvg-logo="" tvg-name="22Scope News (1080p)",22Scope News (1080p)
@@ -9,10 +11,22 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="24News.in@SD" tvg-logo="" tvg-name="24 News (576p)",24 News (576p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="360News.ru@SD" tvg-logo="" tvg-name="360° Новости (1080p)",360° Новости (1080p)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="HebiNewsChannel.cn@SD" tvg-logo="" tvg-name="鹤壁新闻综合 (480p) [Not 24/7]",鹤壁新闻综合 (480p) [Not 24/7]
+http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="4DmasNoticiasTV.py@SD" tvg-logo="" tvg-name="4DmásNoticias TV (1080p) [Not 24/7]",4DmásNoticias TV (1080p) [Not 24/7]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="4TVNews.in@SD" tvg-logo="" tvg-name="4TV News (576p)",4TV News (576p)
 https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="JiangsuPublicNewsChannel.cn@SD" tvg-logo="" tvg-name="江苏公共 (576p)",江苏公共 (576p)
+http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="JiuquanTVNewsComprehensiveChannel.cn@SD" tvg-logo="" tvg-name="酒泉新闻综合 (576p)",酒泉新闻综合 (576p)
+http://117.156.28.119/270000001111/1110000001/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="PingxiangTVNewsChannel.cn@SD" tvg-logo="" tvg-name="萍鄉新聞綜合 (576p) [Not 24/7]",萍鄉新聞綜合 (576p) [Not 24/7]
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="PhoenixInfoNewsChannel.hk@SD" tvg-logo="" tvg-name="凤凰资讯 (720p)",凤凰资讯 (720p)
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="92NewsHD.pk@SD" tvg-logo="" tvg-name="92 News HD (720p)",92 News HD (720p)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="AajNews.pk@SD" tvg-logo="" tvg-name="Aaj News (576p)",Aaj News (576p)
@@ -157,30 +171,6 @@ https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
 https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="CBNNews.us@SD" tvg-logo="" tvg-name="CBN News Channel (1080p)",CBN News Channel (1080p)
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.rio.de.janeiro.fhd1" tvg-logo="https://i.imgur.com/aaDHydb.png" tvg-name="CBN RIO DE JANEIRO FHD¹",CBN RIO DE JANEIRO FHD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717172
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.rio.de.janeiro.fhd2" tvg-logo="https://i.imgur.com/aaDHydb.png" tvg-name="CBN RIO DE JANEIRO FHD²",CBN RIO DE JANEIRO FHD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971838
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.rio.de.janeiro.hd1" tvg-logo="https://i.imgur.com/aaDHydb.png" tvg-name="CBN RIO DE JANEIRO HD¹",CBN RIO DE JANEIRO HD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717173
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.rio.de.janeiro.hd2" tvg-logo="https://i.imgur.com/aaDHydb.png" tvg-name="CBN RIO DE JANEIRO HD²",CBN RIO DE JANEIRO HD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971839
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.rio.de.janeiro.sd1" tvg-logo="https://i.imgur.com/aaDHydb.png" tvg-name="CBN RIO DE JANEIRO SD¹",CBN RIO DE JANEIRO SD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717174
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.rio.de.janeiro.sd2" tvg-logo="https://i.imgur.com/aaDHydb.png" tvg-name="CBN RIO DE JANEIRO SD²",CBN RIO DE JANEIRO SD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971840
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.sao.paulo.fhd1" tvg-logo="https://i.imgur.com/FgGXB1K.png" tvg-name="CBN SÃO PAULO FHD¹",CBN SÃO PAULO FHD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717176
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.sao.paulo.fhd2" tvg-logo="https://i.imgur.com/FgGXB1K.png" tvg-name="CBN SÃO PAULO FHD²",CBN SÃO PAULO FHD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971841
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.sao.paulo.hd1" tvg-logo="https://i.imgur.com/FgGXB1K.png" tvg-name="CBN SÃO PAULO HD¹",CBN SÃO PAULO HD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717177
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.sao.paulo.hd2" tvg-logo="https://i.imgur.com/FgGXB1K.png" tvg-name="CBN SÃO PAULO HD²",CBN SÃO PAULO HD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971842
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.sao.paulo.sd1" tvg-logo="https://i.imgur.com/FgGXB1K.png" tvg-name="CBN SÃO PAULO SD¹",CBN SÃO PAULO SD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717178
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="cbn.sao.paulo.sd2" tvg-logo="https://i.imgur.com/FgGXB1K.png" tvg-name="CBN SÃO PAULO SD²",CBN SÃO PAULO SD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971843
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="cbs.news.24.7" tvg-logo="" tvg-name="CBS News 24/7",CBS News 24/7
 https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="cbs.news.24.7.720p" tvg-logo="" tvg-name="CBS News 24/7 (720p)",CBS News 24/7 (720p)
@@ -298,6 +288,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="ETVNews.in@HD" tvg-logo="" tvg-name="ETV News (1080p)",ETV News (1080p)
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="etvNewsSport.za@SD" tvg-logo="" tvg-name="ETVN (720p)",ETVN (720p)
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="euronews" tvg-logo="" tvg-name="Euronews",Euronews
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="Euronews.pl@FAST" tvg-logo="" tvg-name="Euronews (720p)",Euronews (720p)
@@ -350,6 +342,8 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="GBNews.uk@SD" tvg-logo="" tvg-name="GB News (1080p)",GB News (1080p)
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="HunanNewsChannel.cn@SD" tvg-logo="" tvg-name="长沙新闻 [Geo-blocked]",长沙新闻 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="GeoNews.pk@SD" tvg-logo="" tvg-name="Geo News (576p)",Geo News (576p)
 http://116.90.120.151:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="global.news.national.720p" tvg-logo="" tvg-name="Global News National (720p)",Global News National (720p)
@@ -479,6 +473,9 @@ https://streaming.meteonews.net/hls/stream.m3u8
 http://103.250.28.74:8000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="Mh1News.in@SD" tvg-logo="" tvg-name="Mh 1 News (360p)",Mh 1 News (360p)
 https://livestream.jswk.online/mhonenews/live/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="" tvg-name="MNC (1080p)",MNC (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="NanchangNewsGeneralistChannel.cn@SD" tvg-logo="" tvg-name="Nanchang News & Generalist Channel",Nanchang News & Generalist Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="WMAQTV51.us@HD" tvg-logo="" tvg-name="NBC 5 Chicago Live News (1080p)",NBC 5 Chicago Live News (1080p)
@@ -589,6 +586,11 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/
 https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="News18UttarPradeshUttarakhand.in@SD" tvg-logo="" tvg-name="News18 Uttar Pradesh Uttarakhand (1080p)",News18 Uttar Pradesh Uttarakhand (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="Newsmax2.us@SD" tvg-logo="" tvg-name="Newsmax 2 (1080p)",Newsmax 2 (1080p)
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="NewsmaxTV.us@SD" tvg-logo="" tvg-name="Newsmax TV (1080p)",Newsmax TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=Td2nCUXB4ha
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="NewsNet.us@SD" tvg-logo="" tvg-name="NewsNet (720p) [Not 24/7]",NewsNet (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="NewsTimeBangla.in@SD" tvg-logo="" tvg-name="NewsTime Bangla (576p)",NewsTime Bangla (576p)
@@ -606,6 +608,8 @@ https://pb-21qh1uz4mmkrs.akamaized.net/master.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="ntd.news.1080p" tvg-logo="" tvg-name="NTD News (1080p)",NTD News (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ntd-news/ntd.m3u8?ads.vf=u5ZlU5kGi-G
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="OneAmericaNewsNetwork.us@SD" tvg-logo="" tvg-name="OAN (1080p)",OAN (1080p)
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="ObservatorNews.ro@SD" tvg-logo="" tvg-name="Observator News (720p)",Observator News (720p)
 https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="ONNewsHD.pk@SD" tvg-logo="" tvg-name="ON News HD (576p)",ON News HD (576p)
@@ -834,18 +838,6 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 http://80.79.6.221:25461/smash/public/20
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="UNews.lb@SD" tvg-logo="" tvg-name="UNews",UNews
 https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="uol.fhd1" tvg-logo="https://i.imgur.com/BidgDXO.png" tvg-name="UOL FHD¹",UOL FHD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717179
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="uol.fhd2" tvg-logo="https://i.imgur.com/BidgDXO.png" tvg-name="UOL FHD²",UOL FHD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971844
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="uol.hd1" tvg-logo="https://i.imgur.com/BidgDXO.png" tvg-name="UOL HD¹",UOL HD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717180
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="uol.hd2" tvg-logo="https://i.imgur.com/BidgDXO.png" tvg-name="UOL HD²",UOL HD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971845
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="uol.sd1" tvg-logo="https://i.imgur.com/BidgDXO.png" tvg-name="UOL SD¹",UOL SD¹
-http://tyzic.xyz:80/IgorBifano/bng6vizn/717182
-#EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="uol.sd2" tvg-logo="https://i.imgur.com/BidgDXO.png" tvg-name="UOL SD²",UOL SD²
-http://tyzic.xyz:80/IgorBifano/bng6vizn/971846
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="V6News.in@SD" tvg-logo="" tvg-name="V6 News (576p)",V6 News (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="vande.bharat.news.1080p" tvg-logo="" tvg-name="Vande Bharat News (1080p)",Vande Bharat News (1080p)
@@ -893,3 +885,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="ZillarBartaNews.in@HD" tvg-logo="" tvg-name="ZillarBarta News",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Noticias" tvg-id="ZoomNews.us@SD" tvg-logo="" tvg-name="Zoom TV Kurdish (720p)",Zoom TV Kurdish (720p)
+#EXTVLCOPT:http-referrer=https://zoomnews.info/
+https://live.zoomnews.info/live/Zoom_playlist.m3u8
