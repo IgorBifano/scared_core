@@ -1081,73 +1081,7 @@ def write_outputs(
 ) -> None:
     ensure_directories(project_root)
 
-    live_entries = [entry for entry in entries if entry.content_type == "live"]
-    movie_entries = [entry for entry in entries if entry.content_type == "movies"]
-    series_entries = [entry for entry in entries if entry.content_type == "series"]
-
-    (project_root / "output" / "all_channels.m3u").write_text(
-        serialize_playlist(live_entries, f"{PLAYLIST_BRAND} Live"),
-        encoding="utf-8",
-    )
-
-    countries = group_entries(live_entries, "country")
-    for code in ["br", "us", "uk", "es", "pt", "jp", "kr", "fr", "de", "latam", "others"]:
-        country_entries = countries.get(code, [])
-        save_playlist(project_root / "countries" / code / "playlist.m3u", country_entries)
-        save_playlist(project_root / "output" / "countries" / f"{code}.m3u", country_entries)
-
-    categories = group_entries(entries, "category")
-    for slug, destination in [
-        ("sports", project_root / "sports" / "playlist.m3u"),
-        ("movies", project_root / "movies" / "playlist.m3u"),
-        ("series", project_root / "series" / "playlist.m3u"),
-        ("kids", project_root / "kids" / "playlist.m3u"),
-        ("news", project_root / "news" / "playlist.m3u"),
-        ("live", project_root / "live" / "playlist.m3u"),
-        ("vod", project_root / "vod" / "playlist.m3u"),
-    ]:
-        category_entries = categories.get(slug, [])
-        save_playlist(destination, category_entries)
-        save_playlist(project_root / "output" / "categories" / f"{slug}.m3u", category_entries)
-        save_playlist(project_root / "categories" / f"{slug}.m3u", category_entries)
-
-    channels = group_entries([entry for entry in live_entries if entry.channel_group], "channel")
-    for slug in sorted(CHANNEL_KEYWORDS):
-        channel_entries = channels.get(slug, [])
-        save_playlist(project_root / "channels" / slug / "playlist.m3u", channel_entries)
-        save_playlist(project_root / "output" / "channels" / f"{slug}.m3u", channel_entries)
-        for alias in CHANNEL_OUTPUT_NAMES.get(slug, []):
-            save_playlist(project_root / "output" / "channels" / f"{alias}.m3u", channel_entries)
-
-    live_groups = group_entries_by_attr(live_entries, "live_category")
-    for slug in ["sports", "news", "kids", "open_tv", "entertainment", "documentary", "regional"]:
-        save_playlist(project_root / "output" / "live" / f"{slug}.m3u", live_groups.get(slug, []))
-    save_playlist(project_root / "output" / "live" / "documentaries.m3u", live_groups.get("documentary", []))
-    save_playlist(project_root / "output" / "live" / "all.m3u", live_entries)
-
-    movie_groups = group_entries_by_attr(movie_entries, "vod_genre")
-    for slug in sorted(MOVIE_GENRE_KEYWORDS):
-        save_playlist(project_root / "output" / "movies" / f"{slug}.m3u", movie_groups.get(slug, []))
-    save_playlist(project_root / "output" / "movies" / "all.m3u", movie_entries)
-
-    series_groups = group_entries_by_attr(series_entries, "series_genre")
-    for slug in sorted(series_groups):
-        save_playlist(project_root / "output" / "series" / f"{slug}.m3u", series_groups.get(slug, []))
-    save_playlist(project_root / "output" / "series" / "all.m3u", series_entries)
-
-    (project_root / "output" / "live" / "index.m3u").write_text(
-        serialize_playlist(live_entries, f"{PLAYLIST_BRAND} Live"),
-        encoding="utf-8",
-    )
-    (project_root / "output" / "movies" / "index.m3u").write_text(
-        serialize_playlist(movie_entries, f"{PLAYLIST_BRAND} Movies"),
-        encoding="utf-8",
-    )
-    (project_root / "output" / "series" / "index.m3u").write_text(
-        serialize_playlist(series_entries, f"{PLAYLIST_BRAND} Series"),
-        encoding="utf-8",
-    )
-
+    # Sort entries for consistent output
     catalog_entries = sorted(
         entries,
         key=lambda item: (
@@ -1158,9 +1092,22 @@ def write_outputs(
             item.url,
         ),
     )
+    
+    # Generate ONLY the main index.m3u with all entries
     full_catalog = serialize_playlist(catalog_entries, PLAYLIST_BRAND)
-    (project_root / "index.m3u").write_text(full_catalog, encoding="utf-8")
     (project_root / "output" / "index.m3u").write_text(full_catalog, encoding="utf-8")
+
+    # Generate report.json
+    live_entries = [entry for entry in entries if entry.content_type == "live"]
+    movie_entries = [entry for entry in entries if entry.content_type == "movies"]
+    series_entries = [entry for entry in entries if entry.content_type == "series"]
+    
+    countries = group_entries(live_entries, "country")
+    categories = group_entries(entries, "category")
+    channels = group_entries([entry for entry in live_entries if entry.channel_group], "channel")
+    live_groups = group_entries_by_attr(live_entries, "live_category")
+    movie_groups = group_entries_by_attr(movie_entries, "vod_genre")
+    series_groups = group_entries_by_attr(series_entries, "series_genre")
 
     report = {
         "total_entries": len(entries),
@@ -1171,9 +1118,6 @@ def write_outputs(
         },
         "published_outputs": {
             "index_entries": len(catalog_entries),
-            "all_channels_entries": len(live_entries),
-            "countries_entries": sum(len(value) for value in countries.values()),
-            "channels_entries": sum(len(value) for value in channels.values()),
         },
         "countries": {key: len(value) for key, value in countries.items()},
         "categories": {key: len(value) for key, value in categories.items()},
@@ -1185,9 +1129,8 @@ def write_outputs(
         "cleanup": stats,
         "base_url": base_url,
         "parser_notes": {
-            "old_main_playlist_problem": "The previous index.m3u files pointed to other playlist files instead of containing playable stream URLs, which modern IPTV apps do not use as navigable folders.",
-            "old_mixing_reason": "The previous parser relied too much on raw group-title and loose movie keywords, which allowed linear channels to fall into VOD buckets and episodic content to leak into live/channel playlists.",
-            "current_strategy": "The current parser resolves content_type first (live, movies, series), rewrites group-title into IPTV-friendly buckets, and generates main indexes with direct streams instead of nested playlist references.",
+            "architecture_reset": "Complete reset of IPTV architecture - only main index.m3u generated with correct group-titles.",
+            "current_strategy": "Single clean playlist with proper content type detection and standardized group-titles.",
         },
     }
     (project_root / "output" / "report.json").write_text(

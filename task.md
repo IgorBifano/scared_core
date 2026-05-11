@@ -1,126 +1,188 @@
-PARE de gerar categorias separadas como solução principal.
+Precisamos RESETAR COMPLETAMENTE a arquitetura da playlist IPTV.
 
-O player IPTV NÃO usa os arquivos separados para navegação.
-Ele usa SOMENTE os group-title da playlist principal.
+O projeto ficou poluído com:
+- categorias antigas
+- playlists antigas
+- outputs antigos
+- pastas legadas
+- arquivos duplicados
+- estruturas conflitantes
+- group-title conflitando
 
-O problema atual NÃO é existência dos arquivos.
-O problema é que os itens dentro da playlist principal continuam classificados errado.
+Isso está causando:
+- categorias vazias
+- SERIES aparecendo em TV AO VIVO
+- categorias quebradas
+- comportamento inconsistente no player
 
-OBJETIVO:
-Gerar UMA playlist principal totalmente organizada via group-title.
+--------------------------------------------------
+OBJETIVO
+--------------------------------------------------
 
-ARQUITETURA CORRETA:
+FAZER UMA RECONSTRUÇÃO LIMPA.
+
+NÃO reaproveitar outputs antigos.
+
+--------------------------------------------------
+PASSO 1 — LIMPEZA TOTAL
+--------------------------------------------------
+
+REMOVER COMPLETAMENTE:
+
+categories/
+channels/
+countries/
+kids/
+live/
+movies/
+news/
+series/
+sports/
+vod/
+output/
+
+REMOVER também:
+- playlists antigas inutilizadas
+- arquivos .m3u duplicados
+- outputs legados
+- cache gerado
+- categorias antigas
+- qualquer playlist órfã
+
+MANTER SOMENTE:
+- scripts/
+- playlists/source/
+- config/
+- README
+- workflow necessário
+
+--------------------------------------------------
+PASSO 2 — NOVA ARQUITETURA
+--------------------------------------------------
+
+Gerar SOMENTE:
 
 output/index.m3u
 
-TODOS os conteúdos devem existir nessa playlist única.
+Opcional:
+output/report.json
 
-O player automaticamente cria:
-- TV AO VIVO
-- SERIES
-- FILMES
+NÃO criar:
+- centenas de subpastas
+- categorias separadas
+- estrutura duplicada
 
-baseado no group-title.
+O PLAYER IPTV usa apenas:
+group-title
+
+--------------------------------------------------
+PASSO 3 — RECONSTRUIR PLAYLIST
+--------------------------------------------------
+
+Gerar UMA ÚNICA playlist limpa:
+
+output/index.m3u
+
+com:
+- #EXTM3U no topo
+- UTF-8 válido
+- EXTINF padronizado
+- group-title correto
 
 --------------------------------------------------
 FORMATO OBRIGATÓRIO
 --------------------------------------------------
 
-EXEMPLO CORRETO:
+TV AO VIVO:
+group-title="TV AO VIVO | Categoria"
 
-#EXTINF:-1 tvg-id="naruto" tvg-name="Naruto" group-title="SERIES | Animes",Naruto
-http://stream.com/video.m3u8
+SERIES:
+group-title="SERIES | Categoria"
 
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" group-title="TV AO VIVO | Canais ESPN",ESPN HD
-http://stream.com/live.m3u8
-
-#EXTINF:-1 tvg-id="batman" tvg-name="Batman Begins" group-title="FILMES | Ação",Batman Begins
-http://stream.com/movie.m3u8
+FILMES:
+group-title="FILMES | Categoria"
 
 --------------------------------------------------
-PROBLEMA ATUAL
---------------------------------------------------
-
-O menu de categorias aparece.
-Mas quando clico:
-- SERIES | Animes
-- SERIES | Netflix
-- etc
-
-fica vazio.
-
-Isso significa:
-os itens NÃO estão com group-title correto dentro da playlist principal.
-
---------------------------------------------------
-CORRIGIR DEFINITIVAMENTE
---------------------------------------------------
-
-1. NÃO gerar apenas arquivos separados
-2. Atualizar TODOS os EXTINF da playlist principal
-3. Garantir group-title correto item por item
-4. Garantir que:
-   - animes => SERIES | Animes
-   - Netflix => SERIES | Netflix
-   - ESPN => TV AO VIVO | Canais ESPN
-   - HBO => TV AO VIVO | Canais HBO
-   - filmes ação => FILMES | Ação
-
---------------------------------------------------
-VALIDAÇÃO OBRIGATÓRIA
---------------------------------------------------
-
-Após gerar output/index.m3u:
-
-FAZER TESTE REAL:
-
-- contar quantos itens possuem:
-group-title="SERIES | Animes"
-
-- contar quantos itens possuem:
-group-title="SERIES | Netflix"
-
-- contar quantos itens possuem:
-group-title="TV AO VIVO | Canais ESPN"
-
-Exibir os totais no terminal.
-
-Se estiver 0:
-a classificação FALHOU.
-
---------------------------------------------------
-REMOVER BUGS
+REGRA ABSOLUTA
 --------------------------------------------------
 
 NUNCA permitir:
+
 - SERIES dentro de TV AO VIVO
 - FILMES dentro de SERIES
-- categorias vazias
 - categorias órfãs
-- títulos sem group-title
+- categorias vazias
+- conteúdos sem group-title
+- group-title duplicado errado
 
 --------------------------------------------------
-IMPORTANTE
+PASSO 4 — CLASSIFICAÇÃO LIMPA
 --------------------------------------------------
 
-O app IPTV lê:
-- group-title
-- tvg-name
-- tvg-logo
-- tvg-id
+Classificar item por item.
 
-Ele NÃO usa a estrutura de pastas do GitHub para categorizar.
+EXEMPLOS:
 
-A categorização inteira precisa existir DENTRO do output/index.m3u.
+Naruto
+=> SERIES | Animes
+
+Breaking Bad
+=> SERIES | Drama
+
+ESPN HD
+=> TV AO VIVO | Canais ESPN
+
+Premiere 2
+=> TV AO VIVO | Canais Premiere Clubes
+
+Batman Begins
+=> FILMES | Ação
 
 --------------------------------------------------
-FINALIZAÇÃO
+PASSO 5 — SANITIZAÇÃO
 --------------------------------------------------
 
-Após corrigir:
-- regenerar playlist
-- commit
-- push
+REMOVER:
+- IgorBifano
+- tokens
+- usuários
+- senhas
+- URLs privadas
+
+NÃO deixar credenciais visíveis.
+
+--------------------------------------------------
+PASSO 6 — VALIDAÇÃO REAL
+--------------------------------------------------
+
+Após gerar:
+output/index.m3u
+
+FAZER:
+
+1. Contagem de categorias
+2. Contagem de itens por categoria
+3. Detectar categorias vazias
+4. Detectar conteúdos classificados errado
+
+Exibir relatório no terminal.
+
+--------------------------------------------------
+PASSO 7 — TESTE REAL
+--------------------------------------------------
+
+Validar no próprio player:
+
+- SERIES | Animes deve abrir conteúdo
+- SERIES | Netflix deve abrir conteúdo
+- TV AO VIVO | ESPN deve abrir canais
+- FILMES | Ação deve abrir filmes
+
+--------------------------------------------------
+PASSO 8 — FINALIZAÇÃO
+--------------------------------------------------
+
+Commit + push.
 
 Commit:
-[v1.x.x] [adjustment] Fix IPTV group-title architecture
+[v1.x.x] [adjustment] Full IPTV architecture rebuild
