@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="FILMES | Cinema" tvg-id="toonami.aftermath.movies.540p" tvg-name="Toonami Aftermath Movies (540p)" type="movie",Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8

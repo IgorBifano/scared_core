@@ -1,0 +1,304 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Magnat.ru@SD" tvg-name="Магнат ТВ (1080p)",Магнат ТВ (1080p)
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="24Kitchen.us@Serbia" tvg-name="24Kitchen Serbia (720p)",24Kitchen Serbia (720p)
+http://91.132.74.5:8000/play/a00a
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="70sCinema.us@SD" tvg-name="70s Cinema",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="86.ru@SD" tvg-name="Телеканал 86 (Сургут) (1080p) [Not 24/7]",Телеканал 86 (Сургут) (1080p) [Not 24/7]
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ACTV.us@SD" tvg-name="ACTV",ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Akaku53.us@SD" tvg-name="Akaku 53 (Hawaii) (1080p)",Akaku 53 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Akaku54.us@SD" tvg-name="Akaku 54 (Hawaii) (1080p)",Akaku 54 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Akaku55.us@SD" tvg-name="Akaku 55 (Hawaii) (1080p)",Akaku 55 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="alphaCinema.ru@HD" tvg-name="alpha Cinema (1080p)",alpha Cinema (1080p)
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="AnmolCinema.in@SD" tvg-name="Anmol Cinema (576p)",Anmol Cinema (576p)
+http://116.90.120.151:8000/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Antena3Internacional.es@SD" tvg-name="Antena 3 Internacional (1080p)",Antena 3 Internacional (1080p)
+http://187.190.55.136:5501/udp/225.1.1.101:5101
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="AvivamientoTV.co@SD" tvg-name="Avivamiento TV (1080p) [Not 24/7]",Avivamiento TV (1080p) [Not 24/7]
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="B15Fresnillo.mx@SD" tvg-name="B15 Fresnillo (1080p)",B15 Fresnillo (1080p)
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="B15Zacatecas.mx@SD" tvg-name="B15 Zacatecas (1080p)",B15 Zacatecas (1080p)
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="BBCOne.uk@YorkshireLincolnshire" tvg-name="BBC One Yorkshire & Lincolnshire (1080p)",BBC One Yorkshire & Lincolnshire (1080p)
+http://92.114.85.72:8000/play/a0mp
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="BlackCinema.us@SD" tvg-name="BET Cinema",BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema",Bhojpuri Cinema
+https://cdn-4.pishow.tv/live/1033/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema (720p)",Bhojpuri Cinema (720p)
+http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema (720p)",Bhojpuri Cinema (720p)
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="BIZCinema.uz@SD" tvg-name="BIZ Cinema (1080p)",BIZ Cinema (1080p)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="BoxCinema.in@SD" tvg-name="Box Cinema (1080p)",Box Cinema (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="bref.cinema.100.court.metrage" tvg-name="Bref Cinéma 100% Court Métrage",Bref Cinéma 100% Court Métrage
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="brividy.cinema.720p" tvg-name="Brividy Cinema (720p)",Brividy Cinema (720p)
+https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="CaliforniaMediosTV.mx@SD" tvg-name="California Medios TV (720p)",California Medios TV (720p)
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="CCTV13.cn@SD" tvg-name="CCTV-13 (1080p)",CCTV-13 (1080p)
+https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Cinema.ru@SD" tvg-name="Cinema",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Cinema.mn@SD" tvg-name="Cinema (1080p)",Cinema (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Cinema.mn@SD" tvg-name="Cinema (720p)",Cinema (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Cinema.mn@SD" tvg-name="Cinema (720p)",Cinema (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="CinemaHausa.za@SD" tvg-name="Cinema Hausa (720p)",Cinema Hausa (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="CinemaOne.ph@SD" tvg-name="Cinema One (1080p)",Cinema One (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="cinema.poliziottesco" tvg-name="Cinema Poliziottesco",Cinema Poliziottesco
+https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="cinema.yoruba.720p" tvg-name="Cinema Yoruba (720p)",Cinema Yoruba (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1457f33a61a45801a4f/afxpstr/CinemaYoruba/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="CinemaWorld.my@SD" tvg-name="CinemaWorld (720p)",CinemaWorld (720p)
+http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ClassicCinema.us@SD" tvg-name="Classic Cinema (240p) [Not 24/7]",Classic Cinema (240p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ColorsBanglaCinema.in@SD" tvg-name="Colors Bangla Cinema (576p)",Colors Bangla Cinema (576p)
+http://103.72.101.252:8080/live/1657.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ColorsGujaratiCinema.in@SD" tvg-name="Colors Gujarati Cinema (360p)",Colors Gujarati Cinema (360p)
+http://103.72.101.252:8080/live/1324.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ColorsKannadaCinema.in@SD" tvg-name="Colors Kannada Cinema (576p)",Colors Kannada Cinema (576p)
+http://103.72.101.252:8080/live/1632.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="CTS.tw@SD" tvg-name="CTS (HUA-CHI CTS) (1080p)",CTS (HUA-CHI CTS) (1080p)
+rtmp://59.124.75.138:1935/sat/tv111
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="curzon.cinema" tvg-name="Curzon Cinema",Curzon Cinema
+https://jmp2.uk/plu-68b5a7b69ac85c428f54c441.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="DDSports.in@SD" tvg-name="DD Sports SD (720p)",DD Sports SD (720p)
+http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="DelfiTV.lt@SD" tvg-name="Delfi TV",Delfi TV
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="DragonTVInternational.cn@SD" tvg-name="Dragon TV International (480p) [Geo-blocked]",Dragon TV International (480p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="DreamTurk.tr@SD" tvg-name="Dream Türk (720p)",Dream Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="EBSCinema.us@SD" tvg-name="EBS Cinema (720p)",EBS Cinema (720p)
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ElSonorense.mx@SD" tvg-name="El Sonorense (1080p) [Not 24/7]",El Sonorense (1080p) [Not 24/7]
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ERTSports1.gr@HD" tvg-name="ERT Sports 1 (1080p)",ERT Sports 1 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ERTSports2.gr@HD" tvg-name="ERT Sports 2 (1080p)",ERT Sports 2 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ETVCinema.in@HD" tvg-name="ETV Cinema HD (1080p)",ETV Cinema HD (1080p)
+https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="FarosTV2.gr@SD" tvg-name="Faros TV2 (480p) [Geo-blocked]",Faros TV2 (480p) [Geo-blocked]
+https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Filmax.pk@SD" tvg-name="Filmax (576p)",Filmax (576p)
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="filmelier.tv" tvg-name="Filmelier TV",Filmelier TV
+https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="FilmesSuspense.us@Brazil" tvg-name="Filmes Suspense",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="FilmexClasico.mx@SD" tvg-name="Filmex Clásico (1080p) [Geo-blocked]",Filmex Clásico (1080p) [Geo-blocked]
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Filmex.mx@SD" tvg-name="Filmex (Xumo) (1080p) [Geo-blocked]",Filmex (Xumo) (1080p) [Geo-blocked]
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="KVCRDT242.us@SD" tvg-name="FNX [Geo-blocked]",FNX [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://fnx.org/
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="FMTV.uk@SD" tvg-name="Frecuencia Musical TV [Not 24/7]",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="GM7Digital.ec@HD" tvg-name="GM7 Digital [Not 24/7]",GM7 Digital [Not 24/7]
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="GrandCinema.tr@SD" tvg-name="Grand Cinema",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Nano.ru@HD" tvg-name="Нано ТВ HD (576p)",Нано ТВ HD (576p)
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="HomeShopping.kr@SD" tvg-name="Home & Shopping (720p)",Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="IERTBCSCanal82.mx@SD" tvg-name="IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]",IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="XHBZCTDT.mx@SD" tvg-name="IERTBCS Canal 8 La Paz (1080p) [Not 24/7]",IERTBCS Canal 8 La Paz (1080p) [Not 24/7]
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="iFilmEnglish.ir@SD" tvg-name="iFilm English",iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="InfinitaTV.ec@SD" tvg-name="Infinita TV (1080p)",Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Kanal5.mk@SD" tvg-name="Kanal 5 (360p)",Kanal 5 (360p)
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="KBEV.us@SD" tvg-name="KBEV Spectrum Channel 6 [Beverly Hills] (1080p)",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="KNSO511.us@HD" tvg-name="KNSO 51.1 (1080p)",KNSO 51.1 (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="La7Cinema.it@HD" tvg-name="La7 Cinema (720p) [Geo-Blocked]",La7 Cinema (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="La7Cinema.it@HD" tvg-name="La7 Cinema (720p) [Geo-Blocked]",La7 Cinema (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="MakkahTV.sa@SD" tvg-name="Makkah [Geo-blocked]",Makkah [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="MaverickBlackCinema.us@SD" tvg-name="Maverick Black Cinema (1080p)",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="MaverickBlackCinema.us@SD" tvg-name="Maverick Black Cinema (720p)",Maverick Black Cinema (720p)
+https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="MaverickBlackCinema.us@SD" tvg-name="Maverick Black Cinema (720p)",Maverick Black Cinema (720p)
+https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="MonroeCountyTV.us@SD" tvg-name="Monroe County Television MCTV (Monroe County FL) (1080p)",Monroe County Television MCTV (Monroe County FL) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="MRT1.mk@SD" tvg-name="MRT 1 (480p)",MRT 1 (480p)
+https://s1.teve.mk/tvstanici/6/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="MyCinemaEurope.ch@SD" tvg-name="My Cinema Europe [Geo-blocked]",My Cinema Europe [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="MyCinema.id@SD" tvg-name="My Cinema [Geo-blocked]",My Cinema [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="News9Live.in@SD" tvg-name="News9Live (1080p)",News9Live (1080p)
+https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="NiceTV.kh@SD" tvg-name="Nice TV (1080p)",Nice TV (1080p)
+http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="noovo.cinema.1080p" tvg-name="Noovo Cinéma (1080p)",Noovo Cinéma (1080p)
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="OneTVCinema2.kh@SD" tvg-name="One TV Cinema 2 (1080p)",One TV Cinema 2 (1080p)
+#EXTVLCOPT:http-referrer=HTTP Referrer
+http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="PersianaCinema.fr@SD" tvg-name="Persiana Cinema",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="PersianaCinema.fr@SD" tvg-name="Persiana Cinema",Persiana Cinema
+https://todayhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.cinema.italiano" tvg-name="Pluto TV Cinema Italiano",Pluto TV Cinema Italiano
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.cinema.orientale" tvg-name="Pluto TV Cinema Orientale",Pluto TV Cinema Orientale
+https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.emmanuelle.filme" tvg-name="Pluto TV Emmanuelle Filme",Pluto TV Emmanuelle Filme
+https://jmp2.uk/plu-67ebc04855de98dc71428538.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.family.movie.club" tvg-name="Pluto TV Family Movie Club",Pluto TV Family Movie Club
+https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="PlutoTVFilmesAcao.us@Brazil" tvg-name="Pluto TV Filmes Ação",Pluto TV Filmes Ação
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.filmes.aventura" tvg-name="Pluto TV Filmes Aventura",Pluto TV Filmes Aventura
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.filmes.de.luta" tvg-name="Pluto TV Filmes de Luta",Pluto TV Filmes de Luta
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="PlutoTVFilmesNacionais.us@Brazil" tvg-name="Pluto TV Filmes Nacionais",Pluto TV Filmes Nacionais
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.klassiske.tegnefilmer.720p" tvg-name="Pluto TV Klassiske tegnefilmer (720p)",Pluto TV Klassiske tegnefilmer (720p)
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="PlutoTVKultfilme.us@Germany" tvg-name="Pluto TV Kultfilme",Pluto TV Kultfilme
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.kultfilmer" tvg-name="Pluto TV Kultfilmer",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="pluto.tv.kultfilmer" tvg-name="Pluto TV Kultfilmer",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="PTCPunjabi.in@SD" tvg-name="PTC Punjabi (720p)",PTC Punjabi (720p)
+http://103.213.31.109:90/ActionCinema/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="RadioTVTendencias.pe@SD" tvg-name="Radio TV Tendencias (1080p) [Not 24/7]",Radio TV Tendencias (1080p) [Not 24/7]
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="rakuten.tv.asian.cinema.italy.1080p" tvg-name="Rakuten TV Asian Cinema Italy (1080p)",Rakuten TV Asian Cinema Italy (1080p)
+https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="rakuten.tv.german.cinema.1080p" tvg-name="Rakuten TV German Cinema (1080p)",Rakuten TV German Cinema (1080p)
+https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="RedTVEVentanas.ec@SD" tvg-name="Red TVE Ventanas (432p)",Red TVE Ventanas (432p)
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ridiculousness.nye.episoder" tvg-name="Ridiculousness Nye episoder",Ridiculousness Nye episoder
+https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="RotanaCinemaEgypt.eg@SD" tvg-name="Rotana Cinema Egypt (1080p) [Geo-blocked]",Rotana Cinema Egypt (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="RotanaCinemaKSA.sa@SD" tvg-name="Rotana Cinema KSA (1080p) [Geo-blocked]",Rotana Cinema KSA (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="RTL.hu@SD" tvg-name="RTL (1080p)",RTL (1080p)
+http://46.149.191.217:9005/play/a018
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="RTLHarom.hu@SD" tvg-name="RTL Harom (1080p)",RTL Harom (1080p)
+http://46.149.191.217:9005/play/a01t
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="RTLKetto.hu@SD" tvg-name="RTL Ketto (1080p)",RTL Ketto (1080p)
+http://46.149.191.217:9005/play/a01r
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ShubhCinemaTV.in@SD" tvg-name="Shubh Cinema TV (720p)",Shubh Cinema TV (720p)
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="SistemaMichoacanodeTV.mx@SD" tvg-name="Sistema Michoacano de TV (1080p) [Not 24/7]",Sistema Michoacano de TV (1080p) [Not 24/7]
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Sitel.mk@SD" tvg-name="Sitel (480p)",Sitel (480p)
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="StarSports1.in@HD" tvg-name="Star Sports 1 HD (1080p)",Star Sports 1 HD (1080p)
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="StarSports2.in@HD" tvg-name="Star Sports 2 HD (1080p)",Star Sports 2 HD (1080p)
+https://mini.allinonereborn.fun/tata.php?id=11819
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="surf.cinema.1080p" tvg-name="Surf Cinema (1080p)",Surf Cinema (1080p)
+https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="surf.cinema.1080p" tvg-name="Surf Cinema (1080p)",Surf Cinema (1080p)
+https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="tbn.geo.blocked" tvg-name="TBN [Geo-blocked]",TBN [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TelefeInternacional.ar@SD" tvg-name="Telefe Internacional (1080p)",Telefe Internacional (1080p)
+http://187.190.55.136:5501/udp/225.1.1.240:5240
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="Telefides.cr@SD" tvg-name="Telefides (720p)",Telefides (720p)
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="XEWHTDT.mx@SD" tvg-name="Telemax (XEWH-TDT) (1080p)",Telemax (XEWH-TDT) (1080p)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TeleSURCostaRica.cr@SD" tvg-name="TeleSUR Costa Rica (720p) [Not 24/7]",TeleSUR Costa Rica (720p) [Not 24/7]
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TeleZuri.ch@SD" tvg-name="TeleZüri (720p)",TeleZüri (720p)
+https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TheMovieClub.in@HD" tvg-name="The Movie Club (1080p)",The Movie Club (1080p)
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TheMovieClub.in@Plus2" tvg-name="The Movie Club +2 (1080p)",The Movie Club +2 (1080p)
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TheNewsForum.ca@HD" tvg-name="The News Forum (1080p)",The News Forum (1080p)
+http://name-port.to/live/Gregory123/Gregory321/2420047.ts
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TigoSports.gt@SD" tvg-name="Tigo Sports (1080p)",Tigo Sports (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TUDN.mx@SD" tvg-name="TUDN (1080p)",TUDN (1080p)
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TV24.mk@SD" tvg-name="TV 24 (480p)",TV 24 (480p)
+https://s1.teve.mk/tvstanici/5/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="NZTV.sk@SD" tvg-name="TV Nové Zámky (486p) [Not 24/7]",TV Nové Zámky (486p) [Not 24/7]
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="XHMNLTDT.mx@SD" tvg-name="TV Nuevo León Canal 28 (XHMNL-TDT) (720p)",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TVCARiBCinema.sx@SD" tvg-name="TVCARiB Cinema (720p) [Not 24/7]",TVCARiB Cinema (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="TVRI.id@SD" tvg-name="TVRI (480p) [Geo-blocked]",TVRI (480p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="UniversalCinema.us@SD" tvg-name="Universal Cinema (480p)",Universal Cinema (480p)
+http://190.2.212.209:8050/play/a0q3
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="wbtv.classic.cinema.720p.geo.blocked" tvg-name="WBTV Classic Cinema (720p) [Geo-blocked]",WBTV Classic Cinema (720p) [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="WinSports.co@SD" tvg-name="Win Sports (1080p)",Win Sports (1080p)
+http://190.60.40.34:8001/play/a0ef
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="WOWOWCinema.jp@SD" tvg-name="WOWOW Cinema (544p)",WOWOW Cinema (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="XTOTV.bo@SD" tvg-name="XTOTV (1280p) [Not 24/7]",XTOTV (1280p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
+http://190.104.15.135/0.ts
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ZBCinema.in@HD" tvg-name="ZB Cinema (720p)",ZB Cinema (720p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ZeeCinema.in@APAC" tvg-name="Zee Cinema APAC (1080p) [Geo-blocked]",Zee Cinema APAC (1080p) [Geo-blocked]
+https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ZeeCinema.in@APAC" tvg-name="Zee Cinema APAC (1080p) [Geo-blocked]",Zee Cinema APAC (1080p) [Geo-blocked]
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ZeeCinema.in@HD" tvg-name="Zee Cinema HD (1080p)",Zee Cinema HD (1080p)
+http://103.72.101.252:8080/live/165.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ZeeCinemalu.in@SD" tvg-name="Zee Cinemalu (576p)",Zee Cinemalu (576p)
+http://103.72.101.252:8080/live/413.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Filmes e Series" tvg-id="ZeeCinemalu.in@HD" tvg-name="Zee Cinemalu HD (1080p)",Zee Cinemalu HD (1080p)
+https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8

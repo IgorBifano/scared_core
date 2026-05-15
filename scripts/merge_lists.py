@@ -7,9 +7,9 @@ from pathlib import Path
 from iptv_core import (
     LOGGER,
     build_catalog,
+    clean_generated_outputs,
     configure_logging,
     ensure_directories,
-    migrate_legacy_sources,
     print_validation_report,
     validate_entries,
     write_outputs,
@@ -28,15 +28,15 @@ def main() -> int:
     project_root = args.project_root.resolve()
     configure_logging(verbose=args.verbose)
     ensure_directories(project_root)
-    migrate_legacy_sources(project_root)
+    clean_generated_outputs(project_root)
 
-    entries = build_catalog(project_root)
+    source_entries, entries = build_catalog(project_root)
     if not entries:
-        LOGGER.error("No public entries found in playlists/source")
+        LOGGER.error("No entries found in playlists/source")
         return 1
 
-    report = validate_entries(entries)
-    write_outputs(project_root, entries, report)
+    report = validate_entries(source_entries, entries)
+    write_outputs(project_root, entries)
     print_validation_report(report)
     LOGGER.info("Generated output/index.m3u with %s entries", len(entries))
     return 0

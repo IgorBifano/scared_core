@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Paramount" tvg-id="paramount.channel.1080p.geo.blocked" tvg-name="Paramount Channel (1080p) [Geo-Blocked]",Paramount Channel (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Paramount" tvg-id="ParamountMovieChannel.us@SD" tvg-name="Paramount Movie Channel",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Paramount" tvg-id="paramount.network.de.pluto.tv" tvg-name="Paramount Network de Pluto TV",Paramount Network de Pluto TV
+https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Paramount" tvg-id="ParamountPlusPicks.us@SD" tvg-name="Paramount+ Picks",Paramount+ Picks
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8

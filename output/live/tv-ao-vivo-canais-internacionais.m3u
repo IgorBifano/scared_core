@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="Kino1.ru@International" tvg-name="Кино 1 International [Not 24/7]",Кино 1 International [Not 24/7]
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="Muzyka1.ru@International" tvg-name="Музыка 1 International [Not 24/7]",Музыка 1 International [Not 24/7]
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="ChongqingTVInternational.cn@SD" tvg-name="重庆卫视 (1080p)",重庆卫视 (1080p)
+http://118.81.195.79:9003/hls/22/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="24HorasInternacional.es@SD" tvg-name="24 Horas Internacional [Geo-Blocked]",24 Horas Internacional [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="3ABNInternational.us@SD" tvg-name="3ABN International Network",3ABN International Network
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="AfghanistanInternational.uk@SD" tvg-name="Afghanistan International (720p)",Afghanistan International (720p)
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="AmericaInternacional.ar@SD" tvg-name="America Internacional (720p)",America Internacional (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="AragonTVInternacional.es@SD" tvg-name="Aragon TV Internacional (720p) [Not 24/7]",Aragon TV Internacional (720p) [Not 24/7]
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="AWEInternational.us@SD" tvg-name="AWE International (720p)",AWE International (720p)
+https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="AztecaInternacional.mx@SD" tvg-name="Azteca Internacional (1080p)",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="azteca.internacional.720p" tvg-name="Azteca Internacional (720p)",Azteca Internacional (720p)
+https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="BahrainInternational.bh@SD" tvg-name="Bahrain International (720p) [Not 24/7]",Bahrain International (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="BTBInternational.pl@SD" tvg-name="BTB International (1080p)",BTB International (1080p)
+https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="Canal2International.cm@SD" tvg-name="Canal 2 International (720p)",Canal 2 International (720p)
+http://69.64.57.208/canal2international/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="CDMInternacional.pr@SD" tvg-name="CDM Internacional (480p) [Not 24/7]",CDM Internacional (480p) [Not 24/7]
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="Channel5International.ru@SD" tvg-name="Channel 5 International (576i)",Channel 5 International (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="ChivacoaTVInternacional.ve@SD" tvg-name="Chivacoa TV Internacional (720p)",Chivacoa TV Internacional (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="ClanInternacional.es@SD" tvg-name="Clan Internacional Americas (1080p) [Geo-blocked]",Clan Internacional Americas (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="CNAInternational.sg@SD" tvg-name="CNA International (1080p)",CNA International (1080p)
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="WELU81.pr@HD" tvg-name="CTNi (Christian Television Network International) (480p) [Not 24/7]",CTNi (Christian Television Network International) (480p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="CubavisionInternacional.cu@SD" tvg-name="Cubavision Internacional (480p)",Cubavision Internacional (480p)
+https://tv.picta.cu/cvi/cvi_0.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="DocumentaryPlus.us@International" tvg-name="Documentary+ International (1080p)",Documentary+ International (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="FailArmy.us@US" tvg-name="Failarmy International (720p)",Failarmy International (720p)
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="HopeChannelInternational.us@SD" tvg-name="Hope Channel International (1080p)",Hope Channel International (1080p)
+https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="HKIBC.hk@SD" tvg-name="HOY International Business Channel (1080p) [Geo-blocked]",HOY International Business Channel (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="PeretzInternational.ru@SD" tvg-name="Перец International (576p)",Перец International (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="FridayInternational.ru@SD" tvg-name="Пятница! International (576p)",Пятница! International (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="DomashniyInternational.ru@SD" tvg-name="Домашний International (720p)",Домашний International (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="CarouselInternational.ru@SD" tvg-name="Карусель International (720p)",Карусель International (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="RENTVInternational.ru@SD" tvg-name="РЕН ТВ International (720p)",РЕН ТВ International (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="STSInternational.ru@SD" tvg-name="СТС International (720p)",СТС International (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVCentrInternational.ru@SD" tvg-name="ТВ Центр International (720p)",ТВ Центр International (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="Detskoekino.ru@International" tvg-name="Детское кино International [Not 24/7]",Детское кино International [Not 24/7]
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="MuzykaKino.ru@International" tvg-name="Музыка Кино International [Not 24/7]",Музыка Кино International [Not 24/7]
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="IranInternational.uk@SD" tvg-name="Iran International (720p)",Iran International (720p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="LatinaTVInternacional.do@SD" tvg-name="Latina TV Internacional (720p)",Latina TV Internacional (720p)
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="NDRFernsehenInternational.de@SD" tvg-name="NDR Fernsehen International (720p)",NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="NTAInternational.ng@SD" tvg-name="NTA International (576p) [Not 24/7]",NTA International (576p) [Not 24/7]
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="PROSportInternational.my@SD" tvg-name="PRO Sport International",PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="QazaqstanInternational.kz@SD" tvg-name="Qazaqstan International (1080p)",Qazaqstan International (1080p)
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="RACERInternational.pl@FAST" tvg-name="RACER International (1080p)",RACER International (1080p)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="RedCarpetTVInternational.pl@SD" tvg-name="Red Carpet TV International (1080p)",Red Carpet TV International (1080p)
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="RTPInternacional.pt@SD" tvg-name="RTP Internacional (1080p) [Geo-Blocked]",RTP Internacional (1080p) [Geo-Blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="SBNTVInternational.us@SD" tvg-name="SBN TV International",SBN TV International
+http://trn03.bozztv.com/gin-sbntv/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="StarChannelInternational.gr@HD" tvg-name="STAR International (720p)",STAR International (720p)
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TelemadridINT.es@SD" tvg-name="Telemadrid Internacional (720p)",Telemadrid Internacional (720p)
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TelemicroInternacional.do@SD" tvg-name="Telemicro Internacional (480p)",Telemicro Internacional (480p)
+http://200.115.120.1:8000/play/ca085/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TelemundoInternacional.us@South" tvg-name="Telemundo Internacional (720p)",Telemundo Internacional (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TelemundoInternacional.us@CentralAmerica" tvg-name="Telemundo Internacional Central America (1080p)",Telemundo Internacional Central America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="ThePetCollective.us@Australia" tvg-name="The Pet Collective International (720p)",The Pet Collective International (720p)
+https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="ThePetCollective.us@Mexico" tvg-name="The Pet Collective International (720p)",The Pet Collective International (720p)
+https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="AndTV.in@International" tvg-name="&TV International (1080p)",&TV International (1080p)
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVPeruInternacional.pe@SD" tvg-name="TV Peru Internacional (720p)",TV Peru Internacional (720p)
+#EXTVLCOPT:http-referrer=https://www.tvperu.gob.pe/internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVEInternacionalAmerica.es@SD" tvg-name="TVE Internacional America (1080p) [Geo-blocked]",TVE Internacional America (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVEInternacionalAsiaOceania.es@SD" tvg-name="TVE Internacional Asia-Oceania (1080p) [Geo-blocked]",TVE Internacional Asia-Oceania (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVEInternacionalEurope.es@SD" tvg-name="TVE Internacional Europe (576p) [Geo-blocked]",TVE Internacional Europe (576p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVEInternacionalEuropeAsia.es@SD" tvg-name="TVE Internacional Europe-Asia (720p) [Geo-Blocked]",TVE Internacional Europe-Asia (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVEInternacionalEuropeAsia.es@HD" tvg-name="TVE Internacional Europe-Asia HD (1080p)",TVE Internacional Europe-Asia HD (1080p)
+https://siarlive.psce.pw/channel5
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVEInternacionalEurope.es@HD" tvg-name="TVE Internacional Europe HD (1080p) [Geo-blocked]",TVE Internacional Europe HD (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVMInternacional.mz@SD" tvg-name="TVM Internacional (480p) [Not 24/7]",TVM Internacional (480p) [Not 24/7]
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="TVRInternational.ro@SD" tvg-name="TVR International (576p) [Geo-Blocked]",TVR International (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="UMSATVUInternacional.bo@HD" tvg-name="UMSA TVU Internacional (720p)",UMSA TVU Internacional (720p)
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="VallenatoInternacional.us@SD" tvg-name="Vallenato Internacional (720p) [Not 24/7]",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="VenevisionInternacional.ve@SD" tvg-name="Venevisión Internacional (720p)",Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Internacionais" tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-name="Zhejiang TV International",Zhejiang TV International
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8

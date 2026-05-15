@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannel.pt@SD" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannel.pl@SD" tvg-name="Disney Channel (1080p)",Disney Channel (1080p)
+https://streamer.filmowo.xyz/memfs/24012cc7-5a6e-492f-9083-579349d56f37.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannel.in@SD" tvg-name="Disney Channel (576p)",Disney Channel (576p)
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannel.bg@SD" tvg-name="Disney Channel (576p)",Disney Channel (576p)
+http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannel.de@SD" tvg-name="Disney Channel (576p) [Geo-Blocked]",Disney Channel (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannel.us@East" tvg-name="Disney Channel East (720p) [Not 24/7]",Disney Channel East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannel.jp@SD" tvg-name="Disney Channel Japan (544p)",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="Disney Channel Latin America (1080p)",Disney Channel Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyInternationalHD.in@SD" tvg-name="Disney International HD (1080p)",Disney International HD (1080p)
+http://116.90.120.151:8000/play/a0hp/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyJr.fr@SD" tvg-name="Disney Jr. (1080p)",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyJr.tr@SD" tvg-name="Disney Jr. (1080p) [Geo-blocked]",Disney Jr. (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="Disney Jr. Latin America South",Disney Jr. Latin America South
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyJunior.es@SD" tvg-name="Disney Junior (576p)",Disney Junior (576p)
+https://bbb.exoadash.com/TVD1561/index.mpd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyJunior.us@East" tvg-name="Disney Junior East (720p) [Not 24/7]",Disney Junior East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Disney" tvg-id="DisneyXD.us@East" tvg-name="Disney XD East (720p) [Not 24/7]",Disney XD East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/hd

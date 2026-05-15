@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="DocumentaryHumanitiesChannel.cn@SD" tvg-name="纪实人文 (1080p)",纪实人文 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-name="发现之旅 (576p)",发现之旅 (576p)
+http://125.210.152.18:9090/live/FXZL_750.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AlJazeeraDocumentary.qa@SD" tvg-name="Al Jazeera Documentary (1080p) [Geo-blocked]",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AlJazeeraDocumentary.qa@SD" tvg-name="Al Jazeera Documentary (1080p) [Geo-blocked]",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AlJazeeraDocumentary.qa@SD" tvg-name="Al Jazeera Documentary (1080p) [Geo-blocked]",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AlJazeeraDocumentary.qa@SD" tvg-name="Al Jazeera Documentary (1080p) [Geo-blocked]",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="alone.by.history.720p" tvg-name="Alone By History (720p)",Alone By History (720p)
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="american.pickers.by.history.1080p.geo.blocked" tvg-name="American Pickers by History (1080p) [Geo-blocked]",American Pickers by History (1080p) [Geo-blocked]
+https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AsharqDiscovery.sa@SD" tvg-name="Asharq Discovery (1080p)",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AsharqDocumentary.sa@SD" tvg-name="Asharq Documentary (1080p)",Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AutenticHistory.de@SD" tvg-name="Autentic History (1080p)",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="AutenticHistory.de@SD" tvg-name="Autentic History (720p)",Autentic History (720p)
+https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="beyond.history" tvg-name="Beyond History",Beyond History
+https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary",CGTN Documentary
+https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="CGTNDocumentary.tr@SD" tvg-name="CGTN Documentary",CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary (1080p)",CGTN Documentary (1080p)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary (1080p)",CGTN Documentary (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary (1080p) [Not 24/7]",CGTN Documentary (1080p) [Not 24/7]
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="DocumentaryPlus.us@US" tvg-name="Documentary+ (1080p)",Documentary+ (1080p)
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="DocumentaryPlus.us@US" tvg-name="Documentary+ (1080p)",Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="DocumentaryHumanitiesChannel.cn@SD" tvg-name="Documentary Humanities Channel",Documentary Humanities Channel
+http://49.113.179.174:4022/udp/238.125.3.135:5140
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="DocumentaryPlus.us@International" tvg-name="Documentary+ International (1080p)",Documentary+ International (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="History2LatinAmerica.us@Panregional" tvg-name="History 2 Latin America (480p)",History 2 Latin America (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="history.365.1080p.geo.blocked" tvg-name="History 365 (1080p) [Geo-blocked]",History 365 (1080p) [Geo-blocked]
+https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="history.and.warfare.now.1080p" tvg-name="History and Warfare Now (1080p)",History and Warfare Now (1080p)
+https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="history.and.warfare.now.1080p" tvg-name="History and Warfare Now (1080p)",History and Warfare Now (1080p)
+https://d28gzbv9fhdm3h.cloudfront.net/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryAsia.us@SD" tvg-name="History Asia",History Asia
+https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="History.si@HD" tvg-name="History Channel (1080p)",History Channel (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="History.jp@SD" tvg-name="History Channel Japan (544p)",History Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="history.film.channel.1080p" tvg-name="History Film Channel (1080p)",History Film Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0NPOY54L3YURIZHAY396/hls3/now,-1m/m.m3u8?ads.vf=qEyxmCFMVta
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryHit.uk@SD" tvg-name="History Hit (1080p)",History Hit (1080p)
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryHit.uk@SD" tvg-name="History Hit (1080p)",History Hit (1080p)
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryHit.uk@SD" tvg-name="History Hit (720p)",History Hit (720p)
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryHit.uk@SD" tvg-name="History Hit (720p)",History Hit (720p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryHit.uk@SD" tvg-name="History Hit (720p)",History Hit (720p)
+https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryHit.uk@SD" tvg-name="History Hit (720p)",History Hit (720p)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="history.hunters.1080p" tvg-name="History Hunters (1080p)",History Hunters (1080p)
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="history.hunters.1080p" tvg-name="History Hunters (1080p)",History Hunters (1080p)
+https://amg00841-amg00841c9-samsung-gb-3032.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhunterssamsung-samsunggb/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryLatinAmerica.us@South" tvg-name="History Latin America South (480p)",History Latin America South (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryTV18.in@SD" tvg-name="History TV18 (576p)",History TV18 (576p)
+http://103.72.101.252:8080/live/1471.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD (1080p)",History TV18 HD (1080p)
+http://103.154.3.101:5001/live/577.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD (1080p)",History TV18 HD (1080p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD (1080p) [Geo-blocked]",History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD Hindi (1080p) [Geo-blocked]",History TV18 HD Hindi (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD Tamil (1080p)",History TV18 HD Tamil (1080p)
+http://103.72.101.252:8080/live/579.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="history.warfare.now.1080p" tvg-name="History & Warfare Now (1080p)",History & Warfare Now (1080p)
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="modern.marvels.by.history.720p" tvg-name="Modern Marvels by HISTORY (720p)",Modern Marvels by HISTORY (720p)
+https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="modern.marvels.presented.by.history.720p.geo.blocked" tvg-name="Modern Marvels Presented by History (720p) [Geo-blocked]",Modern Marvels Presented by History (720p) [Geo-blocked]
+https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="pbs.history.1080p" tvg-name="PBS History (1080p)",PBS History (1080p)
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="pbs.history.1080p" tvg-name="PBS History (1080p)",PBS History (1080p)
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="pluto.tv.documentales" tvg-name="Pluto TV Documentales",Pluto TV Documentales
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="pluto.tv.documentari" tvg-name="Pluto TV Documentari",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="PlutoTVHistory.us@US" tvg-name="Pluto TV History",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="PlutoTVHistory.us@UK" tvg-name="Pluto TV History",Pluto TV History
+https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="PlutoTVHistory.us@Germany" tvg-name="Pluto TV History",Pluto TV History
+https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="rakuten.documentarios.1080p" tvg-name="Rakuten Documentários (1080p)",Rakuten Documentários (1080p)
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="RTDocumentary.ru@Russian" tvg-name="RTД",RTД
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="RTDocumentary.ru@English" tvg-name="RT Documentary English (1080p) [Geo-blocked]",RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="RTDocumentary.ru@English" tvg-name="RT Documentary English (1080p) [Geo-blocked]",RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="RTDocumentary.ru@Russian" tvg-name="RT Documentary Russian",RT Documentary Russian
+https://streaming.thestream.cyou/live/554.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="RTDocumentary.ru@Russian" tvg-name="RT Documentary Russian (1080p)",RT Documentary Russian (1080p)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="RTLCrime.de@HD" tvg-name="RTL Crime HD (1080p)",RTL Crime HD (1080p)
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="TrueHistory.us@SD" tvg-name="True History (720p)",True History (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8?ads.vf=G1hGexOV3sS
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="TrueHistory.us@SD" tvg-name="True History (720p)",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="true.history.channel.720p" tvg-name="True History Channel (720p)",True History Channel (720p)
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="TVSHollywoodHistory.us@SD" tvg-name="TVS Hollywood History (582p)",TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="ViasatExplore.tr@SD" tvg-name="Viasat Explore",Viasat Explore
+https://tv.arectv29.sbs/live/viasathistory.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="xtreme.outdoor.by.history" tvg-name="Xtreme Outdoor by HISTORY",Xtreme Outdoor by HISTORY
+https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Documentarios" tvg-id="xtreme.outdoor.presented.by.history.720p" tvg-name="Xtreme Outdoor Presented by HISTORY (720p)",Xtreme Outdoor Presented by HISTORY (720p)
+https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8

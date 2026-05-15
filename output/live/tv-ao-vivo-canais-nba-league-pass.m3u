@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="AfarinBaxcha.iq@SD" tvg-name="Afarin Baxcha (1080p)",Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="ATNBanglaUK.uk@SD" tvg-name="ATN Bangla UK (576p)",ATN Bangla UK (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="nba.fast.channel.720p" tvg-name="NBA FAST Channel (720p)",NBA FAST Channel (720p)
+https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="NBATV.us@SD" tvg-name="NBA TV (1080p) [Geo-blocked]",NBA TV (1080p) [Geo-blocked]
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="NBATVCanada.ca@SD" tvg-name="NBA TV Canada (1080p)",NBA TV Canada (1080p)
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="OFTVOffenbach.de@SD" tvg-name="OF-TV Offenbach (720p)",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="DonbassOnline.ua@SD" tvg-name="Донбас Online (1080p) [Not 24/7]",Донбас Online (1080p) [Not 24/7]
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="SWRFernsehenBadenWurttemberg.de@SD" tvg-name="SWR Fernsehen Baden-Wurttemberg (720p) [Geo-Blocked]",SWR Fernsehen Baden-Wurttemberg (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="TBNBaltia.ee@SD" tvg-name="TBN Baltia (1080p)",TBN Baltia (1080p)
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="the.nba.channel.720p" tvg-name="The NBA Channel (720p)",The NBA Channel (720p)
+https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Nba League Pass" tvg-id="TVSPinballNetwork.us@SD" tvg-name="TVS Pinball Network (480p)",TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8

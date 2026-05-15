@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="GoldenEagleCartoon.cn@SD" tvg-name="金鹰卡通 (湖南) (540p) [Not 24/7]",金鹰卡通 (湖南) (540p) [Not 24/7]
+http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="YouManCartoonChannel.cn@SD" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="YouManCartoonChannel.cn@SD" tvg-name="优漫卡通 (576p)",优漫卡通 (576p)
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="GoldenEagleCartoon.cn@SD" tvg-name="金鹰卡通 (576p)",金鹰卡通 (576p)
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="GoldenEagleCartoon.cn@SD" tvg-name="金鹰卡通 (576p) [Geo-blocked]",金鹰卡通 (576p) [Geo-blocked]
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="CartoonClassics.pl@FAST" tvg-name="Cartoon Classics",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="CartoonClassics.pl@FAST" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="cartoon.classics.1080p" tvg-name="Cartoon Classics (1080p)",Cartoon Classics (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="DisneyJunior.us@East" tvg-name="Disney Junior (1080i)",Disney Junior (1080i)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="DisneyJunior.es@SD" tvg-name="Disney Junior (576p)",Disney Junior (576p)
+https://bbb.exoadash.com/TVD1561/index.mpd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="DisneyJunior.us@East" tvg-name="Disney Junior East (360p) [Not 24/7]",Disney Junior East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="DisneyJunior.us@East" tvg-name="Disney Junior East (720p) [Not 24/7]",Disney Junior East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Gloob.br@SD" tvg-name="Gloob",Gloob
+http://79.127.243.211:14436/_.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Gloob.br@SD" tvg-name="Gloob (576p)",Gloob (576p)
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="GloobWeb.br@SD" tvg-name="Gloob Web [Not 24/7]",Gloob Web [Not 24/7]
+https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="GoldenEagleCartoon.cn@SD" tvg-name="Golden Eagle Cartoon",Golden Eagle Cartoon
+http://1.24.190.98:10080/hls/51/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="GospelCartoon.br@SD" tvg-name="Gospel Cartoon (360p)",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="JiaJiaCartoon.cn@SD" tvg-name="JiaJia Cartoon",JiaJia Cartoon
+http://49.113.179.174:4022/udp/238.125.0.158:5140
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickComedyCentralPlus1.de@HD" tvg-name="Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickComedyCentralPlus1.de@HD" tvg-name="Nick/Comedy Central +1 HD (576p) [Geo-Blocked]",Nick/Comedy Central +1 HD (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.de@SD" tvg-name="Nick Germany (1080p) [Geo-blocked]",Nick Germany (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickHDPlus.in@HD" tvg-name="Nick HD+ (1080p)",Nick HD+ (1080p)
+http://103.72.101.252:8080/live/1226.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickJr.in@SD" tvg-name="Nick Jr. (576p)",Nick Jr. (576p)
+http://103.72.101.252:8080/live/544.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nick.jr.club" tvg-name="Nick Jr. Club",Nick Jr. Club
+https://jmp2.uk/plu-5f121460b73ac6000719fbaf.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nick.jr.club.720p" tvg-name="Nick Jr. Club (720p)",Nick Jr. Club (720p)
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nick.jr.club.720p" tvg-name="Nick Jr. Club (720p)",Nick Jr. Club (720p)
+https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nick.jr.club.720p" tvg-name="Nick Jr. Club (720p)",Nick Jr. Club (720p)
+https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nick.jr.pluto.tv" tvg-name="Nick Jr. Pluto TV",Nick Jr. Pluto TV
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nick.jr.pluto.tv.720p" tvg-name="Nick Jr. Pluto TV (720p)",Nick Jr. Pluto TV (720p)
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.de@SD" tvg-name="Nickelodeon",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.fr@SD" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.us@East" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.pl@SD" tvg-name="Nickelodeon (1080p)",Nickelodeon (1080p)
+https://streamer.filmowo.xyz/memfs/cd3264be-9df6-43cb-91ca-364082c257eb.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.us@East" tvg-name="Nickelodeon (576i)",Nickelodeon (576i)
+http://79.127.207.193/Nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.in@SD" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
+http://103.72.101.252:8080/live/545.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.ee@SD" tvg-name="Nickelodeon (576p)",Nickelodeon (576p)
+http://195.64.140.147:10121/121
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.us@East" tvg-name="Nickelodeon (720p) [Not 24/7]",Nickelodeon (720p) [Not 24/7]
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickelodeonAsia.sg@Indonesia" tvg-name="Nickelodeon Asia Indonesia (1080p)",Nickelodeon Asia Indonesia (1080p)
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.clasico.720p" tvg-name="Nickelodeon Clásico (720p)",Nickelodeon Clásico (720p)
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickClassico.us@Brazil" tvg-name="Nickelodeon Clássico",Nickelodeon Clássico
+https://jmp2.uk/plu-5f12151794c1800007a8ae63.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickClassico.us@Brazil" tvg-name="Nickelodeon Clássico (720p)",Nickelodeon Clássico (720p)
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.classics.720p" tvg-name="Nickelodeon Classics (720p)",Nickelodeon Classics (720p)
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nickelodeon.de@SD" tvg-name="Nickelodeon Deutschland [Geo-blocked]",Nickelodeon Deutschland [Geo-blocked]
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickenEspanol.us@SD" tvg-name="Nickelodeon en español",Nickelodeon en español
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickelodeonGlobal.uk@SD" tvg-name="Nickelodeon Global (576p)",Nickelodeon Global (576p)
+http://46.149.191.217:9011/play/a018
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.icarly" tvg-name="Nickelodeon iCarly",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.icarly" tvg-name="Nickelodeon iCarly",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickelodeonJunior.fr@SD" tvg-name="Nickelodeon Junior (1080p)",Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickPlutoTV.us@US" tvg-name="Nickelodeon Pluto TV (720p)",Nickelodeon Pluto TV (720p)
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickelodeonTeen.fr@SD" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
+https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.teen.720p" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.teen.720p" tvg-name="Nickelodeon Teen (720p)",Nickelodeon Teen (720p)
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.toons" tvg-name="Nickelodeon Toons",Nickelodeon Toons
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.toons.720p" tvg-name="Nickelodeon Toons (720p)",Nickelodeon Toons (720p)
+https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nickelodeon.toons.720p" tvg-name="Nickelodeon Toons (720p)",Nickelodeon Toons (720p)
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickOnline.br@HD" tvg-name="NickOnline (720p)",NickOnline (720p)
+https://x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickOnlineSpongebob.br@HD" tvg-name="NickOnline Spongebob (1080p) [Not 24/7]",NickOnline Spongebob (1080p) [Not 24/7]
+https://spongebobnew.x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickOnlineSpongebob.br@HD" tvg-name="NickOnline Spongebob (720p) [Not 24/7]",NickOnline Spongebob (720p) [Not 24/7]
+https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="nicktoons" tvg-name="NickToons",NickToons
+https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="Nicktoons.pl@SD" tvg-name="Nicktoons (1080p)",Nicktoons (1080p)
+https://streamer.filmowo.xyz/memfs/a9e785bf-54f7-4a9d-be03-1ad6ace02cd3.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickToonsBrasil.br@SD" tvg-name="NickToons Brasil (480p)",NickToons Brasil (480p)
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="NickWeb.br" tvg-name="NickWeb (720p)",NickWeb (720p)
+https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="TVSPinballNetwork.us@SD" tvg-name="TVS Pinball Network (480p)",TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="XtremaCartoons.ar@SD" tvg-name="Xtrema Cartoons",Xtrema Cartoons
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Infantis" tvg-id="ZBCartoon.in@HD" tvg-name="ZB Cartoon (1080p)",ZB Cartoon (1080p)
+https://server.zillarbarta.com/zbcatun/video.m3u8

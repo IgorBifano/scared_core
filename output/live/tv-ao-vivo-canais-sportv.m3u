@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Sportv" tvg-id="ACISportTV.it@SD" tvg-name="ACI Sport TV (1080p)",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Sportv" tvg-id="AS3SportTV.ve@SD" tvg-name="AS3 Sport TV (1080p)",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Sportv" tvg-id="HTSporTV.tr@SD" tvg-name="HTSpor TV (1080p)",HTSpor TV (1080p)
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 group-title="TV AO VIVO | Canais Sportv" tvg-id="SporTV2Alternativo.br@SD" tvg-name="SporTV 2 Alternativo (720p)",SporTV 2 Alternativo (720p)
+https://stm.sinalmycn.com/19025/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Sportv" tvg-id="SporTVAlternativo.br@SD" tvg-name="SporTV Alternativo (720p)",SporTV Alternativo (720p)
+https://stm.sinalmycn.com/19024/video.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Sportv" tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8

@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="BandungTV.id@SD" tvg-name="Bandung TV (360p)",Bandung TV (360p)
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="WSBTTV281.us@SD" tvg-name="CBS 22 South Bend IN (WSBT) (1080p)",CBS 22 South Bend IN (WSBT) (1080p)
+https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="geFast.br@SD" tvg-name="ge Fast (1080p)",ge Fast (1080p)
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="geFast.br@SD" tvg-name="ge Fast (1080p)",ge Fast (1080p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="GloboTV.hn@SD" tvg-name="Globo TV (1080p) [Not 24/7]",Globo TV (1080p) [Not 24/7]
+https://panel.dattalive.com/8122/8122/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="GloboTV.hu@SD" tvg-name="Globo TV (720p) [Geo-blocked]",Globo TV (720p) [Geo-blocked]
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="GuinnessWorldRecords.us@SD" tvg-name="Guinness World Records (480i)",Guinness World Records (480i)
+https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.m3u8?i=475_567
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="pluto.tv.record.news.720p" tvg-name="Pluto TV Record News (720p)",Pluto TV Record News (720p)
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="Qazaqstan.kz@SD" tvg-name="Qazaqstan (1080p)",Qazaqstan (1080p)
+#EXTVLCOPT:http-referrer=https://megogo.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="Record.br@SD" tvg-name="Record (720p) [Geo-Blocked]",Record (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordNews.br@SD" tvg-name="Record News",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordNews.br@SD" tvg-name="Record News (576p) [Geo-Blocked]",Record News (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)",Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordNews.br@SD" tvg-name="Record News (720p) [Geo-blocked]",Record News (720p) [Geo-blocked]
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordTVBelem.br@SD" tvg-name="Record TV Belem (720p) [Geo-blocked]",Record TV Belem (720p) [Geo-blocked]
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordTVBrasilia.br@SD" tvg-name="Record TV Brasilia (720p) [Geo-blocked]",Record TV Brasilia (720p) [Geo-blocked]
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordTVGoias.br@SD" tvg-name="Record TV Goias (720p) [Geo-blocked]",Record TV Goias (720p) [Geo-blocked]
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordTVItapoan.br@SD" tvg-name="Record TV Itapoan (720p) [Geo-blocked]",Record TV Itapoan (720p) [Geo-blocked]
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordTVRio.br@SD" tvg-name="Record TV Rio (720p) [Geo-blocked]",Record TV Rio (720p) [Geo-blocked]
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordRS.br@SD" tvg-name="Record TV RS (720p) [Geo-blocked]",Record TV RS (720p) [Geo-blocked]
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordTVSaoPaulo.br@SD" tvg-name="Record TV SP (720p) [Geo-blocked]",Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="Record.br@SD" tvg-name="RecordTV",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RecordTVInteriorSP.br@SD" tvg-name="RecordTV Interior SP",RecordTV Interior SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RedeGlobo.br@SD" tvg-name="Rede Globo (1080p)",Rede Globo (1080p)
+https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RedeTVES.br@SD" tvg-name="Rede TV! ES (1080p)",Rede TV! ES (1080p)
+https://streaming.cloudecast.com/hls/redetves/index.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RedeTVMais.br@SD" tvg-name="Rede TV! Mais",Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RedeTV.br@SD" tvg-name="Rede TV! SP (720p) [Not 24/7]",Rede TV! SP (720p) [Not 24/7]
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="RedeTVParana.br@SD" tvg-name="RedeTV! Parana",RedeTV! Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="SBTCuiaba.br@SD" tvg-name="SBT Cuiaba",SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="SBTInterior.br@SD" tvg-name="SBT Interior (720p)",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="SBTNovaMutum.br@SD" tvg-name="SBT Nova Mutum",SBT Nova Mutum
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="SBTRondonopolis.br@SD" tvg-name="SBT Rondonopolis",SBT Rondonopolis
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="SBTSinop.br@SD" tvg-name="SBT Sinop",SBT Sinop
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="SBTTV.th@SD" tvg-name="SBT TV",SBT TV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="SBTV.hr@SD" tvg-name="SBTV (1080p) [Not 24/7]",SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="StaraTV.id@Bandung" tvg-name="Stara TV Bandung (1080p)",Stara TV Bandung (1080p)
+#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
+https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="TVBahia.br@HD" tvg-name="TV Bahia (1080i)",TV Bahia (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Abertos" tvg-id="WairarapaTV.nz@SD" tvg-name="Wairarapa TV (1080p) [Not 24/7]",Wairarapa TV (1080p) [Not 24/7]
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8

@@ -31740,5 +31740,3 @@ https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO | Canais Variedades" tvg-id="ScreamIN.fr@SD" tvg-name="Zylo ScreamIN (1080p)",Zylo ScreamIN (1080p)
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="FILMES | Cinema" tvg-id="toonami.aftermath.movies.540p" tvg-name="Toonami Aftermath Movies (540p)" type="movie",Toonami Aftermath Movies (540p)
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8

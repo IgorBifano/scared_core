@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="canela.telenovelas" tvg-name="Canela Telenovelas",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="NovelaChannel.ci@SD" tvg-name="Novela Channel (720p) [Not 24/7]",Novela Channel (720p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="novelas.turcas" tvg-name="Novelas Turcas",Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="novelas.turcas.1080p" tvg-name="Novelas Turcas (1080p)",Novelas Turcas (1080p)
+https://d3p1t3yzbr6q5d.cloudfront.net/Novelas_Turcas.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="PlutoTVNovelas.us@SD" tvg-name="Pluto TV Novelas",Pluto TV Novelas
+https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="pluto.tv.novelas" tvg-name="Pluto TV Novelas",Pluto TV Novelas
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="PlutoTVNovelas.us@SD" tvg-name="Pluto TV Novelas",Pluto TV Novelas
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="pluto.tv.novelas.de.mexico" tvg-name="Pluto TV Novelas de México",Pluto TV Novelas de México
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="pluto.tv.novelas.de.otros.continentes" tvg-name="Pluto TV Novelas de Otros Continentes",Pluto TV Novelas de Otros Continentes
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="pluto.tv.novelas.de.venezuela" tvg-name="Pluto TV Novelas de Venezuela",Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="pluto.tv.telenovelas" tvg-name="Pluto TV Telenovelas",Pluto TV Telenovelas
+https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="pluto.tv.telenovelas.clasicas" tvg-name="Pluto TV Telenovelas Clásicas",Pluto TV Telenovelas Clásicas
+https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="SonyCanalNovelas.us@SD" tvg-name="Sony Canal Novelas",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="sony.one.novelas.720p" tvg-name="Sony One Novelas (720p)",Sony One Novelas (720p)
+https://d2n3o8b1tdnc4w.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="stormcast.novelas" tvg-name="Stormcast Novelas",Stormcast Novelas
+https://stormcast-novelas-2-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="stormcast.novelas.tv" tvg-name="Stormcast Novelas TV",Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-name="Telemundo telenovelas clásicas",Telemundo telenovelas clásicas
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="telenovela.zdf" tvg-name="Telenovela ZDF",Telenovela ZDF
+https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="televisa.telenovela.channel" tvg-name="Televisa Telenovela Channel",Televisa Telenovela Channel
+https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="televisa.telenovelas" tvg-name="Televisa Telenovelas",Televisa Telenovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="todo.novelas.mas.pasiones.1080p" tvg-name="Todo Novelas más Pasiones (1080p)",Todo Novelas más Pasiones (1080p)
+https://aegis-cloudfront-1.tubi.video/36a6c30a-f42c-41db-a5de-106a9b067638/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="FrequenceNovelas.fr@SD" tvg-name="Zylo Fréquence Novelas (1080p)",Zylo Fréquence Novelas (1080p)
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="TodoNovelas.es@SD" tvg-name="Zylo Todo Novelas (1080p)",Zylo Todo Novelas (1080p)
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais 24h Novelas" tvg-id="TodoNovelas.es@SD" tvg-name="Zylo Todo Novelas (1080p) [Geo-blocked]",Zylo Todo Novelas (1080p) [Geo-blocked]
+https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8

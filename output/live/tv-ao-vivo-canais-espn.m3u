@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais ESPN" tvg-id="ESPNDeportes.us@SD" tvg-name="ESPN Deportes (360p)",ESPN Deportes (360p)
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais ESPN" tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-name="ESPN8 The Ocho (1080p)",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8

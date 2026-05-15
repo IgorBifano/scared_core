@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="channel.fight.1080p" tvg-name="Channel Fight (1080p)",Channel Fight (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8?ads.vf=KqVbYyU2qD8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="Combate.br@SD" tvg-name="Combate Global",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="FightNetwork.ca@SD" tvg-name="Fight Network (1080p)",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="fight.tv.1080p" tvg-name="Fight TV (1080p)",Fight TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="HardKnocksFightingChampionship.pl@SD" tvg-name="Hard Knocks Fighting Championship",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="PersianaFight.fr@HD" tvg-name="Persiana Fight",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="TVMaticFight.br@SD" tvg-name="TVMatic Fight (720p)",TVMatic Fight (720p)
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="ufc" tvg-name="UFC",UFC
+https://jmp2.uk/plu-6792044b680721c77c5b9ba2.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="ufc.1080p" tvg-name="UFC (1080p)",UFC (1080p)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="ufc.1080p.geo.blocked" tvg-name="UFC (1080p) [Geo-blocked]",UFC (1080p) [Geo-blocked]
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO | Canais Combate/UFC Fight" tvg-id="ufc.720p" tvg-name="UFC (720p)",UFC (720p)
+https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
