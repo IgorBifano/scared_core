@@ -27,7 +27,7 @@ jobs:
           python-version: "3.13"
 
       - name: Generate playlists
-        run: python scripts/merge_lists.py --base-url https://igorbifano.github.io/scared_core/output
+        run: python scripts/merge_lists.py
 
       - name: Upload generated playlists artifact
         uses: actions/upload-artifact@v4
@@ -35,14 +35,3 @@ jobs:
           name: generated-playlists
           path: |
             output/
-            categories/
-            channels/
-            countries/
-            sports/
-            movies/
-            series/
-            kids/
-            news/
-            live/
-            vod/
-            index.m3u
